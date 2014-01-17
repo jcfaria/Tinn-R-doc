@@ -24,6 +24,11 @@
 \indexentry{keywords!set|hyperpage}{21}
 \indexentry{keywords!set|hyperpage}{21}
 \indexentry{keywords!any|hyperpage}{21}
+\indexentry{keywords!on|hyperpage}{21}
+\indexentry{keywords!on|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!help|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
 \indexentry{keyboard shortcuts!vizualization|hyperpage}{21}
 \indexentry{keywords!R|hyperpage}{21}
 \indexentry{keywords!show|hyperpage}{21}
@@ -228,6 +233,7 @@
 \indexentry{keywords!any|hyperpage}{28}
 \indexentry{keywords!R|hyperpage}{28}
 \indexentry{keywords!break|hyperpage}{28}
+\indexentry{keywords!on|hyperpage}{28}
 \indexentry{keywords!R|hyperpage}{28}
 \indexentry{keywords!file|hyperpage}{28}
 \indexentry{keywords!or|hyperpage}{28}
@@ -252,6 +258,7 @@
 \indexentry{keywords!file|hyperpage}{28}
 \indexentry{keywords!seq|hyperpage}{29}
 \indexentry{keywords!page|hyperpage}{29}
+\indexentry{keywords!R|hyperpage}{29}
 \indexentry{keywords!require|hyperpage}{29}
 \indexentry{keyboard shortcuts!DEL key|hyperpage}{29}
 \indexentry{keywords!or|hyperpage}{29}
@@ -275,6 +282,8 @@
 \indexentry{keywords!D|hyperpage}{30}
 \indexentry{keywords!R|hyperpage}{30}
 \indexentry{keywords!or|hyperpage}{30}
+\indexentry{keywords!R|hyperpage}{30}
+\indexentry{keywords!help|hyperpage}{30}
 \indexentry{keywords!I|hyperpage}{30}
 \indexentry{keywords!file|hyperpage}{30}
 \indexentry{keywords!set|hyperpage}{30}
@@ -287,6 +296,7 @@
 \indexentry{keywords!file|hyperpage}{30}
 \indexentry{keywords!all|hyperpage}{30}
 \indexentry{keywords!text|hyperpage}{30}
+\indexentry{keywords!R|hyperpage}{30}
 \indexentry{keywords!system|hyperpage}{30}
 \indexentry{keywords!default|hyperpage}{30}
 \indexentry{keywords!browser|hyperpage}{30}
@@ -353,7 +363,7 @@
 \indexentry{filetabs|hyperpage}{74}
 \indexentry{toolsbar|hyperpage}{75}
 \indexentry{toolsbar!showhide|hyperpage}{75}
-\indexentry{toolsbar!disposition|hyperpage}{75}
+\indexentry{toolsbar!disposition|hyperpage}{76}
 \indexentry{find and replace|hyperpage}{77}
 \indexentry{search!in files|hyperpage}{79}
 \indexentry{search!case sensitivity|hyperpage}{79}
@@ -536,5 +546,5 @@
 \indexentry{secrets!arrange|hyperpage}{160}
 \indexentry{secrets!active page|hyperpage}{160}
 \indexentry{secrets!tab order|hyperpage}{160}
-\indexentry{R~packages@\textsf  {R}~packages!Hmisc|hyperpage}{174}
+\indexentry{R~packages@\textsf  {R}~packages!Hmisc|hyperpage}{175}
 \indexentry{R~functions@\textsf  {R}~functions!help.start|hyperpage}{244}

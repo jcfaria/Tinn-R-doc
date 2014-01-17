@@ -1,6 +1,6 @@
-This is makeindex, version 2.15 [TeX Live 2013] (kpathsea + Thai support).
-Scanning input file User_guide.idx....done (540 entries accepted, 0 rejected).
-Sorting entries.......done (5327 comparisons).
-Generating output file User_guide.ind....done (384 lines written, 0 warnings).
+This is c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\makeindex.exe, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning input file User_guide.idx....done (550 entries accepted, 0 rejected).
+Sorting entries.......done (5365 comparisons).
+Generating output file User_guide.ind....done (385 lines written, 0 warnings).
 Output written in User_guide.ind.
 Transcript written in User_guide.ilg.
