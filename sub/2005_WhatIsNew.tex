@@ -1,0 +1,754 @@
+
+\section{Versions released in 2005 (25)}
+\subsection{1.18.1.4 (Dec/24/2005)}
+
+\begin{itemize}
+  \item The extensions '*.s' and '*.ssc' were added to \RR{} syntax.
+  \item New interface/options for printing, which now enables you to
+    choose the file's printing range: All, Selection and Pages.
+\end{itemize}
+
+
+\subsection{1.18.1.3 (Dec/17/2005)}
+
+\begin{itemize}
+  \item The changes (since Tinn-R 1.17.2.6) have been considered stabilized.
+  \item A new option \textit{R syntax as default} was added to the main
+    options and menu \textit{Options}. It enables you to choose if a new
+    file and file without extension will be opened for edition with \textit{R}
+    or \textit{General} syntax as default.
+\end{itemize}
+
+
+\subsection{1.18.1.2 beta (Dec/11/2005)}
+
+\begin{itemize}
+  \item Tinn-R version 1.18.1.1 BETA was considered pre-released
+    (restricted to beta testers only). Many thanks to all testers.
+  \item The pop-up menu of the \textit{R explorer} was enhanced and
+    new options were added.
+  \item You can now drag and drop objects from the \textit{R explorer}
+    to editor.
+  \item Many procedures and functions were optimized.
+\end{itemize}
+
+
+\subsection{1.18.1.1 beta (Dec/03/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with the install program (related to desktop shortcut creation) was fixed.
+        The old shortcut was pointing
+        to \textit{Tinn-R.exe.manifest} file and not to \textit{Tinn-R.exe}.
+    \end{itemize}
+  \item An experimental \RR{} explorer was added to the program. This was
+    accomplished by adding a new tab named \textit{R explorer} to the panel
+    \textit{Tools}; it enables you to see \RR{} objects from
+    Tinn-R. Meanwhile, this explorer must be updated by the user
+    because it is not automatically done by the \RR{} server.
+    It was based on the SciViews \RR{} explorer, but it is not exactly
+    the same.
+  \item The speed of the procedures/updates with the panel \textit{Tools}:
+    \textit{Computer} and \textit{Project}, were enhanced.
+  \item A new option \textit{Send to R} was added to the pop-up menu of
+    \textit{Project}. It enables you to send the whole project,
+    individual groups or individual files to the server without
+    opening it for edition.
+  \item A new menu option was added to the \textit{R} menu:
+    \textit{Server: connections and tests}. This menu will open a
+    new window of the program that allows you to connect and test
+    \RR{} as server using TCP/IP and DDE protocol.
+    \begin{itemize}
+      \item The window \textit{Application options} was somehow reworked
+        to reflect the new features of the program (specially TCP/IP
+        protocol to communicate with \RR{} server). This resource is
+        still experimental and, under tests, it shows instability. So,
+        if any problem occurs, disconnect the server
+        \textit{Server: connections and tests} and all new resources
+        (using another option - DDE and/or temporary files) will work.
+        In the future the use of TCP/IP protocol by Tinn-R will be
+        enhanced.
+    \end{itemize}
+  \item An experimental code completion was added. For a basic use:
+    \begin{enumerate}
+      \item Set the options on \textit{Application options};
+      \item Like \textit{Tip}, if you check \textit{Always shown}, after the
+        data object type and '\$' related completion will be shown;
+      \item Select the desired completion and press ENTER to make it work.
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            A tip: my preferred shortcuts are: ``CTRL + D`` for tip after //(//
+            and ``CTRL + SHIFT + D`` after '$' for code completion.
+          \end{verbatim}
+        \end{footnotesize}
+
+    \end{enumerate}
+  \item A new menu option was added to the \textit{View} menu:
+    \textit{R output}. This menu will open a new window on the
+    bottom of the program that allows you to receive the output
+    of the \RR{} as server using only TCP/IP protocol. It is still
+    experimental.
+  \item The communication with \RR{} under DDE protocol was enhanced:
+    it is now faster and more stable.
+  \item Tool \textit{Computer} now allows you to open (with double
+    click or drag and drop) any type of files, and no only
+    the ones recognized.
+  \item Two new syntax highlighters were added to Tinn-R:
+    \begin{enumerate}
+      \item Fortran: useful to \RR{} developers;
+      \item Visual basic: still lives.
+    \end{enumerate}
+  \item A new pop-up menu was added to the list view of Tools
+    \textit{Computer} that enables you to refresh and to choose
+    the view style.
+  \item Many procedures and functions were optimized.
+\end{itemize}
+
+
+\subsection{1.17.2.6 (Oct/27/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug related to \textit{On top} was checked and Tinn-R sometimes
+        minimizes and others times it doesn't (hides in the task-bar), was fixed. Many
+        thanks to \texttt{Mihai Nica} for pointing that out.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.17.2.5 (Oct/25/2005)}
+
+\begin{itemize}
+  \item The memory use increases (16 k every second) related to
+    some prior versions was fixed. Many thanks to users for pointing this out.
+  \item The SynEdit.pas unit component was updated to the latest version
+    1.428 2005/10/07 21:16:10. So, gutter width was always calculated
+    using editor font was fixed.
+  \item Shortcut for \textit{Format/Block/Mark} was changed from
+    \texttt{CTRL + ALT + B} to \texttt{CTRL + ALT + S}.
+\end{itemize}
+
+
+\subsection{1.17.2.4 (Oct/08/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with \textit{Options/Syntax/Color preferences}
+        related to \textit{Cancel} option was fixed.
+    \end{itemize}
+  \item The \textit{TeX highlighter} was a little reworked: now it
+    matches brackets. Thanks \texttt{Sheldon Kelly} for suggest it.
+  \item The \textit{Restore} procedure was a little changed: it now
+    checks if any file or project was changed (and not saved) prior
+    to restart the program.
+  \item The database was a little reworked. So, if you had any old
+    Tinn-R version installed, we recommend that you restore the
+    data from this version. To do this, select \textit{Tools/Restore/Database}
+    from the main menu and choose the \textit{data} folder where Tinn-R
+    was just installed, as a prior backup.
+  \item Main program icon was a little changed (the \RR{} is now darker).
+\end{itemize}
+
+
+\subsection{1.17.2.3 (Oct/03/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with database (related with version 1.17.2.2 only)
+        was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.17.2.2 (Oct/02/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug with messages below:
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            "Severe problem! The program cannot be initiated. Please, contact the
+            developers."
+
+            "Access violation at address 'hexa number' in module 'Tinn-R'. Read address
+            'hexa number'."
+
+            It was now fixed. This bug was related to more than one file were selected
+            from the explorer to be opened and Tinn-R was not running.
+            So, if Tinn-R is not running (if and only if), avoid to make it because it
+            will open one instance of Tinn-R and one file (the first in alphabetic
+            order) only. BTW, if Tinn-R is running, you can select simultaneously any
+            desired number of files.
+          \end{verbatim}
+        \end{footnotesize}
+
+      \item A small bug when you did a global replace in Tinn-R, i.e.,
+        Search/Replace/OK/Yes to all, and get the following error message:
+        Assertion failure (D:$\backslash$...$\backslash$SynEdit.pas,
+        line 1460), was fixed: thanks \texttt{John}!
+    \end{itemize}
+  \item Tinn-R versions 1.17.1.2 and 1.17.2.1 were considered pre-released
+    (restricted to beta testers only). Many thanks to all testers.
+  \item The picture, when opening the program, doesn't appear anymore.
+  \item Main program icon was changed: I hope you like the new one.
+    BTW, I got problems because some parts of the Windows showed the
+    old icon and others the new. I spent a lot of time to find the
+    original problem: ShellIconCache.
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        SO, IF YOU GET INCORRECT ICON DISPLAYED ON WINDOWS, AFTER INSTALLING THE NEW
+        VERSION OF TINN-R, PLEASE, READ THE INSTRUCTIONS BELOW:
+
+        For acceleration of the show of the icons Windows stores images in the ICON
+        CACHE (ShellIconCache) a hidden icon cache file in your windows directory.
+
+        Sometimes the icon of the object changes, but Windows shows the old icon
+        instead of the former one. To solve this problem we suggest to use the
+        program IconChanger (shareware available at http://www.shelllabs.com/).
+
+        If you have just installed Tinn-R with new icon but Windows has not changed
+        the image, the guide advises you to choose REBUILD ICON CACHE and if
+        it will not help then choose REMOVE ICON CACHE.
+
+        If you have chosen REBUILD the icon cache will start reconstructing at
+        once. If you have chosen REMOVE, you will see the warning  message.
+        Choose YES, and then you should restart your computer.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item If Tinn-R is closed when maximized, when restarted, it will open
+    maximized but it will remember the last position when not maximized.
+  \item A new shortcut \texttt{CTRL + ENTER} was added. When pressed, Tinn-R
+    sends the current line (entire) to \RR{} interpreter and adds a line break
+    at cursor position.
+  \item A new toolbar with Undo and Redo was added.
+  \item A new button was added to the \textit{Misc toolbar} that allows
+    you to choose how Tinn-R will behave after sending anything to \RR{}
+    interpreter, if checked, the focus will return to Tinn-R.
+  \item The function \textit{Clear all} was updated and it is now faster.
+    If any problem occur with different machines and OS, please, tell us.
+  \item The menu \textit{Web} was a little reworked and a new option is
+    available: \textit{Web/Tinn-R} with links to home page (sciViews),
+    sourceforge server and check for update (from sciViews server).
+  \item A new menu option \textit{Help/Tinn-R citation} was added. It enables
+    you to put the Tinn-R citation in the clipboard.
+  \item After restoring the configurations file, Tinn-R now can
+    close and restart itself.
+\end{itemize}
+
+
+\subsection{1.17.1.1 (Aug/28/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with recent files was fixed.
+    \end{itemize}
+  \item Tinn-R versions 1.16.1.9 beta and 1.16.1.10 beta were considered
+    pre-released (restricted to beta testers only): thanks to all testers.
+  \item The SynEdit component was updated to the latest version (v2.0.1 beta).
+  \item The windows \textit{Application options} and \textit{Editor options}
+    were a little reworked.
+  \item The main menu \textit{File} was a little reworked.
+\end{itemize}
+
+
+\subsection{1.16.1.8 (Aug/07/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with restore database was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.16.1.7 (Aug/05/2005)}
+
+\begin{itemize}
+  \item Tinn-R version 1.16.1.6 beta was considered pre-released
+    (restricted to beta testers only): thanks to all testers.
+  \item The \textit{R highlighter} was a little reworked: identifiers
+    with the minus signal '-' (ex: codes-deprecated) will not be
+    recognized, any more.
+  \item Tinn-R team has a new member working on the source code:
+    welcome Huashan Chen.
+  \item Tinn-R project (source and bin) is now also available from
+    \htmladdnormallink{SourceForge}{https://sourceforge.net/projects/tinn-r}.
+    Thanks \texttt{Huashan}.
+  \item The incompatibility of Tinn-R with WinNT 4.0/SP6 has been solved.
+    Thanks \texttt{Uwe}.
+  \item In \textit{R toolbar} the position of the buttons was a little changed
+    for a more logical arrangement.
+  \item After installation, the \textit{Tinn-R/data} folder contains
+    data.zip (102 KB). When starting Tinn-R, the files it contains
+    are automatically unpacked, and for each user four files
+    are generated: dbRcard.dbf, dbRcard.dbt, dbRtip.dbf and dbRtip.dbt
+    plus two (dbRcard.ndx and dbRtip.ndx) index files. This way, each
+    user has an independent database.
+  \item Also, now each user has independent configurations files.
+  \item Considering the two topics above, Tinn-R is now multiuser. So,
+    for instance, you can have an administrator account with full access
+    to all files for installing programs and maintaining the machine.
+    But for everyday work, you can log in as \texttt{main user} or
+    \texttt{normal user} (with restricted access) and run Tinn-R
+    without problems in those restricted environments. This feature
+    is very useful to educational purposes in statistical laboratories.
+  \item Only three folders are generated by Tinn-R for each user:
+    \begin{itemize}
+      \item Windows XP:
+        \begin{footnotesize}
+          \begin{itemize}
+            \item \textit{Drive:$\backslash$Documents and settings$\backslash$UserName$\backslash$Application data$\backslash$Tinn-R$\backslash$ini$\backslash$}
+              with two files \textit{Tinn.ini} and \textit{Shortcuts.tinn};
+            \item \textit{Drive:$\backslash$Documents and settings$\backslash$UserName$\backslash$Application data$\backslash$Tinn-R$\backslash$data$\backslash$}
+              with six database files (see above);
+            \item \textit{Drive:$\backslash$Documents and settings$\backslash$UserName$\backslash$Application data$\backslash$Tinn-R$\backslash$temp} for essential temp files (will be automatically removed
+              by Tinn-R after each session).
+          \end{itemize}
+        \end{footnotesize}
+      \item Windows NT:
+        \begin{footnotesize}
+          \begin{itemize}
+            \item \textit{Driver:$\backslash$Winnt$\backslash$Profiles$\backslash$UserName$\backslash$Application data$\backslash$Tinn-R$\backslash$ini};
+            \item \textit{Driver:$\backslash$Winnt$\backslash$Profiles$\backslash$UserName$\backslash$Application data$\backslash$Tinn-R$\backslash$data};
+            \item \textit{Driver:$\backslash$Winnt$\backslash$Profiles$\backslash$UserName$\backslash$Application data$\backslash$Tinn-R$\backslash$temp}.
+          \end{itemize}
+        \end{footnotesize}
+    \end{itemize}
+  \item The database component (TDBF) was updated to the latest version.
+  \item Menu \textit{Tools} was reworked a little and new options were
+    added to backup/restore your personal database and configuration files.
+\end{itemize}
+
+
+\subsection{1.16.1.5 (Jul/15/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with project (\textit{Save} and \textit{Save as}),
+        related to automatic extension '.tps', was fixed.
+    \end{itemize}
+  \item Tinn-R now works with \RR{} in MDI mode if the device graphic is
+    maximized with no more limitations of the number of device graphic,
+    as pointed in the Tinn-R 1.15.1.7 (07 Apr 2005).
+  \item If you use the function \textit{utils:::setWindowTitle(paste("-",getwd()))}
+    in Rprofile, Tinn-R still recognizes Rgui (was not the case in
+    previous versions).
+  \item A new menu option (and respective button and hotkey) was added to
+    the main menu: \textit{R/Controlling R/List structure of selected variable}
+    that allows you to list the structure of any \RR{} object/variable.
+  \item A new menu (and respective pop-up menu) was added to the main menu:
+    \textit{File/Put full path in clipboard}. This option allows you to
+    put the full path of the file in the clipboard with two options: Unix
+    mode (../..) or Windows (..$\backslash$..) (useful to get full path
+    of data files).
+  \item In \textit{R toolbar} the position of the buttons were a little changed
+    for a more logical arrangement.
+  \item The menu \textit{Format/Block} was a little reworked.
+\end{itemize}
+
+
+\subsection{1.16.1.4 (May/29/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bug with \textit{Send marked block} was corrected.
+      \item Small bug with \textit{Search} and \textit{Search in files}
+        were corrected.
+    \end{itemize}
+  \item A new button was added to the \textit{Misc toolbar} that allow
+    you unmark all marks.
+  \item Menu \textit{Format}  was reworked a little bit.
+\end{itemize}
+
+
+\subsection{1.16.1.3 beta (May/22/2005)}
+
+\begin{itemize}
+  \item Tinn-R versions 1.15.1.8, 1.15.1.9, 1.15.1.10, 1.15.1.11, 1.16.1.1
+    and 1.16.1.2 were considered pre-released (restricted to beta
+    testers only).
+  \item The Tinn-R installer now proposes to associate Tinn-R with '.Rd'
+    files (the \RR{} help source code).
+  \item The menu \textit{Format} was changed. There are now two new
+    options:
+    \begin{enumerate}
+      \item \textit{Format/Block/Mark};
+      \item \textit{Format/Block/Unmark}.
+    \end{enumerate}
+\end{itemize}
+
+\begin{footnotesize}
+  \begin{quotation}
+    The first menu allows you to select a given block of code (line start and
+    line end) to send it at once to the \RR{} interpreter and the last menu
+    entry allows you to clear an existing marked block.
+    Bookmark \texttt{0} is used to mark the beggining of a marked block and
+    bookmark \texttt{1} is used to mark its end. \textit{Unmark} remove them
+    only if they were marked with the \textit{Block/Mark} tool. Otherwise, they
+    are treated as simple bookmarks. Note that, whatever the way you defined
+    them, you can always change their position as usual.
+    There is a distinct marked block defined for each open file, and the tools
+    are enabled only if a block is marked for the current active document.
+  \end{quotation}
+\end{footnotesize}
+
+\begin{itemize}
+  \item As a consequence the \textit{R} menu and toolbar have new tools
+    to send the marked block at once \textit{R/Send to R/Marked block (source)}
+    or line by line \textit{R/Send to R/Marked block} to the \RR{}
+    interpreter.
+  \item Another new tool was also added to send the current selected text
+    as a source file to \RR{} (and not line by line, as usual).
+  \item The \textit{Main toolbar} was a little reworked to support the
+    new mark block option.
+  \item The accuracy of all functions (send to, or, control \RR{} )
+    interacting with \RR{} was enhanced.
+  \item The stability of the databases, respect to duplication of
+    keys, was enhanced.
+  \item The option \textit{Spanish} was added to the menu
+    \textit{Help/From this version}. It contains:
+    \begin{enumerate}
+      \item Lea me.html;
+      \item FAQ.txt;
+      \item Palabras reconocidas.r.
+    \end{enumerate}
+\end{itemize}
+
+\begin{quotation}
+  The translation was made by \texttt{Jairo Cugliari}: thanks \texttt{Jairo}, very much!
+\end{quotation}
+
+\begin{itemize}
+  \item A \RR{} card was added to the program.
+    This was accomplished by adding a new tab
+    named \textit{R card} to the panel \textit{Tools}.
+    The \RR{} card was based on two \RR{} card already published:
+    R/Rpad Reference Card by Tom Short and \RR{} reference card by Jonathan Baron.
+    \begin{enumerate}
+      \item It was made using a user-expandable database (DBase);
+      \item The component used is named TDBF, it is free (open source), does
+        not use BDE and it is not necessary to have the database server. The
+        DB engine code is compiled right into the Tinn-R executable. TDBF is
+        a native data access component for Delphi, BCB, Kylix and FreePascal.
+        More information can be found
+        \htmladdnormallink{here}{https://sourceforge.net/projects/tdbf/}.
+    \end{enumerate}
+  \item As a consequence, the \textit{R} menu was a little reworked. You
+    have now two options for the databases:
+    \begin{enumerate}
+      \item \textit{R/Database/Tip} for tip management;
+      \item \textit{R/Database/Card} for \RR{} card management.
+    \end{enumerate}
+  \item A freeware resource provided by \texttt{Angus Johnson} was added
+    to the program. It is a very useful Generic Diff Format (GDIFF)
+    named TextDiff. The GDIFF format can be used to efficiently describe
+    the differences between two arbitrary files or folders. The format
+    does not make any assumptions about the type or contents of the files,
+    and thus can be used to describe the differences between text files
+    as well as binary files. The work was made adapting the sources code
+    of the demo project of the component to the Tinn-R project: thanks
+    \texttt{Angus}, very much!
+  \item As a consequence, the \textit{Tools} menu has a new tool:
+    \textit{Tools/Differences}.
+  \item Tinn-R is now more flexible if the screen is split: the
+    functions \textit{Send to R} and \textit{Controlling R} works for
+    both (top or below, left or right) frames.
+  \item The \textit{Ascii chart} is now more flexible.
+  \item The menu \textit{Format/Selection mode} was reworked, new
+    and useful shortcuts were added (see in
+    \textit{Main/Editor/Keystrokes}): thanks \texttt{Zoltan Butt}.
+  \item A new field (third field from left) was added to the
+    status bar with three possible values corresponding to the
+    current selection state of the editor:
+    \begin{enumerate}
+      \item smNormal : selection in normal mode;
+      \item smLine   : selection in line mode;
+      \item smColumn : selection in column mode.
+    \end{enumerate}
+  \item The files \textit{Tinn-R\_Read me.html},
+    \textit{Tinn-R\_Leia me.html} (in Portuguese) and
+    \textit{Tinn-R\_Lisez moi.html} (in French) in the
+    \textit{$\backslash$doc} subdirectory of Tinn-R were updated.
+  \item Seven new syntax highlighters were added to Tinn-R:
+    \begin{footnotesize}
+      \begin{enumerate}
+        \item Rd files (based on the existing TeX highlighter);
+        \item Tcl/Tk;
+        \item Ruby;
+        \item TeX;
+        \item Python;
+        \item Bat;
+        \item HP48.
+      \end{enumerate}
+    \end{footnotesize}
+  \item The picture, when opening the program, was changed.
+    Tinn-R program is searching for a new logo/image identity.
+    This "tinny" (two n intentionally), but colorful
+    bird, is a good symbol for the "tinny" Tinn-R, but rich
+    in nice features regarding the edition of \RR{} code!
+  \item The program user interface was reworked a little bit.
+  \item Two hotkeys were changed:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        <ALT+LEFT>  : Tools align left;
+        <ALT+RIGHT> : Tools align Right.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item The automatic extensions for all \textit{Save} action was
+    improved. Now, if you select \textit{All files (*.*)} you can
+    save the file with any desired extension or even with no
+    extension at all. Thanks \texttt{Posta Giovanni}.
+  \item The structure of the \textit{Tip database} was improved.
+    The tip is not limited to 254 characters anymore, because it is
+    now of \textit{memo} type.
+\end{itemize}
+
+
+\subsection{1.15.1.7 (Apr/07/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Minor bug with \textit{View/Toolbars/Macro} was corrected.
+    \end{itemize}
+  \item Tinn-R now works with \RR{} in MDI mode if the device graphic is maximized:
+    \begin{enumerate}
+      \item You can work with 1..11 device graphic \textit{ACTIVE} maximized;
+      \item You can work with 1..10 device graphic \textit{inactive} maximized.
+        \begin{footnotesize}
+          \begin{verbatim}
+            The caption of \RR{} can be:
+            RGui - [R Graphics: Device 1..11 (ACTIVE)] or
+            RGui - [R Graphics: Device 1..10 (inactive)]
+          \end{verbatim}
+        \end{footnotesize}
+    \end{enumerate}
+  \item The state of the Caps Lock key (keyboard) doesn't influence any more the \textit{Send to R} and
+    \textit{Controlling R} functions.
+  \item \textit{Tools/Project} interface was improved with the replacement of the combo-box by a new dropdown button.
+  \item A new toolbar named \textit{Tools} with two buttons (\textit{Toggle tools visible} and
+    \textit{Align tools right/left}) was added to the main toolbar, in consequence the pop-up \textit{Tools} was removed.
+  \item \textit{Project/Recent} is now checking for changes in current project.
+  \item The \textit{View/Tabs} icon was changed.
+  \item The delay for DDE communication with \RR{} (for call tips) is now user-selectable in the
+    \textit{Options/Main/Application} dialog box (you need to load svIDE package from SciViews bundle to use this feature).
+    If Tinn-R seems to freeze and you got no call tip, just increase the delay.
+  \item Menu \textit{Web} and \textit{Help} were a little reworked and new information in French and Portuguese were added.
+\end{itemize}
+
+
+\subsection{1.15.1.6 beta (Mar/19/2005)}
+
+\begin{itemize}
+  \item Open files in Tinn-R with \textit{Tools panel} was reworked:
+    \begin{enumerate}
+      \item A file must have no extension or one that Tinn-R recognizes;
+      \item If the file is not opened there, you can open a copy by double clicking or dragging it into the main form;
+      \item With file already opened, you can now open a copy by double clicking or dragging it in the editor area
+        in Tinn-R;
+      \item You can drag a project (all files of the project will be opened), a group (all files of the group will
+        be opened) or an individual file.
+    \end{enumerate}
+  \item A new pop-up menu is available for \textit{Tools}. This menu is related with visibility and position
+    of the \textit{Tools panel}.
+  \item The menu \textit{Options} and \textit{View} were reworked.
+\end{itemize}
+
+
+\subsection{1.15.1.5 beta (Mar/17/2005)}
+
+\begin{itemize}
+  \item \textit{Project} interface was a little reworked and two new
+    options were added: \textit{Expand all}  and \textit{Collapse all}
+    groups.
+\end{itemize}
+
+
+\subsection{1.15.1.4 beta pre-release (Mar/12/2005)}
+
+\begin{itemize}
+  \item \textit{Application options} was reworked and an option \textit{Delay for synchronization} was added.
+    Because DDE (Dynamic Data Exchange) through tcltk and svIDE packages consumes a certain time - that is
+    variable between different computers - this option allows the user to customize the Tinn-R delay with the
+    \RR{} as server with call-tip.
+    So, it is very important to adjust this delay until getting high functionality and performance.
+  \item \textit{Project} interface was reworked:
+    \begin{enumerate}
+      \item Only the file names are showen (no more full paths);
+      \item All nodes of the project can be dragged:
+        \begin{enumerate}
+          \item If you drag a project all file will be opened;
+          \item If you drag a group all files of this group will be opened;
+          \item if you drag a single file it will be opened.
+        \end{enumerate}
+    \end{enumerate}
+  \item The \textit{Search results} interface was reworked and two old bugs (all versions of Tinn-R that I don't knew)
+    were fixed.
+  \item In \textit{Tools panel/Computer} a double click on the Tinn-R project files (*.tps) will open the project
+    interface. On the other hand, if you drag this file, the context of the project file will be opened
+    for manual edition.
+\end{itemize}
+
+
+\subsection{1.15.1.3 beta pre-release (Mar/06/2005)}
+
+\begin{itemize}
+  \item Changes to projects are monitored now.
+  \item To open files in Tinn-R with \textit{Tools panel}:
+    \begin{enumerate}
+      \item A file must have no extension or one that Tinn-R recognizes;
+      \item If the file is not opened there, you still can drag it into the main form;
+      \item If any file is already opened, you can open a copy by double clicking or dragging it
+        to the page control or to the main menu.
+    \end{enumerate}
+  \item The \RR{} highlight dictionary was updated and about 270 new functions were added to be
+    compatible with \RR{} parameters completion proposal (RPCP) database.
+\end{itemize}
+
+
+\subsection{1.15.1.2 beta pre-release (Mar/05/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small (and old) bug with painted symbols '(', '[', '\{' inside the gutter was corrected: thanks \texttt{Marco}!
+    \end{itemize}
+  \item A new folder named \textit{res} with a single file (Tinn-R\_img.bmp) was added to the Tinn-R program.
+  \item The Tinn-R binary is about 350 Kb smaller than version 1.15.1.1.
+  \item The \textit{About} box was reworked.
+  \item The project combo box was reworked. It is not possible to drag it any more.
+  \item \textit{RegEx} was reworked: it is now possible to paste clipboard and use carriage return in it.
+  \item It is now possible to place the \textit{Tools} panel at right or left of the main window.
+  \item Two new hotkeys were added (not user-configurable):
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        <CTRL + ALT + LEFT>  : Tools align left;
+        <CTRL + ALT + RIGHT> : Tools align Right.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item It is possible to dock the \RR{} toolbar only at the opposite
+    side of the \textit{Tools} panel, not on the same side.
+\end{itemize}
+
+
+\subsection{1.15.1.1 beta pre-release (Mar/01/2005)}
+
+\begin{itemize}
+  \item A picture was added when opening the program. Thanks \texttt{Carolina} (my daughter) for basic art creation.
+  \item A new file was added to the project: Tinn-R\_shortcuts.txt. It is possible to load the
+    file from \textit{Help/Tinn-R/Shortcuts}.
+  \item \textit{Open dialog} for Open file and \textit{Add file} to project now allow the selection of multiple files.
+  \item The database was reworked and a new information (location) was added.
+  \item Tab order of the search/replace interface was reworked.
+  \item Due to the growth of the code source, it is not possible any more to maintain Tinn-R code synchronized 
+    with the original Tinn project. So, Tinn-R is now a new open source project. 
+    The version numbers is thus changed. The new convention is: AA.BB.CC.DD S/B
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        That is,  AA : major version
+        BB : minor version
+        CC : release
+        DD : build
+        more : beta or pre-release version
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item The status bar was reworked.
+  \item A new menu \textit{Web} was added.
+  \item The \textit{About} dialog box was reworked.
+  \item The menu \textit{Project} was completely reworked.
+  \item New panel named \textit{Tools} (with two tabs: \textit{Computer} and \textit{Project}) was added.
+    This feature will grow up to enhance the interaction with \RR{} interpreter
+    (progressive inclusion of SciViews-R dock Window feature like the object explorer).
+  \item A new hotkey (not user-configurable) was added: \texttt{CTRL + /} (divide on the numeric keypad)
+    show/hide the \textit{Tools} panel.
+  \item Second version of the \RR{} parameters completion proposal (call-tip).
+    It now works with a user-expandable database (DBase) and with a
+    \RR{} server (DDE - Dynamic Data Exchange through tcltk and svIDE packages).
+    That is, this version communicates with \RR{} to get \RR{} function arguments directly
+    if a function is not defined in the database.
+    We thus have: database (priority 1) and \RR{} server (priority 2).
+    To use the \RR{} server, the package svIDE (SciViews bundle) must be loaded in the current \RR{} session.
+\end{itemize}
+
+
+\subsection{0.0.9.4 r1.15 beta 2 (Feb/11/2005)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bug with \texttt{CTRL + Y} (delete entire line),
+        \texttt{CTRL + T} (delete word right from cursor) and \texttt{CTRL + SHIFT + Y}
+        (delete words from cursor to the end of line) that did not enable the save options, was corrected.
+    \end{itemize}
+  \item The position of the cursor is now preserved when using \texttt{CTRL + *} (multiply on the numeric keypad)
+    to insert/replace text with parameters of the current \RR{} function.
+  \item Send line now works when the cursor is on the end the line.
+\end{itemize}
+
+\subsection{0.0.9.3 r1.15 beta 1 (Feb/11/2005)}
+\begin{itemize}
+  \item The problem with Tinn-R 0.0.9.3 r1.15 beta 1 (released 30 Jan 2005) that stopped working due to expiration
+    of trial period for Delphi was solved.
+  \item The first version with the \RR{} parameters completion proposal (Call-tip):
+    \begin{enumerate}
+      \item It was made with a user-expandable database (DBase), that is, this version does not communicate with
+        \RR{} to guess \RR{} function arguments;
+      \item The component used is named TDBF, it is free (open source), does not use BDE and it is not necessary
+        to have the database server. The DB engine code is compiled right into the Tinn-R executable.
+        TDBF is a native data access component for Delphi, BCB, Kylix and FreePascal.
+        More information can be found \htmladdnormallink{here}{https://sourceforge.net/projects/tdbf/}.
+    \end{enumerate}
+  \item A new hotkey (not user-configurable): \texttt{CTRL + *} (multiply on the numeric keypad) inserts/replaces
+    text with parameters of the active function (a call-tip must be visible).
+  \item The \textit{Application options} was reworked. It is now possible to set the basic
+    application options for \RR{} Call-tip.
+\end{itemize}
+
+\subsection{0.0.9.3 r1.14 (Feb/11/2005)}
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Some minor bugs were corrected and the buttons appearance was a little modified.
+      \item A bug with menu \textit{File/Recent files} not showing at startup was fixed.
+      \item A bug which added the file extension twice was fixed.
+        This bug was related to full name including the extension, like \textit{myfile.r}, 
+        where Tinn-R recorded it as \textit{myfile.r.r}.
+      \item A bug with save was fixed.
+      \item A bug with Pascal files extensions was fixed.
+      \item A bug with shortcut of the menu \textit{Edit/Select all} was fixed.
+    \end{itemize}
+  \item The problem with Tinn-R 0.0.9.3 r1.14 (released 30 Jan 2005) that stopped working due to expiration of 
+    trial period for Delphi was solved.
+  \item New interface/options for printing, it remembers latest choices/preferences.
+  \item \textit{About} dialog box was reworked.
+  \item The program user interface was a little reworked.
+  \item Most of the interactive \RR{} tools do no require any more that files be saved with a valid 
+    S language extension (.r or .q).
+  \item The \RR{} highlight dictionary was updated:
+    \begin{enumerate}
+      \item About five hundred words were added;
+      \item Fixed a bug with '\_' in keywords like \textit{.decode\_package\_version}.
+    \end{enumerate}
+  \item This version was compiled with Delphi 7 (Delphi 5 was used for previous versions).
+  \item With Delphi 7, the default dialogs were re-established. So, psvDialogs is not used any more.
+  \item Menu \textit{Format/Block/Uncomment/Firsts occurrence} was renamed to Uncomment First Occurrence.
+  \item Add menu \textit{Help/Tinn-R/Changes on Line}.
+\end{itemize}

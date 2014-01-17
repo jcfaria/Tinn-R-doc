@@ -1,0 +1,138 @@
+
+\section{Versions released in 2010 (10)}
+\subsection*{2.3.7.1 (Nov/24/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug, accidentally introduced in version 2.3.7.0, which averted opening a file by \texttt{Enter or Double click},
+        a recognized Tinn-R file from Windows environment, was fixed.
+    \end{itemize}
+\end{itemize}
+
+\subsection{2.3.7.0 (Nov/22/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug related to the intermittent loss of connection (or appearent freeze) occurring on Rgui.exe was fixed.
+    \end{itemize}
+  \item The versions 2.3.6.4, 2.3.6.5, 2.3.6.6 and 2.3.6.7 restricted to pre-release testers.
+  \item The \texttt{Application options} interface was a bit changed:
+    \begin{itemize}
+      \item The \texttt{Application options/R/Rterm} was split in two tabs: \texttt{Error} and \texttt{Options}.
+        The tab Error has a new option: \texttt{Trying to find code errors (at the editor)*}.
+        It enables the user to set Tinn-R in order to find code errors at the editor when sending instructions to Rterm.
+        It may happen that the error will not be found at the right place, for example the error might be the same word appearing
+        in a comment which comes before the actual along the code. In that case the user should use the shortcut \texttt{F3 (Find again)}.
+        The word will appear selected, than just press \textit{OK} until finding the right error.
+        The first search done internally by Tinn-R has \textit{Case sensitive} and \textit{Whole word only} as default, but,
+        this is not passed to the search interface, therefore the user should just select them if convenient.
+        If the error has number among letters \textit{Whole word only} is not a good option.
+    \end{itemize}
+  \item This version is \texttt{fully compatible with Windows 7 and R 2.12.0}.
+  \item The component XPmenu was removed from the project. Windows XP users might find the Tinn-R appearance less attractive,
+    but the applicative is now more stable. As soon as possible, the project will get a better option for skins.
+  \item Parts of the source code were optimized.
+\end{itemize}
+
+\subsection{2.3.6.3 (Nov/14/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug (introduced in version 2.3.6.0) related to interactive use of Rterm interface,
+        when R returns only one value, was fixed.
+    \end{itemize}
+  \item Parts of the source code were optimized.
+\end{itemize}
+
+\subsection{2.3.6.2 (Nov/13/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug (introduced in version 2.3.6.1) related to automatic recognition (and setting) of the paths
+        of Rterm and Rgui from R version 2.12.0 was fixed.
+    \end{itemize}
+  \item Parts of the source code were optimized.
+\end{itemize}
+
+\subsection{2.3.6.1 (Nov/12/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Permanent configuration of the file Rprofile.site from the menu option: \texttt{R/Configure/Permanent (Rprofile.site)}.
+    \end{itemize}
+  \item Parts of the source code were optimized.
+\end{itemize}
+
+\subsection{2.3.6.0 (Nov/10/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Paths of Rterm and Rgui from R version 2.12.0 were fixed.
+    \end{itemize}
+  \item The \texttt{Application options/R/Path} has a new option: \texttt{Architecture (bit)}.
+    It enables the user to set R in order to run Rterm.exe or Rgui.exe in either 32 or 64 bit.
+    They run independently one from the other. If the above dialog option \texttt{Use latest version (always)} is set 
+    to \textbf{No}, the dialog box \texttt{Architecture (bit)} becomes disabled.
+    In other words, the path must be manually set. In this case, the user preference (if valid) will not be changed when Tinn-R is starting.
+    If the dialog \texttt{Use latest version (always)} is set to \textbf{Yes}, the path of the latest R version (32 or 64 bit) will found automatically.
+    In case the user's computer is 64 bit and it has the latest R version installed with both options (32 or 64 bit) the latest one has the preference.
+  \item Rterm interface now recognizes the single occurrence of a string pattern when using \texttt{TAB} in the prompt.
+    The general behavior is not as friendly as in Rgui or in Linux console, but it is working.
+  \item Parts of the source code were optimized.
+\end{itemize}
+
+\subsection{2.3.5.2 (Apr/11/2010)}
+
+\begin{itemize}
+  \item The \texttt{User guide} was revised by \texttt{Ricardo Pietrobon}
+    in an attempt to improve its flow and style. This is a work in progress,
+    and so we should be improving it over time!
+\end{itemize}
+
+
+\subsection{2.3.5.1 (Mar/28/2010)}
+
+\begin{itemize}
+  \item Version restricted to developers.
+  \item The \texttt{User guide} was revised by \texttt{Ricardo Pietrobon} to
+    improve its style and readability. So far, we have partial revisions
+    implemented to chapters \texttt{Overview, Basics, Working with, Menu
+      description and parts of What is new}.
+  \item The \texttt{Application options/R/Basic} has a new option:
+    \texttt{Smart (all send)}. When this option is set to \texttt{Yes}, all
+    single line commands will not be sent through \texttt{source(...)}, but
+    instead as \texttt{Send line}.
+\end{itemize}
+
+
+\subsection{2.3.5.0 (Mar/04/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small corretions in the \textit{Application options} interface.
+    \end{itemize}
+  \item Parts of the source code were optimized.
+  \item The Rterm interface has now a simple toolbar including the more usual
+    options.
+  \item The \texttt{User guide} is being revised by \texttt{Ricardo Pietrobon}
+    and soon will be more readable and intelligible. Up to now only chapters
+    \texttt{Overview and Basics} have been worked out. Many thanks for his
+    hard work!
+\end{itemize}
+
+
+\subsection{2.3.4.4 (Jan/10/2010)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug related to the visibility of the buttons \textit{Send contiguous} was fixed.
+    \end{itemize}
+\end{itemize}

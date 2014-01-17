@@ -1,0 +1,231 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{./sty/EditusMemoir}{}
+%-------------------------------------------------------------------------------
+% memoir specific settings
+%-------------------------------------------------------------------------------
+
+\setlength{\parindent}{0pt}
+
+\chapterstyle{companion} % ell, hangnum, veelo, companion
+
+\RequirePackage{calc}
+\RequirePackage{afterpage}
+\RequirePackage{ragged2e}
+\RequirePackage[latin1]{inputenc}  %JCFaria
+\RequirePackage[english]{babel}    %JCFaria
+
+%% Page layout
+
+% \settrimmedsize{24cm}{16cm}{*}
+\settrimmedsize{23.5cm}{17.5cm}{*}
+% \settrimmedsize{23.5cm}{15.5cm}{*}
+
+\trimFrame
+\renewcommand*{\tmarkml}{
+  \begin{picture}(0,0)
+    \setlength{\unitlength}{1cm}
+    \thinlines
+    \put(-.1,0){\line(-1,0){1}}
+  \end{picture}
+}
+\renewcommand*{\tmarkmr}{
+  \begin{picture}(0,0)
+    \setlength{\unitlength}{1cm}
+    \thinlines
+    \put(.1,0){\line(1,0){1}}
+  \end{picture}
+}
+\renewcommand*{\tmarkbm}{
+  \begin{picture}(0,0)
+    \setlength{\unitlength}{1cm}
+    \thinlines
+    \put(0,0){\line(0,-1){1}}
+  \end{picture}
+}
+
+\setlength{\trimedge}{\stockwidth}
+\addtolength{\trimedge}{-\paperwidth}
+% \settrims{\trimtop}{\trimedge}
+\setlxvchars
+\settypeblocksize{44\baselineskip+\topskip}{1.05\lxvchars}{*} % need this
+% \settypeblocksize{45\baselineskip+\topskip}{\lxvchars}{*} % increased leading
+% \settypeblocksize{46\baselineskip+\topskip}{\lxvchars}{*} % increased leading
+% \newlength{\spinecorrection}
+% \setlength{\spinecorrection}{0cm}
+% \setlength{\foremargin}{.666\paperwidth-.666\textwidth-\spinecorrection}
+\setlength{\foremargin}{.8\paperwidth-0.8\textwidth} %-\spinecorrection}
+\setlrmargins{*}{\foremargin}{*}
+\setlength{\lowermargin}{.5\paperheight-.5\textheight}
+\setulmargins{*}{\lowermargin}{*}
+% \setulmargins{*}{*}{1.25}
+% \setmarginnotes{1em}{0.78\foremargin}{1ex}
+\checkandfixthelayout[lines]
+\setlength{\evensidemargin}{\oddsidemargin}% after \checkandfix
+
+\newlength{\headextend}
+\setlength{\headextend}{.618\foremargin+1em}
+\setlength{\headwidth}{\textwidth+\headextend}
+\setlength{\marginparsep}{4em}
+\setlength{\marginparpush}{0pt}%{\baselineskip}
+\setlength{\marginparwidth}{\headextend-\marginparsep}
+
+% from Tufte-book
+\newlength{\overhang}% used by the fullwidth environment and the running heads
+\newlength{\fullwidth}
+% \newlength{\@tufte@caption@fill}
+%
+% \newcommand{\TufteRecalculate}{%
+\setlength{\overhang}{\marginparwidth}
+\addtolength{\overhang}{\marginparsep}
+%
+\setlength{\fullwidth}{\textwidth}
+\addtolength{\fullwidth}{\marginparsep}
+\addtolength{\fullwidth}{\marginparwidth}
+%
+%   \setlength{\@tufte@caption@fill}{\textwidth}
+%   \addtolength{\@tufte@caption@fill}{\marginparsep}
+% }
+%%
+% Full-page-width area
+
+% \newenvironment{fullwidth}
+%   {\ifthenelse{\boolean{@tufte@symmetric}}%
+%      {\ifthenelse{\boolean{@tufte@changepage}}{\begin{adjustwidth*}{}{-\@tufte@overhang}}{\begin{adjustwidth}[]{}{-\@tufte@overhang}}}%
+%      {\begin{adjustwidth}{}{-\@tufte@overhang}}%
+%   }%
+%   {\ifthenelse{\boolean{@tufte@symmetric}}%
+%     {\ifthenelse{\boolean{@tufte@changepage}}{\end{adjustwidth*}}{\end{adjustwidth}}}%
+%     {\end{adjustwidth}}%
+%   }
+
+%-------------------------------------------------------------------------------
+% Classic titles
+%-------------------------------------------------------------------------------
+\newcommand*{\coloredsection}{\color{sectionColor}}
+\newcommand*{\titlingfont}{\normalfont}
+\renewcommand*{\cftchapterfont}{\scshape}
+\renewcommand*{\cftchapterpagefont}{\scshape}
+\renewcommand*{\cftsectionfont}{\itshape}
+\renewcommand*{\cftsectionpresnum}{\upshape}
+\newcommand*{\headstyle}{\small}
+\renewcommand*{\partnamefont}{\raggedleft\huge\titleshape\coloredsection}
+\renewcommand*{\partnumfont}{\huge\coloredsection}
+\renewcommand*{\parttitlefont}{\raggedleft\Huge\titleshape\coloredsection}
+\renewcommand*{\chapnamefont}{\raggedleft\huge\titleshape\coloredsection}
+\renewcommand*{\chapnumfont}{\huge\coloredsection}
+\renewcommand*{\chaptitlefont}{\raggedleft\Huge\titleshape\coloredsection}
+\renewcommand*{\secheadstyle}{\raggedright\scshape\coloredsection}
+\renewcommand*{\subsecheadstyle}{\raggedright\itshape\coloredsection}
+\setsecnumformat{\normalfont\csname the#1\endcsname\quad}
+
+
+    % \captiondelim{\scshape\ -- }
+    % \captionnamefont{\scshape\small}
+    % \captiontitlefont{\scshape\coloredsection}
+    % \captionstyle{\centering}
+    % \captionstyle[\centering]{\raggedright}
+
+    %-------------------------------------------------------------------------------
+    % Page style
+    %-------------------------------------------------------------------------------
+    \copypagestyle{Editus-mainmatter}{companion}
+    \makeevenhead{Editus-mainmatter}%
+    {\normalfont\scshape\thepage}{}{\normalfont\scshape\leftmark}
+      \makeoddhead{Editus-mainmatter}%
+      {\normalfont\scshape\rightmark}{}{\normalfont\scshape\thepage}
+    % \makerunningwidth{Editus-mainmatter}{\headwidth}
+    % \makeheadrule{Editus-mainmatter}{\headwidth}{0pt}
+
+    % Both verso headers and recto headers have to be flushleft (raggedright)
+    \makeheadposition{Editus-mainmatter}{flushleft}{flushleft}{}{}
+
+    % -------------------------------------------------------------------------------
+    % \providecommand{\Subscriber}{}
+    % \renewcommand{\Subscriber}{\textsc{Personal
+    %     Copy of} Inwon Jang \textsc{-- Please do not distribute}}
+    % \makeoddfoot{Editus-mainmatter}%
+    % {}{}{\normalfont\scshape \Subscriber}
+    %-------------------------------------------------------------------------------
+    \pagestyle{Editus-mainmatter}
+
+    \copypagestyle{Editus-bib}{Editus-mainmatter}
+    \makeheadposition{Editus-bib}{flushright}{flushleft}{}{}
+    \makepsmarks{Editus-bib}{}
+    \makeevenhead{Editus-bib}%
+    {\headstyle\rightmark\,--\,\leftmark}{}{\thepage}
+    \makeoddhead{Editus-bib}%
+    {\headstyle\rightmark\,--\,\leftmark}{}{\thepage}
+
+    \providecommand{\idxmark}{}
+    \renewcommand{\idxmark}[1]{#1\markboth{#1}{#1}}
+    \copypagestyle{Editus-index}{Editus-mainmatter}
+    \makeheadposition{Editus-index}{flushright}{flushleft}{}{}
+    \makepsmarks{Editus-index}{}
+    \makeevenhead{Editus-index}%
+    {\headstyle\rightmark\,--\,\leftmark}{}{\thepage}
+    \makeoddhead{Editus-index}%
+    {\headstyle\rightmark\,--\,\leftmark}{}{\thepage}
+
+    %% mainmatter
+    \renewcommand*{\@smemmain}{%
+      \@mainmattertrue
+      \setcounter{secnumdepth}{\value{maxsecnumdepth}}
+      %   \cleardoublepage
+      \clearpage
+      \counterwithin{figure}{chapter}
+      \counterwithin{table}{chapter}%
+    }
+
+    %% backmatter
+    \renewcommand{\backmatter}{%
+      \if@openright
+      %     \cleardoublepage
+      \clearpage
+      \else
+      \clearpage
+      \fi
+      \@mainmatterfalse
+      \setcounter{secnumdepth}{-10}
+      \counterwithout{figure}{chapter}
+      \counterwithout{table}{chapter}
+      \setcounter{figure}{0}
+      \setcounter{table}{0}%
+    }
+
+    \newcommand*{\sbseries}{\bfseries}
+    \newcommand*{\textsb}{\textbf}
+    \newcommand*{\ChapterEndSymbol}{$\spadesuit$}
+    \newcommand*{\ColophonEndSymbol}{$\clubsuit$}
+    \newcommand*{\BetweenParSymbol}{***}
+    % \newcommand*{\LetterType}{Computer Modern\xspace}
+    \providecommand*{\titleshape}{\scshape}
+
+
+    % sidebar command
+    \providecommand{\sidebarfont}{}
+    \renewcommand{\sidebarfont}{\footnotesize}
+    \renewcommand{\sidebarhsep}{4em}
+    \sidecapmargin{outer}
+
+    % sidenote command
+    \providecommand*{\RaggedRight}{\raggedright}
+    \providecommand*{\RaggedLeft}{\raggedleft}
+    \newcommand{\sidenote}[1]{%
+      \@bsphack{%
+        %    \strictpagechecktrue%
+        \checkoddpage%
+        \ifoddpage%
+        \marginpar{\footnotesize\RaggedRight #1}%
+        \else%
+        \marginpar{\footnotesize\RaggedLeft\coloredsection #1}%
+        \fi%
+      }\@esphack%
+    }
+
+    % \renewcommand*{\sidecapstyle}{%
+    %  \captionnamefont{\scshape}
+    %   \ifscapmargleft
+    %     \captionstyle{\raggedleft}%
+    %   \else
+    %     \captionstyle{\raggedright\coloredsection}%
+    %   \fi}

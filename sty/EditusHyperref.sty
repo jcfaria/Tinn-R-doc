@@ -1,0 +1,36 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{./sty/EditusHyperref}{}
+%-------------------------------------------------------------------------------
+% Hyperref setup
+%-------------------------------------------------------------------------------
+\RequirePackage{hyperref}
+
+\hypersetup{colorlinks=true,
+  linkcolor=LinkColor,
+  linkbordercolor={1 1 1},
+  citecolor=darkgreen,
+  filecolor=LinkColor,
+  menucolor=LinkColor,
+  urlcolor=darkgreen,
+  pdftitle={Editus User Guides},
+  pdfauthor={Editus},
+  pdfcreator={LaTeX},
+  pdfstartview=Fit,
+  pdffitwindow=true,
+  bookmarksopen=true,
+  bookmarksopenlevel=0,
+  bookmarksnumbered=true,
+  pdfpagelayout=TwoPageRight,
+  hyperfootnotes=false % use this with footmisc package
+}
+%\hyperbaseurl{http://}
+
+%% hyperref options for automatic display of counter, i.e. chapter, part
+% use \autoref instead of \ref
+% \RequirePackage{refcount}
+% \newcommand*{\reallythepageref}[1]{%
+%   \hyperref{\getrefbykeydefault{#1}{url}{}}%
+%            {page}%
+%            {\getpagerefnumber{#1}}%
+%            {\pageref*{#1}}%
+% }

@@ -1,0 +1,81 @@
+\BOOKMARK [0][-]{chapter*.1}{Dedication}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Preface}{}% 2
+\BOOKMARK [1][-]{section*.3}{Bill Venables}{chapter*.2}% 3
+\BOOKMARK [1][-]{section*.4}{Rmetrics \(1. ed.\)}{chapter*.2}% 4
+\BOOKMARK [1][-]{section*.5}{Editus \(2. ed.\)}{chapter*.2}% 5
+\BOOKMARK [0][-]{section*.6}{Contents}{}% 6
+\BOOKMARK [0][-]{section*.7}{List of Figures}{}% 7
+\BOOKMARK [0][-]{section*.8}{List of Tables}{}% 8
+\BOOKMARK [0][-]{chapter.1}{1 Overview}{}% 9
+\BOOKMARK [1][-]{section.1.1}{1.1 Quick start}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.2}{1.2 What is Tinn-R?}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.3}{1.3 Why Tinn-R?}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.4}{1.4 What do you get by using Tinn-R?}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.5}{1.5 Do I have to pay for Tinn-R?}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.6}{1.6 What was the motivation to start and maintain the Tinn-R project?}{chapter.1}% 15
+\BOOKMARK [1][-]{section.1.7}{1.7 What is the sentence that we, from the development team, most like to hear?}{chapter.1}% 16
+\BOOKMARK [1][-]{section.1.8}{1.8 Acknowledgment}{chapter.1}% 17
+\BOOKMARK [1][-]{section.1.9}{1.9 Feedback, suggestions and bug reports}{chapter.1}% 18
+\BOOKMARK [1][-]{section.1.10}{1.10 What tools were used to make this guide?}{chapter.1}% 19
+\BOOKMARK [0][-]{chapter.2}{2 Basics}{}% 20
+\BOOKMARK [1][-]{section.2.1}{2.1 Configuration}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.2}{2.2 Keyboard shortcuts \(default\)}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.3}{2.3 FAQ}{chapter.2}% 23
+\BOOKMARK [0][-]{chapter.3}{3 Working With}{}% 24
+\BOOKMARK [1][-]{section.3.1}{3.1 Application options}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.2}{3.2 Editor options}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.3}{3.3 Selection mode}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.4}{3.4 Highlighters \(settings\)}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.5}{3.5 Shortcuts customization}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.6}{3.6 Hotkeys \(operational system\)}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.7}{3.7 Rterm interface}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.8}{3.8 Tools interface}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.9}{3.9 File tabs}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.10}{3.10 Tools bar}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.11}{3.11 Find and replace}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.12}{3.12 Search in files}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.13}{3.13 Database}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.14}{3.14 Regular expressions}{chapter.3}% 38
+\BOOKMARK [0][-]{chapter.4}{4 Menu Description}{}% 39
+\BOOKMARK [1][-]{section.4.1}{4.1 File}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.2}{4.2 Project}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.3}{4.3 Edit}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.4}{4.4 Format}{chapter.4}% 43
+\BOOKMARK [1][-]{section.4.5}{4.5 Marks}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.6}{4.6 Insert}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.7}{4.7 Search}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.8}{4.8 Options}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.9}{4.9 Encoding}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.10}{4.10 Tools}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.11}{4.11 R}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.12}{4.12 View}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.13}{4.13 Window}{chapter.4}% 52
+\BOOKMARK [1][-]{section.4.14}{4.14 Web}{chapter.4}% 53
+\BOOKMARK [1][-]{section.4.15}{4.15 Help}{chapter.4}% 54
+\BOOKMARK [0][-]{chapter.5}{5 Some Secrets for an Efficient Use}{}% 55
+\BOOKMARK [1][-]{section.5.1}{5.1 Introduction}{chapter.5}% 56
+\BOOKMARK [1][-]{section.5.2}{5.2 After installation}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.3}{5.3 Shortcuts that can make you lose the visibility of a resource}{chapter.5}% 58
+\BOOKMARK [1][-]{section.5.4}{5.4 I'm panicking: what do I do?}{chapter.5}% 59
+\BOOKMARK [1][-]{section.5.5}{5.5 Application options}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.6}{5.6 Highlighters \(settings\)}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.7}{5.7 Tools}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.8}{5.8 Bars}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.9}{5.9 Spell checker}{chapter.5}% 64
+\BOOKMARK [1][-]{section.5.10}{5.10 Split}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.11}{5.11 Editor: how to?}{chapter.5}% 66
+\BOOKMARK [0][-]{appendix.A}{A What is New?}{}% 67
+\BOOKMARK [1][-]{section.A.1}{A.1 Versions released in 2013 \(10\)}{appendix.A}% 68
+\BOOKMARK [1][-]{section.A.2}{A.2 Versions released in 2012 \(3\)}{appendix.A}% 69
+\BOOKMARK [1][-]{section.A.3}{A.3 Versions released in 2010 \(10\)}{appendix.A}% 70
+\BOOKMARK [1][-]{section.A.4}{A.4 Versions released in 2009 \(16\)}{appendix.A}% 71
+\BOOKMARK [1][-]{section.A.5}{A.5 Versions released in 2008 \(14\)}{appendix.A}% 72
+\BOOKMARK [1][-]{section.A.6}{A.6 Versions released in 2007 \(26\)}{appendix.A}% 73
+\BOOKMARK [1][-]{section.A.7}{A.7 Versions released in 2006 \(64\)}{appendix.A}% 74
+\BOOKMARK [1][-]{section.A.8}{A.8 Versions released in 2005 \(25\)}{appendix.A}% 75
+\BOOKMARK [1][-]{section.A.9}{A.9 Versions released in 2004 \(16\)}{appendix.A}% 76
+\BOOKMARK [0][-]{appendix.B}{B R manuals on CRAN}{}% 77
+\BOOKMARK [0][-]{appendix.C}{C GNU GENERAL PUBLIC LICENSE}{}% 78
+\BOOKMARK [0][-]{appendix*.341}{References}{}% 79
+\BOOKMARK [0][-]{section*.342}{Index}{}% 80
+\BOOKMARK [0][-]{appendix*.343}{About the Authors}{}% 81

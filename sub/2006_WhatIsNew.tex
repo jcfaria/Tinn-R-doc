@@ -1,0 +1,1277 @@
+
+\section{Versions released in 2006 (64)}
+\subsection{1.19.1.1 (Dec/27/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug related to version '1.19.1.0' and 'midas.dll' was fixed:
+        the content of this dll was compiled inside the binary code to avoid
+        its redistribution.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.19.1.0 (Dec/26/2006)}
+
+\begin{itemize}
+  \item Parts of the source code were optimized.
+  \item The DBase database (RCard and RTip) was upgraded to the native XML engine
+    provided by Borland. It is very small, stable and fast.
+    \begin{itemize}
+      \item Therefore, do not restore the database from old versions to the new
+        ones.
+      \item It will be easier to integrate \RR{} and Tinn-R in the future.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.19.0.18 (Dec/13/2006)}
+
+\begin{itemize}
+  \item The \textit{Print} resource was a bit reworked: it will always close
+    the print dialogue after pressing the \textit{Print} option.
+  \item The \textit{Application options} was a bit reworked.
+  \item Two non-configurable shortcuts were added:
+    \begin{enumerate}
+      \item \texttt{CTRL + (}: insert (or replace) ($|$)
+      \item \texttt{CTRL + )}: insert (or replace) ()
+    \end{enumerate}
+  \item A new folder named \textit{custom} was added to the program folders.
+    It contains two customizable files: \texttt{Rcompletion.r} and
+    \texttt{Rconfigure.r}:
+    \begin{enumerate}
+      \item \texttt{Rcompletion.r}: allows the user to customize the new
+        \textit{auto completion} resource (described below);
+      \item \texttt{Rconfigure.r}: allows the user to customize the \RR{}
+        configuration.
+    \end{enumerate}
+  \item The first approach of \textit{auto completion} was implemented and
+    the default keystroke is \texttt{CTRL + J}, but the user can customize it
+    in the \textit{Editor} options: \textit{Options/Main/Editor/Keystrokes}.
+    Use it, after any valid word, by pressing the keystroke. For example:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+
+        if<CTRL + J> to obtain:
+        if (| < )
+
+        ifc<CTRL + J> to obtain:
+        if (| < ) {
+
+        }
+
+        fo<CTRL + J> to obtain:
+        for (i in 1:i|)
+
+
+        foc<CTRL + J> to obtain:
+        for (i in 1:|) {
+
+        }
+
+        sw<CTRL + J> to obtain:
+        switch(|,
+        a = ' ',
+        b = ' ',
+        )
+
+        wh<CTRL + J> to obtain:
+        i = 0
+        while (i < |) {
+
+          i = i + 1
+        }
+
+        eq<CTRL + J> to obtain:
+        \begin{equation}\label{eq_01}
+          |
+        \end{equation}
+      \end{verbatim}
+    \end{footnotesize}
+
+    Observations:
+
+    \begin{enumerate}
+      \item Only two letters were used to define simple structures
+        (for example: \textit{fo} = \textit{for}, \textit{fu} = \
+        textit{function});
+      \item Considering the above, letter \texttt{c} was added
+        to complete or more complex structures (for example:
+        \textit{foc}, \textit{fuc});
+      \item If there are no conflict among the names in the
+        \textit{Rcompletion file}, the first letter is enough. For
+        example: \textit{s} = \textit{swc}. If there are conflicts, it
+        will be necessary to add more letters to complete the diferentiation;
+      \item The \texttt{$|$} symbol is used to define where the cursor
+        will first stop after the auto completion;
+      \item To better understand it, have a look at the file
+        \texttt{Rcompletion.r} within the folder \textit{custom}
+        where the program was installed and do your own tests.
+    \end{enumerate}
+\end{itemize}
+
+
+\subsection{1.19.0.17 (Dec/10/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item When both options \textit{Organize screen} and
+        \textit{Return focus} were marked, it triggered a bug,
+        which has been fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.19.0.16 (Dec/08/2006)}
+
+\begin{itemize}
+  \item The \textit{Main menu} was reworked and several options now
+    have a better logic place.
+\end{itemize}
+
+
+\subsection{1.19.0.15 (Dec/07/2006)}
+
+\begin{itemize}
+  \item The \textit{Main menu} was reworked and several
+    options now have a better logic place.
+\end{itemize}
+
+
+\subsection{1.19.0.14 (Dec/06/2006)}
+
+\begin{itemize}
+  \item The interfaces \textit{Search text} and \textit{Replace text} were reworked.
+  \item Parts of the source code were optimized.
+  \item It is now possible to increase and decrease (non-permanent)
+    the font size of any individual file easily:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        <SHIFT + CTRL + +> (plus  (+) on the numeric keypad): INCREASE (upper limit is 50)
+        <SHIFT + CTRL + -> (minus (-) on the numeric keypad): DECREASE (lower limit is  1)
+      \end{verbatim}
+    \end{footnotesize}
+
+\end{itemize}
+
+
+\subsection{1.19.0.13 (Dec/04/2006)}
+
+\begin{itemize}
+  \item All images of the documentation were updated to the latest version.
+\end{itemize}
+
+
+\subsection{1.19.0.12 (Dec/04/2006)}
+
+\begin{itemize}
+  \item Parts of the source code were optimized.
+  \item The way as the opened files are closed was enhanced. Now, if any file
+    was changed and the user chooses \textit{Cancel}, the current procedure
+    will be canceled too. For example, closing: projects, all right, all left,
+    etc.
+\end{itemize}
+
+
+\subsection{1.19.0.11 (Nov/30/2006)}
+
+\begin{itemize}
+  \item The \textit{Application options} was a bit reworked. Now the user can
+    set the initialization parameters of Rgui. Set it at \textit{Application
+      options/R/General/Rgui (Parameters and path)}.
+\end{itemize}
+
+
+\subsection{1.19.0.10 (Nov/30/2006)}
+
+\begin{itemize}
+  \item The \textit{Project} interface was a bit enhanced.
+  \item Parts of the source code were optimized.
+\end{itemize}
+
+
+\subsection{1.19.0.9 (Nov/29/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug related to the \textit{Project} and associated with the prior
+        version of Tinn-R (1.19.0.8) was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.19.0.8 (Nov/28/2006)}
+
+\begin{itemize}
+  \item The pop-up menus related to the \textit{Project}, and to the
+    \textit{Editor}, were a bit reworked with respect to \textit{Put
+      full path in the clipboard} option.
+  \item Parts of the source code were optimized.
+  \item \textit{Search text} and \textit{Replace text} interface were
+    reworked.
+\end{itemize}
+
+
+\subsection{1.19.0.7 (Nov/27/2006)}
+
+\begin{itemize}
+  \item If the variable \textit{rGuiPreferred} is empty (as in the first use)
+    in the \textit{ini file}, Tinn-R will check in the Windows registry at
+    \textit{HKLM$\backslash$R-core$\backslash$R} to find the path where
+    Rgui.exe was installed. So, if the user want to use \texttt{Tinn-R with
+      \RR{} console}, it is no longer necessary to set it in the
+    \textit{Application options}.
+\end{itemize}
+
+
+\subsection{1.19.0.6 (Nov/23/2006)}
+
+\begin{itemize}
+  \item The command \textit{Send line} to \RR{} was enhanced. Now, whenever
+    the user set it not to send comment lines, and the current line is either
+    commented or empty, Tinn-R will search below towards the end of file, for
+    the first not commented or empty line and will send it automatically.
+    Also, it will always search below towards the end of the file, for the first
+    not commented or empty line. So, the user's work when
+    sending line by line will be reduced.
+\end{itemize}
+
+
+\subsection{1.19.0.5 (Nov/21/2006)}
+
+\begin{itemize}
+  \item The \textit{Application options} was a bit reworked. Now the user can
+    decide whether the position of the Tinn-R and Rgui windows will be organized
+    automatically or not, when Rgui is running. Set it at \textit{Application
+      options/R/Organize}.
+\end{itemize}
+
+
+\subsection{1.19.0.4 (Nov/18/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug associated with the use of \texttt{CTRL +} to insert content of
+        the tip with 'R complex' and another was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.19.0.3 (Nov/17/2006)}
+
+\begin{itemize}
+  \item Now Tinn-R has four multi-highlighters: \textit{HTML complex},
+    \textit{PHP complex}, \textit{R complex} and \textit{Sweave}:
+
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        1. HTML complex = HTML & JavaScript
+        2. PHP complex = HTML & JavaScript & PHP
+        3. R complex  = R & URI ('<<<' begin URI '>>>'   end URI)
+        4. Sweave = TeX & R ('>>=' begin R '@' end R)
+
+        URI : Uniform Resource Identifiers.
+        R: complex: The main syntax is R, '<<<' and '>>>' the tags enable the user
+        to insert a block of URI syntax.
+        Sweave: The main syntax is TeX, '>>=' and '@' the tags enable the user
+        to insert a block of R syntax.
+      \end{verbatim}
+    \end{footnotesize}
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        The SynHighlighterURI unit implements an URI syntax highlighter for SynEdit.
+
+        Recognition of URIs is based on the information provided in the document
+        "Uniform Resource Identifiers (URI): Generic Syntax" of "The Internet Society",
+        that can be found at http://www.ietf.org/rfc/rfc2396.txt.
+
+        Also interesting is http://www.freesoft.org/CIE/RFC/1738/33.htm which describes
+        general URL syntax and major protocols.
+
+        These protocols are recognized:
+        -------------------------------
+        http://
+        https://
+        ftp://
+        mailto:
+        news: or news://
+        nntp://
+        telnet://
+        gopher://
+        prospero://
+        wais://
+
+        As well as commonly used shorthands:
+        ------------------------------------
+        someone@somewhere.org
+        www.host.org
+
+      \end{verbatim}
+    \end{footnotesize}
+
+    Example of \RR{} complex:
+
+    \begin{Scode}
+      # <<< http://www.r-project.org/ >>>
+      # <<< joseclaudio.faria@terra.com.br >>>
+      # <<< phgrosjean@sciviews.org >>>
+
+      mean(rnorm(100))
+    \end{Scode}
+
+    or
+
+    \begin{Scode}
+      # <<< http://www.r-project.org/
+      #     joseclaudio.faria@terra.com.br
+      #     phgrosjean@sciviews.org >>>
+
+      mean(rnorm(100))
+    \end{Scode}
+
+    Therefore, by pressing \texttt{CTRL} and right button of the mouse on any
+    valid link, it is possible to follow the link (browser, client of email, etc).
+  \item Menu \textit{Options} was a bit reworked to enable the user to set
+    \textit{R} or \textit{R complex} as the default syntax.
+\end{itemize}
+
+
+\subsection{1.19.0.2 (Nov/09/2006)}
+
+\begin{itemize}
+  \item The option \texttt{Automatically configure \RR{} (Rprofile.site)}
+    was enhanced. Now the user can now decide whether the changes will be
+    \texttt{temporary} (on the current session only) or \texttt{permanent}
+    (editing automatically the Rprofile.site file). For both, if necessary,
+    the user can edit (customize) the file \textit{Rconfigure.r} in the
+    folder \textit{doc/English} where Tinn-R is installed. So we think this
+    new resource is now more powerful and flexible.
+  \item The \textit{Application options} was reworked. Now it is possible to
+    set the position of the Tinn-R window (top, bottom, left or right with
+    respect to the Rgui). \texttt{Left or right positions are recommended only for very
+      large screens}. Set it at \textit{Application options/R/Organize}.
+\end{itemize}
+
+
+\subsection{1.19.0.1 (Nov/07/2006)}
+
+\begin{itemize}
+  \item One new option \texttt{Automatically configure \RR{} (Rprofile.site)}
+    was added to the \textit{R} main menu. It will enable the user to
+    automatically configure the Rprofile.site file with all packages which
+    are necessary to work efficiently. If any of those are not found, \RR{}
+    will download and install them when starting.
+\end{itemize}
+
+
+\subsection{1.19.0.0 (Nov/06/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Bugs when opening files in Tinn-R by double clicking from
+        \textit{Windows Explorer} were fixed. In other words, the
+        interaction with \textit{Windows Explorer} was enhanced.
+      \item A bug associated with \texttt{SHIFT+ESPACE} was fixed.
+    \end{itemize}
+  \item Tinn-R has now a new logo/image identity which reflects
+    its natural evolution.
+  \item The sources codes were deeply remade and optimized.
+\end{itemize}
+
+
+\subsection{1.18.7.3 (Oct/30/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug was fixed: from now on, whenever the user starts
+        \texttt{R} inside \texttt{Tinn-R}, it will open automatically
+        in the \texttt{SDI mode}, otherwise, in the default mode defined
+        in the \textit{Rconsole} configuration file. Also, if any file
+        happens to be open, \texttt{and active}, the \texttt{R Working
+          Directory} will be set to its path. Otherwise, it will be set to
+        the default path (../bin) where \RR{} was installed.
+      \item Bugs with TCP/IP protocol (associated with the prior version
+        1.18.7.2) were fixed: sorry for this. By the way, we would like
+        to remember the users there are still some unsolved problems
+        with \textit{R output} under this protocol. For example, the
+        codes below:
+
+        \begin{Scode}
+          f <- function(x) {
+            x/10 + 1
+          }
+        \end{Scode}
+
+        or, i.e, \texttt{any instruction with more than one single line},
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            a <- 0
+            for (i in 1:20) {
+              a = i
+              if(a <= 5 ) {
+                cat('a = ', a, '(<= 5)'); cat('\n')
+                next
+              }
+              if(a == 18) {
+                cat('a = ', a, '(= 18)'); cat('\n')
+                break
+              }
+            }
+          \end{verbatim}
+        \end{footnotesize}
+
+        will always generate errors. We've been working hard in order to solve it,
+        but it is not easy!
+        Moreover, consider that this protocol's main objective is to be used with \RR{}
+        explorer interface and \texttt{any other use is still experimental}.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.7.2 (Oct/30/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug, when closing the \textit{Rgui} and the choice
+        of \textit{Cancel}, was fixed.
+    \end{itemize}
+  \item The \textit{Application options} was reworked a little bit. The
+    options enabling the user to set Tinn-R to always show \textit{Tips}
+    and \textit{Completion} were removed. We think it was an annoyance.
+    Now, the triggers can be used to do that.
+  \item One new function was added both in the \textit{R toolbar} and the
+    \textit{R} menu: \textit{Toogle start/close}. It will enable the user
+    to start/close the preferred user \textit{Rgui}.
+  \item From now on, whenever the user starts \texttt{R} inside
+    \texttt{Tinn-R}, it will open automatically in the \texttt{SDI mode},
+    otherwise, in the default mode defined in the \textit{Rconsole}
+    configuration file. Also, if there is any opened file, the
+    \texttt{R Working Directory} will be set to its path. Otherwise,
+    it will be set to the default path (../bin) where \RR{} was installed.
+  \item Several parts of the source code were optimized.
+  \item The performance of the communication with the \textit{R server}
+    (under all protocols) was enhanced. Now the user can to try to set
+    the delay for computational synchronization
+    (\textit{Options/Main/Application/R/R server}) to small values
+    (50, 80 or 100 ms, in harmony with the hardware). We recommend
+    testing different delays until a good performance is obtained.
+  \item Icons of \textit{Controlling R} were remade.
+\end{itemize}
+
+
+\subsection{1.18.7.1 (Oct/26/2006)}
+
+\begin{itemize}
+  \item Many cosmetic changes were made to the program's interface
+    and documentation.
+\end{itemize}
+
+
+\subsection{1.18.7.0 (Oct/25/2006)}
+
+\begin{itemize}
+  \item All the HTML documentation of Tinn-R was easily remade; we became
+    very tired of the \textit{blue colour}:
+    \htmladdnormallink{txt2tags}{http://txt2tags.sourceforge.net/}
+    is an exceptional tool!
+  \item From now on (Enio Jelihovschi - a new Tinn-R member) is 
+    responsible for the production and quality of all Tinn-R documentation.
+    Welcome Enio, we wish you have a good work on board.
+  \item One new function was added both to the \RR{} toolbar and the \RR{}
+    menu: \textit{TCP/IP toggle connetion}.
+\end{itemize}
+
+
+\subsection{1.18.6.13 (Oct/24/2006)}
+
+\begin{itemize}
+  \item Parts of the source code were optimized.
+  \item \textit{Tools/Sort} was enhanced: it now enables you to sort by
+    \textit{Strings}, \textit{Numbers} and \textit{Dates}.
+  \item Popup menu associated with tabs was a bit reworked.
+  \item The speller now will advise whenever it finishes the
+    corrections.
+\end{itemize}
+
+
+\subsection{1.18.6.12 (Oct/22/2006)}
+
+\begin{itemize}
+  \item Several parts of the source code were optimized.
+  \item Popup menu associated with the \textit{Tabs} was enhanced. It now
+    additionally enables you to close all files located at the \texttt{right}
+    or \texttt{left} from the active tab.
+  \item Main menu \textit{File} was a bit remade.
+  \item \textit{Popup menu editor} was a bit remade.
+\end{itemize}
+
+
+\subsection{1.18.6.11 (Oct/20/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug associated with main menu, \textit{Tools} was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.6.10 (Oct/20/2006)}
+
+\begin{itemize}
+  \item Several parts of the source code were optimized.
+  \item \RR{} explorer performance was enhanced. Now you can to try to set
+    the delay for computational synchronization
+    (\textit{Options/Main/Application/R/R server}) to small values
+    (50, 80 or 100 ms, in harmony with your hardware). We recommend
+    testing different delays until you obtain a good performance.
+  \item We also recommend you to use the resources of \textit{R explorer}
+    under TCP/IP protocol (it makes the Rgui console cleaner). By the way,
+    there are still some unsolved problems with \textit{R output} under
+    this protocol.
+  \item Window \textit{About} was remade.
+\end{itemize}
+
+
+\subsection{1.18.6.9 (Oct/17/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug associated with \texttt{CTRL + W} shortcut
+        closing two files instead of just one, was fixed.
+    \end{itemize}
+  \item The \textit{Application options} was somehow reworked.
+    When closing it, the screen will not be organized. Therefore it will
+    be necessary to toggle it on the main menu \textit{View/Organise screen}
+    or in the toolbar \textit{Tools}.
+  \item The options \textit{Send selection} will be enabled only if any selection
+    was done.
+\end{itemize}
+
+
+\subsection{1.18.6.8 (Oct/10/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug associated with \textit{Status bar} was fixed.
+    \end{itemize}
+  \item The \textit{Application options} was reworked. It is now possible
+    to set the position of \RR{} (top or bottom) on \textit{Organize screen}
+    resource by using \textit{Application options/R/General/settings}.
+  \item Clipboard actions were enhanced.
+\end{itemize}
+
+
+\subsection{1.18.6.7 (Oct/08/2006)}
+
+\begin{itemize}
+  \item A new option \textit{Organize screen} was added to the menu
+    \textit{View} and the button associated to it was added to the
+    bar \textit{Tools}. This has been, up to now, an old user's request,
+    and it enables you to put, in a fast way, the \texttt{R Console on
+      the top} of the screen and the \texttt{Tinn-R on the bottom}.
+  \item \textit{Tools/Sort} was enhanced: now it maintains the file
+    in the original \textit{Top line} position.
+  \item The way project files (*.tps) are opened was changed: the
+    textual file (by default) will not be opened anymore. The user,
+    now, can easily edit the file in the \textit{Project} interface.
+\end{itemize}
+
+
+\subsection{1.18.6.6 (Oct/06/2006)}
+
+\begin{itemize}
+  \item A new option \textit{Sort} was added to menu \textit{Tools}.
+    This enables the user to sort an entire file (any selection mode)
+    or selection (for while only for \textit{smNormal} and
+    \textit{smColumn}).
+  \item \textit{Popup menu editor} was reworked.
+  \item Icons of \textit{R explorer} were changed.
+\end{itemize}
+
+
+\subsection{1.18.6.5 (Oct/03/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug related to \textit{Spell}, that always broke down when
+        finding \texttt{$<$} or \texttt{$<$-} symbol, was fixed. The
+        origin of this bug was a component conflict (hard coded) among \
+        the HTML brackets, declared as below:
+      \item A bug associated to \textit{Project/Close entire project} was fixed.
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            const
+            OpenBracket: array[THTMLBracket] of PChar=('<', '<!--', '<%');
+            CloseBracket: array[THTMLBracket] of PChar=('>', '-->', '%>');
+          \end{verbatim}
+        \end{footnotesize}
+
+        and the \RR{} assign symbols:
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            <-
+            <<-
+            ->
+            ->>
+          \end{verbatim}
+        \end{footnotesize}
+
+        Therefore, if any file has HTML syntax (with any of those tags above) all
+        text among the declared brackets is free of speller. We believe that will
+        work nicely from now on.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.6.4 (Oct/01/2006)}
+
+\begin{itemize}
+  \item The \textit{Shortcuts customization} interface was reworked.
+\end{itemize}
+
+
+\subsection{1.18.6.3 (Sep/29/2006)}
+
+\begin{itemize}
+  \item The \textit{Shortcuts customization} interface was remade, we
+    think it is now more user friendly.
+  \item There is a new button in the interface above, that enables the
+    user to restore the main default Tinn-R shortcuts.
+\end{itemize}
+
+
+\subsection{1.18.6.2 (Sep/28/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug associated with the buttons icons of \textit{Tools/R explorer}
+        related with version 1.18.6.1 was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.6.1 (Sep/28/2006)}
+
+\begin{itemize}
+  \item Version 1.18.6.0 was updated, due to some problems detected in
+    file \textit{default.bin}. Accordingly, we \texttt{strongly recommended}
+    that, before using this new version, the user \texttt{manually} removes
+    that file. In order to help the user in finding out where Tinn-R stores all
+    the \texttt{ini files}, a new option was added to the main menu
+    \textit{Tools} named \textit{Ini files}. The \textit{default.bin} file
+    is located in the sub-folder \textit{shortcuts}. Therefore, go to the
+    folder and delete it. Sorry for the inconvenience.
+\end{itemize}
+
+
+\subsection{1.18.6.0 (Sep/26/2006)}
+
+\begin{itemize}
+  \item Several parts of the source code were optimized.
+  \item Menu and pop-up menu options were remade and some icons replaced/changed.
+  \item A new option \textit{Shortcuts customization} was added to the menu
+    \textit{Options}. This will enable the user to manage (edit, load and save)
+    all actions of Tinn-R interface. The latest in use will be always reloaded
+    when restarting the program.
+\end{itemize}
+
+
+\subsection{1.18.5.12 (Sep/15/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A few small bugs pointed out by users were fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.5.12 (Sep/13/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug, which has been happening whenever the user opens the first file
+        located in the floppy drive and access this floppy in subsequent files, was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.5.11 (Sep/12/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug, related to versions 1.18.5.9 and 1.18.5.10, associated with
+        menu \textit{File/Save as}, was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.5.10 (Sep/11/2006)}
+
+\begin{itemize}
+  \item The command \textit{Send line} to \RR{} was enhanced. Now, whenever
+    the user sets it not to send comment lines, and the current is either
+    commented or empty, Tinn-R will search below to the end of file, for
+    the first not commented or empty line.
+\end{itemize}
+
+
+\subsection{1.18.5.9 (Sep/10/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug associated with dragging files in project interface
+        was fixed. Before, whenever you changed files among groups it
+        would not be associated with changes.
+    \end{itemize}
+  \item One new function was added both to the \RR{} toolbar and the \RR{}
+    menu: \textit{Set work directory (current file path)}.
+  \item The icons associated with \textit{Computer} interface (\textit{Add}
+    and \textit{Remove} favorite folder) were replaced.
+  \item Tinn-R now recognizes all valid extensions for any syntax when
+    saving files. For example, the new valid \RR{} extensions are: *.r,
+    *.Rhistory, *.q, *.s and *.ssc; so, whenever you type:
+    \begin{itemize}
+      \item \texttt{Myfile} - it will be saved as \texttt{Myfile.r} (the
+        first extension is the default);
+      \item \texttt{Myfile.R} - it will be saved as \texttt{Myfile.R}
+        (\texttt{R} is a valid extension and Tinn-R is now case insensitive
+        for that purpose);
+      \item \texttt{Myfile.Rhistory} - it will be saved as
+        \texttt{Myfile.Rhistory} (Rhistory is a valid extension);
+      \item \texttt{Myfile.help} - it will be saved as \texttt{Myfile.help.r}
+        (\texttt{help} it is not a valid extension and *.r is the default);
+      \item PS: in order to save any file with any extension, you must choose
+        \textit{All} syntax.
+    \end{itemize}
+  \item Whenever the \textit{tab file} has the focus, a new associated
+    pop-up menu is available with the following options: \textit{Close},
+    \textit{Close others} and \textit{Close all}.
+  \item The way Tinn-R opens and closes a project, was changed. Now, any *.tps
+    (from any source) will also be opened in the \textit{Project} interface
+    and all files of the project will be closed only and only if you choose
+    the option \textit{Close entire project}.
+  \item The \textit{Project} interface was isomehow enhanced. Now, the user
+    can type \texttt{DELETE} to delete either groups or files, \texttt{INSERT}
+    to add files to selected groups and $<$\textbf{CTRL + INSERT}$>$ to add
+    the current file to the selected group.
+\end{itemize}
+
+
+\subsection{1.18.5.8 (Ago/03/2006)}
+
+\begin{itemize}
+  \item Tinn-R version 1.18.5.7 was pre-released (restricted to developers
+    only).
+  \item The conflict between the \textit{Editor option/Alt sets column mode}
+    and the possible user option \textit{Format/Selection mode/Column}
+    was fixed.
+\end{itemize}
+
+
+\subsection{1.18.5.7 (Ago/01/2006)}
+
+\begin{itemize}
+  \item A first approximation to build a speller in Tinn-R was made.
+  \item To install this new resource do the following:
+    \begin{enumerate}
+      \item Close Tinn-R;
+      \item Download the dictionaries\\
+        {http://www.luziusschneider.com/Speller/English/index.htm}
+        that you want and install it from the installer (for
+        example ISpEnFrGe.exe).
+    \end{enumerate}
+  \item It is very simple, works nice, has power and all resources are
+    opensource.
+  \item For a while this component did not recognize the main SynEdit
+    component used for edition. Consequently, it was necessary to do the spelling
+    in two steps, making the correction in a new page (\textit{Spell})
+    on \textit{Results} interface.
+  \item \texttt{Whenever it finds any selection}, the correction will be
+    made only for it, as well as for subsequent updates (or for subsequent update).
+  \item The basic edition resources of the \textit{Spell} are available
+    in a pop-up menu.
+  \item In the meanwhile, please consider this new resource as \texttt{still
+      experimental} and under development.
+\end{itemize}
+
+
+\subsection{1.18.5.6 (Jun/24/2006)}
+
+\begin{itemize}
+  \item The highlighters \textit{All} and \textit{Text} were remade.
+\end{itemize}
+
+
+\subsection{1.18.5.5 (May/29/2006)}
+
+\begin{itemize}
+  \item \textit{Save} and \textit{Save as} were remade. Thank you
+    \texttt{John} for the good suggestion.
+  \item The user can change the selection mode by clicking the mouse
+    anywhere in the \textit{Main status bar}. The order of the changes
+    is sensitive to:
+    \begin{itemize}
+      \item \texttt{Left} - corresponds to the menu
+        \textit{Format/Selection mode} \texttt{bottom to top order};
+      \item \texttt{Right} - correspond to \texttt{top to bottom order}.
+    \end{itemize}
+  \item Tinn-R now recognizes the RGUI JGR. In the meanwhile, please consider
+    it as \texttt{still experimental}.
+\end{itemize}
+
+
+\subsection{1.18.5.4 (May/28/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bugs (detected in version 1.18.5.3) were fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.5.3 (May/27/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bugs (detected in prior versions) were fixed:
+        \begin{itemize}
+          \item Open \textit{PDF} files;
+          \item Appearance of the panel \textit{Results};
+          \item Icons association from the pop-up menu \textit{RCard}.
+        \end{itemize}
+    \end{itemize}
+  \item Small changes were made to the icons.
+  \item A single click mouse in the editor gutter now selects the
+    entire line.
+  \item Window \textit{About} was reworked.
+  \item Window \textit{Credits} (previously called \textit{Information})
+    was updated to reflect the lastest changes.
+  \item The echo of the instructions sent to \RR{} interpreter
+    (visible in \textit{R output} window) is now optional in Tinn-R.
+    In order to set it up, you can mark/unmark the option
+    \textit{R output echo on} in \textit{Options/Main/Application/R/General/Settings}.
+    If it is marked the \RR{} output window will show the instructions
+    (not for all options of \textit{send to R}) and the \RR{} output.
+    Please, remember that all these resources are \texttt{still experimental}
+    and not too interactive.
+\end{itemize}
+
+
+\subsection{1.18.5.2 (May/22/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small icon changes and bugs corrections.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.5.1 (May/20/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug related with \textit{reload} was fixed. Many
+        thanks to \texttt{Michael Prager} for pointing this out to us.
+      \item A couple of small bugs (pointed out by users) were fixed.
+    \end{itemize}
+  \item Tinn-R versions 1.18.4.6 and 1.18.5.0 were considered pre-released
+    (restricted to developers only).
+  \item All icons were changed. Thanks to \texttt{Philippe} for the hard
+    work of its selection and organization. We hope you like this new look.
+  \item All syntax are now alphabetically ordered.
+  \item Whenever the user chooses \textit{Save} or \textit{Save as}
+    Tinn-R will to try to recognize the active syntax and the related file
+    extension.
+  \item The images of the files \textit{ReadMe.html}, \textit{LizesMoi.html},
+    \textit{LeiaMe.html} and \textit{LeaMe.html} were changed so that they
+    reflect the latest changes.
+  \item Several parts of the source code were optimized.
+  \item \textit{Editor options} interface was a bit reworked.
+  \item The \textit{Search in files} and \textit{R output} interface were
+    reworked.
+  \item Menu \textit{R} was a bit reworked.
+  \item Now, the user can choose which \RR{} resources, related to
+    \textit{Send to R} and \textit{Controlling R}, will be visible.
+    To do that, two options are available:
+    \textit{Application options/R/R menu and toolbar} and a pop-up
+    menu associated to \RR{} toolbar.
+\end{itemize}
+
+
+\subsection{1.18.4.5 (Apr/07/2006)}
+
+\begin{itemize}
+  \item The recommendation that, under Windows XP, the user should configure the
+    appearance of windows and buttons to \texttt{Classic style of Windows}
+    (\texttt{not for XP style)} is no longer used. In other words,
+    the old conflict among the XPMenu component that Tinn-R uses and Windows
+    the XP skins was fixed.
+\end{itemize}
+
+
+\subsection{1.18.4.4 (Apr/02/2006)}
+
+\begin{itemize}
+  \item The menu \textit{Help} was reworked and new options were added to it.
+    The basic idea is to show how the \texttt{HTML} files are created
+    by using the tool converter \texttt{txt2tags} and, the most important,
+    it now enables the users \texttt{to help us with the constructions and
+      corrections of these files}. So, sorry for any language mistake, but my
+    native language (José Cláudio Faria) is not English and I don't want
+    to annoy anyone, anymore, with English corrections. If possible,
+    please help us, because these documents could be useful to many other users.
+  \item Tool \textit{Computer} has now two new buttons that enables the user
+    to add and remove favorite folders.
+  \item Application options interface was reworked. Now it enables user
+    to set how the DOS console will be shown for compilation.
+  \item As a consequence, the \textit{Tools} menu and \textit{Processing}
+    toolbar also have the related options.
+  \item For both file compilation ('.tex' to '.dvi') or ('.tex' to '.pdf')
+    whenever the \textit{Open always after compilation (option)} \texttt{is
+      marked}, Tinn-R will freeze while waiting for the MikTeX compilation
+    to open the compiled file, in the other way it will not. In another
+    words, whenever the \textit{Open always after compilation (option)}
+    \texttt{isn't checked} Tinn-R will not freeze and the user can continue
+    normally his job.
+  \item Tinn-R now is closed with \texttt{//Yap (Yet Another Previewer)// as
+      DVI viewer}, because it is the default released with
+    \htmladdnormallink{MikTeX}{http://www.miktex.org}
+    distribution, and it is a very nice and fast DVI viewer.
+    Tinn-R will open only a single instance of the Yap, but allowing as
+    many files as the user whishes.
+  \item If the user uses the function
+    \textit{utils:::setWindowTitle(paste("-",getwd()))} in Rprofile.site,
+    Tinn-R still recognizes Rgui in SDI mode (it was not the case in previous
+    versions between 1.18.X.X and 1.18.4.3).
+\end{itemize}
+
+
+\subsection{1.18.4.3 (Mar/28/2006)}
+
+\begin{itemize}
+  \item Tinn-R versions 1.18.3.1, 1.18.3.2, 1.18.4.0, 1.18.4.1 and 1.18.4.2
+    were considered pre-released (restricted to developers only).
+  \item The structure of the Tinn-R ini files was changed again:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        ..\Tinn-R                : ReadMe.txt file;
+        ..\Tinn-R\data           : dbRcard.dbf, dbRcard.dbt, dbRCard.ndx, dbRtip.dbf,
+        dbRtip.dbt, dbRTip.ndx and ReadMe.txt files;
+        ..\Tinn-R\ini            : Shortcuts.tinn, Tinn.ini and ReadMe.txt
+        ..\Tinn-R\ini\colors     : customColors.ini and ReadMe.txt
+        ..\Tinn-R\ini\syntax     : C#.ini, C++.ini, ... , XML.ini and ReadMe.txt;
+        ..\Tinn-R\ini\syntax bkp : temporary syntax file and ReadMe.txt;
+        ..\Tinn-R\syntax         : deplate.xml, txt2tags.xml and ReadMe.txt.
+        ..\Tinn-R\temp           : temporary files.
+      \end{verbatim}
+    \end{footnotesize}
+
+\end{itemize}
+
+\begin{footnotesize}
+  \begin{quotation}
+    So, the old backups will not be compatible anymore with this and future
+    versions. This version will recognize the basic old system configurations,
+    but not all syntax preferences. Sorry for the inconvenience, but, it was
+    necessary. From now on, Tinn-R will make real system (all ini files)
+    backup of your settings and preferences.
+  \end{quotation}
+\end{footnotesize}
+
+\begin{itemize}
+  \item Two useful tools for file conversion were added:
+    \htmladdnormallink{deplate}{http://deplate.sourceforge.net/index.php}
+    and
+    \htmladdnormallink{txt2tags}{http://txt2tags.sourceforge.net}.
+    For deplate, the extension \texttt{.dlpt} was proposed, and for txt2tags
+    Tinn-R recognizes \texttt{.t2t}. The basic highlighters, based on XML,
+    were proposed for both. \texttt{We hope users can help us in the
+      development}. Also, the interface for syntax colors preferences for
+    both are different from the already known Tinn-R interface. So, please
+    consider that it is working nicely, but that it will be temporary.
+  \item Tinn-R now enables you to compile \texttt{LaTeX} files with
+    \htmladdnormallink{MikTeX}{http://www.miktex.org} and view the
+    \texttt{DVI} and \texttt{PDF} results (Yap and Acrobat) and also
+    to see \texttt{HTML} files in your preferred browser starting from
+    Tinn-R.
+  \item Application options interface was reworked. It now enables you
+    to set the basic preferences for file conversion, file compilation
+    and viewers.
+  \item As a consequence the \textit{Tools} menu and toolbar have new
+    options to file conversion, compilations and file view.
+  \item All help files were changed from '.txt' to '.html' using the
+    new txt2tags tool inside Tinn-R: we hope you like the new resources.
+  \item Several parts of the source code were optimized.
+  \item Menu \textit{Web} was reworked.
+  \item Menu \textit{Help} was reworked.
+\end{itemize}
+
+
+\subsection{1.18.3.0 (Mar/16/2006)}
+
+\begin{itemize}
+  \item The structure of the Tinn-R ini files was changed:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        ..\Tinn-R                : ReadMe.txt file;
+        ..\Tinn-R\data           : dbRcard.dbf, dbRcard.dbt, dbRCard.ndx, dbRtip.dbf,
+        dbRtip.dbt, dbRTip.ndx and ReadMe.txt files;
+        ..\Tinn-R\ini            : Shortcuts.tinn, Tinn.ini and ReadMe.txt
+        ..\Tinn-R\ini\colors     : customColors.ini and ReadMe.txt
+        ..\Tinn-R\ini\syntax     : C#.ini, C++.ini, ... , XML.ini and ReadMe.txt;
+        ..\Tinn-R\ini\syntax bkp : temporary syntax file and ReadMe.txt;
+        ..\Tinn-R\temp           : temporary files.
+      \end{verbatim}
+    \end{footnotesize}
+
+\end{itemize}
+
+\begin{footnotesize}
+  \begin{quotation}
+    Therefore, old backups will not be compatible with this and next versions anymore.
+    This version will recognizes the basic old system configurations, but not
+    the syntax preferences. Sorry for the inconvenience, but they were necessary.
+    From now on, Tinn-R will make real system (all ini files) backup of your
+    settings and preferences.
+  \end{quotation}
+\end{footnotesize}
+
+\begin{itemize}
+  \item \textit{Syntax color preferences} interface was reworked and
+    it has new options.
+  \item Tinn-R has three multi-highlighters: Sweave, HTMLcomplex and
+    PHPcomplex:
+    \begin{enumerate}
+      \item Sweave       = TeX  \& \RR{}
+      \item HTML complex = HTML \& JavaScript
+      \item PHP complex  = HTML \& JavaScript \& PHP
+    \end{enumerate}
+\end{itemize}
+
+\begin{footnotesize}
+  \begin{quotation}
+    These highlighters have no priorities when you set the syntax color
+    preferences. Thus, if you change the color preferences of any of
+    these multi-highlighters (Sweave, HTML complex and PHP complex) these
+    settings will be valid only in the current Tinn-R session and will
+    not be saved when Tinn-R is closed. So, if you want to make permanent
+    changes, set the  preferences from all simple highlighters (R, TeX,
+    HTML, JavaScript and PHP).
+  \end{quotation}
+\end{footnotesize}
+
+\begin{itemize}
+  \item Menu \textit{Option/Syntax} was reworked.
+  \item A lot of the source code was optimized.
+  \item All Tinn-R color dialogs were reworked and they
+    automatically save and recover all preferred colors.
+\end{itemize}
+
+
+\subsection{1.18.2.1 (Mar/08/2006)}
+
+\begin{itemize}
+  \item Some aspects of \textit{Syntax color preferences} interface
+    were optimized.
+  \item \textit{Replace text} and \textit{Search text} interface now
+    recognize if more than one text line was selected and set the
+    option \textit{Selected text only} automatically.
+\end{itemize}
+
+
+\subsection{1.18.2.0 (Mar/06/2006)}
+
+\begin{itemize}
+  \item Now Tinn-R has three multi-highlighters: Sweave, HTMLcomplex
+    and PHPcomplex:
+    \begin{enumerate}
+      \item Sweave      = TeX  \& \RR{}
+      \item HTMLcomplex = HTML \& JavaScript
+      \item PHPcomplex  = HTML \& JavaScript \& PHP
+    \end{enumerate}
+\end{itemize}
+
+\begin{footnotesize}
+  \begin{quotation}
+    These highlighters have no priorities when you set the
+    syntax color preferences. Thus, if you change color preferences of
+    any of these simple highlighters (Sweave, HTMLcomplex or PHPcomplex) these
+    settings will be valid only in the current Tinn-R session and will not be
+    saved when Tinn-R is closed. So, if you want to make permanent changes, set
+    the preferences of all these simple highlighters (TeX, \RR, HTML, JavaScript
+    and PHP) from the multi-highlighters (Sweave, HTMLcomplex and PHPcomplex)
+    respectively.
+  \end{quotation}
+\end{footnotesize}
+
+\begin{itemize}
+  \item Several parts of the source code were optimized.
+  \item \textit{Tools/Project} interface was reworked; now it has new resources.
+\end{itemize}
+
+
+\subsection{1.18.1.10 (Feb/18/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with Sweave highlighter related to color preferences
+        was fixed. In fact, Sweave highlighter is a multi-highlighter made
+        from prior \RR{} and TeX highlighters. So, if you set the color
+        of the background to all TeX elements (comment, space, etc) with
+        the same color (gray for example), you can get the Sweave syntax with
+        two background colors: one for TeX (gray) and another to \RR{} (white).
+      \item A small bug with \textit{View/Line numbers} was fixed.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{1.18.1.9 (Feb/18/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug with menu \textit{Edit/Undo} and \textit{Edit/Redo}
+        was fixed. Many thanks to users for pointing this out.
+      \item A small bug with menu \textit{Edit/Undo} and \textit{Edit/Redo}
+        was fixed. Many thanks to users for pointing this out.
+    \end{itemize}
+  \item Sweave syntax highlighter was added to Tinn-R with .rnw and .snw
+    extensions. For Tinn-R the delimiters are:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        >>=  start a R block
+        @    close it.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item Sweave provides a flexible framework for mixing text and S code
+    for automatic document generation. A single source file contains both
+    documentation text and S code, which are then woven into a final
+    document containing:
+    \begin{enumerate}
+      \item The documentation text together with
+      \item The S code and/or
+      \item The output of the code (text, graphs) by running the S code
+        through an S engine like R.
+    \end{enumerate}
+\end{itemize}
+
+\begin{footnotesize}
+  \begin{quotation}
+    Hence, the full power of LaTeX (for high-quality typesetting) and S (for data
+    analysis) can be used simultaneously. For more information see \texttt{?Sweave}
+    from \RR{}.
+  \end{quotation}
+\end{footnotesize}
+
+\begin{itemize}
+  \item All combo-box related with files and extensions were reworked
+    and now they are simpler.
+\end{itemize}
+
+
+\subsection{1.18.1.8 (Feb/12/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bug with \textit{Copy} of pop-up menu \textit{R card}
+        was fixed.
+      \item A couple of small bugs (pointed out by users) were fixed.
+    \end{itemize}
+  \item Main menu \textit{Help} and \textit{Web} were reworked.
+  \item Tinn-R and SciViews-R GUI performance was enhanced.
+  \item Small correction with \textit{R explorer} interface
+    related to enabled/disabled options.
+  \item Two new options were added to menus \textit{R} and \textit{R toolbar}:
+    \textit{Edit} and \textit{Fix}. These options enable
+    you to edit or to fix \RR{} objects (if they exist in the \RR{}
+    environment).
+\end{itemize}
+
+
+\subsection{1.18.1.7 (Jan/14/2006)}
+
+\begin{itemize}
+  \item Small correction with \textit{R card} and \textit{R explorer}
+    interface related to enabled/disabled options.
+\end{itemize}
+
+
+\subsection{1.18.1.6 (Jan/10/2006)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bugs pointed out by users were fixed. Many thanks users!
+    \end{itemize}
+  \item A new option \textit{GUI Wiki} was added to menu
+    \textit{Web/R-information on line}. This Wiki was designed mainly
+    to deal with \RR{} beginners problems. Although we
+    would like to emphasize the use \RR{} GUIs (Graphical User
+    Interfaces), this Wiki is not restricted to those GUIs: one
+    can also deal with command-line approaches. Thus, the main idea is
+    to have material contributed by both beginners, and by
+    more advanced \RR{} users, that will help novices or casual
+    R users.
+  \item In menus \textit{R} and \textit{R toolbar} the position of
+    the buttons was a little changed for a more logical arrangement;
+    additionally, some icons were changed and a new and very useful option
+    was added: \textit{Example}.
+  \item Print/preview, \RR{} explorer and \RR{} card Interfaces
+    were reworked.
+  \item Under TCP/IP some functions to \textit{Controlling R} were
+    reworked, which are now more user friendly.
+  \item Horizontal and vertical splits were deeply reworked.
+    Now they are more user friendly. In consequence, the main menu \textit{View}
+    was changed.
+  \item The pop-up menu of the open files was enhanced and two new
+    options were added: \textit{Close all} and \textit{Close others}.
+    The \textit{Close others} was also added to the Main menu \textit{File}.
+    The first enables you to close all files and the second, all files except
+    the active (current) one. Please note that both will be enabled only if
+    two or more files are open.
+  \item A lot of procedures and functions were optimized.
+\end{itemize}
+
+
+\subsection{1.18.1.5 (Jan/01/2006)}
+
+\begin{itemize}
+  \item A Tinn-R card, \textit{Help/Tinn-R card (PDF)}, was added
+    to the project. Many thanks to \texttt{Suresh Krishna}.
+  \item New interface/options for printing, which now enables you to
+    print preview with new resources. In consequence, menu
+    \textit{File/Print preview} was removed.
+\end{itemize}

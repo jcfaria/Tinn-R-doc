@@ -1,0 +1,540 @@
+\indexentry{overview|hyperpage}{1}
+\indexentry{overview!quick start|hyperpage}{2}
+\indexentry{overview!what is Tinn-R?|hyperpage}{2}
+\indexentry{overview!why Tinn-R?|hyperpage}{3}
+\indexentry{overview!what do you get?|hyperpage}{4}
+\indexentry{overview!bug reports|hyperpage}{6}
+\indexentry{configuration|hyperpage}{10}
+\indexentry{installation|hyperpage}{10}
+\indexentry{Rgui|hyperpage}{14}
+\indexentry{Rterm|hyperpage}{14}
+\indexentry{debugging|hyperpage}{15}
+\indexentry{speller|hyperpage}{15}
+\indexentry{DVI search|hyperpage}{15}
+\indexentry{Miktex|hyperpage}{15}
+\indexentry{Ruby|hyperpage}{17}
+\indexentry{Deplate|hyperpage}{17}
+\indexentry{Python|hyperpage}{19}
+\indexentry{Txt2tags|hyperpage}{19}
+\indexentry{keyboard shortcuts|hyperpage}{21}
+\indexentry{keyboard shortcuts!R interface|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!set|hyperpage}{21}
+\indexentry{keywords!set|hyperpage}{21}
+\indexentry{keywords!set|hyperpage}{21}
+\indexentry{keywords!any|hyperpage}{21}
+\indexentry{keyboard shortcuts!vizualization|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!optimize|hyperpage}{21}
+\indexentry{keywords!R|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!all|hyperpage}{21}
+\indexentry{keywords!show|hyperpage}{21}
+\indexentry{keywords!seq|hyperpage}{21}
+\indexentry{keywords!page|hyperpage}{21}
+\indexentry{keywords!seq|hyperpage}{21}
+\indexentry{keywords!page|hyperpage}{21}
+\indexentry{keywords!text|hyperpage}{21}
+\indexentry{keyboard shortcuts!navigation|hyperpage}{21}
+\indexentry{keyboard shortcuts!search/replace and go|hyperpage}{22}
+\indexentry{keywords!R|hyperpage}{22}
+\indexentry{keyboard shortcuts!function keys|hyperpage}{22}
+\indexentry{keywords!on|hyperpage}{22}
+\indexentry{keywords!structure|hyperpage}{22}
+\indexentry{keywords!R|hyperpage}{22}
+\indexentry{keywords!all|hyperpage}{22}
+\indexentry{keywords!all|hyperpage}{22}
+\indexentry{keywords!objects|hyperpage}{22}
+\indexentry{keywords!all|hyperpage}{22}
+\indexentry{keywords!R|hyperpage}{22}
+\indexentry{keyboard shortcuts!edition|hyperpage}{22}
+\indexentry{keywords!C|hyperpage}{22}
+\indexentry{keywords!comment|hyperpage}{22}
+\indexentry{keywords!all|hyperpage}{22}
+\indexentry{keywords!or|hyperpage}{22}
+\indexentry{keywords!replace|hyperpage}{22}
+\indexentry{keywords!or|hyperpage}{22}
+\indexentry{keywords!replace|hyperpage}{22}
+\indexentry{keywords!all|hyperpage}{22}
+\indexentry{keywords!C|hyperpage}{22}
+\indexentry{keywords!I|hyperpage}{22}
+\indexentry{keyboard shortcuts!marks|hyperpage}{22}
+\indexentry{keywords!numeric|hyperpage}{22}
+\indexentry{keywords!numeric|hyperpage}{22}
+\indexentry{keyboard shortcuts!project|hyperpage}{23}
+\indexentry{keywords!file|hyperpage}{23}
+\indexentry{keywords!file|hyperpage}{23}
+\indexentry{keywords!or|hyperpage}{23}
+\indexentry{keywords!file|hyperpage}{23}
+\indexentry{keyboard shortcuts!R script edition|hyperpage}{23}
+\indexentry{keywords!numeric|hyperpage}{23}
+\indexentry{keywords!numeric|hyperpage}{23}
+\indexentry{keywords!numeric|hyperpage}{23}
+\indexentry{keywords!R|hyperpage}{23}
+\indexentry{keywords!break|hyperpage}{23}
+\indexentry{keyboard shortcuts!selection|hyperpage}{23}
+\indexentry{keywords!all|hyperpage}{23}
+\indexentry{keywords!C|hyperpage}{23}
+\indexentry{keywords!set|hyperpage}{23}
+\indexentry{keywords!mode|hyperpage}{23}
+\indexentry{keywords!set|hyperpage}{23}
+\indexentry{keywords!mode|hyperpage}{23}
+\indexentry{keywords!set|hyperpage}{23}
+\indexentry{keywords!mode|hyperpage}{23}
+\indexentry{keyboard shortcuts!compilation|hyperpage}{23}
+\indexentry{keywords!D|hyperpage}{23}
+\indexentry{keywords!single|hyperpage}{23}
+\indexentry{keywords!single|hyperpage}{23}
+\indexentry{keywords!D|hyperpage}{23}
+\indexentry{keyboard shortcuts!conversion|hyperpage}{23}
+\indexentry{keywords!system|hyperpage}{23}
+\indexentry{keywords!default|hyperpage}{23}
+\indexentry{keywords!browser|hyperpage}{23}
+\indexentry{keyboard shortcuts!main menu|hyperpage}{24}
+\indexentry{keywords!I|hyperpage}{24}
+\indexentry{keywords!R|hyperpage}{24}
+\indexentry{keywords!R|hyperpage}{24}
+\indexentry{keywords!D|hyperpage}{24}
+\indexentry{keyboard shortcuts!file menu|hyperpage}{24}
+\indexentry{keywords!file|hyperpage}{24}
+\indexentry{keywords!file|hyperpage}{24}
+\indexentry{keywords!file|hyperpage}{24}
+\indexentry{keywords!file|hyperpage}{24}
+\indexentry{keywords!R|hyperpage}{24}
+\indexentry{keywords!file|hyperpage}{24}
+\indexentry{keywords!all|hyperpage}{24}
+\indexentry{keyboard shortcuts!edit|hyperpage}{24}
+\indexentry{keywords!C|hyperpage}{24}
+\indexentry{keywords!all|hyperpage}{24}
+\indexentry{keywords!C|hyperpage}{24}
+\indexentry{keywords!comment|hyperpage}{24}
+\indexentry{keywords!all|hyperpage}{24}
+\indexentry{keyboard shortcuts!format|hyperpage}{24}
+\indexentry{keywords!R|hyperpage}{24}
+\indexentry{keywords!file|hyperpage}{24}
+\indexentry{keywords!or|hyperpage}{24}
+\indexentry{keywords!I|hyperpage}{24}
+\indexentry{keyboard shortcuts!marks|hyperpage}{25}
+\indexentry{keywords!numeric|hyperpage}{25}
+\indexentry{keywords!numeric|hyperpage}{25}
+\indexentry{keywords!all|hyperpage}{25}
+\indexentry{keyboard shortcuts!insert|hyperpage}{25}
+\indexentry{keywords!I|hyperpage}{25}
+\indexentry{keyboard shortcuts!search|hyperpage}{25}
+\indexentry{keywords!text|hyperpage}{25}
+\indexentry{keywords!R|hyperpage}{25}
+\indexentry{keywords!text|hyperpage}{25}
+\indexentry{keyboard shortcuts!options|hyperpage}{25}
+\indexentry{keywords!C|hyperpage}{25}
+\indexentry{keywords!set|hyperpage}{25}
+\indexentry{keywords!mode|hyperpage}{25}
+\indexentry{keywords!set|hyperpage}{25}
+\indexentry{keywords!mode|hyperpage}{25}
+\indexentry{keywords!set|hyperpage}{25}
+\indexentry{keywords!mode|hyperpage}{25}
+\indexentry{keyboard shortcuts!tools|hyperpage}{25}
+\indexentry{keywords!D|hyperpage}{25}
+\indexentry{keywords!single|hyperpage}{25}
+\indexentry{keywords!single|hyperpage}{25}
+\indexentry{keywords!D|hyperpage}{25}
+\indexentry{keywords!system|hyperpage}{25}
+\indexentry{keywords!default|hyperpage}{25}
+\indexentry{keywords!browser|hyperpage}{25}
+\indexentry{keyboard shortcuts!R menu|hyperpage}{26}
+\indexentry{keywords!set|hyperpage}{26}
+\indexentry{keywords!set|hyperpage}{26}
+\indexentry{keywords!set|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!optimize|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keyboard shortcuts!view|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!optimize|hyperpage}{26}
+\indexentry{keywords!R|hyperpage}{26}
+\indexentry{keywords!set|hyperpage}{26}
+\indexentry{keywords!set|hyperpage}{26}
+\indexentry{keywords!set|hyperpage}{26}
+\indexentry{keywords!all|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keywords!show|hyperpage}{26}
+\indexentry{keyboard shortcuts!call tip|hyperpage}{26}
+\indexentry{keywords!D|hyperpage}{26}
+\indexentry{keywords!Q|hyperpage}{26}
+\indexentry{keyboard shortcuts!code completion|hyperpage}{26}
+\indexentry{keywords!D|hyperpage}{26}
+\indexentry{keywords!Q|hyperpage}{26}
+\indexentry{keyboard shortcuts!R explorer|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!environment|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!or|hyperpage}{27}
+\indexentry{keyboard shortcuts!alphabetical list|hyperpage}{27}
+\indexentry{keyboard shortcuts!ALT Keys|hyperpage}{27}
+\indexentry{keywords!C|hyperpage}{27}
+\indexentry{keywords!comment|hyperpage}{27}
+\indexentry{keywords!D|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!I|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!R|hyperpage}{27}
+\indexentry{keywords!show|hyperpage}{27}
+\indexentry{keywords!all|hyperpage}{27}
+\indexentry{keyboard shortcuts!CTRL keys|hyperpage}{28}
+\indexentry{keywords!numeric|hyperpage}{28}
+\indexentry{keywords!or|hyperpage}{28}
+\indexentry{keywords!replace|hyperpage}{28}
+\indexentry{keywords!or|hyperpage}{28}
+\indexentry{keywords!replace|hyperpage}{28}
+\indexentry{keywords!numeric|hyperpage}{28}
+\indexentry{keywords!numeric|hyperpage}{28}
+\indexentry{keywords!all|hyperpage}{28}
+\indexentry{keywords!D|hyperpage}{28}
+\indexentry{keywords!single|hyperpage}{28}
+\indexentry{keywords!set|hyperpage}{28}
+\indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!single|hyperpage}{28}
+\indexentry{keywords!set|hyperpage}{28}
+\indexentry{keywords!set|hyperpage}{28}
+\indexentry{keywords!all|hyperpage}{28}
+\indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!all|hyperpage}{28}
+\indexentry{keywords!C|hyperpage}{28}
+\indexentry{keywords!D|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!environment|hyperpage}{28}
+\indexentry{keywords!any|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!break|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!file|hyperpage}{28}
+\indexentry{keywords!or|hyperpage}{28}
+\indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!optimize|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!I|hyperpage}{28}
+\indexentry{keywords!file|hyperpage}{28}
+\indexentry{keywords!file|hyperpage}{28}
+\indexentry{keywords!numeric|hyperpage}{28}
+\indexentry{keywords!file|hyperpage}{28}
+\indexentry{keywords!Q|hyperpage}{28}
+\indexentry{keywords!R|hyperpage}{28}
+\indexentry{keywords!text|hyperpage}{28}
+\indexentry{keywords!file|hyperpage}{28}
+\indexentry{keywords!seq|hyperpage}{28}
+\indexentry{keywords!page|hyperpage}{28}
+\indexentry{keywords!file|hyperpage}{28}
+\indexentry{keywords!seq|hyperpage}{29}
+\indexentry{keywords!page|hyperpage}{29}
+\indexentry{keywords!require|hyperpage}{29}
+\indexentry{keyboard shortcuts!DEL key|hyperpage}{29}
+\indexentry{keywords!or|hyperpage}{29}
+\indexentry{keywords!file|hyperpage}{29}
+\indexentry{keyboard shortcuts!END key|hyperpage}{29}
+\indexentry{keyboard shortcuts!function + 1:12|hyperpage}{29}
+\indexentry{keywords!on|hyperpage}{29}
+\indexentry{keywords!structure|hyperpage}{29}
+\indexentry{keywords!R|hyperpage}{29}
+\indexentry{keywords!all|hyperpage}{29}
+\indexentry{keywords!all|hyperpage}{29}
+\indexentry{keywords!objects|hyperpage}{29}
+\indexentry{keywords!all|hyperpage}{29}
+\indexentry{keywords!R|hyperpage}{29}
+\indexentry{keyboard shortcuts!HOME key|hyperpage}{29}
+\indexentry{keyboard shortcuts!SHIFT keys|hyperpage}{30}
+\indexentry{keywords!D|hyperpage}{30}
+\indexentry{keywords!C|hyperpage}{30}
+\indexentry{keywords!set|hyperpage}{30}
+\indexentry{keywords!mode|hyperpage}{30}
+\indexentry{keywords!D|hyperpage}{30}
+\indexentry{keywords!R|hyperpage}{30}
+\indexentry{keywords!or|hyperpage}{30}
+\indexentry{keywords!I|hyperpage}{30}
+\indexentry{keywords!file|hyperpage}{30}
+\indexentry{keywords!set|hyperpage}{30}
+\indexentry{keywords!mode|hyperpage}{30}
+\indexentry{keywords!set|hyperpage}{30}
+\indexentry{keywords!mode|hyperpage}{30}
+\indexentry{keywords!numeric|hyperpage}{30}
+\indexentry{keywords!Q|hyperpage}{30}
+\indexentry{keywords!R|hyperpage}{30}
+\indexentry{keywords!file|hyperpage}{30}
+\indexentry{keywords!all|hyperpage}{30}
+\indexentry{keywords!text|hyperpage}{30}
+\indexentry{keywords!system|hyperpage}{30}
+\indexentry{keywords!default|hyperpage}{30}
+\indexentry{keywords!browser|hyperpage}{30}
+\indexentry{installation!Tinn-R|hyperpage}{31}
+\indexentry{installation!getting last version|hyperpage}{31}
+\indexentry{installation!source code|hyperpage}{33}
+\indexentry{installation!saving preferences|hyperpage}{33}
+\indexentry{installation!starting GUI|hyperpage}{35}
+\indexentry{installation!default editor|hyperpage}{35}
+\indexentry{installation!Emacs|hyperpage}{35}
+\indexentry{installation!WinEdt|hyperpage}{35}
+\indexentry{installation!triggers|hyperpage}{36}
+\indexentry{installation!sourceforge|hyperpage}{37}
+\indexentry{hotkeys|hyperpage}{38}
+\indexentry{hotkeys!defining hotkeys|hyperpage}{38}
+\indexentry{hotkeys!shortcut for cycling|hyperpage}{39}
+\indexentry{hotkeys!column mode|hyperpage}{39}
+\indexentry{graphical debugger|hyperpage}{40}
+\indexentry{tools panel|hyperpage}{40}
+\indexentry{copy and paste|hyperpage}{40}
+\indexentry{focus control|hyperpage}{41}
+\indexentry{color!preferences|hyperpage}{42}
+\indexentry{marked blocks|hyperpage}{43}
+\indexentry{find errors in my script using Rterm interface|hyperpage}{43}
+\indexentry{comunication between Tinn-R and Rgui freeze|hyperpage}{43}
+\indexentry{application options|hyperpage}{46}
+\indexentry{application options|hyperpage}{46}
+\indexentry{application options!main|hyperpage}{46}
+\indexentry{application options!R|hyperpage}{47}
+\indexentry{application options!processing|hyperpage}{47}
+\indexentry{application options!processing conversion|hyperpage}{47}
+\indexentry{application options!processing LaTeX|hyperpage}{50}
+\indexentry{editor options|hyperpage}{51}
+\indexentry{editor options!display|hyperpage}{51}
+\indexentry{editor options!advanced|hyperpage}{52}
+\indexentry{editor options!keystrokes|hyperpage}{53}
+\indexentry{selection mode|hyperpage}{54}
+\indexentry{selection mode!normal|hyperpage}{54}
+\indexentry{selection mode!line|hyperpage}{55}
+\indexentry{selection mode!column|hyperpage}{55}
+\indexentry{color!highlighters|hyperpage}{56}
+\indexentry{shortcuts|hyperpage}{58}
+\indexentry{shortcuts!customization|hyperpage}{58}
+\indexentry{hotkeys|hyperpage}{59}
+\indexentry{Rterm!interface|hyperpage}{60}
+\indexentry{SynEdit|hyperpage}{60}
+\indexentry{IO Interface|hyperpage}{61}
+\indexentry{Rterm!Log|hyperpage}{63}
+\indexentry{tools|hyperpage}{64}
+\indexentry{tools!interface|hyperpage}{64}
+\indexentry{tools!misc|hyperpage}{64}
+\indexentry{tools!markup|hyperpage}{66}
+\indexentry{tools!markup txt2tags|hyperpage}{66}
+\indexentry{tools!markup \LaTeX|hyperpage}{66}
+\indexentry{tools!results|hyperpage}{66}
+\indexentry{tools!results inilog|hyperpage}{67}
+\indexentry{tools interface!search|hyperpage}{68}
+\indexentry{tools interface!spell|hyperpage}{68}
+\indexentry{tools interface!database|hyperpage}{69}
+\indexentry{R!explorer|hyperpage}{70}
+\indexentry{R!explorer|hyperpage}{71}
+\indexentry{R!card|hyperpage}{71}
+\indexentry{R!mirror|hyperpage}{72}
+\indexentry{filetabs|hyperpage}{74}
+\indexentry{toolsbar|hyperpage}{75}
+\indexentry{toolsbar!showhide|hyperpage}{75}
+\indexentry{toolsbar!disposition|hyperpage}{75}
+\indexentry{find and replace|hyperpage}{77}
+\indexentry{search!in files|hyperpage}{79}
+\indexentry{search!case sensitivity|hyperpage}{79}
+\indexentry{search!regular expressions|hyperpage}{79}
+\indexentry{tools!database|hyperpage}{81}
+\indexentry{tools!shortcuts|hyperpage}{81}
+\indexentry{completion|hyperpage}{83}
+\indexentry{regular expressions|hyperpage}{85}
+\indexentry{regular expressions!simple matches|hyperpage}{85}
+\indexentry{regular expressions!escape sequences|hyperpage}{85}
+\indexentry{regular expressions!character classes|hyperpage}{86}
+\indexentry{metacharacters|hyperpage}{87}
+\indexentry{metacharacters!line separators|hyperpage}{87}
+\indexentry{metacharacters!predefined classes|hyperpage}{87}
+\indexentry{metacharacters!word boundaries|hyperpage}{88}
+\indexentry{metacharacters!iterators|hyperpage}{88}
+\indexentry{metacharacters!alternatives|hyperpage}{89}
+\indexentry{metacharacters!subexpressions|hyperpage}{89}
+\indexentry{metacharacters!backreferences|hyperpage}{90}
+\indexentry{metacharacters!backreferences|hyperpage}{90}
+\indexentry{metacharacters!find examples|hyperpage}{90}
+\indexentry{file menu|hyperpage}{94}
+\indexentry{file menu!template|hyperpage}{94}
+\indexentry{template!R script|hyperpage}{94}
+\indexentry{template!R html|hyperpage}{94}
+\indexentry{template!R markdown|hyperpage}{94}
+\indexentry{template!R noweb|hyperpage}{94}
+\indexentry{template!R doc|hyperpage}{95}
+\indexentry{file menu!copy to clipboard|hyperpage}{95}
+\indexentry{project menu|hyperpage}{96}
+\indexentry{project menu!project|hyperpage}{96}
+\indexentry{project menu!group|hyperpage}{96}
+\indexentry{project menu!file|hyperpage}{97}
+\indexentry{edit menu|hyperpage}{98}
+\indexentry{edit menu!copy formatted|hyperpage}{98}
+\indexentry{format menu|hyperpage}{99}
+\indexentry{format menu!selection|hyperpage}{99}
+\indexentry{format menu!word|hyperpage}{99}
+\indexentry{marks menu|hyperpage}{100}
+\indexentry{marks menu!block|hyperpage}{100}
+\indexentry{insert menu|hyperpage}{101}
+\indexentry{insert menu!LaTeX|hyperpage}{101}
+\indexentry{insert menu!LaTeX math|hyperpage}{101}
+\indexentry{insert menu!LaTeX header|hyperpage}{101}
+\indexentry{insert menu!LaTeX format|hyperpage}{102}
+\indexentry{insert menu!LaTeX font|hyperpage}{102}
+\indexentry{search menu|hyperpage}{104}
+\indexentry{options menu|hyperpage}{105}
+\indexentry{options menu!syntax|hyperpage}{105}
+\indexentry{options menu!syntax set|hyperpage}{106}
+\indexentry{options menu!default|hyperpage}{107}
+\indexentry{selection mode menu|hyperpage}{107}
+\indexentry{encoding|hyperpage}{108}
+\indexentry{encoding!ANSI|hyperpage}{108}
+\indexentry{encoding!UTF-8|hyperpage}{108}
+\indexentry{encoding!UTF16-LE|hyperpage}{108}
+\indexentry{encoding!UTF16-BE|hyperpage}{108}
+\indexentry{encoding!ANSI|hyperpage}{108}
+\indexentry{encoding!UTF-8|hyperpage}{108}
+\indexentry{encoding!UTF16-LE|hyperpage}{108}
+\indexentry{encoding!UTF16-BE|hyperpage}{108}
+\indexentry{delimiter|hyperpage}{108}
+\indexentry{delimiter!WIN (CR+LF)|hyperpage}{108}
+\indexentry{delimiter!MAC (CR)|hyperpage}{108}
+\indexentry{delimiter!UNIX (LF)|hyperpage}{108}
+\indexentry{tools menu|hyperpage}{109}
+\indexentry{tools menu!processing|hyperpage}{109}
+\indexentry{tools menu!processing conversion|hyperpage}{109}
+\indexentry{tools menu!processing conversion deplate|hyperpage}{110}
+\indexentry{tools menu!processing Txt2tags|hyperpage}{111}
+\indexentry{tools menu!processing conversion compilation|hyperpage}{112}
+\indexentry{tools menu!processing viewer|hyperpage}{112}
+\indexentry{tools menu!processing viewer dvi|hyperpage}{112}
+\indexentry{tools menu!processing viewer pdf|hyperpage}{113}
+\indexentry{tools menu!processing viewer html|hyperpage}{113}
+\indexentry{tools!database|hyperpage}{113}
+\indexentry{tools!backup|hyperpage}{113}
+\indexentry{tools!restore|hyperpage}{114}
+\indexentry{tools!macro|hyperpage}{114}
+\indexentry{tools!sort|hyperpage}{114}
+\indexentry{R menu|hyperpage}{115}
+\indexentry{R menu!start|hyperpage}{115}
+\indexentry{R menu!close|hyperpage}{115}
+\indexentry{R menu!connections|hyperpage}{115}
+\indexentry{R menu!Rterm|hyperpage}{116}
+\indexentry{R menu!Rterm file|hyperpage}{116}
+\indexentry{R menu!Rterm file IO|hyperpage}{116}
+\indexentry{R menu!Rterm file log|hyperpage}{116}
+\indexentry{R menu!Rterm clear|hyperpage}{117}
+\indexentry{R menu!Rterm focus|hyperpage}{117}
+\indexentry{R menu!Rterm size|hyperpage}{117}
+\indexentry{R menu!Rterm split|hyperpage}{117}
+\indexentry{R menu!Rterm syntax|hyperpage}{118}
+\indexentry{R menu!Rterm syntax IO|hyperpage}{118}
+\indexentry{R menu!Rterm syntax Log|hyperpage}{118}
+\indexentry{R menu!Rterm wordwrap|hyperpage}{118}
+\indexentry{R menu!Rterm history|hyperpage}{119}
+\indexentry{R menu!Rterm workspace|hyperpage}{119}
+\indexentry{R menu!Rterm fontsize|hyperpage}{119}
+\indexentry{R menu!send|hyperpage}{119}
+\indexentry{Knitr|hyperpage}{120}
+\indexentry{R menu!control|hyperpage}{120}
+\indexentry{R menu!control packages|hyperpage}{121}
+\indexentry{view menu|hyperpage}{122}
+\indexentry{view menu!R|hyperpage}{122}
+\indexentry{view menu!Rterm|hyperpage}{123}
+\indexentry{view menu!Rterm size|hyperpage}{123}
+\indexentry{view menu!Rterm split|hyperpage}{123}
+\indexentry{view menu!Rterm syntax|hyperpage}{123}
+\indexentry{view menu!Rterm syntax IO|hyperpage}{124}
+\indexentry{view menu!Rterm syntax Log|hyperpage}{124}
+\indexentry{view menu!Rterm wordwrap|hyperpage}{124}
+\indexentry{view menu!tools|hyperpage}{124}
+\indexentry{view menu!tools size|hyperpage}{125}
+\indexentry{view menu!tools resources|hyperpage}{125}
+\indexentry{view menu!tools resources misc|hyperpage}{125}
+\indexentry{view menu!tools resources markup|hyperpage}{125}
+\indexentry{view menu!tools resources results|hyperpage}{126}
+\indexentry{view menu!tools resources database|hyperpage}{126}
+\indexentry{view menu!tools resources R|hyperpage}{126}
+\indexentry{view menu!toolbars|hyperpage}{127}
+\indexentry{view menu!tabs|hyperpage}{127}
+\indexentry{view menu!tabs files|hyperpage}{127}
+\indexentry{view menu!tabs tools|hyperpage}{128}
+\indexentry{view menu!tabs Rterm|hyperpage}{128}
+\indexentry{view menu!wordwrap|hyperpage}{128}
+\indexentry{view menu!split|hyperpage}{128}
+\indexentry{view menu!fontsize|hyperpage}{129}
+\indexentry{windows menu|hyperpage}{130}
+\indexentry{web menu|hyperpage}{131}
+\indexentry{web menu!R search|hyperpage}{131}
+\indexentry{web menu!R search selected|hyperpage}{131}
+\indexentry{web menu!S search|hyperpage}{132}
+\indexentry{web menu!S search selected|hyperpage}{132}
+\indexentry{web menu!R information|hyperpage}{132}
+\indexentry{web menu!R GUIs|hyperpage}{133}
+\indexentry{web menu!Tinn-R|hyperpage}{133}
+\indexentry{web menu!statistics|hyperpage}{133}
+\indexentry{web menu!statistics virtual labs|hyperpage}{134}
+\indexentry{web menu!processing|hyperpage}{134}
+\indexentry{help menu|hyperpage}{135}
+\indexentry{user guide|hyperpage}{135}
+\indexentry{ini file|hyperpage}{135}
+\indexentry{recognized words|hyperpage}{135}
+\indexentry{about|hyperpage}{135}
+\indexentry{User list|hyperpage}{135}
+\indexentry{Discussion group|hyperpage}{135}
+\indexentry{help menu!main file conversion|hyperpage}{135}
+\indexentry{secrets|hyperpage}{137}
+\indexentry{secrets!introduction|hyperpage}{138}
+\indexentry{secrets!after installation|hyperpage}{139}
+\indexentry{secrets!visibility|hyperpage}{141}
+\indexentry{secrets!I'm panicking|hyperpage}{142}
+\indexentry{secrets!I'm panicking|hyperpage}{143}
+\indexentry{secrets!appearance|hyperpage}{143}
+\indexentry{secrets!dock|hyperpage}{144}
+\indexentry{secrets!editor options|hyperpage}{145}
+\indexentry{secrets!R|hyperpage}{146}
+\indexentry{Processing|hyperpage}{147}
+\indexentry{Processing!DVI|hyperpage}{147}
+\indexentry{Processing!PDF|hyperpage}{147}
+\indexentry{secrets!colors preference|hyperpage}{149}
+\indexentry{secrets!highlighters preference|hyperpage}{149}
+\indexentry{secrets!tools|hyperpage}{150}
+\indexentry{secrets!project|hyperpage}{150}
+\indexentry{secrets!database|hyperpage}{151}
+\indexentry{secrets!database!shortcuts|hyperpage}{151}
+\indexentry{secrets!database!completion|hyperpage}{151}
+\indexentry{secrets!R|hyperpage}{153}
+\indexentry{secrets!R!explorer|hyperpage}{153}
+\indexentry{secrets!R!card|hyperpage}{154}
+\indexentry{R!mirror|hyperpage}{154}
+\indexentry{R!set mirror|hyperpage}{154}
+\indexentry{R!mirrors|hyperpage}{154}
+\indexentry{secrets!bars|hyperpage}{156}
+\indexentry{secrets!spell checker|hyperpage}{157}
+\indexentry{secrets!split|hyperpage}{158}
+\indexentry{secrets!macros|hyperpage}{159}
+\indexentry{secrets!marks|hyperpage}{159}
+\indexentry{secrets!arrange|hyperpage}{160}
+\indexentry{secrets!active page|hyperpage}{160}
+\indexentry{secrets!tab order|hyperpage}{160}
+\indexentry{R~packages@\textsf  {R}~packages!Hmisc|hyperpage}{174}
+\indexentry{R~functions@\textsf  {R}~functions!help.start|hyperpage}{244}

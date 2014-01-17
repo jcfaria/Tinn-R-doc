@@ -1,0 +1,233 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{./sty/EditusSweave}{}
+
+\RequirePackage{fancyvrb}
+\RequirePackage{upquote}  % force verbatim, verbatim*, verb, and verb* to leave
+                          % ` and ' in their original state.
+
+%-------------------------------------------------------------------------------
+% Sweave
+%-------------------------------------------------------------------------------
+% \DefineVerbatimEnvironment{Sinput}{Verbatim} {
+%  fontsize=\footnotesize,xleftmargin=5mm}%,frame=leftline,framerule=0.5mm,rulecolor=\color{lightgrey}}
+% \DefineVerbatimEnvironment{Soutput}{Verbatim}{
+%  fontsize=\footnotesize,xleftmargin=5mm}%,frame=leftline,framerule=0.5mm,rulecolor=\color{lightgrey}}
+
+\newenvironment{Sinput}{\color{SinColor}\footnotesize\verbatim}{\endverbatim}
+\newenvironment{Soutput}{\color{SoutColor}\footnotesize\verbatim}{\endverbatim}
+
+\fvset{listparameters={\setlength{\topsep}{0pt}}}
+% makes space between Sin and Sout smaller
+
+\newenvironment{codeIndent}
+{\list{}{\listparindent 1pc%
+  \itemindent    \listparindent
+  \rightmargin   \leftmargin
+    \parsep        \z@ \@plus\p@}%
+  \footnotesize%
+\item\relax\noindent\ignorespaces}
+{\endlist}
+
+\newenvironment{Schunk} {
+  \vspace{5pt}
+  \begin{adjustwidth}{2em}{-\overhang}
+    %   \begin{snugshade} % conflict with sidebar
+    %   \begin{shaded}
+    %   \begin{quote} % codeIndent
+  }
+  {
+    %   \end{quote}
+    %  \end{snugshade}
+    %  \end{shaded}
+  \end{adjustwidth}{}{}
+  \vspace{5pt}
+}
+
+\newenvironment{Scode}{
+  \color{SinColor}
+  \begin{Schunk}
+    \begin{alltt}
+      \footnotesize
+      \slshape
+    }
+    {
+    \end{alltt}
+  \end{Schunk}
+}
+
+%% S and R>
+\newcommand{\Slang}{S}
+% \newcommand{\Slang}{\textsf{S}}
+% \newcommand{\RR}{R}
+\newcommand{\RR}{\textsf{R}}
+\newcommand{\Editus}{Editus}
+% \newcommand{\Editus}{\textsf{Editus}}
+\newcommand{\FORTRAN}{FORTRAN}
+% \newcommand{\FORTRAN}{\textsf{FORTRAN}}
+\newcommand{\C}{C}
+% \newcommand{\C}{\textsf{C}}
+
+%% R programming markup
+% \newcommand\code{\bgroup\@codex}
+% \def\@codex#1{{\normalfont\texttt\hyphenchar\font=-1 #1}\egroup}
+
+% \let\env=\texttt
+% \let\command=\texttt
+% \let\code=\texttt
+
+\newcommand{\RfunTitle}[1]{\texttt{#1()}\index{R~functions@\RR~functions!#1}}
+\newcommand{\Rfun}[1]{\texttt{#1()}\index{R~functions@\RR~functions!#1}}
+%\newcommand{\Rfun}[1]{\texttt{\hl{#1()}}\index{R~functions@\RR~functions!#1}}
+\newcommand{\class}[1]{\texttt{#1}\index{R~classes@\RR~classes!#1}}
+\newcommand{\slot}[1]{\texttt{#1}\index{R~slots@\RR~slots!#1}}
+\newcommand{\listentry}[1]{\texttt{#1}}%\index{class!list!#1}}
+\newcommand{\pkg}[1]{\texttt{#1}\index{R~packages@\RR~packages!#1}}
+\newcommand{\dataset}[1]{\texttt{#1}\index{R~data@\RR~data!#1}}
+%\newcommand{\argument}[1]{\texttt{\hl{#1}}\index{R~functions@\RR~functions!arguments!#1}}
+\newcommand{\code}[1]{\texttt{#1}\index{#1}}
+
+\newcommand{\kbd}[1]{{\normalfont\texttt{#1}}}
+\newcommand{\key}[1]{{\normalfont\texttt{\uppercase{#1}}}}
+\newcommand\samp{`\bgroup\@noligs\@sampx}
+\def\@sampx#1{{\normalfont\texttt{#1}}\egroup'}
+\let\option=\samp
+\newcommand{\var}[1]{{\normalfont\textsl{#1}}\index{R~variable@\RR~variable!#1}}
+\newcommand{\file}[1]{{`\normalfont\textsf{#1}'}}
+\newcommand{\dfn}[1]{{\normalfont\textsl{#1}}}
+\newcommand{\acronym}[1]{{\normalfont\textsc{\lowercase{#1}}}}
+\newcommand{\strong}[1]{{\normalfont\fontseries{b}\selectfont #1}}
+
+
+%-------------------------------------------------------------------------------
+% Custom figure environment
+%-------------------------------------------------------------------------------
+\newenvironment{Rfig}{
+  \begin{figure}[pt]
+    \centering
+  }
+  {
+  \end{figure}
+}
+
+% \begin{figure}
+%   \begin{sidecaption}{An illustration}[fig:ill]
+% \centering
+% \includegraphics{...}
+% \end{sidecaption}
+% \end{figure}
+
+%-------------------------------------------------------------------------------
+% Listings: pretty printing source code
+%-------------------------------------------------------------------------------
+\RequirePackage{listings}
+%% DW \renewcommand{\lstlistlistingname}{List of \RR~Code}
+\renewcommand{\lstlistlistingname}{List of Tables}
+%%
+% \renewcommand{\lstlistingname}{Listing}
+\newcommand\indexkeywords[1]{\index{keywords!#1}}
+% \renewcommand*\l@lstlisting[2]{%
+%   \footnotesize\@dottedtocline{1}{1.5em}{3em}{#1}{#2}}%
+
+\lstloadlanguages{R}
+\lstdefinelanguage{Editus}[]{R}{%
+  morekeywords={acf,ar,arima,arima.sim,colMeans,colSums,is.na,is.null,
+    mapply,ms,na.rm,nlmin,replicate,row.names,rowMeans,rowSums,seasonal,
+    sys.time,system.time,ts.plot,which.max,which.min},
+  deletekeywords={c, data, R},
+  alsoletter={.\%},
+  alsoother={:_\$}}
+
+\lstset{
+  language=R,extendedchars=true,
+  basicstyle=\footnotesize\ttfamily,
+  keywordstyle=, %\color{keywordcolor}\bfseries,
+  identifierstyle=, %\color{identifiercolor},
+  commentstyle=, %\color{commentcolor}\textsl,
+  stringstyle=\textsl,
+  backgroundcolor=,%\color{lstbackgroundcolor},
+  % aboveskip=4ex,
+  % belowskip=4ex,
+  % frame=lines,
+  % framerule=0pt, %0.5pt
+  % frame=trbl,
+  % frameround=fftt,
+  captionpos=t,
+  % abovecaptionskip=2ex, %%DW 4ex,
+  % belowcaptionskip=2ex, %%DW 4ex,
+  % columns=fullflexible,
+  breaklines=true,
+  % linewidth=,
+  showstringspaces=false,
+  index=[1][keywords],
+  indexstyle=\indexkeywords,
+  numberbychapter=true,
+  % numbers=left, numberstyle=\tiny, stepnumber=1,
+  fancyvrb=true,
+  % xleftmargin=1.1em,
+  % xrightmargin=-.2\textwidth
+  % xrightmargin=1.1em
+}
+
+\lstnewenvironment{Rfunctions}[1][]{%
+  % \renewcommand{\lstlistingname}{Functions}%
+  \lstset{
+    aboveskip=4ex,
+    belowskip=4ex,
+    stringstyle=,
+    frame=lines, #1}}{}
+% \lstset{frame=lines,float,#1}}{}
+
+
+\lstnewenvironment{Rtables}[1][]{%
+  % \renewcommand{\lstlistingname}{Functions}%
+  \lstset{
+    aboveskip=2ex,
+    belowskip=2ex,
+    stringstyle=,
+    frame=lines, #1}}{}
+% \lstset{frame=lines,float,#1}}{}
+
+\lstnewenvironment{Rparams}[1][]{%
+  % \renewcommand{\lstlistingname}{Parameters}%
+  \lstset{#1}}{}
+
+\lstnewenvironment{Rmethods}[1][]{%
+  % \renewcommand{\lstlistingname}{Methods}%
+  \lstset{#1}}{}
+
+\lstnewenvironment{Rslots}[1][]{%
+  %   \renewcommand{\lstlistingname}{Slots}%
+  \lstset{#1}}{}
+
+\lstnewenvironment{Rargs}[1][]{%
+  %   \renewcommand{\lstlistingname}{Arguments}%
+  \lstset{#1}}{}
+
+\lstnewenvironment{Rconstraints}[1][]{%
+  %   \renewcommand{\lstlistingname}{Constraints}%
+  \lstset{#1}}{}
+
+\lstnewenvironment{Rcode}[1][]{%
+  % \renewcommand{\lstlistingname}{Listing}
+  \lstset{keywordstyle=\color{keywordcolor},
+    identifierstyle=\color{identifiercolor},
+    stringstyle=\color{stringcolor}\textsl,
+    #1}}{}
+% Rcode might need the setting 'float', ie \lstset{float,#1}
+
+\lstnewenvironment{RDataSets}[1][]{
+  %   \renewcommand{\lstlistingname}{Data Sets}
+  \lstset{%frame=lines,
+    #1}}{}
+
+\lstnewenvironment{Rtext}[1][]{%
+  % \renewcommand{\lstlistingname}{Text}%
+  \lstset{frame=lines,framerule=0pt, #1}}{}
+
+% how to add caption and label
+%   [caption={[short caption]Alignment function},label=list:align]
+
+% \lstnewenvironment{Sinput}[1][]{%
+%  \lstset{#1}}{}
+%  \lstnewenvironment{Soutput}[1][]{%
+%   \lstset{#1}}{}

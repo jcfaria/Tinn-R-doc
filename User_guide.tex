@@ -1,0 +1,39 @@
+
+\documentclass[10pt, openright, twoside]{memoir}\setstocksize{23.5cm}{17.5cm}
+\usepackage{./sty/EditusPackages}
+
+\makeindex
+
+\begin{document}
+% --------------------------------------------------------------------
+\frontmatter
+
+\include{./sub_ug/aaaFrontCover}      % Front Cover Page
+\include{./sub_ug/aaaTitle}           % Title Page
+\include{./sub_ug/aaaDedication}      % Dedication Page
+\include{./sub/aaaTableOfContents}    % Table of Contents page
+\include{./sub/aaaListOfFigures}      % List of Figures Page
+\include{./sub/aaaListOfTables}       % List of Listings
+
+% --------------------------------------------------------------------
+\mainmatter
+
+\include{./sub/oneOverview}           % Tinn-R Overview
+\include{./sub/twoBasics}             % Tinn-R Basics
+\include{./sub/threeWorkingWith}      % Working with Tinn-R
+\include{./sub/fourMenuDescription}   % Tinn-R Menu Description
+\include{./sub/fiveSecrets}           % Some secrets for an efficient use
+\include{./sub/sixWhatIsNew}          % What is New
+\include{./sub/appendixRManuals}      % Appendix R Manuals
+\include{./sub/gpl3}                  % GNU licence
+
+% --------------------------------------------------------------------
+\backmatter
+
+\include{./sub/zzzGlossary}           % Glossary Page:
+\include{./sub/zzzCrossRefs}          % Index Cross-References Page
+\include{./sub/zzzIndex}              % Index Page
+\include{./sub/zzzAuthors}            % Authors Page
+\include{./sub/zzzBackCover}          % Back Cover Page
+
+\end{document}

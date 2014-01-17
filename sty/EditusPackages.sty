@@ -1,0 +1,102 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{./sty/EditusPackages}{}
+
+%-------------------------------------------------------------------------------
+% Required Packages
+%-------------------------------------------------------------------------------
+% \RequirePackage[side,ragged]{footmisc}
+
+\RequirePackage[final]{pdfpages}
+\RequirePackage{makeidx}            % allows index generation
+\RequirePackage{graphicx}           % standard LaTeX graphics for figure files
+% \RequirePackage{multicol}           % used for the two-column index
+\RequirePackage{booktabs}
+\RequirePackage{alltt}
+\RequirePackage{url}
+\RequirePackage{textcomp}
+\RequirePackage{xifthen}
+
+%-------------------------------------------------------------------------------
+% Editus packages
+%-------------------------------------------------------------------------------
+\RequirePackage{./sty/EditusColors}
+\RequirePackage{./sty/EditusFonts}
+\RequirePackage{./sty/EditusSweave}
+\RequirePackage{./sty/EditusMemoir}
+\RequirePackage{./sty/EditusHyperref}
+
+%-------------------------------------------------------------------------------
+% natbib
+%-------------------------------------------------------------------------------
+\RequirePackage[
+  authoryear,
+  round,
+  longnamesfirst]{natbib}         % natbib bibliography
+%     \citeindextrue
+
+
+%-------------------------------------------------------------------------------
+% pdfcommment: set to final when typesetting
+%-------------------------------------------------------------------------------
+\RequirePackage[final]{pdfcomment}
+
+%-------------------------------------------------------------------------------
+% Load R library environment
+%-------------------------------------------------------------------------------
+\newenvironment{loadLibrary}{
+  \color{SinColor}
+  \begin{Schunk}
+    \begin{alltt}
+      \footnotesize
+      \slshape
+    }
+    {
+    \end{alltt}
+  \end{Schunk}
+}
+
+%-------------------------------------------------------------------------------
+% Customised captions
+%-------------------------------------------------------------------------------
+
+%% only for listings captions, not figures
+\RequirePackage{caption}
+%\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFont{white}{\color{black}}
+\DeclareCaptionFont{section}{\color{sectionColor}}
+
+
+%\DeclareCaptionFormat{listing}
+%    {\colorbox{CaptionColor}{\parbox{\textwidth}{#1#2#3}}}
+%\DeclareCaptionFormat{listing}
+%    {\colorbox[cmyk]{0.43, 0.35,0.35,0.01}{\parbox{\textwidth}{#1#2#3}}}
+
+\DeclareCaptionFormat{listing}
+{#1#2#3}
+
+\captionsetup[lstlisting]
+{format=listing,labelfont=white,textfont=white,
+  singlelinecheck=false, margin=0pt, font={sc,footnotesize}}
+\captionsetup{font=footnotesize}
+
+% \captionsetup[lstlisting]{singlelinecheck=false, margin=0pt, labelfont=bf}
+
+\captionsetup[figure]{singlelinecheck=false, margin=0pt, labelfont=sc}
+%   labelfont=section}
+
+%-------------------------------------------------------------------------------
+% xwatermark package
+%-------------------------------------------------------------------------------
+%\RequirePackage[
+%        printwatermark=false,
+%        allpages=true,
+%        fontfamily=pag,
+%        color=gray!20,
+%        textmark=DRAFT,
+%        angle=45,
+%        fontsize=4cm,
+%        width=\paperwidth,
+%        fontseries=b,
+%        scale=0.7,
+%        xcoord=0,ycoord=0]
+%        {xwatermark} 

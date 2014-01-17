@@ -1,0 +1,320 @@
+
+\section{Versions released in 2004 (16)}
+\subsection{0.0.9.3 r1.14 beta 9 (Dec/04/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Fixed a bug that caused \RR{} GUI window to shrink or expand to a certain size,
+        whenever code was submitted to Rgui in MDI mode: thanks \texttt{Steven}!
+      \item Small bug with the function SEND FILE fixed when the file is set READ ONLY.
+    \end{itemize}
+  \item For a while, it is strongly recommended to set the BACKGROUND COLOR of ALL SUPPORTED LANGUAGES to WHITE.
+  \item The defaults Delphi dialogs were replaced by a new, free and good suite of components called psvDialogs
+    written by \texttt{Serhiy Perevoznyk}. Thanks \texttt{Serhiy}! So, the Dialogs are now more pretty.
+  \item Add menu \textit{Format/Block/Uncomment first occurrence}.
+  \item Search/Replace was improved with the solution proposed for the 0.0.9.0 r1.09 issue. The user can now work
+    in all windows (even horizontally or vertically splitted): thanks the Tinn Team.
+  \item The user can now work in all window (even horizontally or vertically splitted) for comment/uncomment blocks.
+  \item The syntax selector on file load was reworked.
+  \item Added \textit{C\# highlighter} instead of that mocked up Java one I had been using like a fool.
+\end{itemize}
+
+
+\subsection{0.0.9.2 r1.14 beta 8 (Oct/2004)}
+
+\begin{itemize}
+  \item Menu \textit{R$\backslash$Show} and \textit{Hide \RR{} Toolbar} was eliminated. This option is changed
+    to \textit{View$\backslash$Toolbars$\backslash$R} with others toolbars. It is a more logic place for this option.
+  \item Menu \textit{Editor: line below and top} was replaced by \textit{Editor: Current line to top}.
+    This improves work alternate with \textit{Send: Line to end page} and \textit{Editor: Current line to top}.
+  \item The send line code was improved.
+  \item The component SK donated by MJT Net was replaced by the sndKeys32.pas written by Ken Henderson
+    and adapted for use in Tinn-R. This change impacts all send and controlling \RR{} function.
+\end{itemize}
+
+
+\subsection{0.0.9.1 r1.14 beta 7 (Oct/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Minor bug with menu \textit{R/Controlling R} (enabled/disabled) was corrected.
+    \end{itemize}
+  \item Tinn and Tinn-R can now run together.
+\end{itemize}
+
+
+\subsection{0.0.9.1 r1.14 beta 6 (Sep/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Minor bugs with general appearance (LikeXP, unlike XP) were corrected.
+    \end{itemize}
+  \item Marco de Groot (Mattic Software), old Tinn developer, is the new co-author of the Tinn-R: welcome Marco!
+  \item Backup and restore were reworked: now the user can choose the directory.
+  \item Tinn-R is now more user-friendly to run with R: better \RR{} open/save dialogs.
+  \item Save file interface was reworked: \RR{} files (*.r; *.q) is now the primary option.
+  \item Open file interface was reworked: the three major file extensions are now the first one available:
+    \begin{enumerate}
+      \item \RR{} files (*.r; *.q);
+      \item Text Files (*.txt);
+      \item All files (*.*).
+    \end{enumerate}
+  \item Add menu \textit{Help/FAQ}.
+  \item Delays in large files were corrected: thank you Marco de Groot.
+  \item \textit{About} was reworked: mails of all authors are now included.
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.14 beta 5 (Sep/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A small bug in resizing the gutter (respect to autoSize and bookmarks) was corrected.
+      \item A bug with bracket colors was corrected: it eliminated the bracket background when
+        the active line highlighting is set to off.
+    \end{itemize}
+  \item General stability was improved.
+  \item Appearance was relooked.
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.14 beta 4 (Aug/2004)}
+
+\begin{itemize}
+  \item A tooltip was missing in the \textit{search in files} toolbar button.
+  \item New tools to save/restore configuration files for Tinn-R are now added.
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.14 (Aug/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug when \RR{} and a graph device are maximized and the latter had the
+        focus is now fixed (nothing happened in this case when sending data from
+        Tinn-R to R).
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            Note: Tinn-R 0.0.9.0 r1.13 is now frozen and goes through a wider beta test
+            Tinn-R 0.0.9.0 r1.14 and over are considered development versions; they may
+            possibly show some instabilities during development.
+          \end{verbatim}
+        \end{footnotesize}
+
+    \end{itemize}
+  \item Specific \RR{} hotkeys are now automatically activated/deactivated.
+  \item Hotkeys are now permanently set.
+  \item For everyday work, use Tinn-R 0.0.9.0 r1.13
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.13 (Jul/2004)}
+
+\begin{itemize}
+  \item Two new functions were added both to the \RR{} toolbar and the \RR{} menu:
+    \textit{Print content of selected variable} and \textit{List names of selected variables}.
+    Just experiment with these tools to figure out what they do (for instance,
+    enter \textit{iris} in a .R file edited in Tinn-R and try these two tools while this word is selected).
+  \item The icon for \textit{Help on selected word} was changed, and the \textit{Send file} icon in the \RR{}
+    toolbar now has a transparent background.
+  \item The \RR{} highlight dictionary was updated (about a hundred words were added).
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.12 (Jun/2004)}
+
+\begin{itemize}
+  \item Bracket matching is reworked back to a more classical presentation: match brackets are now
+    presented in bold and in a contrasting color (i.e., red if symbols are in a different color,
+    or blue if symbols are colored in red).
+  \item The prior content of the clipboard is now preserved in all \textit{Send to R} functions.
+  \item Now the \RR{} console is completely cleaned when you use \textit{Clear all} (previously,
+    commands to clear the console where left at the command line).
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.11 (Jun/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Minor bug with match bracket was corrected.
+    \end{itemize}
+  \item On the menu \textit{Options/Application options} it is now possible to indicate if \RR{} resources
+    are visible or not (switch between plain Tinn and Tinn-R).
+  \item The menu \textit{Tinn to R} was renamed \textit{R}.
+  \item Menu \textit{Tools} was reworked.  Tools/Initiate or Close preferred Rgui are now included in the \textit{R} menu.
+  \item \textit{Copy Formatted} was added to the pop-up menu.
+  \item Behavior of the \RR{} Toolbar was improved.
+  \item Automatic match brackets was reworked: current bracket is shown surrounded by a red rectangle and previous match     brackets are shown surrounded by a background symbol color of the specific highlighter (user defined). Thus, if the active line is highlighted (Options/Application options) and the cursor is moved throughout a line of text with some brackets, it is now possible to identify which brackets have already been matched during the cursor move.
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.10 (May/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Bugs with Search/Search in files/[x] Search in directories were corrected.
+    \end{itemize}
+  \item The Window of the results of the Search/Search in files can now be moved.
+  \item Project interface was reformulated and pop-up menu is now available.
+\end{itemize}
+
+
+\subsection{0.0.9.0 r1.09 (Mar/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Minor bugs with ControlBar (on resize for a lesser size that the
+        ControlBar, close application and start new) and View/Toolbar
+        (checked/unchecked) menu was corrected.
+      \item A minor bug (Save/Save as) with associated extensions was corrected.
+      \item A minor bug with hotkeys was corrected.
+      \item A minor bugs with project was corrected.
+      \item A minor bug with tollbar of macro was corrected.
+    \end{itemize}
+  \item Comment/Uncomment block was reformulated. This now work like
+    Tinn-R 0.0.9.0.
+  \item Two new hotkeys (not user configurable) were added:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        <CTRL + ADD> key (numeric keypad)
+        will insert/replace text with the attribution symbol '->';
+
+        <CTRL + SUBTRACT> key (numeric keypad)
+        will insert/replace text with the attribution symbol '<-'.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item Search/Replace was improved. It is possible now to decide if the
+    occurrence will be, or not, replaced.
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        Temporarily, and until a better solution is found, to work properly,
+        if the window is horizontally split the Search/Replace must be  made
+        at the bottom (main) window, because if it's at the top window (secondary)
+        it doesn't question the confirmation to each substitution of the text occurrence.
+        If the window is vertically split, the Search/Replace must be made at the
+        left window (the right window does not question the confirmation to each
+        substitution of the occurrence). For both, any key will synchronize the split windows.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item Now Tinn-R can initiate (Tolls/Initiate ...) and close (Tolls/Close ...)
+    preferred RGui. For the first, the path of preferred RGui must be previously
+    set (Options/Application options).
+  \item A new Tinn to \RR{} option was implemented: \textit{Help selected word}.
+  \item Interface (appearance and icons) was reformulated.
+  \item Tinn-R hotkeys' interface was reformulated. Now it is possible to choose
+    the desired hotkeys to main actions.
+  \item On the menu \textit{Options/Application options} it is possible to choose
+    the appearance to Tinn-R like WinXP.
+  \item It is possible to get the positions of Tinn-R toolbars (preserved) when
+    application exits, and restore the next time it is started.
+  \item On the (Edit/Copy formatted) it is possible to copy the native format
+    and exported it in RTF, HTML and TeX format.
+  \item Improvements were made to the highlighting.
+  \item Now it is possible to open \textit{Projects} files with one mouse
+    click.
+\end{itemize}
+
+
+\subsection{0.0.8.9 r1.08 (Mar/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Small bug with Comment/Uncomment block was corrected.
+    \end{itemize}
+  \item Now Tinn-R also runs with R, SciViews-R and S-Plus (the last still not
+    finalized but it is running if the window Commands or S-PLUS - [Commands]
+    have the focus).
+\end{itemize}
+
+
+\subsection{0.0.8.9 r1.07 (Feb/2004)}
+
+\begin{itemize}
+  \item Specific HotKeys (F1..F11) were implemented for all Tinn to \RR{}
+    functions. If and while activated, they overlap all the HotKeys of
+    the Windows and any application running.
+  \item Tinn-R now generates the two files (Tinn.ini and Shortcuts.ini) on
+    C:$\backslash$Documents and Settings$\backslash$\textit{UserName}$\backslash$Application Data
+    (or Dados de aplicativos)$\backslash$Tinn$\backslash$.
+  \item Upgrade Tinn 0.0.8.8 to 0.0.8.9 as
+    \htmladdnormallink{changelog}{http://www.solarvoid.com/cgi-bin/viewcvs.cgi/TinnMDI/}.
+  \item A few tweaks were made in brackets highlighting, as per Marco's suggestions.
+  \item jcfaria suggested a little fix to the File Search window. Russ put it in.
+  \item jcfaria suggested a change to the RegEx filter interface to check,
+    to make sure the filter won't be blank before running it. Russ put that in.
+  \item Marco suggested a few changes to the open procedure. Now it checks if the
+    file is changed and allows the user to open the file or not.
+  \item fLineWdith has been commented out.
+  \item Marco also suggested a few changes to the Search In Files code. Russ put that in, too.
+  \item Russ pulled out the bitmaps on a few buttons in a few dialogs as per Marco's suggestion to keep things unified.
+\end{itemize}
+
+
+\subsection{0.0.8.8 r1.06 (Feb/2004)}
+
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Bug = Assertion failure\\
+        \begin{footnotesize}
+          (c:$\backslash$arquivos de programas$\backslash$borland$\backslash$componentes$\backslash$synedit$\backslash$source$\backslash$SynEditWordWrap.pas, line149)
+        \end{footnotesize}
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            Why and when?
+
+            if you create a new file and type:
+
+            <ENTER>
+            and press <UP>  -> bug!
+
+            This was corrected: thank you Marco Groot!
+          \end{verbatim}
+        \end{footnotesize}
+
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{0.0.8.8 r1.05 (Feb/2004)}
+
+\begin{itemize}
+  \item Comment/uncomment block was implemented: default symbol used for the
+    comment/uncomment must be set in Options/Application options.
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        Comment block   : Format/Comment block   <ALT+C>.
+        Uncomment block : Format/Uncomment block <ALT+Z>.
+      \end{verbatim}
+    \end{footnotesize}
+
+  \item Option of Format/Colunm was eliminated: it is better to use this
+    options (when necessary) keeping ALT pressed. This options are
+    set in Options/Editor Options/(x)Alt sets column modes.
+  \item ShortCuts to Print and Play macro were set the same = \texttt{CTRL + P}:
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        F7 : new shortcut to Record Macro
+        F8 : new shortcut to Play Macro.
+      \end{verbatim}
+    \end{footnotesize}
+
+\end{itemize}

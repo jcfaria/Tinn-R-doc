@@ -1,0 +1,487 @@
+
+\hypertarget{working_regularexpressions}{}
+\section{Regular expressions}
+\index{regular expressions}
+
+This session is an adaptation. It is based on the help of the
+freewere \htmladdnormallink{PSPad}{http://www.pspad.com/} editor.
+
+
+\subsection{What are regular expressions?}
+
+\textit{Regular expressions} are widely-used method to specify text patterns
+to be searched for. Special metacharacters allow you to specify, for
+instance, that a particular string you are looking for occurs at the
+beginning or end of a line, or contains n recurrences of a certain character.
+
+Regular expressions may look ugly to novices, but are actually a very simple,
+handy and powerful tool.
+
+
+\subsection{Simple Matches}
+\index{regular expressions!simple matches}
+
+Any single character matches itself, unless it is a metacharacter with a
+special meaning described below.
+
+A series of characters matches that series of characters in the target
+string, so the pattern \texttt{bluh} would match \texttt{bluh} in the
+target string.
+
+You can cause characters that normally function as metacharacters or
+escape sequences to be interpreted literally by \texttt{escaping} them.
+Do this by preceding them with a backslash \texttt{$\backslash$}. For
+instance: metacharacter \texttt{\^{}} match beginning of string, but
+\texttt{$\backslash$\^{}} match character \texttt{\^{}},
+\texttt{$\backslash$$\backslash$} match \texttt{$\backslash$} and so on.
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{foobar} & \texttt{foobar} \\
+    \texttt{$\backslash$\^{}FooBarPtr} & \texttt{\^{}FooBarPtr} \\
+    \hline
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsection{Escape Sequences}
+\index{regular expressions!escape sequences}
+
+Characters may be specified using a escape sequences syntax much like that
+used in C and Perl: \texttt{$\backslash$n} matches a newline,
+\texttt{$\backslash$t} a tab, etc. More generally, \texttt{$\backslash$xnn},
+where \texttt{nn} is a string of hexadecimal digits, matches the character
+whose ASCII value is \texttt{nn}. If you need wide (Unicode) character code,
+you can use \texttt{$\backslash$x\{nnnn\}}, where \texttt{nnnn} is one or
+more hexadecimal (base 16) digits (1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F).
+Hex digit letters may be in upper or lower case.
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Description} \\
+    \hline
+    \texttt{$\backslash$xnn} & Char with hex code \texttt{nn} \\
+    \texttt{$\backslash$x\{nnnn\}} & Char with hex code \texttt{nnnn} (one byte for plain text and two bytes for Unicode) \\
+    \texttt{$\backslash$t} & Tab (HT/TAB), same as \texttt{$\backslash$x09} \\
+    \texttt{$\backslash$n} & Newline (NL), same as \texttt{$\backslash$x0a} \\
+    \texttt{$\backslash$r} & Carriage return (CR), same as \texttt{$\backslash$x0d} \\
+    \texttt{$\backslash$f} & Form feed (FF), same as \texttt{$\backslash$x0c} \\
+    \texttt{$\backslash$a} & Alarm (bell) (BEL), same as \texttt{$\backslash$x07} \\
+    \texttt{$\backslash$e} & Escape (ESC), same as \texttt{$\backslash$x1b} \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{foo$\backslash$x20bar} & \texttt{foo bar} (note space in the middle) \\
+    \texttt{$\backslash$tfoobar} & \texttt{foobar} predefined by tab \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsection{Character Classes}
+\index{regular expressions!character classes}
+
+You can specify a character class by enclosing a list of characters in
+\texttt{[]}, which will match any one character from the list. If the
+first character after the \texttt{[} is \texttt{\^{}}, the class matches
+any character not in the list.
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{foob[aeiou]r} & \texttt{foobar}, \texttt{foober}, etc. But not \texttt{foobbr}, \texttt{foobcr}, etc \\
+    \texttt{foob[\^{}aeiou]r} & \texttt{foobbr}, \texttt{foobcr}, etc. But not \texttt{foobar}, \texttt{foober}, etc \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+Within a list, the \texttt{-} character is used to specify a range, so
+that \texttt{a-z} represents all characters between \texttt{a} and
+\texttt{z}, inclusive.
+
+If you want \texttt{-} itself to be a member of a class, put it at the
+start or end of the list, or escape it with a backslash. If you want
+\texttt{]} you may place it at the start of list or escape it with a
+backslash.
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{[-az]} & \texttt{a}, \texttt{z} and \texttt{-} \\
+    \texttt{[az-]} & \texttt{a}, \texttt{z} and \texttt{-} \\
+    \texttt{[a$\backslash$-z]} & \texttt{a}, \texttt{z} and \texttt{-} \\
+    \texttt{[a-z]} & All twenty six small characters from \texttt{a} to \texttt{z} \\
+    \texttt{[$\backslash$n-$\backslash$x0D]} & Any of ASCII \texttt{\#10(Lf)}, \texttt{\#11}, \texttt{\#12(Ff)}, \texttt{\#13(Cr)} \\
+    \texttt{[$\backslash$d-t]} & Any digit, \texttt{-} or \texttt{t} \\
+    \texttt{[]-a]} & Any char from \texttt{]}..\texttt{a} \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsection{Metacharacters}
+\index{metacharacters}
+
+Metacharacters are special characters which are the essence of regular
+expressions. There are different types of metacharacters, described below.
+
+
+\subsubsection{Metacharacters - Line Separators:}
+\index{metacharacters!line separators}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Description} \\
+    \hline
+    \texttt{\^{}} & Start of line \\
+    \texttt{\$} & End of line \\
+    \texttt{$\backslash$A} & Start of text \\
+    \texttt{$\backslash$Z} & End of text \\
+    \texttt{.} & Any character in line \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{\^{}foobar} & \texttt{foobar} only if it's at the beginning of line \\
+    \texttt{foobar\$} & \texttt{foobar} only if it's at the end of line \\
+    \texttt{\^{}foobar\$} & \texttt{foobar} only if it's the only string in line \\
+    \texttt{foob.r} & \texttt{foobar}, \texttt{foobbr}, \texttt{foob1r} and so on \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+The \texttt{\^{}} metacharacter by default is only guaranteed to match at
+the beginning of the input string/text, the \texttt{\$} metacharacter
+only at the end. Embedded line separators will not be matched by
+\texttt{\^{}} or \texttt{\$}. You may, however, wish to treat a string
+as a multi-line buffer, such that the \texttt{\^{}} will match after
+any line separator within the string, and \texttt{\$} will match before
+any line separator. You can do this by switching the modifier \texttt{/m} on.
+
+The \texttt{$\backslash$A} and \texttt{$\backslash$Z} are just like
+\texttt{\^{}} and \texttt{\$}, except that they won't match multiple
+times when the modifier \texttt{/m} is used, while \texttt{\^{}} and
+\texttt{\$} will match at every internal line separator.
+
+
+\subsubsection{Metacharacters - Predefined Classes:}
+\index{metacharacters!predefined classes}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Description} \\
+    \hline
+    \texttt{$\backslash$w} & An alphanumeric character (including \texttt{\_}) \\
+    \hline
+    \texttt{$\backslash$W} & A non alphanumeric character \\
+    \texttt{$\backslash$d} & A numeric character \\
+    \texttt{$\backslash$D} & A non-numeric character \\
+    \texttt{$\backslash$s} & Any space (same as \texttt{[ $\backslash$t$\backslash$n$\backslash$r$\backslash$f])} \\
+    \texttt{$\backslash$S} & A non space \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+You may use $\backslash$w, $\backslash$d and $\backslash$s within
+custom character classes.
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.2\hsize}X>{\hsize=0.9\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{foob$\backslash$dr} & \texttt{foob1r}, \texttt{foob6r} and so on but not \texttt{foobar}, \texttt{foobbr} and so on \\
+    \texttt{foob[$\backslash$w$\backslash$s]r} & \texttt{foobar}, \texttt{foob r}, \texttt{foobbr} and so on but not \texttt{foob1r}, \texttt{foob=r} and so on \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+TRegExpr uses properties SpaceChars and WordChars to define character
+classes \texttt{$\backslash$w}, \texttt{$\backslash$W},
+\texttt{$\backslash$s}, \texttt{$\backslash$S}, so you can easily
+redefine it.
+
+
+\subsubsection{Metacharacters - Word Boundaries:}
+\index{metacharacters!word boundaries}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{$\backslash$b} & A word boundary \\
+    \texttt{$\backslash$B} & A non-(word boundary) \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+A word boundary \texttt{$\backslash$b} is a spot between two characters
+that has a \texttt{$\backslash$w} on one side of it and a \texttt{$\backslash$W}
+on the other side of it (in either order), counting the imaginary characters
+of the beginning and end of the string as matching a \texttt{$\backslash$W}.
+
+
+\subsubsection{Metacharacters - Iterators:}
+\index{metacharacters!iterators}
+
+Any item of a regular expression may be followed by another type of
+metacharacters - iterators. Using this metacharacters you can specify
+number of occurrences of the previous character, metacharacter or subexpression.
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{*} & Zero or more ("greedy"), similar to \{0,\} \\
+    \texttt{+} & One or more ("greedy"), similar to \{1,\} \\
+    \texttt{?} & Zero or one ("greedy"), similar to \{0,1\} \\
+    \texttt{\{n\}} & Exactly n times ("greedy") \\
+    \texttt{\{n,\}} & At least n times ("greedy") \\
+    \texttt{\{n,m\}} & At least n but not more than m times ("greedy") \\
+    \texttt{*?} & At least n but not more than m times ("greedy") \\
+    \texttt{+?} & At least n but not more than m times ("greedy") \\
+    \texttt{??} & Zero or one ("non-greedy"), similar to \{0,1\}? \\
+    \texttt{\{n\}?} & Exactly n times ("non-greedy") \\
+    \texttt{\{n,\}?} & At least n times ("non-greedy") \\
+    \texttt{\{n,m\}?} & At least n but not more than m times ("non-greedy") \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+So, digits in curly brackets of the form \texttt{\{n,m\}}, specify the
+minimum number of times to match the item n and the maximum m. The form
+\texttt{\{n\}} is equivalent to \texttt{\{n,n\}} and matches exactly n
+times. The form \texttt{\{n,\}} matches n or more times. There is no
+limit to the size of n or m, but large numbers will chew up more memory
+and slow down r.e. execution.
+
+If a curly bracket occurs in any other context, it is treated as a
+regular character.
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{foob.*r} & \texttt{foobar}, \texttt{foobalkjdflkj9r} and \texttt{foobr} \\
+    \texttt{foob.+r} & \texttt{foobar}, \texttt{foobalkjdflkj9r} but not \texttt{foobr} \\
+    \texttt{foob.?r} & \texttt{foobar}, \texttt{foobbr} and \texttt{foobr} but not \texttt{foobalkj9r} \\
+    \texttt{fooba\{2\}r} & \texttt{foobaar} \\
+    \texttt{fooba\{2,\}r} & \texttt{foobaar}, \texttt{foobaaar}, \texttt{foobaaaar}, ... \\
+    \texttt{fooba\{2,3\}r} & \texttt{foobaar}, or \texttt{foobaaar} but not \texttt{foobaaaar} \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+A little explanation about \texttt{greediness}. \texttt{Greedy} takes as
+many as possible, \texttt{non-greedy} takes as few as possible. For
+example, \texttt{b+} and \texttt{b*} applied to string \texttt{abbbbc}
+return \texttt{bbbb}, \texttt{b+?} returns \texttt{b}, \texttt{b*?}
+returns empty string, \texttt{b\{2,3\}?} returns \texttt{bb},
+\texttt{b\{2,3\}} returns \texttt{bbb}.
+
+
+\subsubsection{Metacharacters - Alternatives:}
+\index{metacharacters!alternatives}
+
+You can specify a series of alternatives for a pattern using \texttt{$|$}
+to separate them, so that fee$|$fie$|$foe will match any of \texttt{fee},
+\texttt{fie}, or \texttt{foe} in the target string (as would f(e$|$i$|$o)e).
+The first alternative includes everything from the last pattern delimiter
+(\texttt{(}, \texttt{[}, or the beginning of the pattern) up to the first
+\texttt{$|$}, and the last alternative contains everything from the last
+\texttt{$|$} to the next pattern delimiter. For this reason, it's common
+practice to include alternatives in parentheses, to minimize confusion
+about where they start and end.
+
+Alternatives are tried from left to right, so the first alternative found
+for which the entire expression matches, is the one that is chosen. This
+means that alternatives are not necessarily greedy. For example: when
+matching foo$|$foot against \texttt{barefoot}, only the \texttt{foo} part
+will match, as that is the first alternative tried, and it successfully
+matches the target string. (This might not seem important, but it is
+important when you are capturing matched text using parentheses).
+
+Also remember that \texttt{$|$} is interpreted as a literal within square
+brackets, so if you write \texttt{[fee$|$fie$|$foe]}. You're really only
+matching \texttt{[feio$|$]}.
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{foo(bar$|$foo)} & \texttt{foobar} or \texttt{foofoo} \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsubsection{Metacharacters - Subexpressions:}
+\index{metacharacters!subexpressions}
+
+The bracketing construct ( ... ) may also be used to define r.e.
+subexpressions (after parsing, you can find subexpression positions,
+lengths and actual values in MatchPos, MatchLen and Match properties
+of TRegExpr, and substitute it in clip strings by TRegExpr.Substitute).
+
+Subexpressions are numbered based on the left to right order of their
+opening parenthesis. First subexpression has number \texttt{1} (whole
+r.e. match has number \texttt{0} - you can substitute it in TRegExpr.
+Substitute as \texttt{\$0} or \texttt{\$\&}).
+
+
+\subsubsection{Examples:}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{(foobar)\{8,10\}} & Strings which contain 8, 9 or 10 instances of the \texttt{foobar} \\
+    \texttt{foob([0-9]$|$a+)r} & \texttt{foob0r}, \texttt{foob1r} , \texttt{foobar}, \texttt{foobaar}, \texttt{foobaar}, ... \\
+    \texttt{(abc(def)ghi(123))xzy} & \texttt{abcdefghi123xyz} (the only match) \\
+    \hline
+    \\
+  \end{tabularx}
+\end{footnotesize}
+
+
+\subsubsection{Then backreferences:}
+\index{metacharacters!backreferences}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Description} \\
+    \hline
+    \texttt{$\backslash$1} & \texttt{= abcdefghi123} \\
+    \texttt{$\backslash$2} & \texttt{=def} \\
+    \texttt{$\backslash$3} & \texttt{=123} \\
+    \texttt{$\backslash$0} & \texttt{=abcdefghi123xyz (the whole match)} \\
+    \hline
+  \end{tabularx}
+\end{footnotesize}
+
+We could find the same string using metacharacter Iterators with:
+(\texttt{$\backslash$w\{3\}([d-f]\{3\})...($\backslash$d*))xyz} and the
+backreferences would have the same values. And yet the pattern would
+also match: \texttt{123fdd@\#\$4444xyz}, \texttt{bbbeeeabc1234567xyz},
+\texttt{ddddddaaaxyz}.
+
+
+\subsubsection{Metacharacters - Backreferences:}
+\index{metacharacters!backreferences}
+
+Metacharacters \texttt{$\backslash$1} through \texttt{$\backslash$9}
+are interpreted as backreferences in the \textit{Search text} box. When
+used outside of the regular expression, such as in the \textit{Replace
+  text} field, metacharacters \texttt{\$1} through \texttt{\$9} are
+interpreted as backreferences to the last find.
+
+\texttt{$\backslash$$<$n$>$} matches previously matched subexpression
+\texttt{\#$<$n$>$}.
+
+
+\subsubsection{Find Examples:}
+\index{metacharacters!find examples}
+
+\begin{footnotesize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{ER} & \textbf{Matches} \\
+    \hline
+    \texttt{(.)$\backslash$1+} & \texttt{aaaa} and \texttt{cc} \\
+    \texttt{(.+)$\backslash$1+} & \texttt{abab} and \texttt{123123} \\
+    \texttt{(['"]?)($\backslash$d+)$\backslash$1} & \texttt{"13"}(in double quotes),
+    or \texttt{'4'} (in single quotes) or \texttt{77} (without quotes), ... \\
+    \hline
+  \end{tabularx}
+\end{footnotesize}
+
+\begin{quote}
+  \begin{footnotesize}
+    \begin{description}
+      \item[Replace Examples:]
+        Date format change from \texttt{dd.mm.yyyy} to \texttt{yyyy-mm-dd}. This will
+        turn the European date style \texttt{26.8.1994} or \texttt{26/8/1994}
+        into \texttt{1994-8-26}.
+        Search: \texttt{([0-9]\{1,2\}).([0-9]\{1,2\}).([0-9]\{4\})}
+        Replace: \texttt{\$3-\$2-\$1}
+        Make sure you check the box for \textit{Regular Expression}.
+    \end{description}
+  \end{footnotesize}
+\end{quote}
+
+
+\subsection{Regular Expression Tutorials}
+
+The following is a list of a few sites that contain tutorials on both regular
+expressions in general and their use in specific languages:
+
+\begin{itemize}
+  \item \htmladdnormallink{General Tutorial}{http://www.regular-expressions.info/}
+  \item \htmladdnormallink{Regular Expressions - User guide}{http://www.zytrax.com/tech/web/regex.htm}
+  \item \htmladdnormallink{Regular Expression HOWTO}{http://docs.python.org/2/howto/regex.html}
+  \item \htmladdnormallink{Perl Regular Expressions}{http://www.troubleshooters.com/codecorn/littperl/perlreg.htm}
+  \item \htmladdnormallink{Regular Expression Basic Syntax Reference}{http://www.regular-expressions.info/reference.html}
+\end{itemize}

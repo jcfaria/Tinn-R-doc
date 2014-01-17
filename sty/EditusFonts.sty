@@ -1,0 +1,36 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{./sty/EditusFonts}{}
+
+%-------------------------------------------------------------------------------
+% Fonts
+%-------------------------------------------------------------------------------
+\RequirePackage[T1]{fontenc}
+\RequirePackage{ae}
+% \RequirePackage{mathptmx}
+
+% Serif fonts
+\linespread{1.05}                     % Palatino requires more line spacing
+% \RequirePackage{mathpazo}            % for math fonts-TeX Gyre has no math fonts
+% \RequirePackage{tgpagella}            % TeX Gyre Pagella (Palatino clone)
+\RequirePackage[adobe-utopia]{mathdesign}
+
+% Sans serif fonts
+\RequirePackage[scaled=0.9]{berasans} % Bera Sans = Bitstream Vera Sans
+
+% Monospaced fonts
+\RequirePackage[scaled=0.8]{beramono} % Bera Mono = Bitstream Vera Mono
+% \RequirePackage{type1cm} % do we need this?
+
+% the following is necessary because \hyphenchar is set to -1 for ttfamily, i.e.
+% words in typewriter font are never hyphenated. This causes overfull boxes
+\newcommand{\oldttfamily}{}
+\let\oldttfamily=\ttfamily
+\renewcommand{\ttfamily}{\oldttfamily \hyphenchar\font=45}
+
+% Maths fonts
+% \RequirePackage{amssymb}            % not used due to clash with mathdesign fontset
+\RequirePackage{amsmath}
+\RequirePackage{bm}                   %-> \bm (= bold math)
+%-------------------------------------------------------------------------------
+\RequirePackage[spacing]{microtype}
+
