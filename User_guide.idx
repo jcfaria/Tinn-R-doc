@@ -324,67 +324,67 @@
 \indexentry{comunication between Tinn-R and Rgui freeze|hyperpage}{43}
 \indexentry{application options|hyperpage}{46}
 \indexentry{application options|hyperpage}{46}
-\indexentry{application options!main|hyperpage}{46}
+\indexentry{application options!main|hyperpage}{47}
 \indexentry{application options!R|hyperpage}{47}
 \indexentry{application options!processing|hyperpage}{47}
-\indexentry{application options!processing conversion|hyperpage}{47}
-\indexentry{application options!processing LaTeX|hyperpage}{50}
-\indexentry{editor options|hyperpage}{51}
-\indexentry{editor options!display|hyperpage}{51}
+\indexentry{application options!processing conversion|hyperpage}{50}
+\indexentry{application options!processing LaTeX|hyperpage}{51}
+\indexentry{editor options|hyperpage}{52}
+\indexentry{editor options!display|hyperpage}{52}
 \indexentry{editor options!advanced|hyperpage}{52}
-\indexentry{editor options!keystrokes|hyperpage}{53}
-\indexentry{selection mode|hyperpage}{54}
-\indexentry{selection mode!normal|hyperpage}{54}
+\indexentry{editor options!keystrokes|hyperpage}{52}
+\indexentry{selection mode|hyperpage}{55}
+\indexentry{selection mode!normal|hyperpage}{55}
 \indexentry{selection mode!line|hyperpage}{55}
 \indexentry{selection mode!column|hyperpage}{55}
-\indexentry{color!highlighters|hyperpage}{56}
-\indexentry{shortcuts|hyperpage}{58}
-\indexentry{shortcuts!customization|hyperpage}{58}
-\indexentry{hotkeys|hyperpage}{59}
-\indexentry{Rterm!interface|hyperpage}{60}
-\indexentry{SynEdit|hyperpage}{60}
-\indexentry{IO Interface|hyperpage}{61}
-\indexentry{Rterm!Log|hyperpage}{63}
-\indexentry{tools|hyperpage}{64}
-\indexentry{tools!interface|hyperpage}{64}
-\indexentry{tools!misc|hyperpage}{64}
-\indexentry{tools!markup|hyperpage}{66}
-\indexentry{tools!markup txt2tags|hyperpage}{66}
-\indexentry{tools!markup \LaTeX|hyperpage}{66}
-\indexentry{tools!results|hyperpage}{66}
-\indexentry{tools!results inilog|hyperpage}{67}
-\indexentry{tools interface!search|hyperpage}{68}
-\indexentry{tools interface!spell|hyperpage}{68}
-\indexentry{tools interface!database|hyperpage}{69}
-\indexentry{R!explorer|hyperpage}{70}
+\indexentry{color!highlighters|hyperpage}{57}
+\indexentry{shortcuts|hyperpage}{59}
+\indexentry{shortcuts!customization|hyperpage}{59}
+\indexentry{hotkeys|hyperpage}{60}
+\indexentry{Rterm!interface|hyperpage}{61}
+\indexentry{SynEdit|hyperpage}{61}
+\indexentry{IO Interface|hyperpage}{62}
+\indexentry{Rterm!Log|hyperpage}{64}
+\indexentry{tools|hyperpage}{65}
+\indexentry{tools!interface|hyperpage}{65}
+\indexentry{tools!misc|hyperpage}{65}
+\indexentry{tools!markup|hyperpage}{67}
+\indexentry{tools!markup txt2tags|hyperpage}{67}
+\indexentry{tools!markup \LaTeX|hyperpage}{67}
+\indexentry{tools!results|hyperpage}{67}
+\indexentry{tools!results inilog|hyperpage}{68}
+\indexentry{tools interface!search|hyperpage}{69}
+\indexentry{tools interface!spell|hyperpage}{69}
+\indexentry{tools interface!database|hyperpage}{70}
 \indexentry{R!explorer|hyperpage}{71}
-\indexentry{R!card|hyperpage}{71}
-\indexentry{R!mirror|hyperpage}{72}
-\indexentry{filetabs|hyperpage}{74}
-\indexentry{toolsbar|hyperpage}{75}
-\indexentry{toolsbar!showhide|hyperpage}{75}
-\indexentry{toolsbar!disposition|hyperpage}{76}
-\indexentry{find and replace|hyperpage}{77}
-\indexentry{search!in files|hyperpage}{79}
-\indexentry{search!case sensitivity|hyperpage}{79}
-\indexentry{search!regular expressions|hyperpage}{79}
-\indexentry{tools!database|hyperpage}{81}
-\indexentry{tools!shortcuts|hyperpage}{81}
-\indexentry{completion|hyperpage}{83}
-\indexentry{regular expressions|hyperpage}{85}
-\indexentry{regular expressions!simple matches|hyperpage}{85}
-\indexentry{regular expressions!escape sequences|hyperpage}{85}
-\indexentry{regular expressions!character classes|hyperpage}{86}
-\indexentry{metacharacters|hyperpage}{87}
-\indexentry{metacharacters!line separators|hyperpage}{87}
-\indexentry{metacharacters!predefined classes|hyperpage}{87}
-\indexentry{metacharacters!word boundaries|hyperpage}{88}
-\indexentry{metacharacters!iterators|hyperpage}{88}
-\indexentry{metacharacters!alternatives|hyperpage}{89}
-\indexentry{metacharacters!subexpressions|hyperpage}{89}
-\indexentry{metacharacters!backreferences|hyperpage}{90}
-\indexentry{metacharacters!backreferences|hyperpage}{90}
-\indexentry{metacharacters!find examples|hyperpage}{90}
+\indexentry{R!explorer|hyperpage}{72}
+\indexentry{R!card|hyperpage}{72}
+\indexentry{R!mirror|hyperpage}{73}
+\indexentry{filetabs|hyperpage}{75}
+\indexentry{toolsbar|hyperpage}{76}
+\indexentry{toolsbar!showhide|hyperpage}{76}
+\indexentry{toolsbar!disposition|hyperpage}{77}
+\indexentry{find and replace|hyperpage}{78}
+\indexentry{search!in files|hyperpage}{80}
+\indexentry{search!case sensitivity|hyperpage}{80}
+\indexentry{search!regular expressions|hyperpage}{80}
+\indexentry{tools!database|hyperpage}{82}
+\indexentry{tools!shortcuts|hyperpage}{82}
+\indexentry{completion|hyperpage}{84}
+\indexentry{regular expressions|hyperpage}{86}
+\indexentry{regular expressions!simple matches|hyperpage}{86}
+\indexentry{regular expressions!escape sequences|hyperpage}{86}
+\indexentry{regular expressions!character classes|hyperpage}{87}
+\indexentry{metacharacters|hyperpage}{88}
+\indexentry{metacharacters!line separators|hyperpage}{88}
+\indexentry{metacharacters!predefined classes|hyperpage}{88}
+\indexentry{metacharacters!word boundaries|hyperpage}{89}
+\indexentry{metacharacters!iterators|hyperpage}{89}
+\indexentry{metacharacters!alternatives|hyperpage}{90}
+\indexentry{metacharacters!subexpressions|hyperpage}{90}
+\indexentry{metacharacters!backreferences|hyperpage}{91}
+\indexentry{metacharacters!backreferences|hyperpage}{91}
+\indexentry{metacharacters!find examples|hyperpage}{91}
 \indexentry{file menu|hyperpage}{94}
 \indexentry{file menu!template|hyperpage}{94}
 \indexentry{template!R script|hyperpage}{94}
