@@ -295,7 +295,7 @@ It is also a good idea to install the dictionary manager.
   \includegraphics[scale=0.35]{./res/tools_database_completion.png}~~
   \includegraphics[scale=0.35]{./res/tools_database_comments.png}\\
   \caption{Database (Tools).}
-  \label{fig:tools_database_options}
+  \label{fig:tools_database}
 \end{figure}
 
 \begin{table}
@@ -312,13 +312,13 @@ It is also a good idea to install the dictionary manager.
     \end{tabularx}
   \end{footnotesize}
   \caption{Database (Tools)}
-  \label{tab:tools_database_options}
+  \label{tab:tools_database}
 \end{table}
 
 
 The database
-(Figure \ref{fig:tools_database_options} and
-Table \ref{tab:tools_database_options})
+(Figure \ref{fig:tools_database} and
+Table \ref{tab:tools_database})
 uses the native XML engine provided by Borland. Each tab
 (\textit{Shortcuts}, \textit{Completion} and
 \textit{Comments}) has its own pop-up menus and toolbars.
@@ -332,6 +332,23 @@ shortcuts related to the application. It is our intention, in
 the near future, to add additional keystrokes related to the
 editor and to the \RR{} hotkeys.
 
+The available buttons
+(Figure \ref{fig:tools_database})
+are:
+
+\begin{quote}
+  \begin{footnotesize}
+    \begin{description}
+      \item[Help:]
+        Opens the User guide.
+      \item[Edit:]
+        Opens the dialog \textit{Completion database (xml based)}.
+    \end{description}
+  \end{footnotesize}
+\end{quote}
+
+The \textit{Edit} button opens the dialog shown in the Figure \ref{fig:shortcuts_dlg_2}.
+
 
 \subsubsection{Completion:}
 
@@ -339,6 +356,92 @@ The \textit{Completion} resource is very simple and allows high level
 of user customization related to edition. The old implementation of
 completion resource showed instability and was replaced. We hope that
 the users will like this new one.
+
+This resource adds a granular level of user customization for editing
+all within Tinn-R.
+
+The completion (database based) allows the user to add functions based
+on several programming languages such as \RR{}, \TeX, among others.
+
+The available buttons
+(Figure \ref{fig:tools_database})
+are:
+
+\begin{quote}
+  \begin{footnotesize}
+    \begin{description}
+      \item[Help:]
+        Sends the following instruction to \RR{}: \texttt{help('selected function')}.
+      \item[Example:]
+        Sends the following instruction to \RR{}:
+        \texttt{example('selected function')}.
+      \item[Copy function:]
+        Places the selected function in the clipboard.
+      \item[Copy description:]
+        Places the description of the selected function in the clipboard.
+      \item[Edit:]
+        Opens the dialog \textit{Completion database (xml based)} below.
+      \item[Insert:]
+        Inserts the selected function in the active editor. A \texttt{Double click}
+        or \texttt{Enter} performs the same function.
+        The default shortcut is \texttt{CTRL + J}, but this can be customized under
+        \textit{Options/Shortcuts} or \textit{Tools/Database/Shortcuts}. To use
+        it just push the keystrokes after any valid word:
+
+        \begin{verbatim}
+          if<CTRL + J> to obtain:
+          if (| < )
+
+          ifc<CTRL + J> to obtain:
+          if (| < ) {
+
+          }
+
+          fo<CTRL + J> to obtain:
+          for (i in 1:i|)
+
+          foc<CTRL + J> to obtain:
+          for (i in 1:|) {
+
+          }
+
+          sw<CTRL + J> to obtain:
+          switch(|,
+          a = ' ',
+          b = ' ',
+          )
+
+          wh<CTRL + J> to obtain:
+          i = 0
+          while (i < |) {
+
+            i = i + 1
+          }
+
+          eq<CTRL + J> to obtain:
+          \begin{equation}\label{eq_01}
+            |
+          \end{equation}
+        \end{verbatim}
+
+        \subsubsection{Observations:}
+        \index{completion}
+        \begin{enumerate}
+          \item Only two letters were used to define the functions (for example:
+            \textit{fo} = \textit{for}, \textit{fu} = \textit{function});
+          \item Therefore, we added the letter \texttt{c} for more complex
+            structures (for example: \textit{foc}, \textit{fuc});
+          \item The \texttt{$|$} symbol is used to define where the cursor
+            will first stop after auto-completion. After being selected
+            the \texttt{$|$} symbol marks the point where the user can start
+            typing.
+        \end{enumerate}
+    \end{description}
+  \end{footnotesize}
+\end{quote}
+
+The \textit{Edit} button opens the dialog showed in the Figure \ref{fig:completion_dlg}.
+
 
 \subsubsection{Comments:}
 
@@ -357,6 +460,23 @@ the user is forcing the application to use the comments of the selected language
 
 Selected code snippets involving more than one language will not be commented/uncommented
 and a warning message is issued. That is, you must select only the snippet of a single language.
+
+The available buttons
+(Figure \ref{fig:tools_database})
+are:
+
+\begin{quote}
+  \begin{footnotesize}
+    \begin{description}
+      \item[Help:]
+        It opens the \textit{User Guide} on the section Databases.
+      \item[Edit:]
+        It opens the dialog \textit{R card database (xml based)}.
+    \end{description}
+  \end{footnotesize}
+\end{quote}
+
+The \textit{Edit} button opens the dialog shown in the Figure \ref{fig:comments_dlg}.
 
 
 \hypertarget{working_tools_r}{}

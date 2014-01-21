@@ -15,63 +15,354 @@
 \BOOKMARK [1][-]{section.1.10}{1.10 What tools were used to make this guide?}{chapter.1}% 15
 \BOOKMARK [0][-]{chapter.2}{2 Basics}{}% 16
 \BOOKMARK [1][-]{section.2.1}{2.1 Configuration}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.2}{2.2 Keyboard shortcuts \(default\)}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.3}{2.3 FAQ}{chapter.2}% 19
-\BOOKMARK [0][-]{chapter.3}{3 Working With}{}% 20
-\BOOKMARK [1][-]{section.3.1}{3.1 Application options}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.2}{3.2 Editor options}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.3}{3.3 Selection mode}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.4}{3.4 Highlighters \(settings\)}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.5}{3.5 Shortcuts customization}{chapter.3}% 25
-\BOOKMARK [1][-]{section.3.6}{3.6 Hotkeys \(operational system\)}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.7}{3.7 Rterm interface}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.8}{3.8 Tools interface}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.9}{3.9 File tabs}{chapter.3}% 29
-\BOOKMARK [1][-]{section.3.10}{3.10 Tools bar}{chapter.3}% 30
-\BOOKMARK [1][-]{section.3.11}{3.11 Find and replace}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.12}{3.12 Search in files}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.13}{3.13 Database}{chapter.3}% 33
-\BOOKMARK [1][-]{section.3.14}{3.14 Regular expressions}{chapter.3}% 34
-\BOOKMARK [0][-]{chapter.4}{4 Menu Description}{}% 35
-\BOOKMARK [1][-]{section.4.1}{4.1 File}{chapter.4}% 36
-\BOOKMARK [1][-]{section.4.2}{4.2 Project}{chapter.4}% 37
-\BOOKMARK [1][-]{section.4.3}{4.3 Edit}{chapter.4}% 38
-\BOOKMARK [1][-]{section.4.4}{4.4 Format}{chapter.4}% 39
-\BOOKMARK [1][-]{section.4.5}{4.5 Marks}{chapter.4}% 40
-\BOOKMARK [1][-]{section.4.6}{4.6 Insert}{chapter.4}% 41
-\BOOKMARK [1][-]{section.4.7}{4.7 Search}{chapter.4}% 42
-\BOOKMARK [1][-]{section.4.8}{4.8 Options}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.9}{4.9 Encoding}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.10}{4.10 Tools}{chapter.4}% 45
-\BOOKMARK [1][-]{section.4.11}{4.11 R}{chapter.4}% 46
-\BOOKMARK [1][-]{section.4.12}{4.12 View}{chapter.4}% 47
-\BOOKMARK [1][-]{section.4.13}{4.13 Window}{chapter.4}% 48
-\BOOKMARK [1][-]{section.4.14}{4.14 Web}{chapter.4}% 49
-\BOOKMARK [1][-]{section.4.15}{4.15 Help}{chapter.4}% 50
-\BOOKMARK [0][-]{chapter.5}{5 Some Secrets for an Efficient Use}{}% 51
-\BOOKMARK [1][-]{section.5.1}{5.1 Introduction}{chapter.5}% 52
-\BOOKMARK [1][-]{section.5.2}{5.2 After installation}{chapter.5}% 53
-\BOOKMARK [1][-]{section.5.3}{5.3 Shortcuts that can make you lose the visibility of a resource}{chapter.5}% 54
-\BOOKMARK [1][-]{section.5.4}{5.4 I'm panicking: what do I do?}{chapter.5}% 55
-\BOOKMARK [1][-]{section.5.5}{5.5 Application options}{chapter.5}% 56
-\BOOKMARK [1][-]{section.5.6}{5.6 Highlighters \(settings\)}{chapter.5}% 57
-\BOOKMARK [1][-]{section.5.7}{5.7 Tools}{chapter.5}% 58
-\BOOKMARK [1][-]{section.5.8}{5.8 Bars}{chapter.5}% 59
-\BOOKMARK [1][-]{section.5.9}{5.9 Spell checker}{chapter.5}% 60
-\BOOKMARK [1][-]{section.5.10}{5.10 Split}{chapter.5}% 61
-\BOOKMARK [1][-]{section.5.11}{5.11 Editor: how to?}{chapter.5}% 62
-\BOOKMARK [0][-]{appendix.A}{A What is New?}{}% 63
-\BOOKMARK [1][-]{section.A.1}{A.1 Versions released in 2014 \(01\)}{appendix.A}% 64
-\BOOKMARK [1][-]{section.A.2}{A.2 Versions released in 2013 \(10\)}{appendix.A}% 65
-\BOOKMARK [1][-]{section.A.3}{A.3 Versions released in 2012 \(03\)}{appendix.A}% 66
-\BOOKMARK [1][-]{section.A.4}{A.4 Versions released in 2010 \(10\)}{appendix.A}% 67
-\BOOKMARK [1][-]{section.A.5}{A.5 Versions released in 2009 \(16\)}{appendix.A}% 68
-\BOOKMARK [1][-]{section.A.6}{A.6 Versions released in 2008 \(14\)}{appendix.A}% 69
-\BOOKMARK [1][-]{section.A.7}{A.7 Versions released in 2007 \(26\)}{appendix.A}% 70
-\BOOKMARK [1][-]{section.A.8}{A.8 Versions released in 2006 \(64\)}{appendix.A}% 71
-\BOOKMARK [1][-]{section.A.9}{A.9 Versions released in 2005 \(25\)}{appendix.A}% 72
-\BOOKMARK [1][-]{section.A.10}{A.10 Versions released in 2004 \(16\)}{appendix.A}% 73
-\BOOKMARK [0][-]{appendix.B}{B R manuals on CRAN}{}% 74
-\BOOKMARK [0][-]{appendix.C}{C GNU GENERAL PUBLIC LICENSE}{}% 75
-\BOOKMARK [0][-]{section*.286}{Index}{}% 76
-\BOOKMARK [0][-]{appendix*.287}{About the Authors}{}% 77
+\BOOKMARK [2][-]{section*.6}{Uninstall Tinn-R}{section.2.1}% 18
+\BOOKMARK [2][-]{section*.7}{Install and configure Tinn-R and R}{section.2.1}% 19
+\BOOKMARK [2][-]{section*.8}{Speller installation}{section.2.1}% 20
+\BOOKMARK [2][-]{section*.9}{Inverse DVI search}{section.2.1}% 21
+\BOOKMARK [2][-]{section*.10}{Ruby and Deplate}{section.2.1}% 22
+\BOOKMARK [2][-]{section*.11}{Python and Txt2tags}{section.2.1}% 23
+\BOOKMARK [1][-]{section.2.2}{2.2 Keyboard shortcuts \(default\)}{chapter.2}% 24
+\BOOKMARK [2][-]{section*.12}{Main menu \(systematically\)}{section.2.2}% 25
+\BOOKMARK [2][-]{section*.13}{Call Tip}{section.2.2}% 26
+\BOOKMARK [2][-]{section*.14}{Code \(or data\) Completion}{section.2.2}% 27
+\BOOKMARK [2][-]{section*.15}{R Explorer}{section.2.2}% 28
+\BOOKMARK [2][-]{section*.16}{Alphabetical List of Keyboard Shortcuts}{section.2.2}% 29
+\BOOKMARK [1][-]{section.2.3}{2.3 FAQ}{chapter.2}% 30
+\BOOKMARK [2][-]{section*.17}{What is Tinn-R?}{section.2.3}% 31
+\BOOKMARK [2][-]{section*.18}{Feedback, suggestions and bug report}{section.2.3}% 32
+\BOOKMARK [2][-]{section*.19}{Tinn-R installation}{section.2.3}% 33
+\BOOKMARK [2][-]{section*.20}{Hotkeys \(operational system\)}{section.2.3}% 34
+\BOOKMARK [2][-]{section*.21}{Miscellaneous}{section.2.3}% 35
+\BOOKMARK [0][-]{chapter.3}{3 Working With}{}% 36
+\BOOKMARK [1][-]{section.3.1}{3.1 Application options}{chapter.3}% 37
+\BOOKMARK [2][-]{section*.22}{Main}{section.3.1}% 38
+\BOOKMARK [2][-]{section*.23}{R}{section.3.1}% 39
+\BOOKMARK [2][-]{section*.24}{Processing}{section.3.1}% 40
+\BOOKMARK [1][-]{section.3.2}{3.2 Editor options}{chapter.3}% 41
+\BOOKMARK [2][-]{section*.25}{Display}{section.3.2}% 42
+\BOOKMARK [2][-]{section*.26}{Advanced options}{section.3.2}% 43
+\BOOKMARK [2][-]{section*.27}{Keystrokes}{section.3.2}% 44
+\BOOKMARK [1][-]{section.3.3}{3.3 Selection mode}{chapter.3}% 45
+\BOOKMARK [2][-]{section*.28}{Normal}{section.3.3}% 46
+\BOOKMARK [2][-]{section*.29}{Line}{section.3.3}% 47
+\BOOKMARK [2][-]{section*.30}{Column}{section.3.3}% 48
+\BOOKMARK [1][-]{section.3.4}{3.4 Highlighters \(settings\)}{chapter.3}% 49
+\BOOKMARK [1][-]{section.3.5}{3.5 Shortcuts customization}{chapter.3}% 50
+\BOOKMARK [1][-]{section.3.6}{3.6 Hotkeys \(operational system\)}{chapter.3}% 51
+\BOOKMARK [1][-]{section.3.7}{3.7 Rterm interface}{chapter.3}% 52
+\BOOKMARK [2][-]{section*.31}{IO}{section.3.7}% 53
+\BOOKMARK [2][-]{section*.32}{Log}{section.3.7}% 54
+\BOOKMARK [1][-]{section.3.8}{3.8 Tools interface}{chapter.3}% 55
+\BOOKMARK [2][-]{section*.33}{Misc}{section.3.8}% 56
+\BOOKMARK [2][-]{section*.34}{Markup}{section.3.8}% 57
+\BOOKMARK [2][-]{section*.35}{Results}{section.3.8}% 58
+\BOOKMARK [2][-]{section*.36}{Spell}{section.3.8}% 59
+\BOOKMARK [2][-]{section*.37}{Database}{section.3.8}% 60
+\BOOKMARK [2][-]{section*.38}{R}{section.3.8}% 61
+\BOOKMARK [1][-]{section.3.9}{3.9 File tabs}{chapter.3}% 62
+\BOOKMARK [1][-]{section.3.10}{3.10 Tools bar}{chapter.3}% 63
+\BOOKMARK [2][-]{section*.39}{Show/Hide}{section.3.10}% 64
+\BOOKMARK [2][-]{section*.40}{Disposition}{section.3.10}% 65
+\BOOKMARK [1][-]{section.3.11}{3.11 Find and replace}{chapter.3}% 66
+\BOOKMARK [2][-]{section*.41}{Find}{section.3.11}% 67
+\BOOKMARK [2][-]{section*.42}{Replace \(Replace dialog only\)}{section.3.11}% 68
+\BOOKMARK [1][-]{section.3.12}{3.12 Search in files}{chapter.3}% 69
+\BOOKMARK [2][-]{section*.43}{Options}{section.3.12}% 70
+\BOOKMARK [2][-]{section*.44}{Where}{section.3.12}% 71
+\BOOKMARK [2][-]{section*.45}{Directory options}{section.3.12}% 72
+\BOOKMARK [2][-]{section*.46}{Results interface}{section.3.12}% 73
+\BOOKMARK [1][-]{section.3.13}{3.13 Databases}{chapter.3}% 74
+\BOOKMARK [2][-]{section*.47}{Shortcuts}{section.3.13}% 75
+\BOOKMARK [2][-]{section*.48}{Completion}{section.3.13}% 76
+\BOOKMARK [2][-]{section*.49}{Comments}{section.3.13}% 77
+\BOOKMARK [2][-]{section*.50}{Card \(R\)}{section.3.13}% 78
+\BOOKMARK [2][-]{section*.51}{Mirrors \(R\)}{section.3.13}% 79
+\BOOKMARK [1][-]{section.3.14}{3.14 Regular expressions}{chapter.3}% 80
+\BOOKMARK [2][-]{section*.52}{What are regular expressions?}{section.3.14}% 81
+\BOOKMARK [2][-]{section*.53}{Simple Matches}{section.3.14}% 82
+\BOOKMARK [2][-]{section*.54}{Escape Sequences}{section.3.14}% 83
+\BOOKMARK [2][-]{section*.55}{Character Classes}{section.3.14}% 84
+\BOOKMARK [2][-]{section*.56}{Metacharacters}{section.3.14}% 85
+\BOOKMARK [2][-]{section*.57}{Regular Expression Tutorials}{section.3.14}% 86
+\BOOKMARK [0][-]{chapter.4}{4 Menu Description}{}% 87
+\BOOKMARK [1][-]{section.4.1}{4.1 File}{chapter.4}% 88
+\BOOKMARK [2][-]{section*.58}{Template}{section.4.1}% 89
+\BOOKMARK [2][-]{section*.59}{Copy full path to clipboard}{section.4.1}% 90
+\BOOKMARK [1][-]{section.4.2}{4.2 Project}{chapter.4}% 91
+\BOOKMARK [2][-]{section*.60}{Project}{section.4.2}% 92
+\BOOKMARK [2][-]{section*.61}{Group\(s\)}{section.4.2}% 93
+\BOOKMARK [2][-]{section*.62}{File\(s\)}{section.4.2}% 94
+\BOOKMARK [1][-]{section.4.3}{4.3 Edit}{chapter.4}% 95
+\BOOKMARK [2][-]{section*.63}{Copy formatted \(to export\)}{section.4.3}% 96
+\BOOKMARK [1][-]{section.4.4}{4.4 Format}{chapter.4}% 97
+\BOOKMARK [2][-]{section*.64}{Selection}{section.4.4}% 98
+\BOOKMARK [2][-]{section*.65}{Word}{section.4.4}% 99
+\BOOKMARK [2][-]{section*.66}{Reformat}{section.4.4}% 100
+\BOOKMARK [1][-]{section.4.5}{4.5 Marks}{chapter.4}% 101
+\BOOKMARK [2][-]{section*.67}{Block}{section.4.5}% 102
+\BOOKMARK [1][-]{section.4.6}{4.6 Insert}{chapter.4}% 103
+\BOOKMARK [2][-]{section*.68}{Latex}{section.4.6}% 104
+\BOOKMARK [1][-]{section.4.7}{4.7 Search}{chapter.4}% 105
+\BOOKMARK [1][-]{section.4.8}{4.8 Options}{chapter.4}% 106
+\BOOKMARK [2][-]{section*.69}{Syntax \(highlighter\)}{section.4.8}% 107
+\BOOKMARK [2][-]{section*.70}{Selection mode}{section.4.8}% 108
+\BOOKMARK [1][-]{section.4.9}{4.9 Encoding}{chapter.4}% 109
+\BOOKMARK [2][-]{section*.71}{Default \(creating new files\)}{section.4.9}% 110
+\BOOKMARK [2][-]{section*.72}{Convert \(current encoding to\)}{section.4.9}% 111
+\BOOKMARK [2][-]{section*.73}{Change line ending \(delimiter\)}{section.4.9}% 112
+\BOOKMARK [1][-]{section.4.10}{4.10 Tools}{chapter.4}% 113
+\BOOKMARK [2][-]{section*.74}{Processing}{section.4.10}% 114
+\BOOKMARK [2][-]{section*.76}{Database}{section.4.10}% 115
+\BOOKMARK [2][-]{section*.77}{Backup}{section.4.10}% 116
+\BOOKMARK [2][-]{section*.78}{Restore}{section.4.10}% 117
+\BOOKMARK [2][-]{section*.79}{Macro}{section.4.10}% 118
+\BOOKMARK [2][-]{section*.80}{Sort}{section.4.10}% 119
+\BOOKMARK [1][-]{section.4.11}{4.11 R}{chapter.4}% 120
+\BOOKMARK [2][-]{section*.81}{Start/close and connections}{section.4.11}% 121
+\BOOKMARK [2][-]{section*.82}{Rterm}{section.4.11}% 122
+\BOOKMARK [2][-]{section*.83}{Send}{section.4.11}% 123
+\BOOKMARK [2][-]{section*.84}{Control}{section.4.11}% 124
+\BOOKMARK [1][-]{section.4.12}{4.12 View}{chapter.4}% 125
+\BOOKMARK [2][-]{section*.85}{R}{section.4.12}% 126
+\BOOKMARK [2][-]{section*.86}{Tools}{section.4.12}% 127
+\BOOKMARK [2][-]{section*.87}{Toolbars}{section.4.12}% 128
+\BOOKMARK [2][-]{section*.88}{Tabs}{section.4.12}% 129
+\BOOKMARK [2][-]{section*.89}{Line wrap}{section.4.12}% 130
+\BOOKMARK [2][-]{section*.90}{Split}{section.4.12}% 131
+\BOOKMARK [2][-]{section*.91}{Font of active control \(not permanent\)}{section.4.12}% 132
+\BOOKMARK [1][-]{section.4.13}{4.13 Window}{chapter.4}% 133
+\BOOKMARK [1][-]{section.4.14}{4.14 Web}{chapter.4}% 134
+\BOOKMARK [2][-]{section*.92}{R search}{section.4.14}% 135
+\BOOKMARK [2][-]{section*.93}{S search}{section.4.14}% 136
+\BOOKMARK [2][-]{section*.94}{R information}{section.4.14}% 137
+\BOOKMARK [2][-]{section*.95}{R Editors, Gui's and IDEs}{section.4.14}% 138
+\BOOKMARK [2][-]{section*.96}{Tinn-R}{section.4.14}% 139
+\BOOKMARK [2][-]{section*.97}{Statistics}{section.4.14}% 140
+\BOOKMARK [2][-]{section*.98}{Processing}{section.4.14}% 141
+\BOOKMARK [1][-]{section.4.15}{4.15 Help}{chapter.4}% 142
+\BOOKMARK [2][-]{section*.99}{File conversion \(introduction\)}{section.4.15}% 143
+\BOOKMARK [0][-]{chapter.5}{5 Some Secrets for an Efficient Use}{}% 144
+\BOOKMARK [1][-]{section.5.1}{5.1 Introduction}{chapter.5}% 145
+\BOOKMARK [1][-]{section.5.2}{5.2 After installation}{chapter.5}% 146
+\BOOKMARK [1][-]{section.5.3}{5.3 Shortcuts that can make you lose the visibility of a resource}{chapter.5}% 147
+\BOOKMARK [1][-]{section.5.4}{5.4 I'm panicking: what do I do?}{chapter.5}% 148
+\BOOKMARK [1][-]{section.5.5}{5.5 Application options}{chapter.5}% 149
+\BOOKMARK [2][-]{section*.100}{General}{section.5.5}% 150
+\BOOKMARK [2][-]{section*.101}{Appearance}{section.5.5}% 151
+\BOOKMARK [2][-]{section*.102}{Dock}{section.5.5}% 152
+\BOOKMARK [2][-]{section*.103}{Editor options}{section.5.5}% 153
+\BOOKMARK [2][-]{section*.104}{R}{section.5.5}% 154
+\BOOKMARK [2][-]{section*.105}{Processing}{section.5.5}% 155
+\BOOKMARK [1][-]{section.5.6}{5.6 Highlighters \(settings\)}{chapter.5}% 156
+\BOOKMARK [1][-]{section.5.7}{5.7 Tools}{chapter.5}% 157
+\BOOKMARK [2][-]{section*.106}{Project}{section.5.7}% 158
+\BOOKMARK [2][-]{section*.107}{Database}{section.5.7}% 159
+\BOOKMARK [2][-]{section*.111}{R}{section.5.7}% 160
+\BOOKMARK [1][-]{section.5.8}{5.8 Bars}{chapter.5}% 161
+\BOOKMARK [1][-]{section.5.9}{5.9 Spell checker}{chapter.5}% 162
+\BOOKMARK [1][-]{section.5.10}{5.10 Split}{chapter.5}% 163
+\BOOKMARK [1][-]{section.5.11}{5.11 Editor: how to?}{chapter.5}% 164
+\BOOKMARK [2][-]{section*.115}{Macros: how to use?}{section.5.11}% 165
+\BOOKMARK [2][-]{section*.116}{Marks: how to use?}{section.5.11}% 166
+\BOOKMARK [2][-]{section*.117}{Editor, Tools and Rterm: how to arrange?}{section.5.11}% 167
+\BOOKMARK [2][-]{section*.118}{Active page using the keyboard: how to change?}{section.5.11}% 168
+\BOOKMARK [2][-]{section*.119}{Tab order: how to change?}{section.5.11}% 169
+\BOOKMARK [0][-]{appendix.A}{A What is New?}{}% 170
+\BOOKMARK [1][-]{section.A.1}{A.1 Versions released in 2014 \(01\)}{appendix.A}% 171
+\BOOKMARK [2][-]{section*.120}{3.0.2.8 \(Jan/17/2014\)}{section.A.1}% 172
+\BOOKMARK [1][-]{section.A.2}{A.2 Versions released in 2013 \(10\)}{appendix.A}% 173
+\BOOKMARK [2][-]{section*.121}{3.0.2.7 \(Dec/30/2013\)}{section.A.2}% 174
+\BOOKMARK [2][-]{section*.122}{3.0.2.6 \(Dec/28/2013\)}{section.A.2}% 175
+\BOOKMARK [2][-]{section*.123}{3.0.2.5 \(Dec/03/2013\)}{section.A.2}% 176
+\BOOKMARK [2][-]{section*.124}{3.0.2.2 \(Nov/20/2013\)}{section.A.2}% 177
+\BOOKMARK [2][-]{section*.125}{3.0.2.1 \(Nov/19/2013\)}{section.A.2}% 178
+\BOOKMARK [2][-]{section*.126}{3.0.1.10 \(Nov/15/2013\)}{section.A.2}% 179
+\BOOKMARK [2][-]{section*.127}{3.0.1.9 \(Nov/07/2013\)}{section.A.2}% 180
+\BOOKMARK [2][-]{section*.128}{3.0.1.8 \(Nov/06/2013\)}{section.A.2}% 181
+\BOOKMARK [2][-]{section*.129}{2.4.1.7 \(Mai/08/2013\)}{section.A.2}% 182
+\BOOKMARK [2][-]{section*.130}{2.4.1.6 \(Mai/06/2013\)}{section.A.2}% 183
+\BOOKMARK [1][-]{section.A.3}{A.3 Versions released in 2012 \(03\)}{appendix.A}% 184
+\BOOKMARK [2][-]{section*.131}{2.4.1.5 \(Dez/06/2012\)}{section.A.3}% 185
+\BOOKMARK [2][-]{section*.132}{2.4.0.1 \(Nov/07/2012\)}{section.A.3}% 186
+\BOOKMARK [2][-]{section*.133}{2.3.7.3 \(Set/23/2012\)}{section.A.3}% 187
+\BOOKMARK [1][-]{section.A.4}{A.4 Versions released in 2010 \(10\)}{appendix.A}% 188
+\BOOKMARK [2][-]{section*.134}{2.3.7.1 \(Nov/24/2010\)}{section.A.4}% 189
+\BOOKMARK [2][-]{section*.135}{2.3.7.0 \(Nov/22/2010\)}{section.A.4}% 190
+\BOOKMARK [2][-]{section*.136}{2.3.6.3 \(Nov/14/2010\)}{section.A.4}% 191
+\BOOKMARK [2][-]{section*.137}{2.3.6.2 \(Nov/13/2010\)}{section.A.4}% 192
+\BOOKMARK [2][-]{section*.138}{2.3.6.1 \(Nov/12/2010\)}{section.A.4}% 193
+\BOOKMARK [2][-]{section*.139}{2.3.6.0 \(Nov/10/2010\)}{section.A.4}% 194
+\BOOKMARK [2][-]{section*.140}{2.3.5.2 \(Apr/11/2010\)}{section.A.4}% 195
+\BOOKMARK [2][-]{section*.141}{2.3.5.1 \(Mar/28/2010\)}{section.A.4}% 196
+\BOOKMARK [2][-]{section*.142}{2.3.5.0 \(Mar/04/2010\)}{section.A.4}% 197
+\BOOKMARK [2][-]{section*.143}{2.3.4.4 \(Jan/10/2010\)}{section.A.4}% 198
+\BOOKMARK [1][-]{section.A.5}{A.5 Versions released in 2009 \(16\)}{appendix.A}% 199
+\BOOKMARK [2][-]{section*.144}{2.3.4.3 \(Dec/21/2009\)}{section.A.5}% 200
+\BOOKMARK [2][-]{section*.145}{2.3.4.2 \(Dec/18/2009\)}{section.A.5}% 201
+\BOOKMARK [2][-]{section*.146}{2.3.4.1 \(Dec/13/2009\)}{section.A.5}% 202
+\BOOKMARK [2][-]{section*.147}{2.3.4.0 \(Dec/06/2009\)}{section.A.5}% 203
+\BOOKMARK [2][-]{section*.148}{2.3.3.1 \(Nov/10/2009\)}{section.A.5}% 204
+\BOOKMARK [2][-]{section*.149}{2.3.3.0 \(Nov/09/2009\)}{section.A.5}% 205
+\BOOKMARK [2][-]{section*.150}{2.3.2.6 \(Nov/07/2009\)}{section.A.5}% 206
+\BOOKMARK [2][-]{section*.151}{2.3.2.5 \(Nov/03/2009\)}{section.A.5}% 207
+\BOOKMARK [2][-]{section*.152}{2.3.2.3 \(Ago/06/2009\)}{section.A.5}% 208
+\BOOKMARK [2][-]{section*.153}{2.3.2.2 \(Jul/20/2009\)}{section.A.5}% 209
+\BOOKMARK [2][-]{section*.154}{2.3.2.1 \(Jul/19/2009\)}{section.A.5}% 210
+\BOOKMARK [2][-]{section*.155}{2.3.2.0 \(Jul/18/2009\)}{section.A.5}% 211
+\BOOKMARK [2][-]{section*.156}{2.3.1.0 \(Jul/15/2009\)}{section.A.5}% 212
+\BOOKMARK [2][-]{section*.157}{2.3.0.0 \(Jul/10/2009\)}{section.A.5}% 213
+\BOOKMARK [2][-]{section*.158}{2.2.0.2 \(Feb/09/2009\)}{section.A.5}% 214
+\BOOKMARK [2][-]{section*.159}{2.2.0.1 \(Feb/05/2009\)}{section.A.5}% 215
+\BOOKMARK [1][-]{section.A.6}{A.6 Versions released in 2008 \(14\)}{appendix.A}% 216
+\BOOKMARK [2][-]{section*.160}{2.1.1.6 \(Nov/17/2008\)}{section.A.6}% 217
+\BOOKMARK [2][-]{section*.161}{2.1.1.5 \(Nov/12/2008\)}{section.A.6}% 218
+\BOOKMARK [2][-]{section*.162}{2.1.1.4 \(Nov/10/2008\)}{section.A.6}% 219
+\BOOKMARK [2][-]{section*.163}{2.1.1.3 \(Nov/04/2008\)}{section.A.6}% 220
+\BOOKMARK [2][-]{section*.164}{2.1.1.2 \(Oct/20/2008\)}{section.A.6}% 221
+\BOOKMARK [2][-]{section*.165}{2.1.1.1 \(Oct/15/2008\)}{section.A.6}% 222
+\BOOKMARK [2][-]{section*.166}{2.0.0.7 \(Sep/04/2008\)}{section.A.6}% 223
+\BOOKMARK [2][-]{section*.167}{2.0.0.6 \(Aug/21/2008\)}{section.A.6}% 224
+\BOOKMARK [2][-]{section*.168}{2.0.0.5 \(Aug/17/2008\) - pre-release}{section.A.6}% 225
+\BOOKMARK [2][-]{section*.169}{2.0.0.4 \(Aug/12/2008\) - pre-release}{section.A.6}% 226
+\BOOKMARK [2][-]{section*.170}{2.0.0.3 \(Aug/05/2008\) - pre-release}{section.A.6}% 227
+\BOOKMARK [2][-]{section*.171}{2.0.0.2 \(Jul/23/2008\) - pre-release}{section.A.6}% 228
+\BOOKMARK [2][-]{section*.172}{2.0.0.1 \(Jul/22/2008\) - pre-release}{section.A.6}% 229
+\BOOKMARK [1][-]{section.A.7}{A.7 Versions released in 2007 \(26\)}{appendix.A}% 230
+\BOOKMARK [2][-]{section*.173}{1.19.4.7 \(Dec/23/2007\)}{section.A.7}% 231
+\BOOKMARK [2][-]{section*.174}{1.19.4.6 \(Dec/17/2007\)}{section.A.7}% 232
+\BOOKMARK [2][-]{section*.175}{1.19.4.5 \(Dec/14/2007\)}{section.A.7}% 233
+\BOOKMARK [2][-]{section*.176}{1.19.4.4 \(Dec/13/2007\)}{section.A.7}% 234
+\BOOKMARK [2][-]{section*.177}{1.19.4.3 \(Dec/12/2007\)}{section.A.7}% 235
+\BOOKMARK [2][-]{section*.178}{1.19.4.2 \(Dec/11/2007\)}{section.A.7}% 236
+\BOOKMARK [2][-]{section*.179}{1.19.4.1 \(Dec/01/2007\)}{section.A.7}% 237
+\BOOKMARK [2][-]{section*.180}{1.19.4.0 \(Nov/29/2007\)}{section.A.7}% 238
+\BOOKMARK [2][-]{section*.181}{1.19.3.1 \(Nov/15/2007\)}{section.A.7}% 239
+\BOOKMARK [2][-]{section*.182}{1.19.3.0 \(Nov/12/2007\)}{section.A.7}% 240
+\BOOKMARK [2][-]{section*.183}{1.19.2.3 \(Mar/05/2007\)}{section.A.7}% 241
+\BOOKMARK [2][-]{section*.184}{1.19.2.2 \(Feb/22/2007\)}{section.A.7}% 242
+\BOOKMARK [2][-]{section*.185}{1.19.2.1 \(Feb/19/2007\)}{section.A.7}% 243
+\BOOKMARK [2][-]{section*.186}{1.19.2.0 \(Feb/16/2007\)}{section.A.7}% 244
+\BOOKMARK [2][-]{section*.187}{1.19.1.13 \(Feb/13/2007\)}{section.A.7}% 245
+\BOOKMARK [2][-]{section*.188}{1.19.1.12 \(Feb/11/2007\)}{section.A.7}% 246
+\BOOKMARK [2][-]{section*.189}{1.19.1.11 \(Feb/07/2007\)}{section.A.7}% 247
+\BOOKMARK [2][-]{section*.190}{1.19.1.10 \(Feb/04/2007\)}{section.A.7}% 248
+\BOOKMARK [2][-]{section*.191}{1.19.1.9 \(Jan/25/2007\)}{section.A.7}% 249
+\BOOKMARK [2][-]{section*.192}{1.19.1.8 \(Jan/24/2007\)}{section.A.7}% 250
+\BOOKMARK [2][-]{section*.193}{1.19.1.7 \(Jan/23/2007\)}{section.A.7}% 251
+\BOOKMARK [2][-]{section*.194}{1.19.1.6 \(Jan/21/2007\)}{section.A.7}% 252
+\BOOKMARK [2][-]{section*.195}{1.19.1.5 \(Jan/09/2007\)}{section.A.7}% 253
+\BOOKMARK [2][-]{section*.196}{1.19.1.4 \(Jan/05/2007\)}{section.A.7}% 254
+\BOOKMARK [2][-]{section*.197}{1.19.1.3 \(Jan/04/2007\)}{section.A.7}% 255
+\BOOKMARK [2][-]{section*.198}{1.19.1.2 \(Jan/01/2007\)}{section.A.7}% 256
+\BOOKMARK [1][-]{section.A.8}{A.8 Versions released in 2006 \(64\)}{appendix.A}% 257
+\BOOKMARK [2][-]{section*.199}{1.19.1.1 \(Dec/27/2006\)}{section.A.8}% 258
+\BOOKMARK [2][-]{section*.200}{1.19.1.0 \(Dec/26/2006\)}{section.A.8}% 259
+\BOOKMARK [2][-]{section*.201}{1.19.0.18 \(Dec/13/2006\)}{section.A.8}% 260
+\BOOKMARK [2][-]{section*.202}{1.19.0.17 \(Dec/10/2006\)}{section.A.8}% 261
+\BOOKMARK [2][-]{section*.203}{1.19.0.16 \(Dec/08/2006\)}{section.A.8}% 262
+\BOOKMARK [2][-]{section*.204}{1.19.0.15 \(Dec/07/2006\)}{section.A.8}% 263
+\BOOKMARK [2][-]{section*.205}{1.19.0.14 \(Dec/06/2006\)}{section.A.8}% 264
+\BOOKMARK [2][-]{section*.206}{1.19.0.13 \(Dec/04/2006\)}{section.A.8}% 265
+\BOOKMARK [2][-]{section*.207}{1.19.0.12 \(Dec/04/2006\)}{section.A.8}% 266
+\BOOKMARK [2][-]{section*.208}{1.19.0.11 \(Nov/30/2006\)}{section.A.8}% 267
+\BOOKMARK [2][-]{section*.209}{1.19.0.10 \(Nov/30/2006\)}{section.A.8}% 268
+\BOOKMARK [2][-]{section*.210}{1.19.0.9 \(Nov/29/2006\)}{section.A.8}% 269
+\BOOKMARK [2][-]{section*.211}{1.19.0.8 \(Nov/28/2006\)}{section.A.8}% 270
+\BOOKMARK [2][-]{section*.212}{1.19.0.7 \(Nov/27/2006\)}{section.A.8}% 271
+\BOOKMARK [2][-]{section*.213}{1.19.0.6 \(Nov/23/2006\)}{section.A.8}% 272
+\BOOKMARK [2][-]{section*.214}{1.19.0.5 \(Nov/21/2006\)}{section.A.8}% 273
+\BOOKMARK [2][-]{section*.215}{1.19.0.4 \(Nov/18/2006\)}{section.A.8}% 274
+\BOOKMARK [2][-]{section*.216}{1.19.0.3 \(Nov/17/2006\)}{section.A.8}% 275
+\BOOKMARK [2][-]{section*.217}{1.19.0.2 \(Nov/09/2006\)}{section.A.8}% 276
+\BOOKMARK [2][-]{section*.218}{1.19.0.1 \(Nov/07/2006\)}{section.A.8}% 277
+\BOOKMARK [2][-]{section*.219}{1.19.0.0 \(Nov/06/2006\)}{section.A.8}% 278
+\BOOKMARK [2][-]{section*.220}{1.18.7.3 \(Oct/30/2006\)}{section.A.8}% 279
+\BOOKMARK [2][-]{section*.221}{1.18.7.2 \(Oct/30/2006\)}{section.A.8}% 280
+\BOOKMARK [2][-]{section*.222}{1.18.7.1 \(Oct/26/2006\)}{section.A.8}% 281
+\BOOKMARK [2][-]{section*.223}{1.18.7.0 \(Oct/25/2006\)}{section.A.8}% 282
+\BOOKMARK [2][-]{section*.224}{1.18.6.13 \(Oct/24/2006\)}{section.A.8}% 283
+\BOOKMARK [2][-]{section*.225}{1.18.6.12 \(Oct/22/2006\)}{section.A.8}% 284
+\BOOKMARK [2][-]{section*.226}{1.18.6.11 \(Oct/20/2006\)}{section.A.8}% 285
+\BOOKMARK [2][-]{section*.227}{1.18.6.10 \(Oct/20/2006\)}{section.A.8}% 286
+\BOOKMARK [2][-]{section*.228}{1.18.6.9 \(Oct/17/2006\)}{section.A.8}% 287
+\BOOKMARK [2][-]{section*.229}{1.18.6.8 \(Oct/10/2006\)}{section.A.8}% 288
+\BOOKMARK [2][-]{section*.230}{1.18.6.7 \(Oct/08/2006\)}{section.A.8}% 289
+\BOOKMARK [2][-]{section*.231}{1.18.6.6 \(Oct/06/2006\)}{section.A.8}% 290
+\BOOKMARK [2][-]{section*.232}{1.18.6.5 \(Oct/03/2006\)}{section.A.8}% 291
+\BOOKMARK [2][-]{section*.233}{1.18.6.4 \(Oct/01/2006\)}{section.A.8}% 292
+\BOOKMARK [2][-]{section*.234}{1.18.6.3 \(Sep/29/2006\)}{section.A.8}% 293
+\BOOKMARK [2][-]{section*.235}{1.18.6.2 \(Sep/28/2006\)}{section.A.8}% 294
+\BOOKMARK [2][-]{section*.236}{1.18.6.1 \(Sep/28/2006\)}{section.A.8}% 295
+\BOOKMARK [2][-]{section*.237}{1.18.6.0 \(Sep/26/2006\)}{section.A.8}% 296
+\BOOKMARK [2][-]{section*.238}{1.18.5.12 \(Sep/15/2006\)}{section.A.8}% 297
+\BOOKMARK [2][-]{section*.239}{1.18.5.12 \(Sep/13/2006\)}{section.A.8}% 298
+\BOOKMARK [2][-]{section*.240}{1.18.5.11 \(Sep/12/2006\)}{section.A.8}% 299
+\BOOKMARK [2][-]{section*.241}{1.18.5.10 \(Sep/11/2006\)}{section.A.8}% 300
+\BOOKMARK [2][-]{section*.242}{1.18.5.9 \(Sep/10/2006\)}{section.A.8}% 301
+\BOOKMARK [2][-]{section*.243}{1.18.5.8 \(Ago/03/2006\)}{section.A.8}% 302
+\BOOKMARK [2][-]{section*.244}{1.18.5.7 \(Ago/01/2006\)}{section.A.8}% 303
+\BOOKMARK [2][-]{section*.245}{1.18.5.6 \(Jun/24/2006\)}{section.A.8}% 304
+\BOOKMARK [2][-]{section*.246}{1.18.5.5 \(May/29/2006\)}{section.A.8}% 305
+\BOOKMARK [2][-]{section*.247}{1.18.5.4 \(May/28/2006\)}{section.A.8}% 306
+\BOOKMARK [2][-]{section*.248}{1.18.5.3 \(May/27/2006\)}{section.A.8}% 307
+\BOOKMARK [2][-]{section*.249}{1.18.5.2 \(May/22/2006\)}{section.A.8}% 308
+\BOOKMARK [2][-]{section*.250}{1.18.5.1 \(May/20/2006\)}{section.A.8}% 309
+\BOOKMARK [2][-]{section*.251}{1.18.4.5 \(Apr/07/2006\)}{section.A.8}% 310
+\BOOKMARK [2][-]{section*.252}{1.18.4.4 \(Apr/02/2006\)}{section.A.8}% 311
+\BOOKMARK [2][-]{section*.253}{1.18.4.3 \(Mar/28/2006\)}{section.A.8}% 312
+\BOOKMARK [2][-]{section*.254}{1.18.3.0 \(Mar/16/2006\)}{section.A.8}% 313
+\BOOKMARK [2][-]{section*.255}{1.18.2.1 \(Mar/08/2006\)}{section.A.8}% 314
+\BOOKMARK [2][-]{section*.256}{1.18.2.0 \(Mar/06/2006\)}{section.A.8}% 315
+\BOOKMARK [2][-]{section*.257}{1.18.1.10 \(Feb/18/2006\)}{section.A.8}% 316
+\BOOKMARK [2][-]{section*.258}{1.18.1.9 \(Feb/18/2006\)}{section.A.8}% 317
+\BOOKMARK [2][-]{section*.259}{1.18.1.8 \(Feb/12/2006\)}{section.A.8}% 318
+\BOOKMARK [2][-]{section*.260}{1.18.1.7 \(Jan/14/2006\)}{section.A.8}% 319
+\BOOKMARK [2][-]{section*.261}{1.18.1.6 \(Jan/10/2006\)}{section.A.8}% 320
+\BOOKMARK [2][-]{section*.262}{1.18.1.5 \(Jan/01/2006\)}{section.A.8}% 321
+\BOOKMARK [1][-]{section.A.9}{A.9 Versions released in 2005 \(25\)}{appendix.A}% 322
+\BOOKMARK [2][-]{section*.263}{1.18.1.4 \(Dec/24/2005\)}{section.A.9}% 323
+\BOOKMARK [2][-]{section*.264}{1.18.1.3 \(Dec/17/2005\)}{section.A.9}% 324
+\BOOKMARK [2][-]{section*.265}{1.18.1.2 beta \(Dec/11/2005\)}{section.A.9}% 325
+\BOOKMARK [2][-]{section*.266}{1.18.1.1 beta \(Dec/03/2005\)}{section.A.9}% 326
+\BOOKMARK [2][-]{section*.267}{1.17.2.6 \(Oct/27/2005\)}{section.A.9}% 327
+\BOOKMARK [2][-]{section*.268}{1.17.2.5 \(Oct/25/2005\)}{section.A.9}% 328
+\BOOKMARK [2][-]{section*.269}{1.17.2.4 \(Oct/08/2005\)}{section.A.9}% 329
+\BOOKMARK [2][-]{section*.270}{1.17.2.3 \(Oct/03/2005\)}{section.A.9}% 330
+\BOOKMARK [2][-]{section*.271}{1.17.2.2 \(Oct/02/2005\)}{section.A.9}% 331
+\BOOKMARK [2][-]{section*.272}{1.17.1.1 \(Aug/28/2005\)}{section.A.9}% 332
+\BOOKMARK [2][-]{section*.273}{1.16.1.8 \(Aug/07/2005\)}{section.A.9}% 333
+\BOOKMARK [2][-]{section*.274}{1.16.1.7 \(Aug/05/2005\)}{section.A.9}% 334
+\BOOKMARK [2][-]{section*.275}{1.16.1.5 \(Jul/15/2005\)}{section.A.9}% 335
+\BOOKMARK [2][-]{section*.276}{1.16.1.4 \(May/29/2005\)}{section.A.9}% 336
+\BOOKMARK [2][-]{section*.277}{1.16.1.3 beta \(May/22/2005\)}{section.A.9}% 337
+\BOOKMARK [2][-]{section*.278}{1.15.1.7 \(Apr/07/2005\)}{section.A.9}% 338
+\BOOKMARK [2][-]{section*.279}{1.15.1.6 beta \(Mar/19/2005\)}{section.A.9}% 339
+\BOOKMARK [2][-]{section*.280}{1.15.1.5 beta \(Mar/17/2005\)}{section.A.9}% 340
+\BOOKMARK [2][-]{section*.281}{1.15.1.4 beta pre-release \(Mar/12/2005\)}{section.A.9}% 341
+\BOOKMARK [2][-]{section*.282}{1.15.1.3 beta pre-release \(Mar/06/2005\)}{section.A.9}% 342
+\BOOKMARK [2][-]{section*.283}{1.15.1.2 beta pre-release \(Mar/05/2005\)}{section.A.9}% 343
+\BOOKMARK [2][-]{section*.284}{1.15.1.1 beta pre-release \(Mar/01/2005\)}{section.A.9}% 344
+\BOOKMARK [2][-]{section*.285}{0.0.9.4 r1.15 beta 2 \(Feb/11/2005\)}{section.A.9}% 345
+\BOOKMARK [2][-]{section*.286}{0.0.9.3 r1.15 beta 1 \(Feb/11/2005\)}{section.A.9}% 346
+\BOOKMARK [2][-]{section*.287}{0.0.9.3 r1.14 \(Feb/11/2005\)}{section.A.9}% 347
+\BOOKMARK [1][-]{section.A.10}{A.10 Versions released in 2004 \(16\)}{appendix.A}% 348
+\BOOKMARK [2][-]{section*.288}{0.0.9.3 r1.14 beta 9 \(Dec/04/2004\)}{section.A.10}% 349
+\BOOKMARK [2][-]{section*.289}{0.0.9.2 r1.14 beta 8 \(Oct/2004\)}{section.A.10}% 350
+\BOOKMARK [2][-]{section*.290}{0.0.9.1 r1.14 beta 7 \(Oct/2004\)}{section.A.10}% 351
+\BOOKMARK [2][-]{section*.291}{0.0.9.1 r1.14 beta 6 \(Sep/2004\)}{section.A.10}% 352
+\BOOKMARK [2][-]{section*.292}{0.0.9.0 r1.14 beta 5 \(Sep/2004\)}{section.A.10}% 353
+\BOOKMARK [2][-]{section*.293}{0.0.9.0 r1.14 beta 4 \(Aug/2004\)}{section.A.10}% 354
+\BOOKMARK [2][-]{section*.294}{0.0.9.0 r1.14 \(Aug/2004\)}{section.A.10}% 355
+\BOOKMARK [2][-]{section*.295}{0.0.9.0 r1.13 \(Jul/2004\)}{section.A.10}% 356
+\BOOKMARK [2][-]{section*.296}{0.0.9.0 r1.12 \(Jun/2004\)}{section.A.10}% 357
+\BOOKMARK [2][-]{section*.297}{0.0.9.0 r1.11 \(Jun/2004\)}{section.A.10}% 358
+\BOOKMARK [2][-]{section*.298}{0.0.9.0 r1.10 \(May/2004\)}{section.A.10}% 359
+\BOOKMARK [2][-]{section*.299}{0.0.9.0 r1.09 \(Mar/2004\)}{section.A.10}% 360
+\BOOKMARK [2][-]{section*.300}{0.0.8.9 r1.08 \(Mar/2004\)}{section.A.10}% 361
+\BOOKMARK [2][-]{section*.301}{0.0.8.9 r1.07 \(Feb/2004\)}{section.A.10}% 362
+\BOOKMARK [2][-]{section*.302}{0.0.8.8 r1.06 \(Feb/2004\)}{section.A.10}% 363
+\BOOKMARK [2][-]{section*.303}{0.0.8.8 r1.05 \(Feb/2004\)}{section.A.10}% 364
+\BOOKMARK [0][-]{appendix.B}{B R manuals on CRAN}{}% 365
+\BOOKMARK [0][-]{appendix.C}{C GNU GENERAL PUBLIC LICENSE}{}% 366
+\BOOKMARK [0][-]{section*.304}{Index}{}% 367
+\BOOKMARK [0][-]{appendix*.305}{About the Authors}{}% 368
