@@ -5,8 +5,8 @@
 \contentsline {section}{Rmetrics (1. ed.)}{ix}{section*.4}
 \contentsline {section}{Editus (2. ed.)}{x}{section*.5}
 \contentsline {chapter}{Contents}{xi}{section*.6}
-\contentsline {chapter}{List of Figures}{xiv}{section*.7}
-\contentsline {chapter}{List of Tables}{xvi}{section*.8}
+\contentsline {chapter}{List of Figures}{xvi}{section*.7}
+\contentsline {chapter}{List of Tables}{xviii}{section*.8}
 \contentsline {chapter}{\chapternumberline {1}Overview}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Quick start}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}What is Tinn-R?}{2}{section.1.2}
@@ -20,342 +20,178 @@
 \contentsline {section}{\numberline {1.10}What tools were used to make this guide?}{7}{section.1.10}
 \contentsline {chapter}{\chapternumberline {2}Basics}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Configuration}{10}{section.2.1}
-\contentsline {subsection}{Uninstall Tinn-R}{10}{section*.11}
-\contentsline {subsection}{Install and configure Tinn-R and R}{10}{section*.12}
-\contentsline {subsection}{Speller installation}{15}{section*.13}
-\contentsline {subsection}{Inverse DVI search}{15}{section*.14}
-\contentsline {subsection}{Ruby and Deplate}{17}{section*.15}
-\contentsline {subsection}{Python and Txt2tags}{19}{section*.16}
+\contentsline {subsection}{Uninstall Tinn-R}{10}{section*.10}
+\contentsline {subsection}{Install and configure Tinn-R and R}{10}{section*.11}
+\contentsline {subsection}{Speller installation}{15}{section*.12}
+\contentsline {subsection}{Inverse DVI search}{15}{section*.13}
+\contentsline {subsection}{Ruby and Deplate}{17}{section*.14}
+\contentsline {subsection}{Python and Txt2tags}{19}{section*.15}
 \contentsline {section}{\numberline {2.2}Keyboard shortcuts (default)}{21}{section.2.2}
-\contentsline {subsection}{The most commonly used shortcuts}{21}{section*.17}
-\contentsline {subsection}{Main menu (systematically)}{24}{section*.18}
-\contentsline {subsection}{Call Tip}{26}{section*.19}
-\contentsline {subsection}{Code (or data) Completion}{26}{section*.20}
-\contentsline {subsection}{R Explorer}{27}{section*.21}
-\contentsline {subsection}{Alphabetical List of Keyboard Shortcuts}{27}{section*.22}
+\contentsline {subsection}{Main menu (systematically)}{24}{section*.16}
+\contentsline {subsection}{Call Tip}{26}{section*.17}
+\contentsline {subsection}{Code (or data) Completion}{26}{section*.18}
+\contentsline {subsection}{R Explorer}{27}{section*.19}
+\contentsline {subsection}{Alphabetical List of Keyboard Shortcuts}{27}{section*.20}
 \contentsline {section}{\numberline {2.3}FAQ}{31}{section.2.3}
-\contentsline {subsection}{What is Tinn-R?}{31}{section*.23}
-\contentsline {subsection}{Feedback, suggestions and bug report}{31}{section*.24}
-\contentsline {subsection}{Tinn-R installation}{31}{section*.25}
-\contentsline {subsection}{Hotkeys (operational system)}{38}{section*.26}
-\contentsline {subsection}{Miscellaneous}{39}{section*.27}
+\contentsline {subsection}{What is Tinn-R?}{31}{section*.21}
+\contentsline {subsection}{Feedback, suggestions and bug report}{31}{section*.22}
+\contentsline {subsection}{Tinn-R installation}{31}{section*.23}
+\contentsline {subsection}{Hotkeys (operational system)}{38}{section*.24}
+\contentsline {subsection}{Miscellaneous}{39}{section*.25}
 \contentsline {chapter}{\chapternumberline {3}Working With}{45}{chapter.3}
 \contentsline {section}{\numberline {3.1}Application options}{46}{section.3.1}
-\contentsline {subsection}{Main}{46}{section*.29}
-\contentsline {subsection}{R}{47}{section*.32}
-\contentsline {subsection}{Processing}{47}{section*.36}
-\contentsline {section}{\numberline {3.2}Editor options}{51}{section.3.2}
-\contentsline {subsection}{Display:}{51}{section*.39}
-\contentsline {subsection}{Advanced options}{52}{section*.42}
-\contentsline {subsection}{Keystrokes}{53}{section*.45}
-\contentsline {section}{\numberline {3.3}Selection mode}{54}{section.3.3}
-\contentsline {subsection}{Normal}{54}{section*.47}
-\contentsline {subsection}{Line}{55}{section*.49}
-\contentsline {subsection}{Column}{55}{section*.51}
-\contentsline {section}{\numberline {3.4}Highlighters (settings)}{56}{section.3.4}
-\contentsline {section}{\numberline {3.5}Shortcuts customization}{58}{section.3.5}
-\contentsline {section}{\numberline {3.6}Hotkeys (operational system)}{59}{section.3.6}
-\contentsline {section}{\numberline {3.7}Rterm interface}{60}{section.3.7}
-\contentsline {subsection}{IO}{61}{section*.57}
-\contentsline {subsection}{Log}{63}{section*.60}
-\contentsline {section}{\numberline {3.8}Tools interface}{64}{section.3.8}
-\contentsline {subsection}{Misc}{64}{section*.62}
-\contentsline {subsection}{Markup}{66}{section*.65}
-\contentsline {subsection}{Results}{66}{section*.68}
-\contentsline {subsection}{Spell}{68}{section*.73}
-\contentsline {subsection}{Database}{69}{section*.75}
-\contentsline {subsection}{R}{70}{section*.78}
-\contentsline {section}{\numberline {3.9}File tabs}{74}{section.3.9}
-\contentsline {section}{\numberline {3.10}Tools bar}{75}{section.3.10}
-\contentsline {subsection}{Show/Hide}{75}{section*.87}
-\contentsline {subsection}{Disposition}{75}{section*.89}
-\contentsline {section}{\numberline {3.11}Find and replace}{77}{section.3.11}
-\contentsline {subsection}{Find}{77}{section*.91}
-\contentsline {subsection}{Replace (Replace dialog only)}{77}{section*.92}
-\contentsline {section}{\numberline {3.12}Search in files}{79}{section.3.12}
-\contentsline {subsection}{Options}{79}{section*.94}
-\contentsline {subsection}{Where}{79}{section*.95}
-\contentsline {subsection}{Directory options}{79}{section*.96}
-\contentsline {subsection}{Results interface}{79}{section*.97}
-\contentsline {section}{\numberline {3.13}Database}{81}{section.3.13}
-\contentsline {subsection}{Shortcuts}{81}{section*.99}
-\contentsline {subsection}{Completion}{82}{section*.101}
-\contentsline {subsection}{Comments}{84}{section*.103}
-\contentsline {section}{\numberline {3.14}Regular expressions}{85}{section.3.14}
-\contentsline {subsection}{What are regular expressions?}{85}{section*.105}
-\contentsline {subsection}{Simple Matches}{85}{section*.106}
-\contentsline {subsection}{Escape Sequences}{85}{section*.107}
-\contentsline {subsection}{Character Classes}{86}{section*.108}
-\contentsline {subsection}{Metacharacters}{87}{section*.109}
-\contentsline {subsection}{Regular Expression Tutorials}{90}{section*.110}
-\contentsline {chapter}{\chapternumberline {4}Menu Description}{93}{chapter.4}
-\contentsline {section}{\numberline {4.1}File}{94}{section.4.1}
-\contentsline {subsection}{Template:}{94}{section*.111}
-\contentsline {subsection}{R doc:}{95}{section*.112}
-\contentsline {subsection}{Copy full path to clipboard:}{95}{section*.113}
-\contentsline {section}{\numberline {4.2}Project}{96}{section.4.2}
-\contentsline {subsection}{Project:}{96}{section*.114}
-\contentsline {subsection}{Group(s):}{96}{section*.115}
-\contentsline {subsection}{File(s):}{97}{section*.116}
-\contentsline {section}{\numberline {4.3}Edit}{98}{section.4.3}
-\contentsline {subsection}{Copy formatted (to export):}{98}{section*.117}
-\contentsline {section}{\numberline {4.4}Format}{99}{section.4.4}
-\contentsline {subsection}{Selection:}{99}{section*.118}
-\contentsline {subsection}{Word:}{99}{section*.119}
-\contentsline {subsection}{Reformat:}{99}{section*.120}
-\contentsline {section}{\numberline {4.5}Marks}{100}{section.4.5}
-\contentsline {subsection}{Block:}{100}{section*.121}
-\contentsline {section}{\numberline {4.6}Insert}{101}{section.4.6}
-\contentsline {subsection}{Latex:}{101}{section*.122}
-\contentsline {section}{\numberline {4.7}Search}{104}{section.4.7}
-\contentsline {section}{\numberline {4.8}Options}{105}{section.4.8}
-\contentsline {subsection}{Syntax (highlighter):}{105}{section*.123}
-\contentsline {subsection}{Selection mode:}{107}{section*.124}
-\contentsline {section}{\numberline {4.9}Encoding}{108}{section.4.9}
-\contentsline {section}{\numberline {4.10}Tools}{109}{section.4.10}
-\contentsline {subsection}{Processing:}{109}{section*.125}
-\contentsline {paragraph}{}{111}{section*.126}
-\contentsline {subsection}{Database:}{113}{section*.127}
-\contentsline {subsection}{Backup:}{113}{section*.128}
-\contentsline {subsection}{Restore:}{114}{section*.129}
-\contentsline {subsection}{Macro:}{114}{section*.130}
-\contentsline {subsection}{Sort:}{114}{section*.131}
-\contentsline {section}{\numberline {4.11}R}{115}{section.4.11}
-\contentsline {subsection}{Start/close and connections:}{115}{section*.132}
-\contentsline {subsection}{Rterm:}{116}{section*.133}
-\contentsline {subsection}{Send:}{119}{section*.134}
-\contentsline {subsection}{Control:}{120}{section*.135}
-\contentsline {section}{\numberline {4.12}View}{122}{section.4.12}
-\contentsline {subsection}{R:}{122}{section*.136}
-\contentsline {subsection}{Tools:}{124}{section*.137}
-\contentsline {subsection}{Toolbars:}{127}{section*.138}
-\contentsline {subsection}{Tabs:}{127}{section*.139}
-\contentsline {subsection}{Word wrap:}{128}{section*.140}
-\contentsline {subsection}{Split:}{128}{section*.141}
-\contentsline {subsection}{Font of active control (not permanent):}{129}{section*.142}
-\contentsline {section}{\numberline {4.13}Window}{130}{section.4.13}
-\contentsline {section}{\numberline {4.14}Web}{131}{section.4.14}
-\contentsline {subsection}{R search:}{131}{section*.143}
-\contentsline {subsection}{S search:}{132}{section*.144}
-\contentsline {subsection}{R information:}{132}{section*.145}
-\contentsline {subsection}{R Gui's:}{133}{section*.146}
-\contentsline {subsection}{Tinn-R:}{133}{section*.147}
-\contentsline {subsection}{Statistics:}{133}{section*.148}
-\contentsline {subsection}{Processing:}{134}{section*.149}
-\contentsline {section}{\numberline {4.15}Help}{135}{section.4.15}
-\contentsline {chapter}{\chapternumberline {5}Some Secrets for an Efficient Use}{137}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{138}{section.5.1}
-\contentsline {section}{\numberline {5.2}After installation}{139}{section.5.2}
-\contentsline {section}{\numberline {5.3}Shortcuts that can make you lose the visibility of a resource}{141}{section.5.3}
-\contentsline {section}{\numberline {5.4}I'm panicking: what do I do?}{142}{section.5.4}
-\contentsline {section}{\numberline {5.5}Application options}{143}{section.5.5}
-\contentsline {subsection}{General}{143}{section*.150}
-\contentsline {subsection}{Appearance}{143}{section*.151}
-\contentsline {subsection}{Dock}{144}{section*.152}
-\contentsline {subsection}{Editor options}{145}{section*.153}
-\contentsline {subsection}{R}{146}{section*.154}
-\contentsline {subsection}{Processing}{147}{section*.155}
-\contentsline {section}{\numberline {5.6}Highlighters (settings)}{149}{section.5.6}
-\contentsline {section}{\numberline {5.7}Tools}{150}{section.5.7}
-\contentsline {subsection}{Project}{150}{section*.156}
-\contentsline {subsection}{Database}{151}{section*.157}
-\contentsline {paragraph}{}{151}{section*.158}
-\contentsline {paragraph}{}{151}{section*.159}
-\contentsline {paragraph}{}{152}{section*.160}
-\contentsline {subsection}{R}{153}{section*.161}
-\contentsline {paragraph}{}{153}{section*.162}
-\contentsline {paragraph}{}{154}{section*.163}
-\contentsline {paragraph}{}{154}{section*.164}
-\contentsline {section}{\numberline {5.8}Bars}{156}{section.5.8}
-\contentsline {section}{\numberline {5.9}Spell checker}{157}{section.5.9}
-\contentsline {section}{\numberline {5.10}Split}{158}{section.5.10}
-\contentsline {section}{\numberline {5.11}Editor: how to?}{159}{section.5.11}
-\contentsline {subsection}{Macros: how to use?}{159}{section*.165}
-\contentsline {subsection}{Marks: how to use?}{159}{section*.166}
-\contentsline {subsection}{Editor, Tools and Rterm: how to arrange?}{160}{section*.167}
-\contentsline {subsection}{Active page using the keyboard: how to change?}{160}{section*.168}
-\contentsline {subsection}{Tab order: how to change?}{160}{section*.169}
-\contentsline {appendix}{\chapternumberline {A}What is New?}{161}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2013 (10)}{162}{section.A.1}
-\contentsline {section}{\numberline {A.2}Versions released in 2012 (3)}{167}{section.A.2}
-\contentsline {section}{\numberline {A.3}Versions released in 2010 (10)}{170}{section.A.3}
-\contentsline {subsection}{2.3.7.0 (Nov/22/2010)}{170}{section*.172}
-\contentsline {subsection}{2.3.6.3 (Nov/14/2010)}{171}{section*.173}
-\contentsline {subsection}{2.3.6.2 (Nov/13/2010)}{171}{section*.174}
-\contentsline {subsection}{2.3.6.1 (Nov/12/2010)}{171}{section*.175}
-\contentsline {subsection}{2.3.6.0 (Nov/10/2010)}{171}{section*.176}
-\contentsline {subsection}{2.3.5.2 (Apr/11/2010)}{172}{section*.177}
-\contentsline {subsection}{2.3.5.1 (Mar/28/2010)}{172}{section*.178}
-\contentsline {subsection}{2.3.5.0 (Mar/04/2010)}{172}{section*.179}
-\contentsline {subsection}{2.3.4.4 (Jan/10/2010)}{172}{section*.180}
-\contentsline {section}{\numberline {A.4}Versions released in 2009 (16)}{173}{section.A.4}
-\contentsline {subsection}{2.3.4.3 (Dec/21/2009)}{173}{section*.181}
-\contentsline {subsection}{2.3.4.2 (Dec/18/2009)}{173}{section*.182}
-\contentsline {subsection}{2.3.4.1 (Dec/13/2009)}{173}{section*.183}
-\contentsline {subsection}{2.3.4.0 (Dec/06/2009)}{173}{section*.184}
-\contentsline {subsection}{2.3.3.1 (Nov/10/2009)}{174}{section*.185}
-\contentsline {subsection}{2.3.3.0 (Nov/09/2009)}{174}{section*.186}
-\contentsline {subsection}{2.3.2.6 (Nov/07/2009)}{174}{section*.187}
-\contentsline {subsection}{2.3.2.5 (Nov/03/2009)}{174}{section*.188}
-\contentsline {subsection}{2.3.2.3 (Ago/06/2009)}{175}{section*.189}
-\contentsline {subsection}{2.3.2.2 (Jul/20/2009)}{176}{section*.190}
-\contentsline {subsection}{2.3.2.1 (Jul/19/2009)}{176}{section*.191}
-\contentsline {subsection}{2.3.2.0 (Jul/18/2009)}{176}{section*.192}
-\contentsline {subsection}{2.3.1.0 (Jul/15/2009)}{176}{section*.193}
-\contentsline {subsection}{2.3.0.0 (Jul/10/2009)}{176}{section*.194}
-\contentsline {subsection}{2.2.0.2 (Feb/09/2009)}{177}{section*.195}
-\contentsline {subsection}{2.2.0.1 (Feb/05/2009)}{179}{section*.196}
-\contentsline {section}{\numberline {A.5}Versions released in 2008 (14)}{180}{section.A.5}
-\contentsline {subsection}{2.1.1.6 (Nov/17/2008)}{180}{section*.197}
-\contentsline {subsection}{2.1.1.5 (Nov/12/2008)}{180}{section*.198}
-\contentsline {subsection}{2.1.1.4 (Nov/10/2008)}{181}{section*.199}
-\contentsline {subsection}{2.1.1.3 (Nov/04/2008)}{182}{section*.200}
-\contentsline {subsection}{2.1.1.2 (Oct/20/2008)}{182}{section*.201}
-\contentsline {subsection}{2.1.1.1 (Oct/15/2008)}{182}{section*.202}
-\contentsline {subsection}{2.0.0.7 (Sep/04/2008)}{183}{section*.203}
-\contentsline {subsection}{2.0.0.6 (Aug/21/2008)}{184}{section*.204}
-\contentsline {subsection}{2.0.0.5 (Aug/17/2008) - pre-release}{184}{section*.205}
-\contentsline {subsection}{2.0.0.4 (Aug/12/2008) - pre-release}{184}{section*.206}
-\contentsline {subsection}{2.0.0.3 (Aug/05/2008) - pre-release}{184}{section*.207}
-\contentsline {subsection}{2.0.0.2 (Jul/23/2008) - pre-release}{184}{section*.208}
-\contentsline {subsection}{2.0.0.1 (Jul/22/2008) - pre-release}{185}{section*.209}
-\contentsline {section}{\numberline {A.6}Versions released in 2007 (26)}{189}{section.A.6}
-\contentsline {subsection}{1.19.4.7 (Dec/23/2007)}{189}{section*.210}
-\contentsline {subsection}{1.19.4.6 (Dec/17/2007)}{189}{section*.211}
-\contentsline {subsection}{1.19.4.5 (Dec/14/2007)}{189}{section*.212}
-\contentsline {subsection}{1.19.4.4 (Dec/13/2007)}{189}{section*.213}
-\contentsline {subsection}{1.19.4.3 (Dec/12/2007)}{190}{section*.214}
-\contentsline {subsection}{1.19.4.2 (Dec/11/2007)}{190}{section*.215}
-\contentsline {subsection}{1.19.4.1 (Dec/01/2007)}{190}{section*.216}
-\contentsline {subsection}{1.19.4.0 (Nov/29/2007)}{190}{section*.217}
-\contentsline {subsection}{1.19.3.1 (Nov/15/2007)}{191}{section*.218}
-\contentsline {subsection}{1.19.3.0 (Nov/12/2007)}{191}{section*.219}
-\contentsline {subsection}{1.19.2.3 (Mar/05/2007)}{192}{section*.220}
-\contentsline {subsection}{1.19.2.2 (Feb/22/2007)}{193}{section*.221}
-\contentsline {subsection}{1.19.2.1 (Feb/19/2007)}{193}{section*.222}
-\contentsline {subsection}{1.19.2.0 (Feb/16/2007)}{193}{section*.223}
-\contentsline {subsection}{1.19.1.13 (Feb/13/2007)}{193}{section*.224}
-\contentsline {subsection}{1.19.1.12 (Feb/11/2007)}{194}{section*.225}
-\contentsline {subsection}{1.19.1.11 (Feb/07/2007)}{194}{section*.226}
-\contentsline {subsection}{1.19.1.10 (Feb/04/2007)}{194}{section*.227}
-\contentsline {subsection}{1.19.1.9 (Jan/25/2007)}{195}{section*.228}
-\contentsline {subsection}{1.19.1.8 (Jan/24/2007)}{195}{section*.229}
-\contentsline {subsection}{1.19.1.7 (Jan/23/2007)}{195}{section*.230}
-\contentsline {subsection}{1.19.1.6 (Jan/21/2007)}{195}{section*.231}
-\contentsline {subsection}{1.19.1.5 (Jan/09/2007)}{195}{section*.232}
-\contentsline {subsection}{1.19.1.4 (Jan/05/2007)}{195}{section*.233}
-\contentsline {subsection}{1.19.1.3 (Jan/04/2007)}{196}{section*.234}
-\contentsline {subsection}{1.19.1.2 (Jan/01/2007)}{196}{section*.235}
-\contentsline {section}{\numberline {A.7}Versions released in 2006 (64)}{197}{section.A.7}
-\contentsline {subsection}{1.19.1.1 (Dec/27/2006)}{197}{section*.236}
-\contentsline {subsection}{1.19.1.0 (Dec/26/2006)}{197}{section*.237}
-\contentsline {subsection}{1.19.0.18 (Dec/13/2006)}{197}{section*.238}
-\contentsline {subsection}{1.19.0.17 (Dec/10/2006)}{199}{section*.239}
-\contentsline {subsection}{1.19.0.16 (Dec/08/2006)}{199}{section*.240}
-\contentsline {subsection}{1.19.0.15 (Dec/07/2006)}{199}{section*.241}
-\contentsline {subsection}{1.19.0.14 (Dec/06/2006)}{199}{section*.242}
-\contentsline {subsection}{1.19.0.13 (Dec/04/2006)}{199}{section*.243}
-\contentsline {subsection}{1.19.0.12 (Dec/04/2006)}{199}{section*.244}
-\contentsline {subsection}{1.19.0.11 (Nov/30/2006)}{200}{section*.245}
-\contentsline {subsection}{1.19.0.10 (Nov/30/2006)}{200}{section*.246}
-\contentsline {subsection}{1.19.0.9 (Nov/29/2006)}{200}{section*.247}
-\contentsline {subsection}{1.19.0.8 (Nov/28/2006)}{200}{section*.248}
-\contentsline {subsection}{1.19.0.7 (Nov/27/2006)}{200}{section*.249}
-\contentsline {subsection}{1.19.0.6 (Nov/23/2006)}{200}{section*.250}
-\contentsline {subsection}{1.19.0.5 (Nov/21/2006)}{201}{section*.251}
-\contentsline {subsection}{1.19.0.4 (Nov/18/2006)}{201}{section*.252}
-\contentsline {subsection}{1.19.0.3 (Nov/17/2006)}{201}{section*.253}
-\contentsline {subsection}{1.19.0.2 (Nov/09/2006)}{202}{section*.254}
-\contentsline {subsection}{1.19.0.1 (Nov/07/2006)}{203}{section*.255}
-\contentsline {subsection}{1.19.0.0 (Nov/06/2006)}{203}{section*.256}
-\contentsline {subsection}{1.18.7.3 (Oct/30/2006)}{203}{section*.257}
-\contentsline {subsection}{1.18.7.2 (Oct/30/2006)}{204}{section*.258}
-\contentsline {subsection}{1.18.7.1 (Oct/26/2006)}{205}{section*.259}
-\contentsline {subsection}{1.18.7.0 (Oct/25/2006)}{205}{section*.260}
-\contentsline {subsection}{1.18.6.13 (Oct/24/2006)}{205}{section*.261}
-\contentsline {subsection}{1.18.6.12 (Oct/22/2006)}{205}{section*.262}
-\contentsline {subsection}{1.18.6.11 (Oct/20/2006)}{205}{section*.263}
-\contentsline {subsection}{1.18.6.10 (Oct/20/2006)}{206}{section*.264}
-\contentsline {subsection}{1.18.6.9 (Oct/17/2006)}{206}{section*.265}
-\contentsline {subsection}{1.18.6.8 (Oct/10/2006)}{206}{section*.266}
-\contentsline {subsection}{1.18.6.7 (Oct/08/2006)}{207}{section*.267}
-\contentsline {subsection}{1.18.6.6 (Oct/06/2006)}{207}{section*.268}
-\contentsline {subsection}{1.18.6.5 (Oct/03/2006)}{207}{section*.269}
-\contentsline {subsection}{1.18.6.4 (Oct/01/2006)}{208}{section*.270}
-\contentsline {subsection}{1.18.6.3 (Sep/29/2006)}{208}{section*.271}
-\contentsline {subsection}{1.18.6.2 (Sep/28/2006)}{208}{section*.272}
-\contentsline {subsection}{1.18.6.1 (Sep/28/2006)}{208}{section*.273}
-\contentsline {subsection}{1.18.6.0 (Sep/26/2006)}{208}{section*.274}
-\contentsline {subsection}{1.18.5.12 (Sep/15/2006)}{208}{section*.275}
-\contentsline {subsection}{1.18.5.12 (Sep/13/2006)}{209}{section*.276}
-\contentsline {subsection}{1.18.5.11 (Sep/12/2006)}{209}{section*.277}
-\contentsline {subsection}{1.18.5.10 (Sep/11/2006)}{209}{section*.278}
-\contentsline {subsection}{1.18.5.9 (Sep/10/2006)}{209}{section*.279}
-\contentsline {subsection}{1.18.5.8 (Ago/03/2006)}{210}{section*.280}
-\contentsline {subsection}{1.18.5.7 (Ago/01/2006)}{210}{section*.281}
-\contentsline {subsection}{1.18.5.6 (Jun/24/2006)}{211}{section*.282}
-\contentsline {subsection}{1.18.5.5 (May/29/2006)}{211}{section*.283}
-\contentsline {subsection}{1.18.5.4 (May/28/2006)}{211}{section*.284}
-\contentsline {subsection}{1.18.5.3 (May/27/2006)}{211}{section*.285}
-\contentsline {subsection}{1.18.5.2 (May/22/2006)}{212}{section*.286}
-\contentsline {subsection}{1.18.5.1 (May/20/2006)}{212}{section*.287}
-\contentsline {subsection}{1.18.4.5 (Apr/07/2006)}{213}{section*.288}
-\contentsline {subsection}{1.18.4.4 (Apr/02/2006)}{213}{section*.289}
-\contentsline {subsection}{1.18.4.3 (Mar/28/2006)}{214}{section*.290}
-\contentsline {subsection}{1.18.3.0 (Mar/16/2006)}{215}{section*.291}
-\contentsline {subsection}{1.18.2.1 (Mar/08/2006)}{216}{section*.292}
-\contentsline {subsection}{1.18.2.0 (Mar/06/2006)}{216}{section*.293}
-\contentsline {subsection}{1.18.1.10 (Feb/18/2006)}{216}{section*.294}
-\contentsline {subsection}{1.18.1.9 (Feb/18/2006)}{216}{section*.295}
-\contentsline {subsection}{1.18.1.8 (Feb/12/2006)}{217}{section*.296}
-\contentsline {subsection}{1.18.1.7 (Jan/14/2006)}{217}{section*.297}
-\contentsline {subsection}{1.18.1.6 (Jan/10/2006)}{218}{section*.298}
-\contentsline {subsection}{1.18.1.5 (Jan/01/2006)}{218}{section*.299}
-\contentsline {section}{\numberline {A.8}Versions released in 2005 (25)}{219}{section.A.8}
-\contentsline {subsection}{1.18.1.4 (Dec/24/2005)}{219}{section*.300}
-\contentsline {subsection}{1.18.1.3 (Dec/17/2005)}{219}{section*.301}
-\contentsline {subsection}{1.18.1.2 beta (Dec/11/2005)}{219}{section*.302}
-\contentsline {subsection}{1.18.1.1 beta (Dec/03/2005)}{219}{section*.303}
-\contentsline {subsection}{1.17.2.6 (Oct/27/2005)}{221}{section*.304}
-\contentsline {subsection}{1.17.2.5 (Oct/25/2005)}{221}{section*.305}
-\contentsline {subsection}{1.17.2.4 (Oct/08/2005)}{221}{section*.306}
-\contentsline {subsection}{1.17.2.3 (Oct/03/2005)}{221}{section*.307}
-\contentsline {subsection}{1.17.2.2 (Oct/02/2005)}{222}{section*.308}
-\contentsline {subsection}{1.17.1.1 (Aug/28/2005)}{223}{section*.309}
-\contentsline {subsection}{1.16.1.8 (Aug/07/2005)}{223}{section*.310}
-\contentsline {subsection}{1.16.1.7 (Aug/05/2005)}{224}{section*.311}
-\contentsline {subsection}{1.16.1.5 (Jul/15/2005)}{225}{section*.312}
-\contentsline {subsection}{1.16.1.4 (May/29/2005)}{225}{section*.313}
-\contentsline {subsection}{1.16.1.3 beta (May/22/2005)}{226}{section*.314}
-\contentsline {subsection}{1.15.1.7 (Apr/07/2005)}{228}{section*.315}
-\contentsline {subsection}{1.15.1.6 beta (Mar/19/2005)}{229}{section*.316}
-\contentsline {subsection}{1.15.1.5 beta (Mar/17/2005)}{230}{section*.317}
-\contentsline {subsection}{1.15.1.4 beta pre-release (Mar/12/2005)}{230}{section*.318}
-\contentsline {subsection}{1.15.1.3 beta pre-release (Mar/06/2005)}{230}{section*.319}
-\contentsline {subsection}{1.15.1.2 beta pre-release (Mar/05/2005)}{231}{section*.320}
-\contentsline {subsection}{1.15.1.1 beta pre-release (Mar/01/2005)}{231}{section*.321}
-\contentsline {subsection}{0.0.9.4 r1.15 beta 2 (Feb/11/2005)}{232}{section*.322}
-\contentsline {subsection}{0.0.9.3 r1.15 beta 1 (Feb/11/2005)}{233}{section*.323}
-\contentsline {subsection}{0.0.9.3 r1.14 (Feb/11/2005)}{233}{section*.324}
-\contentsline {section}{\numberline {A.9}Versions released in 2004 (16)}{235}{section.A.9}
-\contentsline {subsection}{0.0.9.3 r1.14 beta 9 (Dec/04/2004)}{235}{section*.325}
-\contentsline {subsection}{0.0.9.2 r1.14 beta 8 (Oct/2004)}{235}{section*.326}
-\contentsline {subsection}{0.0.9.1 r1.14 beta 7 (Oct/2004)}{236}{section*.327}
-\contentsline {subsection}{0.0.9.1 r1.14 beta 6 (Sep/2004)}{236}{section*.328}
-\contentsline {subsection}{0.0.9.0 r1.14 beta 5 (Sep/2004)}{236}{section*.329}
-\contentsline {subsection}{0.0.9.0 r1.14 beta 4 (Aug/2004)}{237}{section*.330}
-\contentsline {subsection}{0.0.9.0 r1.14 (Aug/2004)}{237}{section*.331}
-\contentsline {subsection}{0.0.9.0 r1.13 (Jul/2004)}{237}{section*.332}
-\contentsline {subsection}{0.0.9.0 r1.12 (Jun/2004)}{237}{section*.333}
-\contentsline {subsection}{0.0.9.0 r1.11 (Jun/2004)}{238}{section*.334}
-\contentsline {subsection}{0.0.9.0 r1.10 (May/2004)}{238}{section*.335}
-\contentsline {subsection}{0.0.9.0 r1.09 (Mar/2004)}{239}{section*.336}
-\contentsline {subsection}{0.0.8.9 r1.08 (Mar/2004)}{240}{section*.337}
-\contentsline {subsection}{0.0.8.9 r1.07 (Feb/2004)}{240}{section*.338}
-\contentsline {subsection}{0.0.8.8 r1.06 (Feb/2004)}{241}{section*.339}
-\contentsline {subsection}{0.0.8.8 r1.05 (Feb/2004)}{241}{section*.340}
-\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{243}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{245}{appendix.C}
-\contentsline {chapter}{References}{261}{appendix*.341}
-\contentsline {chapter}{Index}{263}{section*.342}
-\contentsline {chapter}{About the Authors}{269}{appendix*.343}
+\contentsline {subsection}{Main}{47}{section*.26}
+\contentsline {subsection}{R}{47}{section*.27}
+\contentsline {subsection}{Processing}{47}{section*.28}
+\contentsline {section}{\numberline {3.2}Editor options}{52}{section.3.2}
+\contentsline {subsection}{Display}{52}{section*.29}
+\contentsline {subsection}{Advanced options}{52}{section*.30}
+\contentsline {subsection}{Keystrokes}{52}{section*.31}
+\contentsline {section}{\numberline {3.3}Selection mode}{55}{section.3.3}
+\contentsline {subsection}{Normal}{55}{section*.32}
+\contentsline {subsection}{Line}{55}{section*.33}
+\contentsline {subsection}{Column}{55}{section*.34}
+\contentsline {section}{\numberline {3.4}Highlighters (settings)}{57}{section.3.4}
+\contentsline {section}{\numberline {3.5}Shortcuts customization}{59}{section.3.5}
+\contentsline {section}{\numberline {3.6}Hotkeys (operational system)}{60}{section.3.6}
+\contentsline {section}{\numberline {3.7}Rterm interface}{61}{section.3.7}
+\contentsline {subsection}{IO}{62}{section*.35}
+\contentsline {subsection}{Log}{64}{section*.36}
+\contentsline {section}{\numberline {3.8}Tools interface}{65}{section.3.8}
+\contentsline {subsection}{Misc}{65}{section*.37}
+\contentsline {subsection}{Markup}{67}{section*.38}
+\contentsline {subsection}{Results}{67}{section*.39}
+\contentsline {subsection}{Spell}{69}{section*.40}
+\contentsline {subsection}{Database}{70}{section*.41}
+\contentsline {subsection}{R}{72}{section*.42}
+\contentsline {section}{\numberline {3.9}File tabs}{77}{section.3.9}
+\contentsline {section}{\numberline {3.10}Tools bar}{78}{section.3.10}
+\contentsline {subsection}{Show/Hide}{78}{section*.43}
+\contentsline {subsection}{Disposition}{79}{section*.44}
+\contentsline {section}{\numberline {3.11}Find and replace}{80}{section.3.11}
+\contentsline {subsection}{Find}{80}{section*.45}
+\contentsline {subsection}{Replace (Replace dialog only)}{80}{section*.46}
+\contentsline {section}{\numberline {3.12}Search in files}{82}{section.3.12}
+\contentsline {subsection}{Options}{82}{section*.47}
+\contentsline {subsection}{Where}{82}{section*.48}
+\contentsline {subsection}{Directory options}{82}{section*.49}
+\contentsline {subsection}{Results interface}{82}{section*.50}
+\contentsline {section}{\numberline {3.13}Databases}{84}{section.3.13}
+\contentsline {subsection}{Shortcuts}{84}{section*.51}
+\contentsline {subsection}{Completion}{84}{section*.52}
+\contentsline {subsection}{Comments}{85}{section*.53}
+\contentsline {subsection}{Card (R)}{86}{section*.54}
+\contentsline {subsection}{Mirrors (R)}{87}{section*.55}
+\contentsline {section}{\numberline {3.14}Regular expressions}{89}{section.3.14}
+\contentsline {subsection}{What are regular expressions?}{89}{section*.56}
+\contentsline {subsection}{Simple Matches}{89}{section*.57}
+\contentsline {subsection}{Escape Sequences}{89}{section*.58}
+\contentsline {subsection}{Character Classes}{90}{section*.59}
+\contentsline {subsection}{Metacharacters}{91}{section*.60}
+\contentsline {subsection}{Regular Expression Tutorials}{94}{section*.61}
+\contentsline {chapter}{\chapternumberline {4}Menu Description}{97}{chapter.4}
+\contentsline {section}{\numberline {4.1}File}{98}{section.4.1}
+\contentsline {subsection}{Template}{98}{section*.62}
+\contentsline {subsection}{Copy full path to clipboard}{99}{section*.63}
+\contentsline {section}{\numberline {4.2}Project}{100}{section.4.2}
+\contentsline {subsection}{Project}{100}{section*.64}
+\contentsline {subsection}{Group(s)}{100}{section*.65}
+\contentsline {subsection}{File(s)}{101}{section*.66}
+\contentsline {section}{\numberline {4.3}Edit}{102}{section.4.3}
+\contentsline {subsection}{Copy formatted (to export)}{102}{section*.67}
+\contentsline {section}{\numberline {4.4}Format}{103}{section.4.4}
+\contentsline {subsection}{Selection}{103}{section*.68}
+\contentsline {subsection}{Word}{103}{section*.69}
+\contentsline {subsection}{Reformat}{103}{section*.70}
+\contentsline {section}{\numberline {4.5}Marks}{104}{section.4.5}
+\contentsline {subsection}{Block}{104}{section*.71}
+\contentsline {section}{\numberline {4.6}Insert}{105}{section.4.6}
+\contentsline {subsection}{Latex}{105}{section*.72}
+\contentsline {section}{\numberline {4.7}Search}{108}{section.4.7}
+\contentsline {section}{\numberline {4.8}Options}{109}{section.4.8}
+\contentsline {subsection}{Syntax (highlighter)}{109}{section*.73}
+\contentsline {subsection}{Selection mode}{111}{section*.74}
+\contentsline {section}{\numberline {4.9}Encoding}{112}{section.4.9}
+\contentsline {subsection}{Default (creating new files)}{112}{section*.75}
+\contentsline {subsection}{Convert (current encoding to)}{112}{section*.76}
+\contentsline {subsection}{Change line ending (delimiter)}{112}{section*.77}
+\contentsline {section}{\numberline {4.10}Tools}{113}{section.4.10}
+\contentsline {subsection}{Processing}{113}{section*.78}
+\contentsline {paragraph}{}{115}{section*.79}
+\contentsline {subsection}{Database}{117}{section*.80}
+\contentsline {subsection}{Backup}{117}{section*.81}
+\contentsline {subsection}{Restore}{118}{section*.82}
+\contentsline {subsection}{Macro}{118}{section*.83}
+\contentsline {subsection}{Sort}{118}{section*.84}
+\contentsline {section}{\numberline {4.11}R}{119}{section.4.11}
+\contentsline {subsection}{Start/close and connections}{119}{section*.85}
+\contentsline {subsection}{Rterm}{120}{section*.86}
+\contentsline {subsection}{Send}{123}{section*.87}
+\contentsline {subsection}{Control}{124}{section*.88}
+\contentsline {section}{\numberline {4.12}View}{126}{section.4.12}
+\contentsline {subsection}{R}{126}{section*.89}
+\contentsline {subsection}{Tools}{128}{section*.90}
+\contentsline {subsection}{Toolbars}{131}{section*.91}
+\contentsline {subsection}{Tabs}{131}{section*.92}
+\contentsline {subsection}{Line wrap}{132}{section*.93}
+\contentsline {subsection}{Split}{132}{section*.94}
+\contentsline {subsection}{Font of active control (not permanent)}{133}{section*.95}
+\contentsline {section}{\numberline {4.13}Window}{134}{section.4.13}
+\contentsline {section}{\numberline {4.14}Web}{135}{section.4.14}
+\contentsline {subsection}{R search}{135}{section*.96}
+\contentsline {subsection}{S search}{136}{section*.97}
+\contentsline {subsection}{R information}{136}{section*.98}
+\contentsline {subsection}{R Editors, Gui's and IDEs}{137}{section*.99}
+\contentsline {subsection}{Tinn-R}{137}{section*.100}
+\contentsline {subsection}{Statistics}{137}{section*.101}
+\contentsline {subsection}{Processing}{138}{section*.102}
+\contentsline {section}{\numberline {4.15}Help}{139}{section.4.15}
+\contentsline {subsection}{File conversion (introduction)}{139}{section*.103}
+\contentsline {chapter}{\chapternumberline {5}Some Secrets for an Efficient Use}{141}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{142}{section.5.1}
+\contentsline {section}{\numberline {5.2}After installation}{143}{section.5.2}
+\contentsline {section}{\numberline {5.3}Shortcuts that can make you lose the visibility of a resource}{145}{section.5.3}
+\contentsline {section}{\numberline {5.4}I'm panicking: what do I do?}{146}{section.5.4}
+\contentsline {section}{\numberline {5.5}Application options}{147}{section.5.5}
+\contentsline {subsection}{General}{147}{section*.104}
+\contentsline {subsection}{Appearance}{147}{section*.105}
+\contentsline {subsection}{Dock}{148}{section*.106}
+\contentsline {subsection}{Editor options}{149}{section*.107}
+\contentsline {subsection}{R}{150}{section*.108}
+\contentsline {subsection}{Processing}{151}{section*.109}
+\contentsline {section}{\numberline {5.6}Highlighters (settings)}{153}{section.5.6}
+\contentsline {section}{\numberline {5.7}Tools}{154}{section.5.7}
+\contentsline {subsection}{Project}{154}{section*.110}
+\contentsline {subsection}{Database}{155}{section*.111}
+\contentsline {paragraph}{}{155}{section*.112}
+\contentsline {paragraph}{}{155}{section*.113}
+\contentsline {paragraph}{}{156}{section*.114}
+\contentsline {subsection}{R}{157}{section*.115}
+\contentsline {paragraph}{}{157}{section*.116}
+\contentsline {paragraph}{}{158}{section*.117}
+\contentsline {paragraph}{}{158}{section*.118}
+\contentsline {section}{\numberline {5.8}Bars}{160}{section.5.8}
+\contentsline {section}{\numberline {5.9}Spell checker}{161}{section.5.9}
+\contentsline {section}{\numberline {5.10}Split}{162}{section.5.10}
+\contentsline {section}{\numberline {5.11}Editor: how to?}{163}{section.5.11}
+\contentsline {subsection}{Macros: how to use?}{163}{section*.119}
+\contentsline {subsection}{Marks: how to use?}{163}{section*.120}
+\contentsline {subsection}{Editor, Tools and Rterm: how to arrange?}{164}{section*.121}
+\contentsline {subsection}{Active page using the keyboard: how to change?}{164}{section*.122}
+\contentsline {subsection}{Tab order: how to change?}{164}{section*.123}
+\contentsline {appendix}{\chapternumberline {A}What is New?}{165}{appendix.A}
+\contentsline {section}{\numberline {A.1}Versions released in 2014 (01)}{166}{section.A.1}
+\contentsline {section}{\numberline {A.2}Versions released in 2013 (10)}{167}{section.A.2}
+\contentsline {section}{\numberline {A.3}Versions released in 2012 (03)}{172}{section.A.3}
+\contentsline {section}{\numberline {A.4}Versions released in 2010 (10)}{175}{section.A.4}
+\contentsline {section}{\numberline {A.5}Versions released in 2009 (16)}{178}{section.A.5}
+\contentsline {section}{\numberline {A.6}Versions released in 2008 (14)}{185}{section.A.6}
+\contentsline {section}{\numberline {A.7}Versions released in 2007 (26)}{194}{section.A.7}
+\contentsline {section}{\numberline {A.8}Versions released in 2006 (64)}{202}{section.A.8}
+\contentsline {section}{\numberline {A.9}Versions released in 2005 (25)}{224}{section.A.9}
+\contentsline {section}{\numberline {A.10}Versions released in 2004 (16)}{240}{section.A.10}
+\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{247}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{249}{appendix.C}
+\contentsline {chapter}{References}{265}{appendix*.308}
+\contentsline {chapter}{Index}{267}{section*.309}
+\contentsline {chapter}{About the Authors}{273}{appendix*.310}
