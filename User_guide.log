@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  21 JAN 2014 19:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  22 JAN 2014 18:35
 entering extended mode
 **User_guide
 (D:\GitHub\Tinn-R-doc\User_guide.tex
@@ -3751,13 +3751,13 @@ Package pdftex.def Info: ./res/tools_database_shortcuts.png used on input line
 294.
 (pdftex.def)             Requested size: 94.5923pt x 135.43298pt.
 
-<./res/tools_database_completion.png, id=2989, 270.25969pt x 386.94562pt>
+<./res/tools_database_completion.png, id=2989, 271.0125pt x 385.44pt>
 File: ./res/tools_database_completion.png Graphic file (type png)
 
 <use ./res/tools_database_completion.png>
 Package pdftex.def Info: ./res/tools_database_completion.png used on input line
  295.
-(pdftex.def)             Requested size: 94.5923pt x 135.43298pt.
+(pdftex.def)             Requested size: 94.85579pt x 134.90602pt.
 
 <./res/tools_database_comments.png, id=2990, 270.25969pt x 386.94562pt>
 File: ./res/tools_database_comments.png Graphic file (type png)
@@ -3772,19 +3772,19 @@ _comments.png>] [71]
 LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
 (Font)              scaled to size 7.35999pt on input line 427.
 
-<./res/tools_r_explorer.png, id=3008, 272.51813pt x 386.94562pt>
+<./res/tools_r_explorer.png, id=3008, 271.0125pt x 385.44pt>
 File: ./res/tools_r_explorer.png Graphic file (type png)
 
 <use ./res/tools_r_explorer.png>
 Package pdftex.def Info: ./res/tools_r_explorer.png used on input line 487.
-(pdftex.def)             Requested size: 95.38277pt x 135.43298pt.
+(pdftex.def)             Requested size: 94.85579pt x 134.90602pt.
 
-<./res/tools_r_card.png, id=3009, 272.51813pt x 386.94562pt>
+<./res/tools_r_card.png, id=3009, 271.0125pt x 385.44pt>
 File: ./res/tools_r_card.png Graphic file (type png)
 
 <use ./res/tools_r_card.png>
 Package pdftex.def Info: ./res/tools_r_card.png used on input line 488.
-(pdftex.def)             Requested size: 95.38277pt x 135.43298pt.
+(pdftex.def)             Requested size: 94.85579pt x 134.90602pt.
 
 <./res/tools_r_mirrors.png, id=3010, 272.51813pt x 386.94562pt>
 File: ./res/tools_r_mirrors.png Graphic file (type png)
@@ -5909,14 +5909,14 @@ Package pdftex.def Info: ./res/tools_markup_latex_arrows.png used on input line
 File: ./res/tools_r_explorer.png Graphic file (type png)
  <use ./res/tools_r_explorer.png>
 Package pdftex.def Info: ./res/tools_r_explorer.png used on input line 10.
-(pdftex.def)             Requested size: 136.25873pt x 193.47234pt.
+(pdftex.def)             Requested size: 135.5059pt x 192.71953pt.
 File: ./res/tools_misc_project.png Graphic file (type png)
 
 <use ./res/tools_misc_project.png>
 Package pdftex.def Info: ./res/tools_misc_project.png used on input line 11.
 (pdftex.def)             Requested size: 127.9778pt x 184.815pt.
 
-Overfull \hbox (96.37912pt too wide) in paragraph at lines 9--12
+Overfull \hbox (95.6263pt too wide) in paragraph at lines 9--12
 [][] [] [] 
  []
 
@@ -5931,7 +5931,7 @@ File: ./res/tools_database_completion.png Graphic file (type png)
 <use ./res/tools_database_completion.png>
 Package pdftex.def Info: ./res/tools_database_completion.png used on input line
  49.
-(pdftex.def)             Requested size: 135.1295pt x 193.47234pt.
+(pdftex.def)             Requested size: 135.5059pt x 192.71953pt.
 File: ./res/tools_database_comments.png Graphic file (type png)
 
 <use ./res/tools_database_comments.png>
@@ -5939,7 +5939,7 @@ Package pdftex.def Info: ./res/tools_database_comments.png used on input line 5
 0.
 (pdftex.def)             Requested size: 135.1295pt x 193.47234pt.
 
-Overfull \hbox (115.88289pt too wide) in paragraph at lines 48--51
+Overfull \hbox (116.2593pt too wide) in paragraph at lines 48--51
 [][]   []   [] 
  []
 
@@ -5952,7 +5952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--51
 File: ./res/tools_r_explorer.png Graphic file (type png)
  <use ./res/tools_r_explorer.png>
 Package pdftex.def Info: ./res/tools_r_explorer.png used on input line 107.
-(pdftex.def)             Requested size: 136.25873pt x 193.47234pt.
+(pdftex.def)             Requested size: 135.5059pt x 192.71953pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
@@ -5962,7 +5962,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--108
 File: ./res/tools_r_card.png Graphic file (type png)
  <use ./res/tools_r_card.png>
 Package pdftex.def Info: ./res/tools_r_card.png used on input line 134.
-(pdftex.def)             Requested size: 136.25873pt x 193.47234pt.
+(pdftex.def)             Requested size: 135.5059pt x 192.71953pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
@@ -6323,7 +6323,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-<./res/txt2tags.png, id=4376, 262.73157pt x 231.86626pt>
+<./res/txt2tags.png, id=4377, 262.73157pt x 231.86626pt>
 File: ./res/txt2tags.png Graphic file (type png)
 
 <use ./res/txt2tags.png>
@@ -6468,14 +6468,14 @@ Overfull \hbox (0.63403pt too wide) in paragraph at lines 186--190
 ref-er-ences will be
  []
 
-<./res/1_19_2_3.png, id=4443, 269.005pt x 143.53625pt>
+<./res/1_19_2_3.png, id=4444, 269.005pt x 143.53625pt>
 File: ./res/1_19_2_3.png Graphic file (type png)
 
 <use ./res/1_19_2_3.png>
 Package pdftex.def Info: ./res/1_19_2_3.png used on input line 223.
 (pdftex.def)             Requested size: 134.50217pt x 71.76794pt.
  [197]
-<./res/1_19_2_1.png, id=4448, 152.57pt x 200.75pt>
+<./res/1_19_2_1.png, id=4449, 152.57pt x 200.75pt>
 File: ./res/1_19_2_1.png Graphic file (type png)
  <use ./res/1_19_2_1.png>
 Package pdftex.def Info: ./res/1_19_2_1.png used on input line 245.
@@ -6483,7 +6483,7 @@ Package pdftex.def Info: ./res/1_19_2_1.png used on input line 245.
 
 [198 <D:/GitHub/Tinn-R-doc/res/1_19_2_3.png (PNG copy)> <D:/GitHub/Tinn-R-doc/r
 es/1_19_2_1.png (PNG copy)>]
-<./res/1_19_1_13.png, id=4453, 257.96375pt x 165.61874pt>
+<./res/1_19_1_13.png, id=4454, 257.96375pt x 165.61874pt>
 File: ./res/1_19_1_13.png Graphic file (type png)
 
 <use ./res/1_19_1_13.png>
@@ -7029,7 +7029,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--36
  []
 
 [271] (D:\GitHub\Tinn-R-doc\sub\zzzBackCover.tex
-<./cover/backCover.pdf, id=5272, page=1, 498.00053pt x 668.4975pt>
+<./cover/backCover.pdf, id=5273, page=1, 498.00053pt x 668.4975pt>
 File: ./cover/backCover.pdf Graphic file (type pdf)
 
 <use ./cover/backCover.pdf, page 1>
@@ -7084,7 +7084,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `User_guide.out' has not changed.
-(rerunfilecheck)             Checksum: D8C382EADD9F56EA087DB48324712D27;26437.
+(rerunfilecheck)             Checksum: 06E864EF4A466AD3777B32AF38960462;26437.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -7094,7 +7094,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
 Here is how much of TeX's memory you used:
  26052 strings out of 493921
  408614 string characters out of 3144870
- 719873 words of memory out of 3000000
+ 719861 words of memory out of 3000000
  26263 multiletter control sequences out of 15000+200000
  343891 words of font info for 742 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -7118,9 +7118,9 @@ type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
 obe/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr
 i8a.pfb>
-Output written on User_guide.pdf (288 pages, 3071770 bytes).
+Output written on User_guide.pdf (288 pages, 3098004 bytes).
 PDF statistics:
- 5627 PDF objects out of 6186 (max. 8388607)
+ 5628 PDF objects out of 6186 (max. 8388607)
  1412 named destinations out of 1440 (max. 500000)
  89861 words of extra memory for PDF output out of 106986 (max. 10000000)
 

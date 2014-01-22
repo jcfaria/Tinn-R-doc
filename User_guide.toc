@@ -177,7 +177,7 @@
 \contentsline {subsection}{Tab order: how to change?}{164}{section*.119}
 \contentsline {appendix}{\chapternumberline {A}What is New?}{165}{appendix.A}
 \contentsline {section}{\numberline {A.1}Versions released in 2014 (01)}{166}{section.A.1}
-\contentsline {subsection}{3.0.2.8 (Jan/17/2014)}{166}{section*.120}
+\contentsline {subsection}{3.0.2.8 (Jan/22/2014)}{166}{section*.120}
 \contentsline {section}{\numberline {A.2}Versions released in 2013 (10)}{167}{section.A.2}
 \contentsline {subsection}{3.0.2.7 (Dec/30/2013)}{167}{section*.121}
 \contentsline {subsection}{3.0.2.6 (Dec/28/2013)}{167}{section*.122}

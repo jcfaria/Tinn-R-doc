@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: User_guide.aux
-A level-1 auxiliary file: ./sub/aaaFrontCover_soft.aux
-A level-1 auxiliary file: ./sub/aaaTitle_soft.aux
-A level-1 auxiliary file: ./sub/aaaDedication_soft.aux
+A level-1 auxiliary file: ./sub_ug/aaaFrontCover.aux
+A level-1 auxiliary file: ./sub_ug/aaaTitle.aux
+A level-1 auxiliary file: ./sub_ug/aaaDedication.aux
 A level-1 auxiliary file: ./sub/aaaTableOfContents.aux
 A level-1 auxiliary file: ./sub/aaaListOfFigures.aux
 A level-1 auxiliary file: ./sub/aaaListOfTables.aux
