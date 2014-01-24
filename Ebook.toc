@@ -61,31 +61,31 @@
 \contentsline {subsection}{Spell}{68}{section*.38}
 \contentsline {subsection}{Database}{69}{section*.39}
 \contentsline {subsection}{R}{71}{section*.40}
-\contentsline {section}{\numberline {3.8}File tabs}{76}{section.3.8}
-\contentsline {section}{\numberline {3.9}Tools bar}{77}{section.3.9}
-\contentsline {subsection}{Show/Hide}{77}{section*.41}
-\contentsline {subsection}{Disposition}{78}{section*.42}
-\contentsline {section}{\numberline {3.10}Find and replace}{79}{section.3.10}
-\contentsline {subsection}{Find}{79}{section*.43}
-\contentsline {subsection}{Replace (Replace dialog only)}{79}{section*.44}
-\contentsline {section}{\numberline {3.11}Search in files}{81}{section.3.11}
-\contentsline {subsection}{Options}{81}{section*.45}
-\contentsline {subsection}{Where}{81}{section*.46}
-\contentsline {subsection}{Directory options}{81}{section*.47}
-\contentsline {subsection}{Results interface}{81}{section*.48}
-\contentsline {section}{\numberline {3.12}Databases}{83}{section.3.12}
-\contentsline {subsection}{Shortcuts}{83}{section*.49}
-\contentsline {subsection}{Completion}{83}{section*.50}
-\contentsline {subsection}{Comments}{84}{section*.51}
-\contentsline {subsection}{Card (R)}{85}{section*.52}
-\contentsline {subsection}{Mirrors (R)}{86}{section*.53}
-\contentsline {section}{\numberline {3.13}Regular expressions}{88}{section.3.13}
-\contentsline {subsection}{What are regular expressions?}{88}{section*.54}
-\contentsline {subsection}{Simple Matches}{88}{section*.55}
-\contentsline {subsection}{Escape Sequences}{88}{section*.56}
-\contentsline {subsection}{Character Classes}{89}{section*.57}
-\contentsline {subsection}{Metacharacters}{90}{section*.58}
-\contentsline {subsection}{Regular Expression Tutorials}{93}{section*.59}
+\contentsline {section}{\numberline {3.8}File tabs}{75}{section.3.8}
+\contentsline {section}{\numberline {3.9}Tools bar}{76}{section.3.9}
+\contentsline {subsection}{Show/Hide}{76}{section*.41}
+\contentsline {subsection}{Disposition}{77}{section*.42}
+\contentsline {section}{\numberline {3.10}Find and replace}{78}{section.3.10}
+\contentsline {subsection}{Find}{78}{section*.43}
+\contentsline {subsection}{Replace (Replace dialog only)}{78}{section*.44}
+\contentsline {section}{\numberline {3.11}Search in files}{80}{section.3.11}
+\contentsline {subsection}{Options}{80}{section*.45}
+\contentsline {subsection}{Where}{80}{section*.46}
+\contentsline {subsection}{Directory options}{80}{section*.47}
+\contentsline {subsection}{Results interface}{80}{section*.48}
+\contentsline {section}{\numberline {3.12}Databases}{82}{section.3.12}
+\contentsline {subsection}{Shortcuts}{82}{section*.49}
+\contentsline {subsection}{Completion}{82}{section*.50}
+\contentsline {subsection}{Comments}{83}{section*.51}
+\contentsline {subsection}{Card (R)}{84}{section*.52}
+\contentsline {subsection}{Mirrors (R)}{85}{section*.53}
+\contentsline {section}{\numberline {3.13}Regular expressions}{87}{section.3.13}
+\contentsline {subsection}{What are regular expressions?}{87}{section*.54}
+\contentsline {subsection}{Simple Matches}{87}{section*.55}
+\contentsline {subsection}{Escape Sequences}{87}{section*.56}
+\contentsline {subsection}{Character Classes}{88}{section*.57}
+\contentsline {subsection}{Metacharacters}{89}{section*.58}
+\contentsline {subsection}{Regular Expression Tutorials}{92}{section*.59}
 \contentsline {chapter}{\chapternumberline {4}Menu Description}{95}{chapter.4}
 \contentsline {section}{\numberline {4.1}File}{96}{section.4.1}
 \contentsline {subsection}{Template}{96}{section*.60}
