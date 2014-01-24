@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  24 JAN 2014 08:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  24 JAN 2014 09:03
 entering extended mode
 **eBook
 (D:\GitHub\Tinn-R-doc\eBook.tex
@@ -6302,7 +6302,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
 Here is how much of TeX's memory you used:
  25899 strings out of 493921
  406814 string characters out of 3144870
- 724336 words of memory out of 3000000
+ 724333 words of memory out of 3000000
  26091 multiletter control sequences out of 15000+200000
  328278 words of font info for 736 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -6326,7 +6326,7 @@ type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
 obe/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr
 i8a.pfb>
-Output written on eBook.pdf (291 pages, 3737464 bytes).
+Output written on eBook.pdf (291 pages, 3737469 bytes).
 PDF statistics:
  4948 PDF objects out of 5155 (max. 8388607)
  1417 named destinations out of 1440 (max. 500000)
