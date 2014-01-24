@@ -1,7 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Ebook.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: eBook.aux
 A level-1 auxiliary file: ./sub/aaaFrontCover.aux
 A level-1 auxiliary file: ./sub/aaaBookSeries.aux
-A level-1 auxiliary file: ./sub/aaaTitle.aux
 A level-1 auxiliary file: ./sub/aaaCredits.aux
 A level-1 auxiliary file: ./sub/aaaDedication.aux
 A level-1 auxiliary file: ./sub/aaaPreface.aux
@@ -22,7 +21,7 @@ A level-1 auxiliary file: ./sub/zzzBibliography.aux
 A level-1 auxiliary file: ./sub/zzzIndex.aux
 A level-1 auxiliary file: ./sub/zzzAuthors.aux
 A level-1 auxiliary file: ./sub/zzzBackCover.aux
-I found no \citation commands---while reading file Ebook.aux
-I found no \bibdata command---while reading file Ebook.aux
-I found no \bibstyle command---while reading file Ebook.aux
+I found no \citation commands---while reading file eBook.aux
+I found no \bibdata command---while reading file eBook.aux
+I found no \bibstyle command---while reading file eBook.aux
 (There were 3 error messages)
