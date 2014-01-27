@@ -101,6 +101,8 @@
 \indexentry{keywords!single|hyperpage}{23}
 \indexentry{keywords!single|hyperpage}{23}
 \indexentry{keywords!D|hyperpage}{23}
+\indexentry{keywords!I|hyperpage}{23}
+\indexentry{keywords!index|hyperpage}{23}
 \indexentry{keyboard shortcuts!conversion|hyperpage}{23}
 \indexentry{keywords!system|hyperpage}{23}
 \indexentry{keywords!default|hyperpage}{23}
@@ -152,6 +154,8 @@
 \indexentry{keywords!single|hyperpage}{25}
 \indexentry{keywords!single|hyperpage}{25}
 \indexentry{keywords!D|hyperpage}{25}
+\indexentry{keywords!I|hyperpage}{25}
+\indexentry{keywords!index|hyperpage}{25}
 \indexentry{keywords!system|hyperpage}{25}
 \indexentry{keywords!default|hyperpage}{25}
 \indexentry{keywords!browser|hyperpage}{25}
@@ -219,6 +223,8 @@
 \indexentry{keywords!single|hyperpage}{28}
 \indexentry{keywords!set|hyperpage}{28}
 \indexentry{keywords!show|hyperpage}{28}
+\indexentry{keywords!I|hyperpage}{28}
+\indexentry{keywords!index|hyperpage}{28}
 \indexentry{keywords!show|hyperpage}{28}
 \indexentry{keywords!show|hyperpage}{28}
 \indexentry{keywords!single|hyperpage}{28}
@@ -303,40 +309,74 @@
 \indexentry{keywords!browser|hyperpage}{30}
 \indexentry{FAQ|hyperpage}{31}
 \indexentry{FAQ!What is Tinn-R?|hyperpage}{31}
+\indexentry{What is Tinn-R?|hyperpage}{31}
 \indexentry{FAQ!feedback|hyperpage}{31}
+\indexentry{feedback|hyperpage}{31}
 \indexentry{FAQ!suggestions|hyperpage}{31}
+\indexentry{suggestions|hyperpage}{31}
 \indexentry{FAQ!bug report|hyperpage}{31}
+\indexentry{bug report|hyperpage}{31}
 \indexentry{FAQ!Tinn-R installation|hyperpage}{31}
+\indexentry{Tinn-R installation|hyperpage}{31}
 \indexentry{FAQ!latest version|hyperpage}{31}
+\indexentry{latest version|hyperpage}{31}
 \indexentry{FAQ!install|hyperpage}{32}
+\indexentry{install|hyperpage}{32}
 \indexentry{FAQ!.trPaths?|hyperpage}{32}
+\indexentry{.trPaths?|hyperpage}{32}
 \indexentry{FAQ!source code|hyperpage}{33}
+\indexentry{source code|hyperpage}{33}
 \indexentry{FAQ!save my preferences|hyperpage}{33}
+\indexentry{save my preferences|hyperpage}{33}
 \indexentry{FAQ!reuse my preferences|hyperpage}{33}
+\indexentry{reuse my preferences|hyperpage}{33}
 \indexentry{FAQ!starting GUI|hyperpage}{35}
+\indexentry{starting GUI|hyperpage}{35}
 \indexentry{FAQ!default editor|hyperpage}{35}
+\indexentry{default editor|hyperpage}{35}
 \indexentry{FAQ!Emacs|hyperpage}{35}
+\indexentry{Emacs|hyperpage}{35}
 \indexentry{FAQ!WinEdt|hyperpage}{35}
+\indexentry{WinEdt|hyperpage}{35}
 \indexentry{FAQ!triggers|hyperpage}{36}
+\indexentry{triggers|hyperpage}{36}
 \indexentry{installation!sourceforge|hyperpage}{37}
 \indexentry{FAQ!hotkeys|hyperpage}{38}
+\indexentry{hotkeys|hyperpage}{38}
 \indexentry{FAQ!defining hotkeys|hyperpage}{38}
+\indexentry{defining hotkeys|hyperpage}{38}
 \indexentry{FAQ!shortcut for cycling|hyperpage}{39}
+\indexentry{shortcut for cycling|hyperpage}{39}
 \indexentry{FAQ!column mode|hyperpage}{39}
+\indexentry{column mode|hyperpage}{39}
 \indexentry{FAQ!bookmarks|hyperpage}{39}
+\indexentry{bookmarks|hyperpage}{39}
 \indexentry{FAQ!gutter|hyperpage}{40}
+\indexentry{gutter|hyperpage}{40}
 \indexentry{FAQ!step-by-step|hyperpage}{40}
+\indexentry{step-by-step|hyperpage}{40}
 \indexentry{FAQ!graphical debugger|hyperpage}{40}
+\indexentry{graphical debugger|hyperpage}{40}
 \indexentry{FAQ!tools panel|hyperpage}{40}
+\indexentry{tools panel|hyperpage}{40}
 \indexentry{FAQ!copy and paste|hyperpage}{40}
+\indexentry{copy and paste|hyperpage}{40}
 \indexentry{FAQ!icon on Windows|hyperpage}{41}
+\indexentry{icon on Windows|hyperpage}{41}
 \indexentry{FAQ!focus control|hyperpage}{41}
+\indexentry{focus control|hyperpage}{41}
 \indexentry{FAQ!color preferences|hyperpage}{42}
+\indexentry{color preferences|hyperpage}{42}
 \indexentry{FAQ!marked blocks|hyperpage}{43}
+\indexentry{marked blocks|hyperpage}{43}
 \indexentry{FAQ!find errors in my script|hyperpage}{43}
+\indexentry{find errors in my script|hyperpage}{43}
 \indexentry{FAQ!comunication|hyperpage}{43}
+\indexentry{comunication|hyperpage}{43}
 \indexentry{FAQ!Tinn-R and Rgui|hyperpage}{43}
+\indexentry{Tinn-R and Rgui|hyperpage}{43}
 \indexentry{FAQ!freeze|hyperpage}{43}
+\indexentry{freeze|hyperpage}{43}
 \indexentry{application options|hyperpage}{46}
 \indexentry{application options|hyperpage}{46}
 \indexentry{application options!main|hyperpage}{47}

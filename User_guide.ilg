@@ -1,9 +1,9 @@
-This is c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\makeindex.exe, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
 Scanning input file User_guide.idx....
-!! Input index error (file = User_guide.idx, line = 344):
+!! Input index error (file = User_guide.idx, line = 378):
    -- Illegal null field.
-done (590 entries accepted, 1 rejected).
-Sorting entries.......done (5993 comparisons).
-Generating output file User_guide.ind....done (426 lines written, 0 warnings).
+done (624 entries accepted, 1 rejected).
+Sorting entries........done (6596 comparisons).
+Generating output file User_guide.ind....done (468 lines written, 0 warnings).
 Output written in User_guide.ind.
 Transcript written in User_guide.ilg.

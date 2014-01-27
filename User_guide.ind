@@ -1,5 +1,9 @@
 \begin{theindex}
 
+  \item .trPaths?, \hyperpage{32}
+
+  \indexspace
+
   \item about, \hyperpage{137}
   \item application options, \hyperpage{46}
     \subitem editor, \hyperpage{47}
@@ -13,8 +17,17 @@
 
   \indexspace
 
+  \item bookmarks, \hyperpage{39}
+  \item bug report, \hyperpage{31}
+
+  \indexspace
+
+  \item color preferences, \hyperpage{42}
+  \item column mode, \hyperpage{39}
   \item completion, \hyperpage{71}
+  \item comunication, \hyperpage{43}
   \item configuration, \hyperpage{10}
+  \item copy and paste, \hyperpage{40}
 
   \indexspace
 
@@ -25,6 +38,8 @@
     \subitem mirrors (R), \hyperpage{85}
     \subitem shortcuts, \hyperpage{82}
   \item debugging, \hyperpage{15}
+  \item default editor, \hyperpage{35}
+  \item defining hotkeys, \hyperpage{38}
   \item delimiter, \hyperpage{110}
     \subitem MAC (CR), \hyperpage{110}
     \subitem UNIX (LF), \hyperpage{110}
@@ -36,6 +51,7 @@
 
   \item edit menu, \hyperpage{100}
     \subitem copy formatted, \hyperpage{100}
+  \item Emacs, \hyperpage{35}
   \item encoding, \hyperpage{110}
     \subitem ANSI, \hyperpage{110}
     \subitem UTF-8, \hyperpage{110}
@@ -79,15 +95,24 @@
     \subitem triggers, \hyperpage{36}
     \subitem What is Tinn-R?, \hyperpage{31}
     \subitem WinEdt, \hyperpage{35}
+  \item feedback, \hyperpage{31}
   \item file menu, \hyperpage{96}
     \subitem copy to clipboard, \hyperpage{97}
     \subitem template, \hyperpage{96}
   \item filetabs, \hyperpage{75}
   \item find, \hyperpage{78}
   \item find and replace, \hyperpage{78}
+  \item find errors in my script, \hyperpage{43}
+  \item focus control, \hyperpage{41}
   \item format menu, \hyperpage{101}
     \subitem selection, \hyperpage{101}
     \subitem word, \hyperpage{101}
+  \item freeze, \hyperpage{43}
+
+  \indexspace
+
+  \item graphical debugger, \hyperpage{40}
+  \item gutter, \hyperpage{40}
 
   \indexspace
 
@@ -96,10 +121,11 @@
   \item highlighters
     \subitem color, \hyperpage{56}
     \subitem multi-highlighters, \hyperpage{56}
-  \item hotkeys, \hyperpage{59}
+  \item hotkeys, \hyperpage{38}, \hyperpage{59}
 
   \indexspace
 
+  \item icon on Windows, \hyperpage{41}
   \item ini file, \hyperpage{137}
   \item insert menu, \hyperpage{103}
     \subitem LaTeX, \hyperpage{103}
@@ -107,6 +133,7 @@
     \subitem LaTeX format, \hyperpage{104}
     \subitem LaTeX header, \hyperpage{103}
     \subitem LaTeX math, \hyperpage{103}
+  \item install, \hyperpage{32}
   \item installation, \hyperpage{10}
     \subitem sourceforge, \hyperpage{37}
   \item inverse DVI search, \hyperpage{15}
@@ -187,10 +214,12 @@
 
   \indexspace
 
+  \item latest version, \hyperpage{31}
   \item Log Interface, \hyperpage{63}
 
   \indexspace
 
+  \item marked blocks, \hyperpage{43}
   \item marks menu, \hyperpage{102}
     \subitem block, \hyperpage{102}
   \item markup, \hyperpage{66}
@@ -267,6 +296,7 @@
     \subitem escape sequences, \hyperpage{87}
     \subitem simple matches, \hyperpage{87}
   \item replace, \hyperpage{78}
+  \item reuse my preferences, \hyperpage{33}
   \item Rgui, \hyperpage{14}
   \item Rterm, \hyperpage{14}
     \subitem interface, \hyperpage{60}
@@ -280,6 +310,7 @@
 
   \indexspace
 
+  \item save my preferences, \hyperpage{33}
   \item search
     \subitem case sensitivity, \hyperpage{80}
     \subitem in files, \hyperpage{80}
@@ -319,9 +350,14 @@
     \subitem line, \hyperpage{54}
     \subitem normal, \hyperpage{54}
   \item selection mode menu, \hyperpage{109}
+  \item shortcut for cycling, \hyperpage{39}
   \item shortcuts, \hyperpage{58}
     \subitem customization, \hyperpage{58}
+  \item source code, \hyperpage{33}
   \item speller, \hyperpage{15}
+  \item starting GUI, \hyperpage{35}
+  \item step-by-step, \hyperpage{40}
+  \item suggestions, \hyperpage{31}
   \item SynEdit, \hyperpage{60}
 
   \indexspace
@@ -332,6 +368,8 @@
     \subitem R markdown, \hyperpage{96}
     \subitem R noweb, \hyperpage{96}
     \subitem R script, \hyperpage{96}
+  \item Tinn-R and Rgui, \hyperpage{43}
+  \item Tinn-R installation, \hyperpage{31}
   \item tools, \hyperpage{64}
     \subitem backup, \hyperpage{115}
     \subitem database, \hyperpage{115}
@@ -368,9 +406,11 @@
     \subitem processing viewer dvi, \hyperpage{114}
     \subitem processing viewer html, \hyperpage{115}
     \subitem processing viewer pdf, \hyperpage{115}
+  \item tools panel, \hyperpage{40}
   \item toolsbar, \hyperpage{76}
     \subitem disposition, \hyperpage{77}
     \subitem showhide, \hyperpage{76}
+  \item triggers, \hyperpage{36}
   \item Txt2tags, \hyperpage{19}
 
   \indexspace
@@ -421,6 +461,8 @@
     \subitem statistics, \hyperpage{135}
     \subitem statistics virtual labs, \hyperpage{136}
     \subitem Tinn-R, \hyperpage{135}
+  \item What is Tinn-R?, \hyperpage{31}
   \item windows menu, \hyperpage{132}
+  \item WinEdt, \hyperpage{35}
 
 \end{theindex}
