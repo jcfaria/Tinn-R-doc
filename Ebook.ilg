@@ -1,9 +1,9 @@
-This is c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\makeindex.exe, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
 Scanning input file eBook.idx....
-!! Input index error (file = eBook.idx, line = 344):
+!! Input index error (file = eBook.idx, line = 384):
    -- Illegal null field.
-done (590 entries accepted, 1 rejected).
-Sorting entries.......done (5993 comparisons).
-Generating output file eBook.ind....done (426 lines written, 0 warnings).
+done (630 entries accepted, 1 rejected).
+Sorting entries........done (6264 comparisons).
+Generating output file eBook.ind....done (468 lines written, 0 warnings).
 Output written in eBook.ind.
 Transcript written in eBook.ilg.

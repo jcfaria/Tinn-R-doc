@@ -1,17 +1,26 @@
 
 \section{Versions released in 2014 (02)}
-\subsection*{3.0.2.9 (Jan/26/2014)}
+\subsection*{3.0.3.0 (Jan/28/2014)}
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
       \item Pop-up menu of: \texttt{Tools/Database/Completion},
        \texttt{Tools/R/Explorer} and \texttt{Tools/R/Card}.
     \end{itemize}
-  \item The IPC (Inter Process Communication) \texttt{communicating Rterm and Tinn-R} was optimised.
-   Now it its approximately $8x$ faster and also more accurate. This really was an old dream!
+  \item Parts of the source code were enhanced.
+  \item The \textit{IPC (Inter Process Communication) communicating Rterm and Tinn-R} was optimised.
+   Now it its approximately \textbf{8x faster and also more accurate}. This really was an old dream!
   \item The \textit{User guide} has been revised.
-  \item The menu \textit{Tools/Processing/Compilation (Latex)} has a new option: Make index (makeindex).
+  \item The menu \texttt{Tools/Processing/Compilation (Latex)} has a new option: Make index (makeindex).
    The default shortcut is \textit{CTRL + ALT + I}.
+  \item The \texttt{Rterm} support to the \textit{function debug} and the \textit{package debug} was a bit enhanced.
+   The necessary instruction (below) is automatically sent to the \RR{} interpreter from this version.
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        options(debug.catfile = 'stdout')
+      \end{verbatim}
+    \end{footnotesize}
 \end{itemize}
 
 
@@ -19,7 +28,7 @@
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
-      \item \RR{} highlighter: \texttt{quote} argument of \texttt{read.table} function.
+      \item \RR{} highlighter: \textit{quote} argument of \textit{read.table} function.
       \item Pop-up menu of \texttt{Tools/R/Mirrors}.
     \end{itemize}
   \item TinnRcom package was upgraded to version (1.0-15).

@@ -25,170 +25,170 @@
 \contentsline {subsection}{Speller installation}{15}{section*.12}
 \contentsline {subsection}{Inverse DVI search}{15}{section*.13}
 \contentsline {subsection}{Ruby and Deplate}{17}{section*.14}
-\contentsline {subsection}{Python and Txt2tags}{19}{section*.15}
-\contentsline {section}{\numberline {2.2}Keyboard shortcuts (default)}{21}{section.2.2}
-\contentsline {subsection}{Main menu (systematically)}{24}{section*.16}
-\contentsline {subsection}{Call Tip}{26}{section*.17}
-\contentsline {subsection}{Code (or data) Completion}{26}{section*.18}
-\contentsline {subsection}{R Explorer}{27}{section*.19}
-\contentsline {subsection}{Alphabetical List of Keyboard Shortcuts}{27}{section*.20}
-\contentsline {section}{\numberline {2.3}FAQ}{31}{section.2.3}
-\contentsline {subsection}{What is Tinn-R?}{31}{section*.21}
-\contentsline {subsection}{Feedback, suggestions and bug report}{31}{section*.22}
-\contentsline {subsection}{Tinn-R installation}{31}{section*.23}
-\contentsline {subsection}{Hotkeys (operational system)}{38}{section*.24}
-\contentsline {subsection}{Miscellaneous}{39}{section*.25}
-\contentsline {chapter}{\chapternumberline {3}Working With}{45}{chapter.3}
-\contentsline {section}{\numberline {3.1}Application options}{46}{section.3.1}
-\contentsline {subsection}{Main}{47}{section*.26}
-\contentsline {subsection}{Editor}{47}{section*.27}
-\contentsline {subsection}{R}{51}{section*.28}
-\contentsline {subsection}{Processing}{51}{section*.29}
-\contentsline {section}{\numberline {3.2}Selection mode}{54}{section.3.2}
-\contentsline {subsection}{Normal}{54}{section*.30}
-\contentsline {subsection}{Line}{54}{section*.31}
-\contentsline {subsection}{Column}{55}{section*.32}
-\contentsline {section}{\numberline {3.3}Highlighters (settings)}{56}{section.3.3}
-\contentsline {section}{\numberline {3.4}Shortcuts customization}{58}{section.3.4}
-\contentsline {section}{\numberline {3.5}Hotkeys (operational system)}{59}{section.3.5}
-\contentsline {section}{\numberline {3.6}Rterm interface}{60}{section.3.6}
-\contentsline {subsection}{IO}{61}{section*.33}
-\contentsline {subsection}{Log}{63}{section*.34}
-\contentsline {section}{\numberline {3.7}Tools interface}{64}{section.3.7}
-\contentsline {subsection}{Misc}{64}{section*.35}
-\contentsline {subsection}{Markup}{66}{section*.36}
-\contentsline {subsection}{Results}{66}{section*.37}
-\contentsline {subsection}{Spell}{68}{section*.38}
-\contentsline {subsection}{Database}{69}{section*.39}
-\contentsline {subsection}{R}{71}{section*.40}
-\contentsline {section}{\numberline {3.8}File tabs}{75}{section.3.8}
-\contentsline {section}{\numberline {3.9}Tools bar}{76}{section.3.9}
-\contentsline {subsection}{Show/Hide}{76}{section*.41}
-\contentsline {subsection}{Disposition}{77}{section*.42}
-\contentsline {section}{\numberline {3.10}Find and replace}{78}{section.3.10}
-\contentsline {subsection}{Find}{78}{section*.43}
-\contentsline {subsection}{Replace (Replace dialog only)}{78}{section*.44}
-\contentsline {section}{\numberline {3.11}Search in files}{80}{section.3.11}
-\contentsline {subsection}{Options}{80}{section*.45}
-\contentsline {subsection}{Where}{80}{section*.46}
-\contentsline {subsection}{Directory options}{80}{section*.47}
-\contentsline {subsection}{Results interface}{80}{section*.48}
-\contentsline {section}{\numberline {3.12}Databases}{82}{section.3.12}
-\contentsline {subsection}{Shortcuts}{82}{section*.49}
-\contentsline {subsection}{Completion}{82}{section*.50}
-\contentsline {subsection}{Comments}{83}{section*.51}
-\contentsline {subsection}{Card (R)}{84}{section*.52}
-\contentsline {subsection}{Mirrors (R)}{85}{section*.53}
-\contentsline {section}{\numberline {3.13}Regular expressions}{87}{section.3.13}
-\contentsline {subsection}{What are regular expressions?}{87}{section*.54}
-\contentsline {subsection}{Simple Matches}{87}{section*.55}
-\contentsline {subsection}{Escape Sequences}{87}{section*.56}
-\contentsline {subsection}{Character Classes}{88}{section*.57}
-\contentsline {subsection}{Metacharacters}{89}{section*.58}
-\contentsline {subsection}{Regular Expression Tutorials}{92}{section*.59}
-\contentsline {chapter}{\chapternumberline {4}Menu Description}{95}{chapter.4}
-\contentsline {section}{\numberline {4.1}File}{96}{section.4.1}
-\contentsline {subsection}{Template}{96}{section*.60}
-\contentsline {subsection}{Copy full path to clipboard}{97}{section*.61}
-\contentsline {section}{\numberline {4.2}Project}{98}{section.4.2}
-\contentsline {subsection}{Project}{98}{section*.62}
-\contentsline {subsection}{Group(s)}{98}{section*.63}
-\contentsline {subsection}{File(s)}{99}{section*.64}
-\contentsline {section}{\numberline {4.3}Edit}{100}{section.4.3}
-\contentsline {subsection}{Copy formatted (to export)}{100}{section*.65}
-\contentsline {section}{\numberline {4.4}Format}{101}{section.4.4}
-\contentsline {subsection}{Selection}{101}{section*.66}
-\contentsline {subsection}{Word}{101}{section*.67}
-\contentsline {subsection}{Reformat}{101}{section*.68}
-\contentsline {section}{\numberline {4.5}Marks}{102}{section.4.5}
-\contentsline {subsection}{Block}{102}{section*.69}
-\contentsline {section}{\numberline {4.6}Insert}{103}{section.4.6}
-\contentsline {subsection}{Latex}{103}{section*.70}
-\contentsline {section}{\numberline {4.7}Search}{106}{section.4.7}
-\contentsline {section}{\numberline {4.8}Options}{107}{section.4.8}
-\contentsline {subsection}{Syntax (highlighter)}{107}{section*.71}
-\contentsline {subsection}{Selection mode}{109}{section*.72}
-\contentsline {section}{\numberline {4.9}Encoding}{110}{section.4.9}
-\contentsline {subsection}{Default (creating new files)}{110}{section*.73}
-\contentsline {subsection}{Convert (current encoding to)}{110}{section*.74}
-\contentsline {subsection}{Change line ending (delimiter)}{110}{section*.75}
-\contentsline {section}{\numberline {4.10}Tools}{111}{section.4.10}
-\contentsline {subsection}{Processing}{111}{section*.76}
-\contentsline {paragraph}{}{113}{section*.77}
-\contentsline {subsection}{Database}{115}{section*.78}
-\contentsline {subsection}{Backup}{115}{section*.79}
-\contentsline {subsection}{Restore}{116}{section*.80}
-\contentsline {subsection}{Macro}{116}{section*.81}
-\contentsline {subsection}{Sort}{116}{section*.82}
-\contentsline {section}{\numberline {4.11}R}{117}{section.4.11}
-\contentsline {subsection}{Start/close and connections}{117}{section*.83}
-\contentsline {subsection}{Rterm}{118}{section*.84}
-\contentsline {subsection}{Send}{121}{section*.85}
-\contentsline {subsection}{Control}{122}{section*.86}
-\contentsline {section}{\numberline {4.12}View}{124}{section.4.12}
-\contentsline {subsection}{R}{124}{section*.87}
-\contentsline {subsection}{Tools}{126}{section*.88}
-\contentsline {subsection}{Toolbars}{129}{section*.89}
-\contentsline {subsection}{Tabs}{129}{section*.90}
-\contentsline {subsection}{Line wrap}{130}{section*.91}
-\contentsline {subsection}{Split}{130}{section*.92}
-\contentsline {subsection}{Font of active control (not permanent)}{131}{section*.93}
-\contentsline {section}{\numberline {4.13}Window}{132}{section.4.13}
-\contentsline {section}{\numberline {4.14}Web}{133}{section.4.14}
-\contentsline {subsection}{R search}{133}{section*.94}
-\contentsline {subsection}{S search}{134}{section*.95}
-\contentsline {subsection}{R information}{134}{section*.96}
-\contentsline {subsection}{R Editors, Gui's and IDEs}{135}{section*.97}
-\contentsline {subsection}{Tinn-R}{135}{section*.98}
-\contentsline {subsection}{Statistics}{135}{section*.99}
-\contentsline {subsection}{Processing}{136}{section*.100}
-\contentsline {section}{\numberline {4.15}Help}{137}{section.4.15}
-\contentsline {subsection}{File conversion (introduction)}{137}{section*.101}
-\contentsline {chapter}{\chapternumberline {5}Some Secrets for an Efficient Use}{139}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{140}{section.5.1}
-\contentsline {section}{\numberline {5.2}After installation}{141}{section.5.2}
-\contentsline {section}{\numberline {5.3}Shortcuts that can make you lose the visibility of a resource}{143}{section.5.3}
-\contentsline {section}{\numberline {5.4}I'm panicking: what do I do?}{144}{section.5.4}
-\contentsline {section}{\numberline {5.5}Application options}{145}{section.5.5}
-\contentsline {subsection}{General}{145}{section*.102}
-\contentsline {subsection}{Appearance}{145}{section*.103}
-\contentsline {subsection}{Dock}{146}{section*.104}
-\contentsline {subsection}{Editor options}{147}{section*.105}
-\contentsline {subsection}{R}{148}{section*.106}
-\contentsline {subsection}{Processing}{149}{section*.107}
-\contentsline {section}{\numberline {5.6}Highlighters (settings)}{151}{section.5.6}
-\contentsline {section}{\numberline {5.7}Tools}{152}{section.5.7}
-\contentsline {subsection}{Project}{152}{section*.108}
-\contentsline {subsection}{Database}{153}{section*.109}
-\contentsline {paragraph}{}{153}{section*.110}
-\contentsline {paragraph}{}{153}{section*.111}
-\contentsline {paragraph}{}{154}{section*.112}
-\contentsline {subsection}{R}{155}{section*.113}
-\contentsline {paragraph}{}{155}{section*.114}
-\contentsline {paragraph}{}{156}{section*.115}
-\contentsline {paragraph}{}{156}{section*.116}
-\contentsline {section}{\numberline {5.8}Bars}{158}{section.5.8}
-\contentsline {section}{\numberline {5.9}Spell checker}{159}{section.5.9}
-\contentsline {section}{\numberline {5.10}Split}{160}{section.5.10}
-\contentsline {section}{\numberline {5.11}Editor: how to?}{161}{section.5.11}
-\contentsline {subsection}{Macros: how to use?}{161}{section*.117}
-\contentsline {subsection}{Marks: how to use?}{161}{section*.118}
-\contentsline {subsection}{Editor, Tools and Rterm: how to arrange?}{162}{section*.119}
-\contentsline {subsection}{Active page using the keyboard: how to change?}{162}{section*.120}
-\contentsline {subsection}{Tab order: how to change?}{162}{section*.121}
-\contentsline {appendix}{\chapternumberline {A}What is New?}{163}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2014 (01)}{164}{section.A.1}
-\contentsline {section}{\numberline {A.2}Versions released in 2013 (10)}{165}{section.A.2}
-\contentsline {section}{\numberline {A.3}Versions released in 2012 (03)}{170}{section.A.3}
-\contentsline {section}{\numberline {A.4}Versions released in 2010 (10)}{173}{section.A.4}
-\contentsline {section}{\numberline {A.5}Versions released in 2009 (16)}{176}{section.A.5}
-\contentsline {section}{\numberline {A.6}Versions released in 2008 (14)}{183}{section.A.6}
-\contentsline {section}{\numberline {A.7}Versions released in 2007 (26)}{192}{section.A.7}
-\contentsline {section}{\numberline {A.8}Versions released in 2006 (64)}{200}{section.A.8}
-\contentsline {section}{\numberline {A.9}Versions released in 2005 (25)}{222}{section.A.9}
-\contentsline {section}{\numberline {A.10}Versions released in 2004 (16)}{238}{section.A.10}
-\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{245}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{247}{appendix.C}
-\contentsline {chapter}{References}{263}{appendix*.306}
-\contentsline {chapter}{Index}{265}{section*.307}
-\contentsline {chapter}{About the Authors}{271}{appendix*.308}
+\contentsline {subsection}{Python and Txt2tags}{20}{section*.15}
+\contentsline {section}{\numberline {2.2}Keyboard shortcuts (default)}{22}{section.2.2}
+\contentsline {subsection}{Main menu (systematically)}{25}{section*.16}
+\contentsline {subsection}{Call Tip}{27}{section*.17}
+\contentsline {subsection}{Code (or data) Completion}{27}{section*.18}
+\contentsline {subsection}{R Explorer}{28}{section*.19}
+\contentsline {subsection}{Alphabetical List of Keyboard Shortcuts}{28}{section*.20}
+\contentsline {section}{\numberline {2.3}FAQ}{32}{section.2.3}
+\contentsline {subsection}{What is Tinn-R?}{32}{section*.21}
+\contentsline {subsection}{Feedback, suggestions and bug report}{32}{section*.22}
+\contentsline {subsection}{Tinn-R installation}{32}{section*.23}
+\contentsline {subsection}{Hotkeys (operational system)}{39}{section*.24}
+\contentsline {subsection}{Miscellaneous}{40}{section*.25}
+\contentsline {chapter}{\chapternumberline {3}Working With}{47}{chapter.3}
+\contentsline {section}{\numberline {3.1}Application options}{48}{section.3.1}
+\contentsline {subsection}{Main}{49}{section*.26}
+\contentsline {subsection}{Editor}{49}{section*.27}
+\contentsline {subsection}{R}{53}{section*.28}
+\contentsline {subsection}{Processing}{53}{section*.29}
+\contentsline {section}{\numberline {3.2}Selection mode}{56}{section.3.2}
+\contentsline {subsection}{Normal}{56}{section*.30}
+\contentsline {subsection}{Line}{56}{section*.31}
+\contentsline {subsection}{Column}{57}{section*.32}
+\contentsline {section}{\numberline {3.3}Highlighters (settings)}{58}{section.3.3}
+\contentsline {section}{\numberline {3.4}Shortcuts customization}{60}{section.3.4}
+\contentsline {section}{\numberline {3.5}Hotkeys (operational system)}{61}{section.3.5}
+\contentsline {section}{\numberline {3.6}Rterm interface}{62}{section.3.6}
+\contentsline {subsection}{IO}{63}{section*.33}
+\contentsline {subsection}{Log}{65}{section*.34}
+\contentsline {section}{\numberline {3.7}Tools interface}{66}{section.3.7}
+\contentsline {subsection}{Misc}{66}{section*.35}
+\contentsline {subsection}{Markup}{68}{section*.36}
+\contentsline {subsection}{Results}{68}{section*.37}
+\contentsline {subsection}{Spell}{70}{section*.38}
+\contentsline {subsection}{Database}{71}{section*.39}
+\contentsline {subsection}{R}{73}{section*.40}
+\contentsline {section}{\numberline {3.8}File tabs}{77}{section.3.8}
+\contentsline {section}{\numberline {3.9}Tools bar}{78}{section.3.9}
+\contentsline {subsection}{Show/Hide}{78}{section*.41}
+\contentsline {subsection}{Disposition}{79}{section*.42}
+\contentsline {section}{\numberline {3.10}Find and replace}{80}{section.3.10}
+\contentsline {subsection}{Find}{80}{section*.43}
+\contentsline {subsection}{Replace (Replace dialog only)}{80}{section*.44}
+\contentsline {section}{\numberline {3.11}Search in files}{82}{section.3.11}
+\contentsline {subsection}{Options}{82}{section*.45}
+\contentsline {subsection}{Where}{82}{section*.46}
+\contentsline {subsection}{Directory options}{82}{section*.47}
+\contentsline {subsection}{Results interface}{82}{section*.48}
+\contentsline {section}{\numberline {3.12}Databases}{84}{section.3.12}
+\contentsline {subsection}{Shortcuts}{84}{section*.49}
+\contentsline {subsection}{Completion}{84}{section*.50}
+\contentsline {subsection}{Comments}{85}{section*.51}
+\contentsline {subsection}{Card (R)}{86}{section*.52}
+\contentsline {subsection}{Mirrors (R)}{87}{section*.53}
+\contentsline {section}{\numberline {3.13}Regular expressions}{89}{section.3.13}
+\contentsline {subsection}{What are regular expressions?}{89}{section*.54}
+\contentsline {subsection}{Simple Matches}{89}{section*.55}
+\contentsline {subsection}{Escape Sequences}{89}{section*.56}
+\contentsline {subsection}{Character Classes}{90}{section*.57}
+\contentsline {subsection}{Metacharacters}{91}{section*.58}
+\contentsline {subsection}{Regular Expression Tutorials}{94}{section*.59}
+\contentsline {chapter}{\chapternumberline {4}Menu Description}{97}{chapter.4}
+\contentsline {section}{\numberline {4.1}File}{98}{section.4.1}
+\contentsline {subsection}{Template}{98}{section*.60}
+\contentsline {subsection}{Copy full path to clipboard}{99}{section*.61}
+\contentsline {section}{\numberline {4.2}Project}{100}{section.4.2}
+\contentsline {subsection}{Project}{100}{section*.62}
+\contentsline {subsection}{Group(s)}{100}{section*.63}
+\contentsline {subsection}{File(s)}{101}{section*.64}
+\contentsline {section}{\numberline {4.3}Edit}{102}{section.4.3}
+\contentsline {subsection}{Copy formatted (to export)}{102}{section*.65}
+\contentsline {section}{\numberline {4.4}Format}{103}{section.4.4}
+\contentsline {subsection}{Selection}{103}{section*.66}
+\contentsline {subsection}{Word}{103}{section*.67}
+\contentsline {subsection}{Reformat}{103}{section*.68}
+\contentsline {section}{\numberline {4.5}Marks}{104}{section.4.5}
+\contentsline {subsection}{Block}{104}{section*.69}
+\contentsline {section}{\numberline {4.6}Insert}{105}{section.4.6}
+\contentsline {subsection}{Latex}{105}{section*.70}
+\contentsline {section}{\numberline {4.7}Search}{108}{section.4.7}
+\contentsline {section}{\numberline {4.8}Options}{109}{section.4.8}
+\contentsline {subsection}{Syntax (highlighter)}{109}{section*.71}
+\contentsline {subsection}{Selection mode}{111}{section*.72}
+\contentsline {section}{\numberline {4.9}Encoding}{112}{section.4.9}
+\contentsline {subsection}{Default (creating new files)}{112}{section*.73}
+\contentsline {subsection}{Convert (current encoding to)}{112}{section*.74}
+\contentsline {subsection}{Change line ending (delimiter)}{112}{section*.75}
+\contentsline {section}{\numberline {4.10}Tools}{113}{section.4.10}
+\contentsline {subsection}{Processing}{113}{section*.76}
+\contentsline {paragraph}{}{115}{section*.77}
+\contentsline {subsection}{Database}{117}{section*.78}
+\contentsline {subsection}{Backup}{117}{section*.79}
+\contentsline {subsection}{Restore}{118}{section*.80}
+\contentsline {subsection}{Macro}{118}{section*.81}
+\contentsline {subsection}{Sort}{118}{section*.82}
+\contentsline {section}{\numberline {4.11}R}{119}{section.4.11}
+\contentsline {subsection}{Start/close and connections}{119}{section*.83}
+\contentsline {subsection}{Rterm}{120}{section*.84}
+\contentsline {subsection}{Send}{123}{section*.85}
+\contentsline {subsection}{Control}{124}{section*.86}
+\contentsline {section}{\numberline {4.12}View}{126}{section.4.12}
+\contentsline {subsection}{R}{126}{section*.87}
+\contentsline {subsection}{Tools}{128}{section*.88}
+\contentsline {subsection}{Toolbars}{131}{section*.89}
+\contentsline {subsection}{Tabs}{131}{section*.90}
+\contentsline {subsection}{Line wrap}{132}{section*.91}
+\contentsline {subsection}{Split}{132}{section*.92}
+\contentsline {subsection}{Font of active control (not permanent)}{133}{section*.93}
+\contentsline {section}{\numberline {4.13}Window}{134}{section.4.13}
+\contentsline {section}{\numberline {4.14}Web}{135}{section.4.14}
+\contentsline {subsection}{R search}{135}{section*.94}
+\contentsline {subsection}{S search}{136}{section*.95}
+\contentsline {subsection}{R information}{136}{section*.96}
+\contentsline {subsection}{R Editors, Gui's and IDEs}{137}{section*.97}
+\contentsline {subsection}{Tinn-R}{137}{section*.98}
+\contentsline {subsection}{Statistics}{137}{section*.99}
+\contentsline {subsection}{Processing}{138}{section*.100}
+\contentsline {section}{\numberline {4.15}Help}{139}{section.4.15}
+\contentsline {subsection}{File conversion (introduction)}{139}{section*.101}
+\contentsline {chapter}{\chapternumberline {5}Some Secrets for an Efficient Use}{141}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{142}{section.5.1}
+\contentsline {section}{\numberline {5.2}After installation}{143}{section.5.2}
+\contentsline {section}{\numberline {5.3}Shortcuts that can make you lose the visibility of a resource}{145}{section.5.3}
+\contentsline {section}{\numberline {5.4}I'm panicking: what do I do?}{146}{section.5.4}
+\contentsline {section}{\numberline {5.5}Application options}{147}{section.5.5}
+\contentsline {subsection}{General}{147}{section*.102}
+\contentsline {subsection}{Appearance}{147}{section*.103}
+\contentsline {subsection}{Dock}{148}{section*.104}
+\contentsline {subsection}{Editor options}{149}{section*.105}
+\contentsline {subsection}{R}{150}{section*.106}
+\contentsline {subsection}{Processing}{151}{section*.107}
+\contentsline {section}{\numberline {5.6}Highlighters (settings)}{153}{section.5.6}
+\contentsline {section}{\numberline {5.7}Tools}{154}{section.5.7}
+\contentsline {subsection}{Project}{154}{section*.108}
+\contentsline {subsection}{Database}{155}{section*.109}
+\contentsline {paragraph}{}{155}{section*.110}
+\contentsline {paragraph}{}{155}{section*.111}
+\contentsline {paragraph}{}{156}{section*.112}
+\contentsline {subsection}{R}{157}{section*.113}
+\contentsline {paragraph}{}{157}{section*.114}
+\contentsline {paragraph}{}{158}{section*.115}
+\contentsline {paragraph}{}{158}{section*.116}
+\contentsline {section}{\numberline {5.8}Bars}{160}{section.5.8}
+\contentsline {section}{\numberline {5.9}Spell checker}{161}{section.5.9}
+\contentsline {section}{\numberline {5.10}Split}{162}{section.5.10}
+\contentsline {section}{\numberline {5.11}Editor: how to?}{163}{section.5.11}
+\contentsline {subsection}{Macros: how to use?}{163}{section*.117}
+\contentsline {subsection}{Marks: how to use?}{163}{section*.118}
+\contentsline {subsection}{Editor, Tools and Rterm: how to arrange?}{164}{section*.119}
+\contentsline {subsection}{Active page using the keyboard: how to change?}{164}{section*.120}
+\contentsline {subsection}{Tab order: how to change?}{164}{section*.121}
+\contentsline {appendix}{\chapternumberline {A}What is New?}{165}{appendix.A}
+\contentsline {section}{\numberline {A.1}Versions released in 2014 (02)}{166}{section.A.1}
+\contentsline {section}{\numberline {A.2}Versions released in 2013 (10)}{168}{section.A.2}
+\contentsline {section}{\numberline {A.3}Versions released in 2012 (03)}{173}{section.A.3}
+\contentsline {section}{\numberline {A.4}Versions released in 2010 (10)}{176}{section.A.4}
+\contentsline {section}{\numberline {A.5}Versions released in 2009 (16)}{179}{section.A.5}
+\contentsline {section}{\numberline {A.6}Versions released in 2008 (14)}{186}{section.A.6}
+\contentsline {section}{\numberline {A.7}Versions released in 2007 (26)}{195}{section.A.7}
+\contentsline {section}{\numberline {A.8}Versions released in 2006 (64)}{203}{section.A.8}
+\contentsline {section}{\numberline {A.9}Versions released in 2005 (25)}{225}{section.A.9}
+\contentsline {section}{\numberline {A.10}Versions released in 2004 (16)}{241}{section.A.10}
+\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{249}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{251}{appendix.C}
+\contentsline {chapter}{References}{267}{appendix*.307}
+\contentsline {chapter}{Index}{269}{section*.308}
+\contentsline {chapter}{About the Authors}{275}{appendix*.309}
