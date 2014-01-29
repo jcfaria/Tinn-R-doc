@@ -177,7 +177,7 @@
 \contentsline {subsection}{Active page using the keyboard: how to change?}{164}{section*.120}
 \contentsline {subsection}{Tab order: how to change?}{164}{section*.121}
 \contentsline {appendix}{\chapternumberline {A}What is New?}{165}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2014 (02)}{166}{section.A.1}
+\contentsline {section}{\numberline {A.1}Versions released in 2014 (03)}{166}{section.A.1}
 \contentsline {section}{\numberline {A.2}Versions released in 2013 (10)}{168}{section.A.2}
 \contentsline {section}{\numberline {A.3}Versions released in 2012 (03)}{173}{section.A.3}
 \contentsline {section}{\numberline {A.4}Versions released in 2010 (10)}{176}{section.A.4}
@@ -189,6 +189,6 @@
 \contentsline {section}{\numberline {A.10}Versions released in 2004 (16)}{241}{section.A.10}
 \contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{249}{appendix.B}
 \contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{251}{appendix.C}
-\contentsline {chapter}{References}{267}{appendix*.307}
-\contentsline {chapter}{Index}{269}{section*.308}
-\contentsline {chapter}{About the Authors}{275}{appendix*.309}
+\contentsline {chapter}{References}{267}{appendix*.308}
+\contentsline {chapter}{Index}{269}{section*.309}
+\contentsline {chapter}{About the Authors}{275}{appendix*.310}
