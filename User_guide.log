@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  30 JAN 2014 18:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  31 JAN 2014 11:06
 entering extended mode
 **User_guide
 (D:\GitHub\Tinn-R-doc\User_guide.tex
@@ -1302,7 +1302,7 @@ See the caption package documentation for explanation.
 
 Package caption Info: End \AtBeginDocument code.
 (D:\GitHub\Tinn-R-doc\sub_ug\aaaFrontCover.tex
-<./cover_ug/frontCover.pdf, id=729, page=1, 497.86pt x 668.4975pt>
+<./cover_ug/frontCover.pdf, id=745, page=1, 497.86pt x 668.4975pt>
 File: ./cover_ug/frontCover.pdf Graphic file (type pdf)
 
 <use ./cover_ug/frontCover.pdf, page 1>
@@ -1474,473 +1474,453 @@ LaTeX Font Info:    Font shape `OMX/mdput/b/n' will be
 
 
 ] [5]
-Overfull \hbox (0.36794pt too wide) detected at line 89
- \T1/mdput/m/n/10 100
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 90
- \T1/mdput/m/n/10 100
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 91
- \T1/mdput/m/n/10 100
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 92
- \T1/mdput/m/n/10 101
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 93
- \T1/mdput/m/n/10 102
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 94
- \T1/mdput/m/n/10 102
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 95
- \T1/mdput/m/n/10 103
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 96
- \T1/mdput/m/n/10 103
- []
-
-
 Overfull \hbox (0.36794pt too wide) detected at line 97
- \T1/mdput/m/n/10 103
+ \T1/mdput/m/n/10 100
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 98
- \T1/mdput/m/n/10 103
+ \T1/mdput/m/n/10 100
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 99
- \T1/mdput/m/n/10 104
+ \T1/mdput/m/n/10 101
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 100
- \T1/mdput/m/n/10 104
+ \T1/mdput/m/n/10 101
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 101
- \T1/mdput/m/n/10 105
+ \T1/mdput/m/n/10 101
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 102
- \T1/mdput/m/n/10 105
+ \T1/mdput/m/n/10 101
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 103
- \T1/mdput/m/n/10 108
+ \T1/mdput/m/n/10 102
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 104
- \T1/mdput/m/n/10 109
+ \T1/mdput/m/n/10 102
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 105
- \T1/mdput/m/n/10 109
+ \T1/mdput/m/n/10 103
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 106
- \T1/mdput/m/n/10 111
+ \T1/mdput/m/n/10 103
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 107
- \T1/mdput/m/n/10 112
+ \T1/mdput/m/n/10 106
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 108
- \T1/mdput/m/n/10 112
+ \T1/mdput/m/n/10 107
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 109
- \T1/mdput/m/n/10 112
+ \T1/mdput/m/n/10 107
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 110
- \T1/mdput/m/n/10 112
+ \T1/mdput/m/n/10 109
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 111
- \T1/mdput/m/n/10 113
+ \T1/mdput/m/n/10 110
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 112
- \T1/mdput/m/n/10 113
+ \T1/mdput/m/n/10 110
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 113
+ \T1/mdput/m/n/10 110
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 114
- \T1/mdput/m/n/10 117
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 115
- \T1/mdput/m/n/10 117
+ \T1/mdput/m/n/10 110
  []
 
 [6]
-Overfull \hbox (0.36794pt too wide) detected at line 116
- \T1/mdput/m/n/10 118
+Overfull \hbox (0.36794pt too wide) detected at line 115
+ \T1/mdput/m/n/10 111
  []
 
 
-Overfull \hbox (0.36794pt too wide) detected at line 117
- \T1/mdput/m/n/10 118
+Overfull \hbox (0.36794pt too wide) detected at line 116
+ \T1/mdput/m/n/10 111
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 118
- \T1/mdput/m/n/10 118
+ \T1/mdput/m/n/10 115
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 119
- \T1/mdput/m/n/10 119
+ \T1/mdput/m/n/10 115
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 120
- \T1/mdput/m/n/10 119
+ \T1/mdput/m/n/10 116
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 121
- \T1/mdput/m/n/10 120
+ \T1/mdput/m/n/10 116
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 122
- \T1/mdput/m/n/10 123
+ \T1/mdput/m/n/10 116
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 123
- \T1/mdput/m/n/10 124
+ \T1/mdput/m/n/10 117
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 124
- \T1/mdput/m/n/10 126
+ \T1/mdput/m/n/10 117
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 125
- \T1/mdput/m/n/10 126
+ \T1/mdput/m/n/10 118
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 126
- \T1/mdput/m/n/10 128
+ \T1/mdput/m/n/10 121
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 127
- \T1/mdput/m/n/10 131
+ \T1/mdput/m/n/10 122
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 128
- \T1/mdput/m/n/10 131
+ \T1/mdput/m/n/10 124
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 129
- \T1/mdput/m/n/10 132
+ \T1/mdput/m/n/10 124
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 130
- \T1/mdput/m/n/10 132
+ \T1/mdput/m/n/10 126
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 131
- \T1/mdput/m/n/10 133
+ \T1/mdput/m/n/10 129
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 132
- \T1/mdput/m/n/10 134
+ \T1/mdput/m/n/10 129
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 133
- \T1/mdput/m/n/10 135
+ \T1/mdput/m/n/10 130
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 134
- \T1/mdput/m/n/10 135
+ \T1/mdput/m/n/10 130
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 135
- \T1/mdput/m/n/10 136
+ \T1/mdput/m/n/10 131
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 136
- \T1/mdput/m/n/10 136
+ \T1/mdput/m/n/10 132
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 137
- \T1/mdput/m/n/10 137
+ \T1/mdput/m/n/10 133
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 138
- \T1/mdput/m/n/10 137
+ \T1/mdput/m/n/10 133
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 139
- \T1/mdput/m/n/10 137
+ \T1/mdput/m/n/10 134
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 140
- \T1/mdput/m/n/10 138
+ \T1/mdput/m/n/10 134
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 141
- \T1/mdput/m/n/10 139
+ \T1/mdput/m/n/10 135
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 142
- \T1/mdput/m/n/10 139
+ \T1/mdput/m/n/10 135
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 143
- \T1/mdput/m/fsc/10 141
+ \T1/mdput/m/n/10 135
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 144
- \T1/mdput/m/n/10 142
+ \T1/mdput/m/n/10 136
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 145
- \T1/mdput/m/n/10 143
+ \T1/mdput/m/n/10 137
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 146
- \T1/mdput/m/n/10 145
+ \T1/mdput/m/n/10 137
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 147
- \T1/mdput/m/n/10 146
+ \T1/mdput/m/fsc/10 139
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 148
- \T1/mdput/m/n/10 147
+ \T1/mdput/m/n/10 140
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 149
- \T1/mdput/m/n/10 147
+ \T1/mdput/m/n/10 141
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 150
- \T1/mdput/m/n/10 147
+ \T1/mdput/m/n/10 143
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 151
- \T1/mdput/m/n/10 148
+ \T1/mdput/m/n/10 144
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 152
- \T1/mdput/m/n/10 149
+ \T1/mdput/m/n/10 145
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 153
- \T1/mdput/m/n/10 150
+ \T1/mdput/m/n/10 145
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 154
- \T1/mdput/m/n/10 151
+ \T1/mdput/m/n/10 145
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 155
- \T1/mdput/m/n/10 153
+ \T1/mdput/m/n/10 146
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 156
- \T1/mdput/m/n/10 154
+ \T1/mdput/m/n/10 147
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 157
- \T1/mdput/m/n/10 154
+ \T1/mdput/m/n/10 148
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 158
- \T1/mdput/m/n/10 155
+ \T1/mdput/m/n/10 149
  []
 
 [7]
+Overfull \hbox (0.36794pt too wide) detected at line 159
+ \T1/mdput/m/n/10 151
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 160
+ \T1/mdput/m/n/10 152
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 161
+ \T1/mdput/m/n/10 152
+ []
+
+
 Overfull \hbox (0.36794pt too wide) detected at line 162
- \T1/mdput/m/n/10 157
+ \T1/mdput/m/n/10 153
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 166
- \T1/mdput/m/n/10 160
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 167
- \T1/mdput/m/n/10 161
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 168
- \T1/mdput/m/n/10 162
- []
-
-
-Overfull \hbox (0.36794pt too wide) detected at line 169
- \T1/mdput/m/n/10 163
+ \T1/mdput/m/n/10 155
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 170
- \T1/mdput/m/n/10 163
+ \T1/mdput/m/n/10 158
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 171
- \T1/mdput/m/n/10 163
+ \T1/mdput/m/n/10 159
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 172
- \T1/mdput/m/n/10 164
+ \T1/mdput/m/n/10 160
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 173
- \T1/mdput/m/n/10 164
+ \T1/mdput/m/n/10 161
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 174
- \T1/mdput/m/n/10 164
+ \T1/mdput/m/n/10 161
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 175
- \T1/mdput/m/fsc/10 165
+ \T1/mdput/m/n/10 161
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 176
- \T1/mdput/m/n/10 166
+ \T1/mdput/m/n/10 162
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 177
- \T1/mdput/m/n/10 168
+ \T1/mdput/m/n/10 162
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 178
- \T1/mdput/m/n/10 173
+ \T1/mdput/m/n/10 162
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 179
- \T1/mdput/m/n/10 176
+ \T1/mdput/m/fsc/10 163
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 180
- \T1/mdput/m/n/10 179
+ \T1/mdput/m/n/10 164
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 181
- \T1/mdput/m/n/10 186
+ \T1/mdput/m/n/10 166
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 182
- \T1/mdput/m/n/10 195
+ \T1/mdput/m/n/10 171
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 183
- \T1/mdput/m/n/10 203
+ \T1/mdput/m/n/10 174
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 184
- \T1/mdput/m/n/10 225
+ \T1/mdput/m/n/10 177
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 185
- \T1/mdput/m/n/10 241
+ \T1/mdput/m/n/10 184
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 186
- \T1/mdput/m/fsc/10 249
+ \T1/mdput/m/n/10 193
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 187
- \T1/mdput/m/fsc/10 251
+ \T1/mdput/m/n/10 201
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 188
- \T1/mdput/m/fsc/10 267
+ \T1/mdput/m/n/10 223
  []
 
 
 Overfull \hbox (0.36794pt too wide) detected at line 189
- \T1/mdput/m/fsc/10 273
+ \T1/mdput/m/n/10 239
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 190
+ \T1/mdput/m/fsc/10 247
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 191
+ \T1/mdput/m/fsc/10 249
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 192
+ \T1/mdput/m/fsc/10 265
+ []
+
+
+Overfull \hbox (0.36794pt too wide) detected at line 193
+ \T1/mdput/m/fsc/10 271
  []
 
 ) [8]) (D:\GitHub\Tinn-R-doc\sub\aaaListOfFigures.tex
@@ -1978,7 +1958,7 @@ LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 8.24005pt on input line 20.
 
-<./res/general.png, id=1132, 756.57657pt x 526.96875pt>
+<./res/general.png, id=1152, 756.57657pt x 526.96875pt>
 File: ./res/general.png Graphic file (type png)
 
 <use ./res/general.png>
@@ -2116,160 +2096,151 @@ Overfull \hbox (6.08316pt too wide) in paragraph at lines 210--210
 fvm/m/sl/8 '\T1/fvm/m/sl/8 Package\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ][] 
  []
 
-[13] <./res/focus.png, id=1251, 116.68594pt x 40.65187pt>
+[13] <./res/focus.png, id=1271, 116.68594pt x 40.65187pt>
 File: ./res/focus.png Graphic file (type png)
 
 <use ./res/focus.png>
-Package pdftex.def Info: ./res/focus.png used on input line 246.
+Package pdftex.def Info: ./res/focus.png used on input line 243.
 (pdftex.def)             Requested size: 58.34282pt x 20.32588pt.
 
-Overfull \hbox (25.3757pt too wide) in paragraph at lines 249--254
+Overfull \hbox (25.3757pt too wide) in paragraph at lines 246--251
 \T1/fvm/m/n/10 Op-tions: re-turn fo-cus to ed-i-tor af-ter send/-con-trol Rgui 
 \T1/mdput/m/n/10 (-20) which
  []
 
 [14 <D:/GitHub/Tinn-R-doc/res/focus.png>]
-<./res/yap_01.png, id=1257, 283.0575pt x 338.76563pt>
+<./res/yap_01.png, id=1277, 283.0575pt x 338.76563pt>
 File: ./res/yap_01.png Graphic file (type png)
  <use ./res/yap_01.png>
-Package pdftex.def Info: ./res/yap_01.png used on input line 342.
+Package pdftex.def Info: ./res/yap_01.png used on input line 339.
 (pdftex.def)             Requested size: 141.5284pt x 169.38239pt.
 
-<./res/yap_02.png, id=1258, 274.77657pt x 243.91125pt>
+<./res/yap_02.png, id=1278, 274.77657pt x 243.91125pt>
 File: ./res/yap_02.png Graphic file (type png)
  <use ./res/yap_02.png>
-Package pdftex.def Info: ./res/yap_02.png used on input line 343.
+Package pdftex.def Info: ./res/yap_02.png used on input line 340.
 (pdftex.def)             Requested size: 137.38794pt x 121.95532pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--344
+Underfull \hbox (badness 10000) in paragraph at lines 337--341
 
  []
 
 
-Overfull \hbox (31.66356pt too wide) in paragraph at lines 340--344
+Overfull \hbox (31.66356pt too wide) in paragraph at lines 337--341
 []   [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--344
+Underfull \hbox (badness 10000) in paragraph at lines 337--341
 
  []
 
-[15] <./res/app_processing_latex_dvi.png, id=1267, 423.08063pt x 438.13687pt>
+[15] <./res/app_processing_latex_dvi.png, id=1287, 423.08063pt x 438.13687pt>
 File: ./res/app_processing_latex_dvi.png Graphic file (type png)
 
 <use ./res/app_processing_latex_dvi.png>
 Package pdftex.def Info: ./res/app_processing_latex_dvi.png used on input line 
-358.
+355.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16 <D:/GitHub/Tinn-R-doc/res/yap_01.png> <D:/GitHub/Tinn-R-doc/res/yap_02.png
->]
-Overfull \hbox (2.02725pt too wide) in paragraph at lines 389--393
+[16 <D:/GitHub/Tinn-R-doc/res/yap_01.png> <D:/GitHub/Tinn-R-doc/res/yap_02.png>
+ <D:/GitHub/Tinn-R-doc/res/app_processing_latex_dvi.png>]
+Overfull \hbox (2.02725pt too wide) in paragraph at lines 386--390
 []\T1/mdput/m/n/10 (-20) Within Tinn-R, go to \T1/fvm/m/n/10 Op-tion-s/Ap-pli-c
 a-tion/Pro-cess-ing/-Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--393
+Underfull \hbox (badness 10000) in paragraph at lines 386--390
 
  []
 
 
-<./res/app_processing_conversion_deplate.png, id=1277, 423.08063pt x 438.13687p
+<./res/app_processing_conversion_deplate.png, id=1297, 423.08063pt x 438.13687p
 t>
 File: ./res/app_processing_conversion_deplate.png Graphic file (type png)
  <use ./res/app_processing_conversion_deplate.png>
 Package pdftex.def Info: ./res/app_processing_conversion_deplate.png used on in
-put line 394.
+put line 391.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--395
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
-[17 <D:/GitHub/Tinn-R-doc/res/app_processing_latex_dvi.png>]
-<./res/app_processing_conversion_pandoc.png, id=1285, 423.08063pt x 438.13687pt
+[17 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_deplate.png>]
+<./res/app_processing_conversion_pandoc.png, id=1305, 423.08063pt x 438.13687pt
 >
 File: ./res/app_processing_conversion_pandoc.png Graphic file (type png)
  <use ./res/app_processing_conversion_pandoc.png>
 Package pdftex.def Info: ./res/app_processing_conversion_pandoc.png used on inp
-ut line 410.
+ut line 407.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_deplate.png>]
-Overfull \hbox (2.02725pt too wide) in paragraph at lines 417--418
+Overfull \hbox (2.02725pt too wide) in paragraph at lines 414--415
 []\T1/mdput/m/n/10 (-20) Within Tinn-R, go to \T1/fvm/m/n/10 Op-tion-s/Ap-pli-c
 a-tion/Pro-cess-ing/-Con-
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 436--436
+Underfull \hbox (badness 10000) in alignment at lines 433--433
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 450--450
+Underfull \hbox (badness 10000) in alignment at lines 447--447
 [][] 
  []
 
-
-Underfull \vbox (badness 3396) has occurred while \output is active []
-
- [19 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_pandoc.png>]
-<./res/pandoc.png, id=1300, 431.36156pt x 459.96844pt>
+[18 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_pandoc.png>]
+<./res/pandoc.png, id=1315, 431.36156pt x 459.96844pt>
 File: ./res/pandoc.png Graphic file (type png)
  <use ./res/pandoc.png>
-Package pdftex.def Info: ./res/pandoc.png used on input line 453.
+Package pdftex.def Info: ./res/pandoc.png used on input line 450.
 (pdftex.def)             Requested size: 215.68025pt x 229.98366pt.
 
-[20 <D:/GitHub/Tinn-R-doc/res/pandoc.png>]
-Overfull \hbox (24.34955pt too wide) in paragraph at lines 479--483
+[19 <D:/GitHub/Tinn-R-doc/res/pandoc.png>]
+Overfull \hbox (24.34955pt too wide) in paragraph at lines 476--480
 []\T1/mdput/m/n/10 (-20) Within Tinn-R, go to \T1/fvm/m/n/10 Op-tion-s/Ap-pli-c
 a-tion/Pro-cess-ing/Txt2tags
  []
 
 
-Overfull \hbox (2.03746pt too wide) in paragraph at lines 479--483
+Overfull \hbox (2.03746pt too wide) in paragraph at lines 476--480
 \T1/mdput/m/n/10 (-20) preter path (\T1/fvm/m/n/10 python.exe\T1/mdput/m/n/10 (
 -20) ) and the con-verter (\T1/fvm/m/n/10 txt2tags python
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--483
+Underfull \hbox (badness 10000) in paragraph at lines 476--480
 
  []
 
 
-<./res/app_processing_conversion_txt2tags.png, id=1310, 423.08063pt x 438.13687
+<./res/app_processing_conversion_txt2tags.png, id=1326, 423.08063pt x 438.13687
 pt>
 File: ./res/app_processing_conversion_txt2tags.png Graphic file (type png)
  <use ./res/app_processing_conversion_txt2tags.png>
 Package pdftex.def Info: ./res/app_processing_conversion_txt2tags.png used on i
-nput line 484.
+nput line 481.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--485
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
 
-) [21 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_txt2tags.png>]
-(D:\GitHub\Tinn-R-doc\sub\two_shortcuts.tex [22] [23] [24] [25] [26] [27]
-[28]
+) [20 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_txt2tags.png>]
+(D:\GitHub\Tinn-R-doc\sub\two_shortcuts.tex [21] [22] [23] [24] [25] [26]
+[27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-[30]) [31] (D:\GitHub\Tinn-R-doc\sub\two_faq.tex [32] [33] [34] [35]
-<./res/app_r_path.png, id=1733, 423.08063pt x 438.13687pt>
+ [28]
+[29]) [30] (D:\GitHub\Tinn-R-doc\sub\two_faq.tex [31] [32] [33] [34]
+<./res/app_r_path.png, id=1749, 423.08063pt x 438.13687pt>
 File: ./res/app_r_path.png Graphic file (type png)
 
 <use ./res/app_r_path.png>
@@ -2281,22 +2252,22 @@ Overfull \hbox (15.69316pt too wide) in paragraph at lines 233--233
 all it from[] 
  []
 
-[36 <D:/GitHub/Tinn-R-doc/res/app_r_path.png>]
-<./res/app_r_basic.png, id=1739, 423.08063pt x 438.13687pt>
+[35 <D:/GitHub/Tinn-R-doc/res/app_r_path.png>]
+<./res/app_r_basic.png, id=1755, 423.08063pt x 438.13687pt>
 File: ./res/app_r_basic.png Graphic file (type png)
 
 <use ./res/app_r_basic.png>
 Package pdftex.def Info: ./res/app_r_basic.png used on input line 270.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
- [37 <D:/GitHub/Tinn-R-doc/res/app_r_basic.png>]
-[38] <./res/hotkeys_default.png, id=1751, 376.40625pt x 463.7325pt>
+ [36 <D:/GitHub/Tinn-R-doc/res/app_r_basic.png>]
+[37] <./res/hotkeys_default.png, id=1767, 376.40625pt x 463.7325pt>
 File: ./res/hotkeys_default.png Graphic file (type png)
 
 <use ./res/hotkeys_default.png>
 Package pdftex.def Info: ./res/hotkeys_default.png used on input line 376.
 (pdftex.def)             Requested size: 188.20265pt x 231.86568pt.
 
-<./res/hotkeys_custom.png, id=1752, 376.40625pt x 463.7325pt>
+<./res/hotkeys_custom.png, id=1768, 376.40625pt x 463.7325pt>
 File: ./res/hotkeys_custom.png Graphic file (type png)
 
 <use ./res/hotkeys_custom.png>
@@ -2307,14 +2278,14 @@ Overfull \hbox (78.9877pt too wide) in paragraph at lines 376--378
 [] [] 
  []
 
-[39 <D:/GitHub/Tinn-R-doc/res/hotkeys_default.png> <D:/GitHub/Tinn-R-doc/res/ho
-tkeys_custom.png>] [40] [41]
+[38 <D:/GitHub/Tinn-R-doc/res/hotkeys_default.png> <D:/GitHub/Tinn-R-doc/res/ho
+tkeys_custom.png>] [39] [40]
 File: ./res/focus.png Graphic file (type png)
  <use ./res/focus.png>
 Package pdftex.def Info: ./res/focus.png used on input line 557.
 (pdftex.def)             Requested size: 58.34282pt x 20.32588pt.
- [42]
-<./res/highlighter_settings.png, id=1770, 560.0925pt x 381.67593pt>
+ [41]
+<./res/highlighter_settings.png, id=1786, 560.0925pt x 381.67593pt>
 File: ./res/highlighter_settings.png Graphic file (type png)
 
 <use ./res/highlighter_settings.png>
@@ -2342,14 +2313,14 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
 8 are the tags enabling[] 
  []
 
-[43 <D:/GitHub/Tinn-R-doc/res/highlighter_settings.png>] [44])) [45]
-(D:\GitHub\Tinn-R-doc\sub\threeWorkingWith.tex [46
+[42 <D:/GitHub/Tinn-R-doc/res/highlighter_settings.png>] [43])) [44]
+(D:\GitHub\Tinn-R-doc\sub\threeWorkingWith.tex [45
 
 
 
-] [47]
+]
 (D:\GitHub\Tinn-R-doc\sub\three_application_options.tex
-<./res/parts_01.png, id=1793, 756.57657pt x 526.96875pt>
+<./res/parts_01.png, id=1805, 756.57657pt x 526.96875pt>
 File: ./res/parts_01.png Graphic file (type png)
 
 <use ./res/parts_01.png>
@@ -2360,28 +2331,28 @@ Overfull \hbox (107.48322pt too wide) in paragraph at lines 8--9
  [] 
  []
 
-<./res/app_main_general.png, id=1796, 423.08063pt x 438.13687pt>
+<./res/app_main_general.png, id=1808, 423.08063pt x 438.13687pt>
 File: ./res/app_main_general.png Graphic file (type png)
 
 <use ./res/app_main_general.png>
 Package pdftex.def Info: ./res/app_main_general.png used on input line 41.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_main_appearance.png, id=1797, 423.08063pt x 438.13687pt>
+<./res/app_main_appearance.png, id=1809, 423.08063pt x 438.13687pt>
 File: ./res/app_main_appearance.png Graphic file (type png)
 
 <use ./res/app_main_appearance.png>
 Package pdftex.def Info: ./res/app_main_appearance.png used on input line 42.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_main_dock.png, id=1798, 423.08063pt x 438.13687pt>
+<./res/app_main_dock.png, id=1810, 423.08063pt x 438.13687pt>
 File: ./res/app_main_dock.png Graphic file (type png)
 
 <use ./res/app_main_dock.png>
 Package pdftex.def Info: ./res/app_main_dock.png used on input line 43.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_main_files.png, id=1799, 423.08063pt x 438.13687pt>
+<./res/app_main_files.png, id=1811, 423.08063pt x 438.13687pt>
 File: ./res/app_main_files.png Graphic file (type png)
 
 <use ./res/app_main_files.png>
@@ -2408,8 +2379,8 @@ Overfull \hbox (107.48322pt too wide) in paragraph at lines 68--70
 
 Underfull \vbox (badness 1067) has occurred while \output is active []
 
- [48 <D:/GitHub/Tinn-R-doc/res/parts_01.png>]
-<./res/app_editor_display.png, id=1812, 423.08063pt x 438.13687pt>
+ [46 <D:/GitHub/Tinn-R-doc/res/parts_01.png>]
+<./res/app_editor_display.png, id=1824, 423.08063pt x 438.13687pt>
 File: ./res/app_editor_display.png Graphic file (type png)
 
 <use ./res/app_editor_display.png>
@@ -2419,13 +2390,13 @@ Package pdftex.def Info: ./res/app_editor_display.png used on input line 99.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/app_editor_advanced.png, id=1815, 423.08063pt x 438.13687pt>
+<./res/app_editor_advanced.png, id=1827, 423.08063pt x 438.13687pt>
 File: ./res/app_editor_advanced.png Graphic file (type png)
 
 <use ./res/app_editor_advanced.png>
 Package pdftex.def Info: ./res/app_editor_advanced.png used on input line 140.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
- [49 <D:/GitHub/Tinn-R-doc/res/app_main_general.png> <D:/GitHub/Tinn-R-doc/res/
+ [47 <D:/GitHub/Tinn-R-doc/res/app_main_general.png> <D:/GitHub/Tinn-R-doc/res/
 app_main_appearance.png> <D:/GitHub/Tinn-R-doc/res/app_main_dock.png> <D:/GitHu
 b/Tinn-R-doc/res/app_main_files.png>]
 
@@ -2436,7 +2407,7 @@ Overfull \hbox (107.48322pt too wide) in paragraph at lines 180--182
 [][]
  []
 
-<./res/app_editor_keystrokes.png, id=1828, 423.08063pt x 438.13687pt>
+<./res/app_editor_keystrokes.png, id=1839, 423.08063pt x 438.13687pt>
 File: ./res/app_editor_keystrokes.png Graphic file (type png)
 
 <use ./res/app_editor_keystrokes.png>
@@ -2447,7 +2418,7 @@ Package pdftex.def Info: ./res/app_editor_keystrokes.png used on input line 196
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[50 <D:/GitHub/Tinn-R-doc/res/app_editor_display.png>] [51]
+[48 <D:/GitHub/Tinn-R-doc/res/app_editor_display.png>] [49]
 File: ./res/app_r_path.png Graphic file (type png)
 
 <use ./res/app_r_path.png>
@@ -2458,14 +2429,14 @@ File: ./res/app_r_basic.png Graphic file (type png)
 Package pdftex.def Info: ./res/app_r_basic.png used on input line 215.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_r_resources.png, id=1841, 423.08063pt x 438.13687pt>
+<./res/app_r_resources.png, id=1853, 423.08063pt x 438.13687pt>
 File: ./res/app_r_resources.png Graphic file (type png)
 
 <use ./res/app_r_resources.png>
 Package pdftex.def Info: ./res/app_r_resources.png used on input line 216.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_r_packages.png, id=1842, 423.08063pt x 438.13687pt>
+<./res/app_r_packages.png, id=1854, 423.08063pt x 438.13687pt>
 File: ./res/app_r_packages.png Graphic file (type png)
 
 <use ./res/app_r_packages.png>
@@ -2484,14 +2455,14 @@ Overfull \hbox (1.90805pt too wide) in paragraph at lines 214--218
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/app_r_rgui_options.png, id=1843, 423.08063pt x 438.13687pt>
+<./res/app_r_rgui_options.png, id=1855, 423.08063pt x 438.13687pt>
 File: ./res/app_r_rgui_options.png Graphic file (type png)
 
 <use ./res/app_r_rgui_options.png>
 Package pdftex.def Info: ./res/app_r_rgui_options.png used on input line 223.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_r_rgui_recognition.png, id=1844, 423.08063pt x 438.13687pt>
+<./res/app_r_rgui_recognition.png, id=1856, 423.08063pt x 438.13687pt>
 File: ./res/app_r_rgui_recognition.png Graphic file (type png)
 
 <use ./res/app_r_rgui_recognition.png>
@@ -2499,14 +2470,14 @@ Package pdftex.def Info: ./res/app_r_rgui_recognition.png used on input line 22
 4.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_r_rterm_options.png, id=1845, 423.08063pt x 438.13687pt>
+<./res/app_r_rterm_options.png, id=1857, 423.08063pt x 438.13687pt>
 File: ./res/app_r_rterm_options.png Graphic file (type png)
 
 <use ./res/app_r_rterm_options.png>
 Package pdftex.def Info: ./res/app_r_rterm_options.png used on input line 225.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_r_rterm_error.png, id=1846, 423.08063pt x 438.13687pt>
+<./res/app_r_rterm_error.png, id=1858, 423.08063pt x 438.13687pt>
 File: ./res/app_r_rterm_error.png Graphic file (type png)
 
 <use ./res/app_r_rterm_error.png>
@@ -2525,21 +2496,21 @@ Overfull \hbox (1.90805pt too wide) in paragraph at lines 223--227
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/app_r_reformat_r.png, id=1847, 423.08063pt x 438.13687pt>
+<./res/app_r_reformat_r.png, id=1859, 423.08063pt x 438.13687pt>
 File: ./res/app_r_reformat_r.png Graphic file (type png)
 
 <use ./res/app_r_reformat_r.png>
 Package pdftex.def Info: ./res/app_r_reformat_r.png used on input line 232.
 (pdftex.def)             Requested size: 139.61703pt x 144.5856pt.
 
-<./res/app_r_reformat_rd.png, id=1848, 423.08063pt x 438.13687pt>
+<./res/app_r_reformat_rd.png, id=1860, 423.08063pt x 438.13687pt>
 File: ./res/app_r_reformat_rd.png Graphic file (type png)
 
 <use ./res/app_r_reformat_rd.png>
 Package pdftex.def Info: ./res/app_r_reformat_rd.png used on input line 233.
 (pdftex.def)             Requested size: 139.61703pt x 144.5856pt.
 
-<./res/app_r_server.png, id=1849, 423.08063pt x 438.13687pt>
+<./res/app_r_server.png, id=1861, 423.08063pt x 438.13687pt>
 File: ./res/app_r_server.png Graphic file (type png)
 
 <use ./res/app_r_server.png>
@@ -2556,7 +2527,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52 <D:/GitHub/Tinn-R-doc/res/app_editor_advanced.png> <D:/GitHub/Tinn-R-doc/r
+ [50 <D:/GitHub/Tinn-R-doc/res/app_editor_advanced.png> <D:/GitHub/Tinn-R-doc/r
 es/app_editor_keystrokes.png>]
 File: ./res/app_processing_conversion_deplate.png Graphic file (type png)
  <use ./res/app_processing_conversion_deplate.png>
@@ -2576,7 +2547,7 @@ Package pdftex.def Info: ./res/app_processing_conversion_txt2tags.png used on i
 nput line 251.
 (pdftex.def)             Requested size: 148.08043pt x 153.35019pt.
 
-<./res/app_processing_conversion_more.png, id=1857, 423.08063pt x 438.13687pt>
+<./res/app_processing_conversion_more.png, id=1869, 423.08063pt x 438.13687pt>
 File: ./res/app_processing_conversion_more.png Graphic file (type png)
 
 <use ./res/app_processing_conversion_more.png>
@@ -2596,16 +2567,16 @@ Overfull \hbox (1.90805pt too wide) in paragraph at lines 249--253
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53 <D:/GitHub/Tinn-R-doc/res/app_r_resources.png> <D:/GitHub/Tinn-R-doc/res/ap
+[51 <D:/GitHub/Tinn-R-doc/res/app_r_resources.png> <D:/GitHub/Tinn-R-doc/res/ap
 p_r_packages.png>]
 
-LaTeX Warning: Text page 54 contains only floats.
+LaTeX Warning: Text page 52 contains only floats.
 
 
 Overfull \vbox (3.48438pt too high) has occurred while \output is active []
 
 
-[54 <D:/GitHub/Tinn-R-doc/res/app_r_rgui_options.png> <D:/GitHub/Tinn-R-doc/res
+[52 <D:/GitHub/Tinn-R-doc/res/app_r_rgui_options.png> <D:/GitHub/Tinn-R-doc/res
 /app_r_rgui_recognition.png> <D:/GitHub/Tinn-R-doc/res/app_r_rterm_options.png>
  <D:/GitHub/Tinn-R-doc/res/app_r_rterm_error.png> <D:/GitHub/Tinn-R-doc/res/app
 _r_reformat_r.png> <D:/GitHub/Tinn-R-doc/res/app_r_reformat_rd.png> <D:/GitHub/
@@ -2616,7 +2587,7 @@ Package pdftex.def Info: ./res/app_processing_latex_dvi.png used on input line
 277.
 (pdftex.def)             Requested size: 139.61703pt x 144.5856pt.
 
-<./res/app_processing_latex_pdf.png, id=1871, 423.08063pt x 438.13687pt>
+<./res/app_processing_latex_pdf.png, id=1883, 423.08063pt x 438.13687pt>
 File: ./res/app_processing_latex_pdf.png Graphic file (type png)
 
 <use ./res/app_processing_latex_pdf.png>
@@ -2624,7 +2595,7 @@ Package pdftex.def Info: ./res/app_processing_latex_pdf.png used on input line
 278.
 (pdftex.def)             Requested size: 139.61703pt x 144.5856pt.
 
-<./res/app_processing_latex_more.png, id=1872, 423.08063pt x 438.13687pt>
+<./res/app_processing_latex_more.png, id=1884, 423.08063pt x 438.13687pt>
 File: ./res/app_processing_latex_more.png Graphic file (type png)
 
 <use ./res/app_processing_latex_more.png>
@@ -2639,16 +2610,16 @@ Overfull \hbox (129.34549pt too wide) in paragraph at lines 277--280
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [55 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_more.png>]
+) [53 <D:/GitHub/Tinn-R-doc/res/app_processing_conversion_more.png>]
 (D:\GitHub\Tinn-R-doc\sub\three_selection_mode.tex
-<./res/selection_normal.png, id=1883, 357.58594pt x 144.54pt>
+<./res/selection_normal.png, id=1894, 357.58594pt x 144.54pt>
 File: ./res/selection_normal.png Graphic file (type png)
 
 <use ./res/selection_normal.png>
 Package pdftex.def Info: ./res/selection_normal.png used on input line 20.
 (pdftex.def)             Requested size: 125.15694pt x 50.58974pt.
 
-<./res/selection_line.png, id=1885, 350.81062pt x 143.78719pt>
+<./res/selection_line.png, id=1896, 350.81062pt x 143.78719pt>
 File: ./res/selection_line.png Graphic file (type png)
 
 <use ./res/selection_line.png>
@@ -2658,7 +2629,7 @@ Package pdftex.def Info: ./res/selection_line.png used on input line 34.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/selection_column.png, id=1887, 355.3275pt x 146.79843pt>
+<./res/selection_column.png, id=1898, 355.3275pt x 146.79843pt>
 File: ./res/selection_column.png Graphic file (type png)
 
 <use ./res/selection_column.png>
@@ -2668,9 +2639,9 @@ Package pdftex.def Info: ./res/selection_column.png used on input line 48.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [56 <D:/GitHub/Tinn-R-doc/res/app_processing_latex_pdf.png> <D:/GitHub/Tinn-R
+) [54 <D:/GitHub/Tinn-R-doc/res/app_processing_latex_pdf.png> <D:/GitHub/Tinn-R
 -doc/res/app_processing_latex_more.png> <D:/GitHub/Tinn-R-doc/res/selection_nor
-mal.png>] [57 <D:/GitHub/Tinn-R-doc/res/selection_line.png> <D:/GitHub/Tinn-R-d
+mal.png>] [55 <D:/GitHub/Tinn-R-doc/res/selection_line.png> <D:/GitHub/Tinn-R-d
 oc/res/selection_column.png>] (D:\GitHub\Tinn-R-doc\sub\three_highlighters.tex
 File: ./res/highlighter_settings.png Graphic file (type png)
 
@@ -2684,7 +2655,7 @@ Overfull \hbox (17.21854pt too wide) in paragraph at lines 42--42
 /n/8 end.rcode-->\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 end R)[] 
  []
 
-[58]
+[56]
 Overfull \hbox (93.40916pt too wide) in paragraph at lines 54--54
 []    \T1/fvm/m/n/8 R html    : The main syntax is HTML, \TS1/fvm/m/n/8 '\T1/fv
 m/m/n/8 <!--begin.rcode\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '\T1/f
@@ -2698,14 +2669,14 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
 8 are the tags enabling[] 
  []
 
-) [59] (D:\GitHub\Tinn-R-doc\sub\three_shortcuts.tex
-<./res/shortcuts_dlg.png, id=1912, 490.08093pt x 340.27126pt>
+) [57] (D:\GitHub\Tinn-R-doc\sub\three_shortcuts.tex
+<./res/shortcuts_dlg.png, id=1924, 490.08093pt x 340.27126pt>
 File: ./res/shortcuts_dlg.png Graphic file (type png)
 
 <use ./res/shortcuts_dlg.png>
 Package pdftex.def Info: ./res/shortcuts_dlg.png used on input line 8.
 (pdftex.def)             Requested size: 171.5309pt x 119.09671pt.
-) [60 <D:/GitHub/Tinn-R-doc/res/shortcuts_dlg.png>] (D:\GitHub\Tinn-R-doc\sub\t
+) [58 <D:/GitHub/Tinn-R-doc/res/shortcuts_dlg.png>] (D:\GitHub\Tinn-R-doc\sub\t
 hree_hotkeys.tex
 File: ./res/hotkeys_default.png Graphic file (type png)
  <use ./res/hotkeys_default.png>
@@ -2723,15 +2694,15 @@ Overfull \hbox (22.4289pt too wide) in paragraph at lines 39--42
  echo=TRUE,
  []
 
-) [61] (D:\GitHub\Tinn-R-doc\sub\three_Rterm.tex
-<./res/rterm.png, id=1926, 444.91219pt x 499.11469pt>
+) [59] (D:\GitHub\Tinn-R-doc\sub\three_Rterm.tex
+<./res/rterm.png, id=1937, 444.91219pt x 499.11469pt>
 File: ./res/rterm.png Graphic file (type png)
  <use ./res/rterm.png>
 Package pdftex.def Info: ./res/rterm.png used on input line 7.
 (pdftex.def)             Requested size: 155.72159pt x 174.69275pt.
 
-[62 <D:/GitHub/Tinn-R-doc/res/rterm.png>]
-<./res/rterm_io.png, id=1940, 444.91219pt x 499.11469pt>
+[60 <D:/GitHub/Tinn-R-doc/res/rterm.png>]
+<./res/rterm_io.png, id=1951, 444.91219pt x 499.11469pt>
 File: ./res/rterm_io.png Graphic file (type png)
 
 <use ./res/rterm_io.png>
@@ -2747,16 +2718,16 @@ Underfull \hbox (badness 1418) in paragraph at lines 98--98
 vm/m/n/8 SHIFT + CTRL +
  []
 
-[63] [64 <D:/GitHub/Tinn-R-doc/res/rterm_io.png>]
-<./res/rterm_log.png, id=1964, 444.91219pt x 499.11469pt>
+[61] [62 <D:/GitHub/Tinn-R-doc/res/rterm_io.png>]
+<./res/rterm_log.png, id=1976, 444.91219pt x 499.11469pt>
 File: ./res/rterm_log.png Graphic file (type png)
 
 <use ./res/rterm_log.png>
 Package pdftex.def Info: ./res/rterm_log.png used on input line 156.
 (pdftex.def)             Requested size: 155.72159pt x 174.69275pt.
-) [65 <D:/GitHub/Tinn-R-doc/res/rterm_log.png>]
+) [63 <D:/GitHub/Tinn-R-doc/res/rterm_log.png>]
 (D:\GitHub\Tinn-R-doc\sub\three_tools.tex
-<./res/tools_misc_windowsexpl.png, id=1974, 255.95625pt x 369.63094pt>
+<./res/tools_misc_windowsexpl.png, id=1986, 255.95625pt x 369.63094pt>
 File: ./res/tools_misc_windowsexpl.png Graphic file (type png)
 
 <use ./res/tools_misc_windowsexpl.png>
@@ -2764,23 +2735,23 @@ Package pdftex.def Info: ./res/tools_misc_windowsexpl.png used on input line 22
 .
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
 
-<./res/tools_misc_workexpl.png, id=1975, 255.95625pt x 369.63094pt>
+<./res/tools_misc_workexpl.png, id=1987, 255.95625pt x 369.63094pt>
 File: ./res/tools_misc_workexpl.png Graphic file (type png)
 
 <use ./res/tools_misc_workexpl.png>
 Package pdftex.def Info: ./res/tools_misc_workexpl.png used on input line 23.
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
 
-<./res/tools_misc_project.png, id=1976, 255.95625pt x 369.63094pt>
+<./res/tools_misc_project.png, id=1988, 255.95625pt x 369.63094pt>
 File: ./res/tools_misc_project.png Graphic file (type png)
 
 <use ./res/tools_misc_project.png>
 Package pdftex.def Info: ./res/tools_misc_project.png used on input line 24.
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
- [66 <D:/GitHub/Tinn-R-doc/res/tools_misc_windowsexpl.png> <D:/GitHub/Tinn-R-do
+ [64 <D:/GitHub/Tinn-R-doc/res/tools_misc_windowsexpl.png> <D:/GitHub/Tinn-R-do
 c/res/tools_misc_workexpl.png> <D:/GitHub/Tinn-R-doc/res/tools_misc_project.png
 >]
-<./res/tools_markup_txt2tags_marks.png, id=2004, 255.95625pt x 369.63094pt>
+<./res/tools_markup_txt2tags_marks.png, id=2016, 255.95625pt x 369.63094pt>
 File: ./res/tools_markup_txt2tags_marks.png Graphic file (type png)
 
 <use ./res/tools_markup_txt2tags_marks.png>
@@ -2788,7 +2759,7 @@ Package pdftex.def Info: ./res/tools_markup_txt2tags_marks.png used on input li
 ne 123.
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
 
-<./res/tools_markup_latex_arrows.png, id=2005, 255.95625pt x 369.63094pt>
+<./res/tools_markup_latex_arrows.png, id=2017, 255.95625pt x 369.63094pt>
 File: ./res/tools_markup_latex_arrows.png Graphic file (type png)
 
 <use ./res/tools_markup_latex_arrows.png>
@@ -2799,26 +2770,26 @@ Package pdftex.def Info: ./res/tools_markup_latex_arrows.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[67]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
-[68 <D:/GitHub/Tinn-R-doc/res/tools_markup_txt2tags_marks.png> <D:/GitHub/Tinn-
+[66 <D:/GitHub/Tinn-R-doc/res/tools_markup_txt2tags_marks.png> <D:/GitHub/Tinn-
 R-doc/res/tools_markup_latex_arrows.png>]
-<./res/tools_results_inilog.png, id=2024, 255.95625pt x 369.63094pt>
+<./res/tools_results_inilog.png, id=2035, 255.95625pt x 369.63094pt>
 File: ./res/tools_results_inilog.png Graphic file (type png)
 
 <use ./res/tools_results_inilog.png>
 Package pdftex.def Info: ./res/tools_results_inilog.png used on input line 206.
 
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
- [69 <D:/GitHub/Tinn-R-doc/res/tools_results_inilog.png>]
+ [67 <D:/GitHub/Tinn-R-doc/res/tools_results_inilog.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 246--248
 
  []
 
-<./res/tools_results_search.png, id=2032, 255.95625pt x 369.63094pt>
+<./res/tools_results_search.png, id=2044, 255.95625pt x 369.63094pt>
 File: ./res/tools_results_search.png Graphic file (type png)
 
 <use ./res/tools_results_search.png>
@@ -2826,7 +2797,7 @@ Package pdftex.def Info: ./res/tools_results_search.png used on input line 250.
 
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
 
-<./res/tools_spell.png, id=2034, 255.95625pt x 369.63094pt>
+<./res/tools_spell.png, id=2046, 255.95625pt x 369.63094pt>
 File: ./res/tools_spell.png Graphic file (type png)
 
 <use ./res/tools_spell.png>
@@ -2837,9 +2808,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 282--284
 
  []
 
-[70 <D:/GitHub/Tinn-R-doc/res/tools_results_search.png> <D:/GitHub/Tinn-R-doc/r
+[68 <D:/GitHub/Tinn-R-doc/res/tools_results_search.png> <D:/GitHub/Tinn-R-doc/r
 es/tools_spell.png>]
-<./res/tools_database_shortcuts.png, id=2043, 270.25969pt x 386.94562pt>
+<./res/tools_database_shortcuts.png, id=2055, 270.25969pt x 386.94562pt>
 File: ./res/tools_database_shortcuts.png Graphic file (type png)
 
 <use ./res/tools_database_shortcuts.png>
@@ -2847,7 +2818,7 @@ Package pdftex.def Info: ./res/tools_database_shortcuts.png used on input line
 297.
 (pdftex.def)             Requested size: 94.5923pt x 135.43298pt.
 
-<./res/tools_database_completion.png, id=2044, 271.0125pt x 385.44pt>
+<./res/tools_database_completion.png, id=2056, 271.0125pt x 385.44pt>
 File: ./res/tools_database_completion.png Graphic file (type png)
 
 <use ./res/tools_database_completion.png>
@@ -2855,34 +2826,34 @@ Package pdftex.def Info: ./res/tools_database_completion.png used on input line
  298.
 (pdftex.def)             Requested size: 94.85579pt x 134.90602pt.
 
-<./res/tools_database_comments.png, id=2045, 270.25969pt x 386.94562pt>
+<./res/tools_database_comments.png, id=2057, 270.25969pt x 386.94562pt>
 File: ./res/tools_database_comments.png Graphic file (type png)
 
 <use ./res/tools_database_comments.png>
 Package pdftex.def Info: ./res/tools_database_comments.png used on input line 2
 99.
 (pdftex.def)             Requested size: 94.5923pt x 135.43298pt.
- [71 <D:/GitHub/Tinn-R-doc/res/tools_database_shortcuts.png> <D:/GitHub/Tinn-R-
+ [69 <D:/GitHub/Tinn-R-doc/res/tools_database_shortcuts.png> <D:/GitHub/Tinn-R-
 doc/res/tools_database_completion.png> <D:/GitHub/Tinn-R-doc/res/tools_database
 _comments.png>]
 LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
 (Font)              scaled to size 7.35999pt on input line 431.
- [72]
-<./res/tools_r_explorer.png, id=2063, 271.0125pt x 385.44pt>
+ [70]
+<./res/tools_r_explorer.png, id=2075, 271.0125pt x 385.44pt>
 File: ./res/tools_r_explorer.png Graphic file (type png)
 
 <use ./res/tools_r_explorer.png>
 Package pdftex.def Info: ./res/tools_r_explorer.png used on input line 491.
 (pdftex.def)             Requested size: 94.85579pt x 134.90602pt.
 
-<./res/tools_r_card.png, id=2064, 271.0125pt x 385.44pt>
+<./res/tools_r_card.png, id=2076, 271.0125pt x 385.44pt>
 File: ./res/tools_r_card.png Graphic file (type png)
 
 <use ./res/tools_r_card.png>
 Package pdftex.def Info: ./res/tools_r_card.png used on input line 492.
 (pdftex.def)             Requested size: 94.85579pt x 134.90602pt.
 
-<./res/tools_r_mirrors.png, id=2065, 272.51813pt x 386.94562pt>
+<./res/tools_r_mirrors.png, id=2077, 272.51813pt x 386.94562pt>
 File: ./res/tools_r_mirrors.png Graphic file (type png)
 
 <use ./res/tools_r_mirrors.png>
@@ -2892,7 +2863,7 @@ Package pdftex.def Info: ./res/tools_r_mirrors.png used on input line 493.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[73] <./res/rcard_dlg.png, id=2079, 494.59781pt x 334.24875pt>
+[71] <./res/rcard_dlg.png, id=2090, 494.59781pt x 334.24875pt>
 File: ./res/rcard_dlg.png Graphic file (type png)
 
 <use ./res/rcard_dlg.png>
@@ -2902,7 +2873,7 @@ Package pdftex.def Info: ./res/rcard_dlg.png used on input line 558.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[74 <D:/GitHub/Tinn-R-doc/res/tools_r_explorer.png> <D:/GitHub/Tinn-R-doc/res/t
+[72 <D:/GitHub/Tinn-R-doc/res/tools_r_explorer.png> <D:/GitHub/Tinn-R-doc/res/t
 ools_r_card.png> <D:/GitHub/Tinn-R-doc/res/tools_r_mirrors.png>]
 Overfull \hbox (60.92406pt too wide) in paragraph at lines 595--598
 []\T1/mdput/m/n/8 (-20) Restores the file \T1/fvm/m/n/8 Rcard.xml \T1/mdput/m/n
@@ -2910,8 +2881,8 @@ Overfull \hbox (60.92406pt too wide) in paragraph at lines 595--598
 m/n/8 (-20) ).
  []
 
-[75 <D:/GitHub/Tinn-R-doc/res/rcard_dlg.png>]
-<./res/mirrors_dlg.png, id=2091, 490.83376pt x 325.96782pt>
+[73 <D:/GitHub/Tinn-R-doc/res/rcard_dlg.png>]
+<./res/mirrors_dlg.png, id=2103, 490.83376pt x 325.96782pt>
 File: ./res/mirrors_dlg.png Graphic file (type png)
 
 <use ./res/mirrors_dlg.png>
@@ -2924,31 +2895,31 @@ Overfull \hbox (72.82925pt too wide) in paragraph at lines 672--675
 put/m/n/8 (-20) ).
  []
 
-) [76 <D:/GitHub/Tinn-R-doc/res/mirrors_dlg.png>]
+) [74 <D:/GitHub/Tinn-R-doc/res/mirrors_dlg.png>]
 (D:\GitHub\Tinn-R-doc\sub\three_filetabs.tex
-<./res/filetabs.png, id=2098, 560.8453pt x 117.43875pt>
+<./res/filetabs.png, id=2110, 560.8453pt x 117.43875pt>
 File: ./res/filetabs.png Graphic file (type png)
 
 <use ./res/filetabs.png>
 Package pdftex.def Info: ./res/filetabs.png used on input line 7.
 (pdftex.def)             Requested size: 196.2988pt x 41.10417pt.
 
-<./res/filetabs_menu.png, id=2099, 171.64125pt x 110.66344pt>
+<./res/filetabs_menu.png, id=2111, 171.64125pt x 110.66344pt>
 File: ./res/filetabs_menu.png Graphic file (type png)
 
 <use ./res/filetabs_menu.png>
 Package pdftex.def Info: ./res/filetabs_menu.png used on input line 13.
 (pdftex.def)             Requested size: 60.07532pt x 38.73277pt.
-) [77 <D:/GitHub/Tinn-R-doc/res/filetabs.png> <D:/GitHub/Tinn-R-doc/res/filetab
+) [75 <D:/GitHub/Tinn-R-doc/res/filetabs.png> <D:/GitHub/Tinn-R-doc/res/filetab
 s_menu.png>]
 (D:\GitHub\Tinn-R-doc\sub\three_toolsbar.tex
-<./res/toolsbar.png, id=2107, 752.0597pt x 66.2475pt>
+<./res/toolsbar.png, id=2119, 752.0597pt x 66.2475pt>
 File: ./res/toolsbar.png Graphic file (type png)
  <use ./res/toolsbar.png>
 Package pdftex.def Info: ./res/toolsbar.png used on input line 7.
 (pdftex.def)             Requested size: 263.22484pt x 23.18697pt.
 
-<./res/toolsbar_pmenu.png, id=2110, 197.23688pt x 231.11343pt>
+<./res/toolsbar_pmenu.png, id=2122, 197.23688pt x 231.11343pt>
 File: ./res/toolsbar_pmenu.png Graphic file (type png)
 
 <use ./res/toolsbar_pmenu.png>
@@ -2958,24 +2929,24 @@ Package pdftex.def Info: ./res/toolsbar_pmenu.png used on input line 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[78 <D:/GitHub/Tinn-R-doc/res/toolsbar.png>]) [79 <D:/GitHub/Tinn-R-doc/res/too
+[76 <D:/GitHub/Tinn-R-doc/res/toolsbar.png>]) [77 <D:/GitHub/Tinn-R-doc/res/too
 lsbar_pmenu.png>] (D:\GitHub\Tinn-R-doc\sub\three_find_replace.tex
-<./res/find.png, id=2125, 353.06906pt x 162.6075pt>
+<./res/find.png, id=2136, 353.06906pt x 162.6075pt>
 File: ./res/find.png Graphic file (type png)
  <use ./res/find.png>
 Package pdftex.def Info: ./res/find.png used on input line 7.
 (pdftex.def)             Requested size: 123.57602pt x 56.91347pt.
 
-<./res/replace.png, id=2126, 353.06906pt x 185.19188pt>
+<./res/replace.png, id=2137, 353.06906pt x 185.19188pt>
 File: ./res/replace.png Graphic file (type png)
 
 <use ./res/replace.png>
 Package pdftex.def Info: ./res/replace.png used on input line 8.
 (pdftex.def)             Requested size: 123.57602pt x 64.81812pt.
- [80 <D:/GitHub/Tinn-R-doc/res/find.png> <D:/GitHub/Tinn-R-doc/res/replace.png>
-]) [81]
+ [78 <D:/GitHub/Tinn-R-doc/res/find.png> <D:/GitHub/Tinn-R-doc/res/replace.png>
+]) [79]
 (D:\GitHub\Tinn-R-doc\sub\three_search_in_files.tex
-<./res/searchinfiles.png, id=2139, 277.78781pt x 230.36063pt>
+<./res/searchinfiles.png, id=2151, 277.78781pt x 230.36063pt>
 File: ./res/searchinfiles.png Graphic file (type png)
 
 <use ./res/searchinfiles.png>
@@ -2985,14 +2956,14 @@ File: ./res/tools_results_search.png Graphic file (type png)
  <use ./res/tools_results_search.png>
 Package pdftex.def Info: ./res/tools_results_search.png used on input line 8.
 (pdftex.def)             Requested size: 89.58601pt x 129.37276pt.
-) [82 <D:/GitHub/Tinn-R-doc/res/searchinfiles.png>] [83]
+) [80 <D:/GitHub/Tinn-R-doc/res/searchinfiles.png>] [81]
 (D:\GitHub\Tinn-R-doc\sub\three_databases.tex
 File: ./res/shortcuts_dlg.png Graphic file (type png)
  <use ./res/shortcuts_dlg.png>
 Package pdftex.def Info: ./res/shortcuts_dlg.png used on input line 12.
 (pdftex.def)             Requested size: 171.5309pt x 119.09671pt.
 
-<./res/completion_dlg.png, id=2153, 490.83376pt x 328.22626pt>
+<./res/completion_dlg.png, id=2165, 490.83376pt x 328.22626pt>
 File: ./res/completion_dlg.png Graphic file (type png)
 
 <use ./res/completion_dlg.png>
@@ -3009,13 +2980,13 @@ put/m/n/8 (-20) from the ori-gin at (\T1/fvm/m/n/8 InstallPath/data/data.zip\T1
 /mdput/m/n/8 (-20) ).
  []
 
-[84] <./res/comments_dlg.png, id=2160, 426.84468pt x 325.96782pt>
+[82] <./res/comments_dlg.png, id=2172, 426.84468pt x 325.96782pt>
 File: ./res/comments_dlg.png Graphic file (type png)
 
 <use ./res/comments_dlg.png>
 Package pdftex.def Info: ./res/comments_dlg.png used on input line 94.
 (pdftex.def)             Requested size: 149.39787pt x 114.09044pt.
- [85 <D:/GitHub/Tinn-R-doc/res/completion_dlg.png> <D:/GitHub/Tinn-R-doc/res/co
+ [83 <D:/GitHub/Tinn-R-doc/res/completion_dlg.png> <D:/GitHub/Tinn-R-doc/res/co
 mments_dlg.png>]
 Overfull \hbox (72.82925pt too wide) in paragraph at lines 121--124
 []\T1/mdput/m/n/8 (-20) Restores the file \T1/fvm/m/n/8 Com-ments.xml \T1/mdput
@@ -3034,7 +3005,7 @@ Overfull \hbox (60.92406pt too wide) in paragraph at lines 158--161
 m/n/8 (-20) ).
  []
 
-[86]
+[84]
 File: ./res/mirrors_dlg.png Graphic file (type png)
  <use ./res/mirrors_dlg.png>
 Package pdftex.def Info: ./res/mirrors_dlg.png used on input line 199.
@@ -3046,7 +3017,7 @@ Overfull \hbox (72.82925pt too wide) in paragraph at lines 210--213
 put/m/n/8 (-20) ).
  []
 
-[87]) [88] (D:\GitHub\Tinn-R-doc\sub\three_regular_expressions.tex
+[85]) [86] (D:\GitHub\Tinn-R-doc\sub\three_regular_expressions.tex
 Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
@@ -3059,7 +3030,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
- [89]
+ [87]
 Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
@@ -3074,7 +3045,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--150
 
  []
 
-[90]
+[88]
 Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
@@ -3089,78 +3060,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-
-Underfull \hbox (badness 10000) in alignment at lines 243--243
+[89]
+Underfull \hbox (badness 10000) in alignment at lines 244--244
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--245
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
 
-Underfull \vbox (badness 1748) has occurred while \output is active []
-
- [91]
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
+
+ []
+
+[90]
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--330
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
 
  []
 
-[92]
-Underfull \hbox (badness 10000) in paragraph at lines 375--377
-
- []
-
-[93]
-Overfull \hbox (0.83554pt too wide) in paragraph at lines 405--405
+[91]
+Overfull \hbox (0.83554pt too wide) in paragraph at lines 406--406
 []|\T1/fvm/m/n/8 (abc(def)ghi(123))xzy| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--407
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--424
+Underfull \hbox (badness 10000) in paragraph at lines 423--425
 
  []
 
 
-Overfull \hbox (7.78218pt too wide) in paragraph at lines 425--430
+Overfull \hbox (7.78218pt too wide) in paragraph at lines 426--431
 []\T1/mdput/m/n/10 (-20) We could find the same string us-ing metachar-ac-ter I
 t-er-a-tors with: ($\OMS/mdput/m/n/10 n$\T1/fvm/m/n/10 w{3}([d-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--460
+Underfull \hbox (badness 10000) in paragraph at lines 459--461
 
  []
 
 
-Overfull \hbox (7.68503pt too wide) in paragraph at lines 465--471
+Overfull \hbox (7.68503pt too wide) in paragraph at lines 466--472
 \T1/fvm/m/n/8 1994-8-26\T1/mdput/m/n/8 (-20) . Search: \T1/fvm/m/n/8 ([0-9]{1,2
 }).([0-9]{1,2}).([0-9]{4}) \T1/mdput/m/n/8 (-20) Re-place:
  []
 
-[94])) [95] (D:\GitHub\Tinn-R-doc\sub\fourMenuDescription.tex [96
+[92])) [93] (D:\GitHub\Tinn-R-doc\sub\fourMenuDescription.tex [94
 
 
 
-] [97]
+] [95]
 (D:\GitHub\Tinn-R-doc\sub\four_file.tex
-<./res/menu_file.png, id=2226, 218.31563pt x 280.04625pt>
+<./res/menu_file.png, id=2238, 218.31563pt x 280.04625pt>
 File: ./res/menu_file.png Graphic file (type png)
 
 <use ./res/menu_file.png>
@@ -3176,7 +3144,7 @@ Underfull \hbox (badness 10000) in alignment at lines 27--27
 [][] 
  []
 
-<./res/menu_file_template.png, id=2235, 105.39375pt x 103.88812pt>
+<./res/menu_file_template.png, id=2247, 105.39375pt x 103.88812pt>
 File: ./res/menu_file_template.png Graphic file (type png)
 
 <use ./res/menu_file_template.png>
@@ -3192,7 +3160,7 @@ Underfull \hbox (badness 10000) in alignment at lines 49--49
 [][] 
  []
 
-<./res/menu_file_template_rdoc.png, id=2240, 87.32625pt x 73.77562pt>
+<./res/menu_file_template_rdoc.png, id=2252, 87.32625pt x 73.77562pt>
 File: ./res/menu_file_template_rdoc.png Graphic file (type png)
 
 <use ./res/menu_file_template_rdoc.png>
@@ -3207,14 +3175,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
 Underfull \vbox (badness 2150) has occurred while \output is active []
 
- [98 <D:/GitHub/Tinn-R-doc/res/menu_file.png> <D:/GitHub/Tinn-R-doc/res/menu_fi
+ [96 <D:/GitHub/Tinn-R-doc/res/menu_file.png> <D:/GitHub/Tinn-R-doc/res/menu_fi
 le_template.png>]
 Underfull \hbox (badness 10000) in alignment at lines 66--66
 [][] 
  []
 
 
-<./res/menu_file_copyfullpathtoclipboard.png, id=2249, 127.97812pt x 58.71938pt
+<./res/menu_file_copyfullpathtoclipboard.png, id=2261, 127.97812pt x 58.71938pt
 >
 File: ./res/menu_file_copyfullpathtoclipboard.png Graphic file (type png)
  <use ./res/menu_file_copyfullpathtoclipboard.png>
@@ -3236,10 +3204,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--12
 
  []
 
-[99 <D:/GitHub/Tinn-R-doc/res/menu_file_template_rdoc.png> <D:/GitHub/Tinn-R-do
+[97 <D:/GitHub/Tinn-R-doc/res/menu_file_template_rdoc.png> <D:/GitHub/Tinn-R-do
 c/res/menu_file_copyfullpathtoclipboard.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_project.tex
-<./res/menu_project.png, id=2254, 140.77594pt x 146.04562pt>
+<./res/menu_project.png, id=2267, 140.77594pt x 146.04562pt>
 File: ./res/menu_project.png Graphic file (type png)
 
 <use ./res/menu_project.png>
@@ -3255,7 +3223,7 @@ Underfull \hbox (badness 10000) in alignment at lines 19--19
 [][] 
  []
 
-<./res/menu_project_project.png, id=2267, 108.405pt x 132.495pt>
+<./res/menu_project_project.png, id=2280, 108.405pt x 132.495pt>
 File: ./res/menu_project_project.png Graphic file (type png)
 
 <use ./res/menu_project_project.png>
@@ -3266,7 +3234,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-<./res/menu_project_group.png, id=2268, 108.405pt x 139.27031pt>
+<./res/menu_project_group.png, id=2281, 108.405pt x 139.27031pt>
 File: ./res/menu_project_group.png Graphic file (type png)
 
 <use ./res/menu_project_group.png>
@@ -3280,9 +3248,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
 Underfull \vbox (badness 4954) has occurred while \output is active []
 
- [100 <D:/GitHub/Tinn-R-doc/res/menu_project.png> <D:/GitHub/Tinn-R-doc/res/men
-u_project_project.png> <D:/GitHub/Tinn-R-doc/res/menu_project_group.png>]
-<./res/menu_project_file.png, id=2277, 228.10219pt x 206.27063pt>
+ [98 <D:/GitHub/Tinn-R-doc/res/menu_project.png> <D:/GitHub/Tinn-R-doc/res/menu
+_project_project.png> <D:/GitHub/Tinn-R-doc/res/menu_project_group.png>]
+<./res/menu_project_file.png, id=2290, 228.10219pt x 206.27063pt>
 File: ./res/menu_project_file.png Graphic file (type png)
 
 <use ./res/menu_project_file.png>
@@ -3303,9 +3271,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--14
 
  []
 
-[101 <D:/GitHub/Tinn-R-doc/res/menu_project_file.png>]
+[99 <D:/GitHub/Tinn-R-doc/res/menu_project_file.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_edit.tex
-<./res/menu_edit.png, id=2282, 216.81pt x 206.27063pt>
+<./res/menu_edit.png, id=2295, 216.81pt x 206.27063pt>
 File: ./res/menu_edit.png Graphic file (type png)
 
 <use ./res/menu_edit.png>
@@ -3321,7 +3289,7 @@ Underfull \hbox (badness 10000) in alignment at lines 23--23
 [][] 
  []
 
-<./res/menu_edit_copyformated.png, id=2287, 76.03406pt x 73.77562pt>
+<./res/menu_edit_copyformated.png, id=2300, 76.03406pt x 73.77562pt>
 File: ./res/menu_edit_copyformated.png Graphic file (type png)
 
 <use ./res/menu_edit_copyformated.png>
@@ -3343,9 +3311,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--16
 
  []
 
-[102 <D:/GitHub/Tinn-R-doc/res/menu_edit.png> <D:/GitHub/Tinn-R-doc/res/menu_ed
+[100 <D:/GitHub/Tinn-R-doc/res/menu_edit.png> <D:/GitHub/Tinn-R-doc/res/menu_ed
 it_copyformated.png>] (D:\GitHub\Tinn-R-doc\sub\four_format.tex
-<./res/menu_format.png, id=2294, 94.85437pt x 87.32625pt>
+<./res/menu_format.png, id=2307, 94.85437pt x 87.32625pt>
 File: ./res/menu_format.png Graphic file (type png)
 
 <use ./res/menu_format.png>
@@ -3356,7 +3324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_format_selection.png, id=2307, 170.88844pt x 117.43875pt>
+<./res/menu_format_selection.png, id=2320, 170.88844pt x 117.43875pt>
 File: ./res/menu_format_selection.png Graphic file (type png)
 
 <use ./res/menu_format_selection.png>
@@ -3368,7 +3336,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<./res/menu_format_word.png, id=2308, 115.18031pt x 80.55093pt>
+<./res/menu_format_word.png, id=2321, 115.18031pt x 80.55093pt>
 File: ./res/menu_format_word.png Graphic file (type png)
 
 <use ./res/menu_format_word.png>
@@ -3379,7 +3347,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-<./res/menu_format_reformat.png, id=2309, 206.27063pt x 43.66313pt>
+<./res/menu_format_reformat.png, id=2322, 206.27063pt x 43.66313pt>
 File: ./res/menu_format_reformat.png Graphic file (type png)
 
 <use ./res/menu_format_reformat.png>
@@ -3390,11 +3358,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--18
 
  []
 
-[103 <D:/GitHub/Tinn-R-doc/res/menu_format.png> <D:/GitHub/Tinn-R-doc/res/menu_
+[101 <D:/GitHub/Tinn-R-doc/res/menu_format.png> <D:/GitHub/Tinn-R-doc/res/menu_
 format_selection.png> <D:/GitHub/Tinn-R-doc/res/menu_format_word.png> <D:/GitHu
 b/Tinn-R-doc/res/menu_format_reformat.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_marks.tex
-<./res/menu_marks.png, id=2319, 150.5625pt x 65.49469pt>
+<./res/menu_marks.png, id=2331, 150.5625pt x 65.49469pt>
 File: ./res/menu_marks.png Graphic file (type png)
 
 <use ./res/menu_marks.png>
@@ -3405,7 +3373,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_marks_block.png, id=2324, 140.77594pt x 58.71938pt>
+<./res/menu_marks_block.png, id=2336, 140.77594pt x 58.71938pt>
 File: ./res/menu_marks_block.png Graphic file (type png)
 
 <use ./res/menu_marks_block.png>
@@ -3421,9 +3389,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--20
 
  []
 
-[104 <D:/GitHub/Tinn-R-doc/res/menu_marks.png> <D:/GitHub/Tinn-R-doc/res/menu_m
+[102 <D:/GitHub/Tinn-R-doc/res/menu_marks.png> <D:/GitHub/Tinn-R-doc/res/menu_m
 arks_block.png>] (D:\GitHub\Tinn-R-doc\sub\four_insert.tex
-<./res/menu_insert.png, id=2331, 162.6075pt x 87.32625pt>
+<./res/menu_insert.png, id=2343, 162.6075pt x 87.32625pt>
 File: ./res/menu_insert.png Graphic file (type png)
 
 <use ./res/menu_insert.png>
@@ -3434,7 +3402,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_insert_latex.png, id=2336, 87.32625pt x 95.6072pt>
+<./res/menu_insert_latex.png, id=2348, 87.32625pt x 95.6072pt>
 File: ./res/menu_insert_latex.png Graphic file (type png)
 
 <use ./res/menu_insert_latex.png>
@@ -3445,7 +3413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<./res/menu_insert_latex_math.png, id=2353, 188.95593pt x 95.6072pt>
+<./res/menu_insert_latex_math.png, id=2365, 188.95593pt x 95.6072pt>
 File: ./res/menu_insert_latex_math.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_math.png>
@@ -3457,7 +3425,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-<./res/menu_insert_latex_header.png, id=2354, 114.4275pt x 134.00063pt>
+<./res/menu_insert_latex_header.png, id=2366, 114.4275pt x 134.00063pt>
 File: ./res/menu_insert_latex_header.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_header.png>
@@ -3469,10 +3437,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-[105 <D:/GitHub/Tinn-R-doc/res/menu_insert.png> <D:/GitHub/Tinn-R-doc/res/menu_
+[103 <D:/GitHub/Tinn-R-doc/res/menu_insert.png> <D:/GitHub/Tinn-R-doc/res/menu_
 insert_latex.png> <D:/GitHub/Tinn-R-doc/res/menu_insert_latex_math.png> <D:/Git
 Hub/Tinn-R-doc/res/menu_insert_latex_header.png>]
-<./res/menu_insert_latex_format.png, id=2367, 101.62968pt x 110.66344pt>
+<./res/menu_insert_latex_format.png, id=2380, 101.62968pt x 110.66344pt>
 File: ./res/menu_insert_latex_format.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_format.png>
@@ -3484,7 +3452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<./res/menu_insert_latex_font.png, id=2368, 105.39375pt x 276.28218pt>
+<./res/menu_insert_latex_font.png, id=2381, 105.39375pt x 276.28218pt>
 File: ./res/menu_insert_latex_font.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_font.png>
@@ -3504,10 +3472,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--22
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106 <D:/GitHub/Tinn-R-doc/res/menu_insert_latex_format.png> <D:/GitHub/Tinn-R
--doc/res/menu_insert_latex_font.png>] [107] (D:\GitHub\Tinn-R-doc\sub\four_sear
+ [104 <D:/GitHub/Tinn-R-doc/res/menu_insert_latex_format.png> <D:/GitHub/Tinn-R
+-doc/res/menu_insert_latex_font.png>] [105] (D:\GitHub\Tinn-R-doc\sub\four_sear
 ch.tex
-<./res/menu_search.png, id=2377, 170.13562pt x 124.21407pt>
+<./res/menu_search.png, id=2390, 170.13562pt x 124.21407pt>
 File: ./res/menu_search.png Graphic file (type png)
 
 <use ./res/menu_search.png>
@@ -3523,9 +3491,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--24
 
  []
 
-[108 <D:/GitHub/Tinn-R-doc/res/menu_search.png>]
+[106 <D:/GitHub/Tinn-R-doc/res/menu_search.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_options.tex
-<./res/menu_options.png, id=2395, 232.61906pt x 184.43906pt>
+<./res/menu_options.png, id=2408, 232.61906pt x 184.43906pt>
 File: ./res/menu_options.png Graphic file (type png)
 
 <use ./res/menu_options.png>
@@ -3536,7 +3504,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_option_syntax.png, id=2416, 137.01187pt x 65.49469pt>
+<./res/menu_option_syntax.png, id=2429, 137.01187pt x 65.49469pt>
 File: ./res/menu_option_syntax.png Graphic file (type png)
 
 <use ./res/menu_option_syntax.png>
@@ -3547,9 +3515,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[109 <D:/GitHub/Tinn-R-doc/res/menu_options.png> <D:/GitHub/Tinn-R-doc/res/menu
+[107 <D:/GitHub/Tinn-R-doc/res/menu_options.png> <D:/GitHub/Tinn-R-doc/res/menu
 _option_syntax.png>]
-<./res/menu_options_syntax_set.png, id=2435, 124.21407pt x 540.51938pt>
+<./res/menu_options_syntax_set.png, id=2447, 124.21407pt x 540.51938pt>
 File: ./res/menu_options_syntax_set.png Graphic file (type png)
 
 <use ./res/menu_options_syntax_set.png>
@@ -3561,8 +3529,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-[110 <D:/GitHub/Tinn-R-doc/res/menu_options_syntax_set.png>]
-<./res/menu_options_syntax.png, id=2440, 137.01187pt x 65.49469pt>
+[108 <D:/GitHub/Tinn-R-doc/res/menu_options_syntax_set.png>]
+<./res/menu_options_syntax.png, id=2452, 137.01187pt x 65.49469pt>
 File: ./res/menu_options_syntax.png Graphic file (type png)
 
 <use ./res/menu_options_syntax.png>
@@ -3573,7 +3541,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
-<./res/menu_options_selectionmode.png, id=2441, 147.55125pt x 73.77562pt>
+<./res/menu_options_selectionmode.png, id=2453, 147.55125pt x 73.77562pt>
 File: ./res/menu_options_selectionmode.png Graphic file (type png)
 
 <use ./res/menu_options_selectionmode.png>
@@ -3590,9 +3558,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--26
 
  []
 
-[111 <D:/GitHub/Tinn-R-doc/res/menu_options_syntax.png> <D:/GitHub/Tinn-R-doc/r
+[109 <D:/GitHub/Tinn-R-doc/res/menu_options_syntax.png> <D:/GitHub/Tinn-R-doc/r
 es/menu_options_selectionmode.png>] (D:\GitHub\Tinn-R-doc\sub\four_encoding.tex
-<./res/menu_encoding.png, id=2458, 171.64125pt x 80.55093pt>
+<./res/menu_encoding.png, id=2471, 171.64125pt x 80.55093pt>
 File: ./res/menu_encoding.png Graphic file (type png)
 
 <use ./res/menu_encoding.png>
@@ -3603,17 +3571,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-
-D:\GitHub\Tinn-R-doc\sub\four_encoding.tex:20: LaTeX Error: There's no line her
-e to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<./res/menu_encoding_default.png, id=2471, 91.84312pt x 88.83188pt>
+<./res/menu_encoding_default.png, id=2484, 91.84312pt x 88.83188pt>
 File: ./res/menu_encoding_default.png Graphic file (type png)
 
 <use ./res/menu_encoding_default.png>
@@ -3625,17 +3583,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-
-D:\GitHub\Tinn-R-doc\sub\four_encoding.tex:40: LaTeX Error: There's no line her
-e to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<./res/menu_encoding_convert.png, id=2472, 91.84312pt x 88.83188pt>
+<./res/menu_encoding_convert.png, id=2485, 91.84312pt x 88.83188pt>
 File: ./res/menu_encoding_convert.png Graphic file (type png)
 
 <use ./res/menu_encoding_convert.png>
@@ -3647,17 +3595,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-
-D:\GitHub\Tinn-R-doc\sub\four_encoding.tex:60: LaTeX Error: There's no line her
-e to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<./res/menu_encoding_delimiter.png, id=2473, 105.39375pt x 73.77562pt>
+<./res/menu_encoding_delimiter.png, id=2486, 105.39375pt x 73.77562pt>
 File: ./res/menu_encoding_delimiter.png Graphic file (type png)
 
 <use ./res/menu_encoding_delimiter.png>
@@ -3674,11 +3612,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--28
 
  []
 
-[112 <D:/GitHub/Tinn-R-doc/res/menu_encoding.png> <D:/GitHub/Tinn-R-doc/res/men
+[110 <D:/GitHub/Tinn-R-doc/res/menu_encoding.png> <D:/GitHub/Tinn-R-doc/res/men
 u_encoding_default.png> <D:/GitHub/Tinn-R-doc/res/menu_encoding_convert.png> <D
 :/GitHub/Tinn-R-doc/res/menu_encoding_delimiter.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_tools.tex
-<./res/menu_tools.png, id=2482, 149.05687pt x 234.8775pt>
+<./res/menu_tools.png, id=2495, 149.05687pt x 234.8775pt>
 File: ./res/menu_tools.png Graphic file (type png)
 
 <use ./res/menu_tools.png>
@@ -3689,7 +3627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_tools_processing.png, id=2511, 140.77594pt x 73.77562pt>
+<./res/menu_tools_processing.png, id=2524, 140.77594pt x 73.77562pt>
 File: ./res/menu_tools_processing.png Graphic file (type png)
 
 <use ./res/menu_tools_processing.png>
@@ -3702,7 +3640,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
  []
 
 
-<./res/menu_tools_processing_conversion.png, id=2524, 162.6075pt x 73.77562pt>
+<./res/menu_tools_processing_conversion.png, id=2537, 162.6075pt x 73.77562pt>
 File: ./res/menu_tools_processing_conversion.png Graphic file (type png)
 
 <use ./res/menu_tools_processing_conversion.png>
@@ -3714,10 +3652,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[113 <D:/GitHub/Tinn-R-doc/res/menu_tools.png> <D:/GitHub/Tinn-R-doc/res/menu_t
+[111 <D:/GitHub/Tinn-R-doc/res/menu_tools.png> <D:/GitHub/Tinn-R-doc/res/menu_t
 ools_processing.png> <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_conversion
 .png>]
-<./res/menu_tools_processing_conversion_deplate.png, id=2551, 270.25969pt x 237
+<./res/menu_tools_processing_conversion_deplate.png, id=2564, 270.25969pt x 237
 .88875pt>
 File: ./res/menu_tools_processing_conversion_deplate.png Graphic file (type png
 )
@@ -3740,7 +3678,7 @@ Underfull \hbox (badness 10000) in alignment at lines 92--92
 [][] 
  []
 
-[114 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_conversion_deplate.png>]
+[112 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_conversion_deplate.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
@@ -3750,7 +3688,7 @@ File: ./res/pandoc.png Graphic file (type png)
 Package pdftex.def Info: ./res/pandoc.png used on input line 101.
 (pdftex.def)             Requested size: 215.68025pt x 229.98366pt.
 
-<./res/menu_tools_processing_conversion_txt2tags.png, id=2561, 180.675pt x 259.
+<./res/menu_tools_processing_conversion_txt2tags.png, id=2574, 180.675pt x 259.
 7203pt>
 File: ./res/menu_tools_processing_conversion_txt2tags.png Graphic file (type pn
 g)
@@ -3766,9 +3704,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_conversion_txt2tags.png>]
+ [113 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_conversion_txt2tags.png>]
 
-<./res/menu_tools_processing_compilation.png, id=2569, 309.40594pt x 139.27031p
+<./res/menu_tools_processing_compilation.png, id=2581, 309.40594pt x 139.27031p
 t>
 File: ./res/menu_tools_processing_compilation.png Graphic file (type png)
  <use ./res/menu_tools_processing_compilation.png>
@@ -3790,7 +3728,7 @@ Underfull \hbox (badness 10000) in alignment at lines 153--153
 [][] 
  []
 
-<./res/menu_tools_processing_viewer.png, id=2570, 80.55093pt x 73.77562pt>
+<./res/menu_tools_processing_viewer.png, id=2582, 80.55093pt x 73.77562pt>
 File: ./res/menu_tools_processing_viewer.png Graphic file (type png)
 
 <use ./res/menu_tools_processing_viewer.png>
@@ -3803,7 +3741,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--161
  []
 
 
-<./res/menu_tools_processing_viewer_dvi.png, id=2583, 196.48407pt x 58.71938pt>
+<./res/menu_tools_processing_viewer_dvi.png, id=2595, 196.48407pt x 58.71938pt>
 File: ./res/menu_tools_processing_viewer_dvi.png Graphic file (type png)
 <use ./res/menu_tools_processing_viewer_dvi.png>
 Package pdftex.def Info: ./res/menu_tools_processing_viewer_dvi.png used on inp
@@ -3819,10 +3757,10 @@ Underfull \hbox (badness 10000) in alignment at lines 186--186
 [][] 
  []
 
-[116 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_compilation.png> <D:/GitHu
+[114 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_compilation.png> <D:/GitHu
 b/Tinn-R-doc/res/menu_tools_processing_viewer.png> <D:/GitHub/Tinn-R-doc/res/me
 nu_tools_processing_viewer_dvi.png>]
-<./res/menu_tools_processing_viewer_pdf.png, id=2591, 196.48407pt x 58.71938pt>
+<./res/menu_tools_processing_viewer_pdf.png, id=2603, 196.48407pt x 58.71938pt>
 File: ./res/menu_tools_processing_viewer_pdf.png Graphic file (type png)
 <use ./res/menu_tools_processing_viewer_pdf.png>
 Package pdftex.def Info: ./res/menu_tools_processing_viewer_pdf.png used on inp
@@ -3853,7 +3791,7 @@ Underfull \hbox (badness 10000) in alignment at lines 219--219
 [][] 
  []
 
-<./res/menu_tools_database.png, id=2592, 96.36pt x 103.88812pt>
+<./res/menu_tools_database.png, id=2604, 96.36pt x 103.88812pt>
 File: ./res/menu_tools_database.png Graphic file (type png)
 
 <use ./res/menu_tools_database.png>
@@ -3864,7 +3802,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
-<./res/menu_tools_backup.png, id=2593, 108.405pt x 58.71938pt>
+<./res/menu_tools_backup.png, id=2605, 108.405pt x 58.71938pt>
 File: ./res/menu_tools_backup.png Graphic file (type png)
 
 <use ./res/menu_tools_backup.png>
@@ -3875,9 +3813,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
-[117 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_viewer_pdf.png> <D:/GitHub
+[115 <D:/GitHub/Tinn-R-doc/res/menu_tools_processing_viewer_pdf.png> <D:/GitHub
 /Tinn-R-doc/res/menu_tools_database.png> <D:/GitHub/Tinn-R-doc/res/menu_tools_b
-ackup.png>] <./res/menu_tools_restore.png, id=2598, 108.405pt x 58.71938pt>
+ackup.png>] <./res/menu_tools_restore.png, id=2611, 108.405pt x 58.71938pt>
 File: ./res/menu_tools_restore.png Graphic file (type png)
 
 <use ./res/menu_tools_restore.png>
@@ -3893,7 +3831,7 @@ Underfull \hbox (badness 2334) in paragraph at lines 270--270
 []|\T1/mdput/m/n/7 Restores a prior database backup (Cachexml, Com-ments.xml,
  []
 
-<./res/menu_tools_macro.png, id=2599, 109.1578pt x 58.71938pt>
+<./res/menu_tools_macro.png, id=2612, 109.1578pt x 58.71938pt>
 File: ./res/menu_tools_macro.png Graphic file (type png)
 
 <use ./res/menu_tools_macro.png>
@@ -3904,7 +3842,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
-<./res/menu_tools_sort.png, id=2600, 88.07906pt x 73.77562pt>
+<./res/menu_tools_sort.png, id=2613, 88.07906pt x 73.77562pt>
 File: ./res/menu_tools_sort.png Graphic file (type png)
 
 <use ./res/menu_tools_sort.png>
@@ -3915,10 +3853,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
-) [118 <D:/GitHub/Tinn-R-doc/res/menu_tools_restore.png> <D:/GitHub/Tinn-R-doc/
+) [116 <D:/GitHub/Tinn-R-doc/res/menu_tools_restore.png> <D:/GitHub/Tinn-R-doc/
 res/menu_tools_macro.png> <D:/GitHub/Tinn-R-doc/res/menu_tools_sort.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_r.tex
-<./res/menu_r.png, id=2605, 167.12437pt x 204.765pt>
+<./res/menu_r.png, id=2618, 167.12437pt x 204.765pt>
 File: ./res/menu_r.png Graphic file (type png)
  <use ./res/menu_r.png>
 Package pdftex.def Info: ./res/menu_r.png used on input line 6.
@@ -3933,7 +3871,7 @@ Underfull \hbox (badness 10000) in alignment at lines 23--23
 [][] 
  []
 
-<./res/menu_r_startcloseandconections.png, id=2626, 167.87718pt x 80.55093pt>
+<./res/menu_r_startcloseandconections.png, id=2639, 167.87718pt x 80.55093pt>
 File: ./res/menu_r_startcloseandconections.png Graphic file (type png)
 
 <use ./res/menu_r_startcloseandconections.png>
@@ -3950,7 +3888,7 @@ Underfull \hbox (badness 10000) in alignment at lines 42--42
 [][] 
  []
 
-<./res/menu_r_rterm.png, id=2627, 241.65282pt x 221.32687pt>
+<./res/menu_r_rterm.png, id=2640, 241.65282pt x 221.32687pt>
 File: ./res/menu_r_rterm.png Graphic file (type png)
 
 <use ./res/menu_r_rterm.png>
@@ -3964,13 +3902,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [119 <D:/GitHub/Tinn-R-doc/res/menu_r.png> <D:/GitHub/Tinn-R-doc/res/menu_r_st
+ [117 <D:/GitHub/Tinn-R-doc/res/menu_r.png> <D:/GitHub/Tinn-R-doc/res/menu_r_st
 artcloseandconections.png>]
 Underfull \hbox (badness 10000) in alignment at lines 71--71
 [][] 
  []
 
-<./res/menu_r_rterm_IOandLog.png, id=2677, 73.77562pt x 58.71938pt>
+<./res/menu_r_rterm_IOandLog.png, id=2690, 73.77562pt x 58.71938pt>
 File: ./res/menu_r_rterm_IOandLog.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_IOandLog.png>
@@ -3982,7 +3920,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-<./res/menu_r_rterm_file_IOandLog.png, id=2686, 85.06781pt x 73.77562pt>
+<./res/menu_r_rterm_file_IOandLog.png, id=2699, 85.06781pt x 73.77562pt>
 File: ./res/menu_r_rterm_file_IOandLog.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_file_IOandLog.png>
@@ -4004,9 +3942,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-[120 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm.png> <D:/GitHub/Tinn-R-doc/res/menu
+[118 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm.png> <D:/GitHub/Tinn-R-doc/res/menu
 _r_rterm_IOandLog.png> <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_file_IOandLog.png
->] <./res/menu_r_rterm_clear.png, id=2703, 160.34906pt x 73.77562pt>
+>] <./res/menu_r_rterm_clear.png, id=2716, 160.34906pt x 73.77562pt>
 File: ./res/menu_r_rterm_clear.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_clear.png>
@@ -4017,7 +3955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-<./res/menu_r_rterm_focus.png, id=2704, 150.5625pt x 73.77562pt>
+<./res/menu_r_rterm_focus.png, id=2717, 150.5625pt x 73.77562pt>
 File: ./res/menu_r_rterm_focus.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_focus.png>
@@ -4028,7 +3966,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
-<./res/menu_r_rterm_size.png, id=2705, 169.38281pt x 73.77562pt>
+<./res/menu_r_rterm_size.png, id=2718, 169.38281pt x 73.77562pt>
 File: ./res/menu_r_rterm_size.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_size.png>
@@ -4039,7 +3977,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-<./res/menu_r_rterm_split.png, id=2706, 222.07968pt x 80.55093pt>
+<./res/menu_r_rterm_split.png, id=2719, 222.07968pt x 80.55093pt>
 File: ./res/menu_r_rterm_split.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_split.png>
@@ -4063,7 +4001,7 @@ Overfull \hbox (107.48322pt too wide) in paragraph at lines 189--190
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_clear.png> <D:/GitHub/Tinn-R-doc/r
+ [119 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_clear.png> <D:/GitHub/Tinn-R-doc/r
 es/menu_r_rterm_focus.png> <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_size.png> <D:
 /GitHub/Tinn-R-doc/res/menu_r_rterm_split.png>]
 File: ./res/menu_r_rterm_IOandLog.png Graphic file (type png)
@@ -4076,7 +4014,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
-<./res/menu_r_rterm_syntax.png, id=2720, 73.02281pt x 58.71938pt>
+<./res/menu_r_rterm_syntax.png, id=2732, 73.02281pt x 58.71938pt>
 File: ./res/menu_r_rterm_syntax.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_syntax.png>
@@ -4096,7 +4034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
-<./res/menu_r_rterm_wordwrap.png, id=2721, 114.4275pt x 58.71938pt>
+<./res/menu_r_rterm_wordwrap.png, id=2733, 114.4275pt x 58.71938pt>
 File: ./res/menu_r_rterm_wordwrap.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_wordwrap.png>
@@ -4108,9 +4046,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
  []
 
-[122 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_syntax.png> <D:/GitHub/Tinn-R-doc/r
+[120 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_syntax.png> <D:/GitHub/Tinn-R-doc/r
 es/menu_r_rterm_wordwrap.png>]
-<./res/menu_r_rterm_history.png, id=2728, 128.73094pt x 95.6072pt>
+<./res/menu_r_rterm_history.png, id=2740, 128.73094pt x 95.6072pt>
 File: ./res/menu_r_rterm_history.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_history.png>
@@ -4122,7 +4060,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
-<./res/menu_r_rterm_workspace.png, id=2729, 74.52844pt x 58.71938pt>
+<./res/menu_r_rterm_workspace.png, id=2741, 74.52844pt x 58.71938pt>
 File: ./res/menu_r_rterm_workspace.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_workspace.png>
@@ -4134,7 +4072,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-<./res/menu_fontsize_generic.png, id=2730, 170.13562pt x 58.71938pt>
+<./res/menu_fontsize_generic.png, id=2742, 170.13562pt x 58.71938pt>
 File: ./res/menu_fontsize_generic.png Graphic file (type png)
 
 <use ./res/menu_fontsize_generic.png>
@@ -4146,7 +4084,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
-<./res/menu_r_send.png, id=2731, 237.13594pt x 316.93407pt>
+<./res/menu_r_send.png, id=2743, 237.13594pt x 316.93407pt>
 File: ./res/menu_r_send.png Graphic file (type png)
 
 <use ./res/menu_r_send.png>
@@ -4157,7 +4095,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
-[123 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_history.png> <D:/GitHub/Tinn-R-doc/
+[121 <D:/GitHub/Tinn-R-doc/res/menu_r_rterm_history.png> <D:/GitHub/Tinn-R-doc/
 res/menu_r_rterm_workspace.png> <D:/GitHub/Tinn-R-doc/res/menu_fontsize_generic
 .png> <D:/GitHub/Tinn-R-doc/res/menu_r_send.png>]
 Underfull \hbox (badness 1270) in paragraph at lines 332--332
@@ -4170,7 +4108,7 @@ Underfull \hbox (badness 10000) in alignment at lines 332--332
 [][] 
  []
 
-<./res/menu_r_send_knitr.png, id=2740, 215.30438pt x 58.71938pt>
+<./res/menu_r_send_knitr.png, id=2753, 215.30438pt x 58.71938pt>
 File: ./res/menu_r_send_knitr.png Graphic file (type png)
 
 <use ./res/menu_r_send_knitr.png>
@@ -4181,7 +4119,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
  []
 
-<./res/menu_r_control.png, id=2741, 257.46187pt x 347.04657pt>
+<./res/menu_r_control.png, id=2754, 257.46187pt x 347.04657pt>
 File: ./res/menu_r_control.png Graphic file (type png)
 
 <use ./res/menu_r_control.png>
@@ -4217,9 +4155,9 @@ Overfull \hbox (107.48322pt too wide) in paragraph at lines 379--380
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [124 <D:/GitHub/Tinn-R-doc/res/menu_r_send_knitr.png> <D:/GitHub/Tinn-R-doc/re
+ [122 <D:/GitHub/Tinn-R-doc/res/menu_r_send_knitr.png> <D:/GitHub/Tinn-R-doc/re
 s/menu_r_control.png>]
-<./res/menu_r_control_packages.png, id=2751, 133.24782pt x 192.72pt>
+<./res/menu_r_control_packages.png, id=2764, 133.24782pt x 192.72pt>
 File: ./res/menu_r_control_packages.png Graphic file (type png)
 
 <use ./res/menu_r_control_packages.png>
@@ -4258,9 +4196,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 405--32
 
  []
 
-[125 <D:/GitHub/Tinn-R-doc/res/menu_r_control_packages.png>]
+[123 <D:/GitHub/Tinn-R-doc/res/menu_r_control_packages.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_view.tex
-<./res/menu_view.png, id=2757, 253.69781pt x 370.38374pt>
+<./res/menu_view.png, id=2770, 253.69781pt x 370.38374pt>
 File: ./res/menu_view.png Graphic file (type png)
 
 <use ./res/menu_view.png>
@@ -4276,7 +4214,7 @@ Underfull \hbox (badness 10000) in alignment at lines 33--33
 [][] 
  []
 
-<./res/menu_view_r.png, id=2790, 172.39406pt x 58.71938pt>
+<./res/menu_view_r.png, id=2803, 172.39406pt x 58.71938pt>
 File: ./res/menu_view_r.png Graphic file (type png)
 
 <use ./res/menu_view_r.png>
@@ -4292,8 +4230,8 @@ Underfull \hbox (badness 10000) in alignment at lines 50--50
 [][] 
  []
 
-[126 <D:/GitHub/Tinn-R-doc/res/menu_view.png> <D:/GitHub/Tinn-R-doc/res/menu_vi
-ew_r.png>] <./res/menu_view_r_rterm.png, id=2812, 241.65282pt x 132.495pt>
+[124 <D:/GitHub/Tinn-R-doc/res/menu_view.png> <D:/GitHub/Tinn-R-doc/res/menu_vi
+ew_r.png>] <./res/menu_view_r_rterm.png, id=2825, 241.65282pt x 132.495pt>
 File: ./res/menu_view_r_rterm.png Graphic file (type png)
 
 <use ./res/menu_view_r_rterm.png>
@@ -4345,7 +4283,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
 Underfull \vbox (badness 2903) has occurred while \output is active []
 
- [127 <D:/GitHub/Tinn-R-doc/res/menu_view_r_rterm.png>]
+ [125 <D:/GitHub/Tinn-R-doc/res/menu_view_r_rterm.png>]
 File: ./res/menu_r_rterm_syntax.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_syntax.png>
@@ -4395,7 +4333,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
-<./res/menu_view_tools.png, id=2849, 166.37157pt x 87.32625pt>
+<./res/menu_view_tools.png, id=2861, 166.37157pt x 87.32625pt>
 File: ./res/menu_view_tools.png Graphic file (type png)
 
 <use ./res/menu_view_tools.png>
@@ -4406,8 +4344,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
-[128 <D:/GitHub/Tinn-R-doc/res/menu_view_tools.png>]
-<./res/menu_view_tools_size.png, id=2865, 115.93312pt x 73.77562pt>
+[126 <D:/GitHub/Tinn-R-doc/res/menu_view_tools.png>]
+<./res/menu_view_tools_size.png, id=2877, 115.93312pt x 73.77562pt>
 File: ./res/menu_view_tools_size.png Graphic file (type png)
 
 <use ./res/menu_view_tools_size.png>
@@ -4419,7 +4357,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
-<./res/menu_view_tools_resources.png, id=2866, 122.70844pt x 118.94438pt>
+<./res/menu_view_tools_resources.png, id=2878, 122.70844pt x 118.94438pt>
 File: ./res/menu_view_tools_resources.png Graphic file (type png)
 
 <use ./res/menu_view_tools_resources.png>
@@ -4436,7 +4374,7 @@ Underfull \hbox (badness 10000) in alignment at lines 238--238
 [][] 
  []
 
-<./res/menu_view_tools_resources_misc.png, id=2887, 154.32657pt x 95.6072pt>
+<./res/menu_view_tools_resources_misc.png, id=2899, 154.32657pt x 95.6072pt>
 File: ./res/menu_view_tools_resources_misc.png Graphic file (type png)
 
 <use ./res/menu_view_tools_resources_misc.png>
@@ -4454,7 +4392,7 @@ Underfull \hbox (badness 10000) in alignment at lines 256--256
  []
 
 
-<./res/menu_view_tools_resources_markup.png, id=2888, 134.00063pt x 80.55093pt>
+<./res/menu_view_tools_resources_markup.png, id=2900, 134.00063pt x 80.55093pt>
 File: ./res/menu_view_tools_resources_markup.png Graphic file (type png)
 <use ./res/menu_view_tools_resources_markup.png>
 Package pdftex.def Info: ./res/menu_view_tools_resources_markup.png used on inp
@@ -4465,11 +4403,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-[129 <D:/GitHub/Tinn-R-doc/res/menu_view_tools_size.png> <D:/GitHub/Tinn-R-doc/
+[127 <D:/GitHub/Tinn-R-doc/res/menu_view_tools_size.png> <D:/GitHub/Tinn-R-doc/
 res/menu_view_tools_resources.png> <D:/GitHub/Tinn-R-doc/res/menu_view_tools_re
 sources_misc.png> <D:/GitHub/Tinn-R-doc/res/menu_view_tools_resources_markup.pn
 g>]
-<./res/menu_view_tools_resources_results.png, id=2900, 127.97812pt x 80.55093pt
+<./res/menu_view_tools_resources_results.png, id=2913, 127.97812pt x 80.55093pt
 >
 File: ./res/menu_view_tools_resources_results.png Graphic file (type png)
  <use ./res/menu_view_tools_resources_results.png>
@@ -4482,7 +4420,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--281
  []
 
 
-<./res/menu_view_tools_resources_database.png, id=2901, 141.52875pt x 95.6072pt
+<./res/menu_view_tools_resources_database.png, id=2914, 141.52875pt x 95.6072pt
 >
 File: ./res/menu_view_tools_resources_database.png Graphic file (type png)
  <use ./res/menu_view_tools_resources_database.png>
@@ -4494,7 +4432,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
-<./res/menu_view_tools_resources_r.png, id=2902, 131.74219pt x 95.6072pt>
+<./res/menu_view_tools_resources_r.png, id=2915, 131.74219pt x 95.6072pt>
 File: ./res/menu_view_tools_resources_r.png Graphic file (type png)
 
 <use ./res/menu_view_tools_resources_r.png>
@@ -4506,7 +4444,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 315--316
 
  []
 
-<./res/menu_view_toolsbar.png, id=2903, 197.23688pt x 231.11343pt>
+<./res/menu_view_toolsbar.png, id=2916, 197.23688pt x 231.11343pt>
 File: ./res/menu_view_toolsbar.png Graphic file (type png)
 
 <use ./res/menu_view_toolsbar.png>
@@ -4520,10 +4458,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--334
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [130 <D:/GitHub/Tinn-R-doc/res/menu_view_tools_resources_results.png> <D:/GitH
+ [128 <D:/GitHub/Tinn-R-doc/res/menu_view_tools_resources_results.png> <D:/GitH
 ub/Tinn-R-doc/res/menu_view_tools_resources_database.png> <D:/GitHub/Tinn-R-doc
 /res/menu_view_tools_resources_r.png>]
-<./res/menu_view_tabs.png, id=2908, 82.80937pt x 73.77562pt>
+<./res/menu_view_tabs.png, id=2921, 82.80937pt x 73.77562pt>
 File: ./res/menu_view_tabs.png Graphic file (type png)
 
 <use ./res/menu_view_tabs.png>
@@ -4534,7 +4472,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--361
 
  []
 
-<./res/menu_view_tabs_files.png, id=2921, 118.94438pt x 80.55093pt>
+<./res/menu_view_tabs_files.png, id=2934, 118.94438pt x 80.55093pt>
 File: ./res/menu_view_tabs_files.png Graphic file (type png)
 
 <use ./res/menu_view_tabs_files.png>
@@ -4546,9 +4484,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
-[131 <D:/GitHub/Tinn-R-doc/res/menu_view_toolsbar.png> <D:/GitHub/Tinn-R-doc/re
+[129 <D:/GitHub/Tinn-R-doc/res/menu_view_toolsbar.png> <D:/GitHub/Tinn-R-doc/re
 s/menu_view_tabs.png> <D:/GitHub/Tinn-R-doc/res/menu_view_tabs_files.png>]
-<./res/menu_view_tabs_tools.png, id=2929, 82.05656pt x 88.83188pt>
+<./res/menu_view_tabs_tools.png, id=2942, 82.05656pt x 88.83188pt>
 File: ./res/menu_view_tabs_tools.png Graphic file (type png)
 
 <use ./res/menu_view_tabs_tools.png>
@@ -4560,7 +4498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
  []
 
-<./res/menu_view_tabs_rterm.png, id=2930, 82.05656pt x 88.83188pt>
+<./res/menu_view_tabs_rterm.png, id=2943, 82.05656pt x 88.83188pt>
 File: ./res/menu_view_tabs_rterm.png Graphic file (type png)
 
 <use ./res/menu_view_tabs_rterm.png>
@@ -4572,7 +4510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
-<./res/menu_view_linewrap.png, id=2931, 122.70844pt x 73.77562pt>
+<./res/menu_view_linewrap.png, id=2944, 122.70844pt x 73.77562pt>
 File: ./res/menu_view_linewrap.png Graphic file (type png)
 
 <use ./res/menu_view_linewrap.png>
@@ -4583,7 +4521,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
-<./res/menu_view_split.png, id=2932, 222.07968pt x 80.55093pt>
+<./res/menu_view_split.png, id=2945, 222.07968pt x 80.55093pt>
 File: ./res/menu_view_split.png Graphic file (type png)
 
 <use ./res/menu_view_split.png>
@@ -4604,15 +4542,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
-[132 <D:/GitHub/Tinn-R-doc/res/menu_view_tabs_tools.png> <D:/GitHub/Tinn-R-doc/
+[130 <D:/GitHub/Tinn-R-doc/res/menu_view_tabs_tools.png> <D:/GitHub/Tinn-R-doc/
 res/menu_view_tabs_rterm.png> <D:/GitHub/Tinn-R-doc/res/menu_view_linewrap.png>
  <D:/GitHub/Tinn-R-doc/res/menu_view_split.png>])
 Underfull \hbox (badness 10000) in paragraph at lines 474--34
 
  []
 
-[133] (D:\GitHub\Tinn-R-doc\sub\four_window.tex
-<./res/menu_window.png, id=2942, 320.69812pt x 219.82124pt>
+[131] (D:\GitHub\Tinn-R-doc\sub\four_window.tex
+<./res/menu_window.png, id=2954, 320.69812pt x 219.82124pt>
 File: ./res/menu_window.png Graphic file (type png)
 
 <use ./res/menu_window.png>
@@ -4628,9 +4566,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--36
 
  []
 
-[134 <D:/GitHub/Tinn-R-doc/res/menu_window.png>]
+[132 <D:/GitHub/Tinn-R-doc/res/menu_window.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_web.tex
-<./res/menu_web.png, id=2948, 150.5625pt x 139.27031pt>
+<./res/menu_web.png, id=2960, 150.5625pt x 139.27031pt>
 File: ./res/menu_web.png Graphic file (type png)
 
 <use ./res/menu_web.png>
@@ -4641,7 +4579,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_web_rsearch.png, id=2973, 163.3603pt x 140.77594pt>
+<./res/menu_web_rsearch.png, id=2985, 163.3603pt x 140.77594pt>
 File: ./res/menu_web_rsearch.png Graphic file (type png)
 
 <use ./res/menu_web_rsearch.png>
@@ -4657,7 +4595,7 @@ Underfull \hbox (badness 10000) in alignment at lines 40--40
 [][] 
  []
 
-<./res/menu_web_rsearch_selected.png, id=3002, 96.36pt x 73.77562pt>
+<./res/menu_web_rsearch_selected.png, id=3014, 96.36pt x 73.77562pt>
 File: ./res/menu_web_rsearch_selected.png Graphic file (type png)
 
 <use ./res/menu_web_rsearch_selected.png>
@@ -4669,13 +4607,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[135 <D:/GitHub/Tinn-R-doc/res/menu_web.png> <D:/GitHub/Tinn-R-doc/res/menu_web
+[133 <D:/GitHub/Tinn-R-doc/res/menu_web.png> <D:/GitHub/Tinn-R-doc/res/menu_web
 _rsearch.png> <D:/GitHub/Tinn-R-doc/res/menu_web_rsearch_selected.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<./res/menu_web_rsearch_nabble.png, id=3028, 95.6072pt x 58.71938pt>
+<./res/menu_web_rsearch_nabble.png, id=3041, 95.6072pt x 58.71938pt>
 File: ./res/menu_web_rsearch_nabble.png Graphic file (type png)
 
 <use ./res/menu_web_rsearch_nabble.png>
@@ -4683,14 +4621,14 @@ Package pdftex.def Info: ./res/menu_web_rsearch_nabble.png used on input line 6
 4.
 (pdftex.def)             Requested size: 47.80347pt x 29.3596pt.
 
-<./res/menu_web_ssearch.png, id=3037, 129.48375pt x 65.49469pt>
+<./res/menu_web_ssearch.png, id=3050, 129.48375pt x 65.49469pt>
 File: ./res/menu_web_ssearch.png Graphic file (type png)
 
 <use ./res/menu_web_ssearch.png>
 Package pdftex.def Info: ./res/menu_web_ssearch.png used on input line 78.
 (pdftex.def)             Requested size: 64.7417pt x 32.74725pt.
 
-<./res/menu_web_ssearch_selected.png, id=3046, 113.67468pt x 43.66313pt>
+<./res/menu_web_ssearch_selected.png, id=3059, 113.67468pt x 43.66313pt>
 File: ./res/menu_web_ssearch_selected.png Graphic file (type png)
 
 <use ./res/menu_web_ssearch_selected.png>
@@ -4702,7 +4640,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-<./res/menu_web_rinformation.png, id=3051, 113.67468pt x 155.83218pt>
+<./res/menu_web_rinformation.png, id=3064, 113.67468pt x 155.83218pt>
 File: ./res/menu_web_rinformation.png Graphic file (type png)
 
 <use ./res/menu_web_rinformation.png>
@@ -4714,7 +4652,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-<./res/menu_web_rguis.png, id=3072, 119.69719pt x 177.66376pt>
+<./res/menu_web_rguis.png, id=3085, 119.69719pt x 177.66376pt>
 File: ./res/menu_web_rguis.png Graphic file (type png)
 
 <use ./res/menu_web_rguis.png>
@@ -4725,10 +4663,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
-[136 <D:/GitHub/Tinn-R-doc/res/menu_web_rsearch_nabble.png> <D:/GitHub/Tinn-R-d
+[134 <D:/GitHub/Tinn-R-doc/res/menu_web_rsearch_nabble.png> <D:/GitHub/Tinn-R-d
 oc/res/menu_web_ssearch.png> <D:/GitHub/Tinn-R-doc/res/menu_web_ssearch_selecte
 d.png> <D:/GitHub/Tinn-R-doc/res/menu_web_rinformation.png>]
-<./res/menu_web_tinnr.png, id=3115, 147.55125pt x 73.77562pt>
+<./res/menu_web_tinnr.png, id=3128, 147.55125pt x 73.77562pt>
 File: ./res/menu_web_tinnr.png Graphic file (type png)
 
 <use ./res/menu_web_tinnr.png>
@@ -4739,7 +4677,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-<./res/menu_web_statistics.png, id=3128, 169.38281pt x 95.6072pt>
+<./res/menu_web_statistics.png, id=3141, 169.38281pt x 95.6072pt>
 File: ./res/menu_web_statistics.png Graphic file (type png)
 
 <use ./res/menu_web_statistics.png>
@@ -4755,9 +4693,9 @@ Underfull \hbox (badness 10000) in alignment at lines 183--183
 [][] 
  []
 
-[137 <D:/GitHub/Tinn-R-doc/res/menu_web_rguis.png> <D:/GitHub/Tinn-R-doc/res/me
+[135 <D:/GitHub/Tinn-R-doc/res/menu_web_rguis.png> <D:/GitHub/Tinn-R-doc/res/me
 nu_web_tinnr.png> <D:/GitHub/Tinn-R-doc/res/menu_web_statistics.png>]
-<./res/menu_web_statistics_virtuallabs.png, id=3151, 225.09094pt x 88.83188pt>
+<./res/menu_web_statistics_virtuallabs.png, id=3164, 225.09094pt x 88.83188pt>
 File: ./res/menu_web_statistics_virtuallabs.png Graphic file (type png)
 
 <use ./res/menu_web_statistics_virtuallabs.png>
@@ -4769,7 +4707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
-<./res/menu_web_processing.png, id=3168, 88.83188pt x 88.83188pt>
+<./res/menu_web_processing.png, id=3181, 88.83188pt x 88.83188pt>
 File: ./res/menu_web_processing.png Graphic file (type png)
 
 <use ./res/menu_web_processing.png>
@@ -4785,10 +4723,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--38
 
  []
 
-[138 <D:/GitHub/Tinn-R-doc/res/menu_web_statistics_virtuallabs.png> <D:/GitHub/
+[136 <D:/GitHub/Tinn-R-doc/res/menu_web_statistics_virtuallabs.png> <D:/GitHub/
 Tinn-R-doc/res/menu_web_processing.png>]
 (D:\GitHub\Tinn-R-doc\sub\four_help.tex
-<./res/menu_help.png, id=3189, 202.50656pt x 213.04594pt>
+<./res/menu_help.png, id=3202, 202.50656pt x 213.04594pt>
 File: ./res/menu_help.png Graphic file (type png)
 
 <use ./res/menu_help.png>
@@ -4804,17 +4742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []|\T1/mdput/m/n/7 File con-ver-sion (in-tro-duc-
  []
 
-
-D:\GitHub\Tinn-R-doc\sub\four_help.tex:33: LaTeX Error: There's no line here to
- end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<./res/menu_help_conversion.png, id=3202, 88.83188pt x 73.77562pt>
+<./res/menu_help_conversion.png, id=3215, 88.83188pt x 73.77562pt>
 File: ./res/menu_help_conversion.png Graphic file (type png)
 
 <use ./res/menu_help_conversion.png>
@@ -4830,18 +4758,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--24
 
  []
 
-[139 <D:/GitHub/Tinn-R-doc/res/menu_help.png> <D:/GitHub/Tinn-R-doc/res/menu_he
-lp_conversion.png>] (D:\GitHub\Tinn-R-doc\sub\fiveSecrets.tex [140
+[137 <D:/GitHub/Tinn-R-doc/res/menu_help.png> <D:/GitHub/Tinn-R-doc/res/menu_he
+lp_conversion.png>] (D:\GitHub\Tinn-R-doc\sub\fiveSecrets.tex [138
 
 
 
-] [141]
-(D:\GitHub\Tinn-R-doc\sub\five_introduction.tex) [142]
+] [139]
+(D:\GitHub\Tinn-R-doc\sub\five_introduction.tex) [140]
 (D:\GitHub\Tinn-R-doc\sub\five_after_installation.tex
 LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
 (Font)              scaled to size 8.24005pt on input line 7.
 
-<./res/parts_02.png, id=3227, 756.57657pt x 79.79813pt>
+<./res/parts_02.png, id=3240, 756.57657pt x 79.79813pt>
 File: ./res/parts_02.png Graphic file (type png)
 
 <use ./res/parts_02.png>
@@ -4852,22 +4780,22 @@ Overfull \hbox (79.28735pt too wide) in paragraph at lines 9--10
 [][] 
  []
 
-<./res/secrets_connecting.png, id=3228, 62.48344pt x 40.65187pt>
+<./res/secrets_connecting.png, id=3241, 62.48344pt x 40.65187pt>
 File: ./res/secrets_connecting.png Graphic file (type png)
 
 <use ./res/secrets_connecting.png>
 Package pdftex.def Info: ./res/secrets_connecting.png used on input line 35.
 (pdftex.def)             Requested size: 31.24164pt x 20.32588pt.
 
-<./res/secrets_sendline.png, id=3229, 50.43843pt x 40.65187pt>
+<./res/secrets_sendline.png, id=3242, 50.43843pt x 40.65187pt>
 File: ./res/secrets_sendline.png Graphic file (type png)
 
 <use ./res/secrets_sendline.png>
 Package pdftex.def Info: ./res/secrets_sendline.png used on input line 57.
 (pdftex.def)             Requested size: 25.21915pt x 20.32588pt.
- [143 <D:/GitHub/Tinn-R-doc/res/parts_02.png> <D:/GitHub/Tinn-R-doc/res/secrets
+ [141 <D:/GitHub/Tinn-R-doc/res/parts_02.png> <D:/GitHub/Tinn-R-doc/res/secrets
 _connecting.png>]
-<./res/secrets_statusbar.png, id=3237, 752.8125pt x 39.14626pt>
+<./res/secrets_statusbar.png, id=3250, 752.8125pt x 39.14626pt>
 File: ./res/secrets_statusbar.png Graphic file (type png)
 
 <use ./res/secrets_statusbar.png>
@@ -4878,7 +4806,7 @@ Overfull \hbox (77.40532pt too wide) in paragraph at lines 77--78
 [][] 
  []
 
-<./res/secrets_rtoolbar.png, id=3238, 741.52031pt x 40.65187pt>
+<./res/secrets_rtoolbar.png, id=3251, 741.52031pt x 40.65187pt>
 File: ./res/secrets_rtoolbar.png Graphic file (type png)
 
 <use ./res/secrets_rtoolbar.png>
@@ -4894,7 +4822,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--16
 
  []
 
-[144 <D:/GitHub/Tinn-R-doc/res/secrets_sendline.png> <D:/GitHub/Tinn-R-doc/res/
+[142 <D:/GitHub/Tinn-R-doc/res/secrets_sendline.png> <D:/GitHub/Tinn-R-doc/res/
 secrets_statusbar.png> <D:/GitHub/Tinn-R-doc/res/secrets_rtoolbar.png>]
 (D:\GitHub\Tinn-R-doc\sub\five_visibility.tex
 Overfull \hbox (62.12845pt too wide) in paragraph at lines 6--6
@@ -4902,12 +4830,12 @@ Overfull \hbox (62.12845pt too wide) in paragraph at lines 6--6
 itor and R)[] 
  []
 
-) [145] (D:\GitHub\Tinn-R-doc\sub\five_panicking.tex
+) [143] (D:\GitHub\Tinn-R-doc\sub\five_panicking.tex
 LaTeX Font Info:    Font shape `T1/fvs/bx/n' in size <10> not available
 (Font)              Font shape `T1/fvs/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
 (Font)              scaled to size 8.24005pt on input line 8.
-) [146]
+) [144]
 (D:\GitHub\Tinn-R-doc\sub\five_application_options.tex
 File: ./res/app_main_general.png Graphic file (type png)
 
@@ -4921,13 +4849,13 @@ Package pdftex.def Info: ./res/app_main_appearance.png used on input line 30.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [147]
+ [145]
 File: ./res/app_main_dock.png Graphic file (type png)
 
 <use ./res/app_main_dock.png>
 Package pdftex.def Info: ./res/app_main_dock.png used on input line 40.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
- [148]
+ [146]
 File: ./res/app_editor_display.png Graphic file (type png)
  <use ./res/app_editor_display.png>
 Package pdftex.def Info: ./res/app_editor_display.png used on input line 53.
@@ -4950,13 +4878,13 @@ Overfull \hbox (125.66199pt too wide) in paragraph at lines 62--64
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [149]
+ [147]
 File: ./res/app_r_path.png Graphic file (type png)
 
 <use ./res/app_r_path.png>
 Package pdftex.def Info: ./res/app_r_path.png used on input line 73.
 (pdftex.def)             Requested size: 211.5398pt x 219.06789pt.
- [150]
+ [148]
 File: ./res/app_r_rterm_error.png Graphic file (type png)
  <use ./res/app_r_rterm_error.png>
 Package pdftex.def Info: ./res/app_r_rterm_error.png used on input line 79.
@@ -4987,14 +4915,14 @@ Overfull \hbox (125.66199pt too wide) in paragraph at lines 91--22
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [151]
-[152] (D:\GitHub\Tinn-R-doc\sub\five_highlighters.tex
+ [149]
+[150] (D:\GitHub\Tinn-R-doc\sub\five_highlighters.tex
 File: ./res/highlighter_settings.png Graphic file (type png)
 
 <use ./res/highlighter_settings.png>
 Package pdftex.def Info: ./res/highlighter_settings.png used on input line 13.
 (pdftex.def)             Requested size: 280.04556pt x 190.8375pt.
-) [153]
+) [151]
 (D:\GitHub\Tinn-R-doc\sub\five_tools.tex
 File: ./res/tools_markup_latex_arrows.png Graphic file (type png)
 
@@ -5016,7 +4944,7 @@ Overfull \hbox (95.6263pt too wide) in paragraph at lines 9--12
 [][] [] [] 
  []
 
-[154]
+[152]
 File: ./res/tools_database_shortcuts.png Graphic file (type png)
  <use ./res/tools_database_shortcuts.png>
 Package pdftex.def Info: ./res/tools_database_shortcuts.png used on input line 
@@ -5044,7 +4972,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
-[155] [156]
+[153] [154]
 File: ./res/tools_r_explorer.png Graphic file (type png)
  <use ./res/tools_r_explorer.png>
 Package pdftex.def Info: ./res/tools_r_explorer.png used on input line 107.
@@ -5054,7 +4982,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
-[157]
+[155]
 File: ./res/tools_r_card.png Graphic file (type png)
  <use ./res/tools_r_card.png>
 Package pdftex.def Info: ./res/tools_r_card.png used on input line 134.
@@ -5073,13 +5001,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
-[158]
+[156]
 Overfull \hbox (4.71068pt too wide) in paragraph at lines 169--173
 []\T1/mdput/m/n/10 (-20) R repos-i-to-ries are lit-tle changed with the pas-sag
 e of time. Thus, the database
  []
 
-) [159] (D:\GitHub\Tinn-R-doc\sub\five_bars.tex
+) [157] (D:\GitHub\Tinn-R-doc\sub\five_bars.tex
 File: ./res/parts_02.png Graphic file (type png)
  <use ./res/parts_02.png>
 Package pdftex.def Info: ./res/parts_02.png used on input line 8.
@@ -5099,23 +5027,23 @@ Overfull \hbox (77.40532pt too wide) in paragraph at lines 8--10
 [] 
  []
 
-) [160] (D:\GitHub\Tinn-R-doc\sub\five_spell.tex
-<./res/secrets_spell.png, id=3324, 155.07938pt x 40.65187pt>
+) [158] (D:\GitHub\Tinn-R-doc\sub\five_spell.tex
+<./res/secrets_spell.png, id=3337, 155.07938pt x 40.65187pt>
 File: ./res/secrets_spell.png Graphic file (type png)
 
 <use ./res/secrets_spell.png>
 Package pdftex.def Info: ./res/secrets_spell.png used on input line 13.
 (pdftex.def)             Requested size: 77.53949pt x 20.32588pt.
-) [161 <D:/GitHub/Tinn-R-doc/res/secrets_spell.png>] (D:\GitHub\Tinn-R-doc\sub\
-five_split.tex) [162]
+) [159 <D:/GitHub/Tinn-R-doc/res/secrets_spell.png>] (D:\GitHub\Tinn-R-doc\sub\
+five_split.tex) [160]
 (D:\GitHub\Tinn-R-doc\sub\five_editor_howto.tex
-<./res/secrets_macro.png, id=3333, 60.225pt x 40.65187pt>
+<./res/secrets_macro.png, id=3346, 60.225pt x 40.65187pt>
 File: ./res/secrets_macro.png Graphic file (type png)
 
 <use ./res/secrets_macro.png>
 Package pdftex.def Info: ./res/secrets_macro.png used on input line 12.
 (pdftex.def)             Requested size: 30.11241pt x 20.32588pt.
- [163 <D:/GitHub/Tinn-R-doc/res/secrets_macro.png>]
+ [161 <D:/GitHub/Tinn-R-doc/res/secrets_macro.png>]
 Overfull \hbox (43.2752pt too wide) in paragraph at lines 61--61
 []\T1/fvm/m/n/10 CTRL + TAB         : Change sequentially the active page to th
 e right[] 
@@ -5131,12 +5059,12 @@ File: ./res/filetabs.png Graphic file (type png)
 <use ./res/filetabs.png>
 Package pdftex.def Info: ./res/filetabs.png used on input line 72.
 (pdftex.def)             Requested size: 280.42197pt x 58.71922pt.
-)) [164] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew.tex
+)) [162] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew.tex
 Underfull \hbox (badness 10000) in alignment at lines 24--24
 [][][] 
  []
 
-[165
+[163
 
 
 
@@ -5146,7 +5074,7 @@ Overfull \hbox (7.66675pt too wide) in paragraph at lines 12--14
 anks to \T1/fvm/m/n/10 Berry Boessenkool
  []
 
-[166]) [167] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2013.tex [168]
+[164]) [165] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2013.tex [166]
 Overfull \hbox (0.11523pt too wide) in paragraph at lines 81--82
 []\T1/mdput/m/n/10 (-20) Parts of the source code re-lated to \T1/fvm/m/n/10 Co
 de com-ple-tion \T1/mdput/m/n/10 (-20) were en-hanced. 
@@ -5158,25 +5086,25 @@ Overfull \hbox (86.22076pt too wide) in paragraph at lines 87--88
 esc.br/lec/software/editores/tinn-
  []
 
-[169]
+[167]
 LaTeX Font Info:    Font shape `T1/fvm/bx/n' in size <10> not available
 (Font)              Font shape `T1/fvm/b/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
 (Font)              scaled to size 8.24005pt on input line 120.
- [170]
+ [168]
 Overfull \hbox (7.99176pt too wide) in paragraph at lines 131--138
 []\T1/mdput/m/n/10 (-20) The \T1/fvm/m/n/10 Com-ment\T1/mdput/m/n/10 (-20) , \T
 1/fvm/m/n/10 Un-com-ment first \T1/mdput/m/n/10 (-20) and \T1/fvm/m/n/10 Un-com
 -ment all \T1/mdput/m/n/10 (-20) pro-ce-dures were
  []
 
-[171]) [172] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2012.tex
+[169]) [170] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2012.tex
 Overfull \hbox (7.32373pt too wide) in paragraph at lines 13--14
 []\T1/mdput/m/n/10 (-20) The main menu \T1/fvm/m/n/10 Help/-Main/-File con-ver-
 sion (in-tro-duc-tion) \T1/mdput/m/n/10 (-20) was
  []
 
-[173]
+[171]
 Missing character: There is no * in font mdputr8c!
 
 Overfull \hbox (12.738pt too wide) in paragraph at lines 52--53
@@ -5205,13 +5133,13 @@ Overfull \hbox (3.10696pt too wide) in paragraph at lines 63--65
 -cient use \T1/mdput/m/n/10 (-20) is be-ing re-vised
  []
 
-[174]
+[172]
 Overfull \hbox (18.65956pt too wide) in paragraph at lines 72--74
 \T1/mdput/m/n/10 (-20) which do not rec-og-nize the \T1/fvm/m/n/10 Op-tion-s/Ap
 -pli-ca-tion/R/R-gui/Recog-
  []
 
-) [175] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2010.tex
+) [173] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2010.tex
 Overfull \hbox (0.61267pt too wide) in paragraph at lines 7--9
 []\T1/mdput/m/n/10 (-20) A bug, ac-ci-den-tally in-tro-duced in ver-sion 2.3.7.
 0, which averted
@@ -5223,13 +5151,13 @@ Overfull \hbox (3.88242pt too wide) in paragraph at lines 32--33
 th Win-dows 7 and R 2.12.0\T1/mdput/m/n/10 (-20) . 
  []
 
-[176]
+[174]
 Overfull \hbox (1.42473pt too wide) in paragraph at lines 65--66
 []\T1/mdput/m/n/10 (-20) Permanent con-fig-u-ra-tion of the file Rpro-file.site
  from the menu
  []
 
-[177]
+[175]
 Overfull \hbox (10.88852pt too wide) in paragraph at lines 101--105
 \T1/mdput/m/n/10 (-20) to chap-ters \T1/fvm/m/n/10 Overview, Ba-sics, Work-ing 
 with, Menu de-scrip-tion
@@ -5241,7 +5169,7 @@ Overfull \hbox (0.34935pt too wide) in paragraph at lines 105--109
 T1/mdput/m/n/10 (-20) has a new op-tion: \T1/fvm/m/n/10 Smart (all
  []
 
-) [178] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2009.tex
+) [176] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2009.tex
 Overfull \hbox (22.31955pt too wide) in paragraph at lines 13--18
 \T1/fvm/m/n/10 cess vi-o-la-tion at ad-dress NUM-BER in mod-ule 'Tinn-R.exe'.
  []
@@ -5258,13 +5186,13 @@ Overfull \hbox (31.829pt too wide) in paragraph at lines 41--46
 mdput/m/n/10 (-20) by John Fox (func-tions: \T1/fvm/m/n/10 read.moments
  []
 
-[179]
+[177]
 Overfull \hbox (47.92516pt too wide) in paragraph at lines 70--70
  []          \T1/fvm/m/sl/8 installed <- necessary %in% installed.packages()[, 
 \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 Package\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ][] 
  []
 
-[180]
+[178]
 Overfull \hbox (14.25113pt too wide) in paragraph at lines 147--147
  []      \T1/fvm/m/sl/8 [1] "backsolve"             "backSpline"            "ba
 cteria"[] 
@@ -5312,13 +5240,13 @@ Overfull \hbox (0.89227pt too wide) in paragraph at lines 159--161
 dput/m/n/10 (-20) of com-po-nents was re-moved from the project. 
  []
 
-[181]
+[179]
 Overfull \hbox (4.79727pt too wide) in paragraph at lines 224--231
 []\T1/mdput/m/n/10 (-20) Under Win-dows Vista the op-tion \T1/mdput/m/it/10 (-2
 0) R/-Con-fig-ure/Per-ma-nent (Rpro-
  []
 
-[182]
+[180]
 Overfull \hbox (99.74551pt too wide) in paragraph at lines 264--264
  []            \T1/fvm/m/n/8 # uncomment the line below if you want Tinn-R star
 ts always \RR{} starts[] 
@@ -5336,7 +5264,7 @@ Overfull \hbox (61.50356pt too wide) in paragraph at lines 280--280
 =================[] 
  []
 
-[183]
+[181]
 Overfull \hbox (61.50356pt too wide) in paragraph at lines 283--283
  []              \T1/fvm/m/n/8 ##==============================================
 =================[] 
@@ -5401,13 +5329,13 @@ Overfull \hbox (100.26694pt too wide) in paragraph at lines 334--334
  starts always \T1/fvs/m/it/8 (-20) R \T1/fvm/m/sl/8 starts[] 
  []
 
-[184]
+[182]
 Overfull \hbox (47.12628pt too wide) in paragraph at lines 359--367
 \T1/mdput/m/n/10 (-20) Txt2tags) of this User guide are avail-able in the folde
 r \T1/fvm/m/n/10 doc/english/user_guide
  []
 
-) [185] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2008.tex
+) [183] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2008.tex
 Overfull \hbox (12.31897pt too wide) in paragraph at lines 38--42
 []\T1/mdput/m/n/10 (-20) Inside of Tinn-R, go to 'Op-tion-s/Ap-pli-ca-tion/Pro-
 cess-ing/Txt2tags'
@@ -5424,17 +5352,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-<./res/txt2tags.png, id=3479, 262.73157pt x 231.86626pt>
+<./res/txt2tags.png, id=3492, 262.73157pt x 231.86626pt>
 File: ./res/txt2tags.png Graphic file (type png)
 
 <use ./res/txt2tags.png>
 Package pdftex.def Info: ./res/txt2tags.png used on input line 45.
 (pdftex.def)             Requested size: 131.36545pt x 115.93283pt.
- [186]
+ [184]
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
- [187 <D:/GitHub/Tinn-R-doc/res/txt2tags.png>]
-[188]
+ [185 <D:/GitHub/Tinn-R-doc/res/txt2tags.png>]
+[186]
 Overfull \hbox (48.73103pt too wide) in paragraph at lines 166--166
  []        \T1/fvm/m/n/8 .trPaths <- paste(paste(Sys.getenv(\TS1/fvm/m/n/8 '\T1
 /fvm/m/n/8 APPDATA\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 ), \TS1/fvm/m/n/8 '\T1/fvm/m/n/
@@ -5460,13 +5388,13 @@ Overfull \hbox (35.18057pt too wide) in paragraph at lines 176--179
 \T1/mdput/m/n/10 (-20) .
  []
 
-[189]
+[187]
 Overfull \hbox (1.46007pt too wide) in paragraph at lines 223--225
 []\T1/mdput/m/n/10 (-20) Small cor-rec-tions and adap-ta-tions sug-gested by te
 sters. Many thanks
  []
 
-[190]
+[188]
 Overfull \hbox (14.06097pt too wide) in paragraph at lines 262--264
 []\T1/mdput/m/n/10 (-20) The old back-ups \T1/fvm/m/n/10 will not be com-pat-i-
 ble any-more with this
@@ -5517,7 +5445,7 @@ Overfull \hbox (44.24516pt too wide) in paragraph at lines 294--294
 faria/AppData/Roaming/Tinn-R/tmp/lines.r\TS1/fvm/m/sl/8 '[] 
  []
 
-[191] [192])
+[189] [190])
 Overfull \hbox (85.1122pt too wide) in paragraph at lines 428--39
 [][]
  []
@@ -5527,13 +5455,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 428--39
 
  []
 
-[193] [194] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2007.tex
+[191] [192] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2007.tex
 Overfull \hbox (13.61682pt too wide) in paragraph at lines 30--32
 []\T1/mdput/m/n/10 (-20) A cou-ple of bugs re-lated to the prior ver-sion \T1/m
 dput/m/it/10 (-20) 1.19.4.4 (Dec/13/2007)
  []
 
-[195]
+[193]
 Overfull \hbox (14.38907pt too wide) in paragraph at lines 82--84
 []\T1/mdput/m/n/10 (-20) A cou-ple of bugs re-lated to the prior ver-sion \T1/m
 dput/m/it/10 (-20) 1.19.4.0 (Nov/29/2007)
@@ -5551,7 +5479,7 @@ Overfull \hbox (92.4597pt too wide) in paragraph at lines 109--109
  system: Sun, Mercury...)[] 
  []
 
-[196]
+[194]
 Overfull \hbox (9.91437pt too wide) in paragraph at lines 117--117
  []            \T1/fvm/m/n/8 Authors: José Cláudio Faria and Jorge Alexandre Wi
 endl[] 
@@ -5562,41 +5490,41 @@ Overfull \hbox (5.69936pt too wide) in paragraph at lines 137--138
 []\T1/fvm/m/n/10 Please, don't re-move or re-name any of the fold-ers or
  []
 
-[197]
+[195]
 Overfull \hbox (0.63403pt too wide) in paragraph at lines 176--180
 \T1/mdput/m/it/10 (-20) cuts.bin \T1/mdput/m/n/10 (-20) to \T1/mdput/m/it/10 (-
 20) short-cuts.txt\T1/mdput/m/n/10 (-20) . There-fore, \T1/fvm/m/n/10 any old p
 ref-er-ences will be
  []
 
-<./res/1_19_2_3.png, id=3569, 269.005pt x 143.53625pt>
+<./res/1_19_2_3.png, id=3582, 269.005pt x 143.53625pt>
 File: ./res/1_19_2_3.png Graphic file (type png)
 
 <use ./res/1_19_2_3.png>
 Package pdftex.def Info: ./res/1_19_2_3.png used on input line 212.
 (pdftex.def)             Requested size: 134.50217pt x 71.76794pt.
- [198]
-<./res/1_19_2_1.png, id=3575, 152.57pt x 200.75pt>
+ [196]
+<./res/1_19_2_1.png, id=3588, 152.57pt x 200.75pt>
 File: ./res/1_19_2_1.png Graphic file (type png)
  <use ./res/1_19_2_1.png>
 Package pdftex.def Info: ./res/1_19_2_1.png used on input line 232.
 (pdftex.def)             Requested size: 76.2848pt x 100.37474pt.
 
-[199 <D:/GitHub/Tinn-R-doc/res/1_19_2_3.png (PNG copy)> <D:/GitHub/Tinn-R-doc/r
+[197 <D:/GitHub/Tinn-R-doc/res/1_19_2_3.png (PNG copy)> <D:/GitHub/Tinn-R-doc/r
 es/1_19_2_1.png (PNG copy)>]
-<./res/1_19_1_13.png, id=3585, 257.96375pt x 165.61874pt>
+<./res/1_19_1_13.png, id=3597, 257.96375pt x 165.61874pt>
 File: ./res/1_19_1_13.png Graphic file (type png)
 
 <use ./res/1_19_1_13.png>
 Package pdftex.def Info: ./res/1_19_1_13.png used on input line 278.
 (pdftex.def)             Requested size: 128.98155pt x 82.80916pt.
- [200 <D:/GitHub/Tinn-R-doc/res/1_19_1_13.png (PNG copy)>] [201]
+ [198 <D:/GitHub/Tinn-R-doc/res/1_19_1_13.png (PNG copy)>] [199]
 Overfull \hbox (4.85147pt too wide) in paragraph at lines 379--381
 []\T1/mdput/m/n/10 (-20) After changes it is nec-es-sary to type \T1/mdput/m/it
 /10 (-20) Save\T1/mdput/m/n/10 (-20) . Oth-er-wise, a ll changes
  []
 
-) [202] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2006.tex [203] [204]
+) [200] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2006.tex [201] [202]
 Overfull \hbox (82.3649pt too wide) in paragraph at lines 147--147
  []        \T1/fvm/m/n/8 <SHIFT + CTRL + +> (plus  (+) on the numeric keypad): 
 INCREASE (upper limit is 50)[] 
@@ -5608,7 +5536,7 @@ Overfull \hbox (82.3649pt too wide) in paragraph at lines 148--148
 DECREASE (lower limit is  1)[] 
  []
 
-[205] [206]
+[203] [204]
 Overfull \hbox (50.74866pt too wide) in paragraph at lines 263--263
  []        \T1/fvm/m/n/8 R: complex: The main syntax is R, \TS1/fvm/m/n/8 '\T1/
 fvm/m/n/8 <<<\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 >
@@ -5646,13 +5574,13 @@ Overfull \hbox (71.25075pt too wide) in paragraph at lines 278--278
 38/33.htm which describes[] 
  []
 
-[207] [208]
+[205] [206]
 Overfull \hbox (2.42522pt too wide) in paragraph at lines 393--394
 []\T1/mdput/m/n/10 (-20) or, i.e, \T1/fvm/m/n/10 any in-struc-tion with more th
 an one sin-gle line\T1/mdput/m/n/10 (-20) , 
  []
 
-[209] [210] [211] [212]
+[207] [208] [209] [210]
 Overfull \hbox (39.77489pt too wide) in paragraph at lines 587--587
  []            \T1/fvm/m/n/8 OpenBracket: array[THTMLBracket] of PChar=(\TS1/fv
 m/m/n/8 '\T1/fvm/m/n/8 <\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm
@@ -5668,22 +5596,22 @@ m/m/n/8 -->\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 %>\TS1
 /fvm/m/n/8 '\T1/fvm/m/n/8 );[] 
  []
 
-[213] [214] [215]
+[211] [212] [213]
 Underfull \hbox (badness 10000) in paragraph at lines 755--759
 \T1/mdput/m/n/10 (-3) http://www.luziusschneider.com/Speller/English/index.htm
  []
 
-[216]
+[214]
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
- [217] [218]
+ [215] [216]
 Overfull \hbox (1.92006pt too wide) in paragraph at lines 915--919
 []\T1/mdput/m/n/10 (-20) If the user uses the func-tion \T1/mdput/m/it/10 (-20)
  utils:::setWindowTitle(paste("-",getwd()))
  []
 
-[219]
+[217]
 Overfull \hbox (61.32974pt too wide) in paragraph at lines 931--931
  []        \T1/fvm/m/n/8 ..\Tinn-R\data           : dbRcard.dbf, dbRcard.dbt, d
 bRCard.ndx, dbRtip.dbf,[] 
@@ -5713,7 +5641,7 @@ Overfull \hbox (24.8231pt too wide) in paragraph at lines 937--937
 nd ReadMe.txt.[] 
  []
 
-[220]
+[218]
 Overfull \hbox (61.32974pt too wide) in paragraph at lines 990--990
  []        \T1/fvm/m/n/8 ..\Tinn-R\data           : dbRcard.dbf, dbRcard.dbt, d
 bRCard.ndx, dbRtip.dbf,[] 
@@ -5737,19 +5665,19 @@ Overfull \hbox (10.5316pt too wide) in paragraph at lines 995--995
 eadMe.txt;[] 
  []
 
-[221]
+[219]
 Overfull \hbox (5.43684pt too wide) in paragraph at lines 1088--1094
 \T1/mdput/m/n/10 (-20) ences was fixed. In fact, Sweave high-lighter is a multi
 -highlighter
  []
 
-[222] [223]
+[220] [221]
 Overfull \hbox (8.08241pt too wide) in paragraph at lines 1193--1196
 \T1/mdput/m/n/10 (-20) more user friendly. In con-se-quence, the main menu \T1/
 mdput/m/it/10 (-20) View \T1/mdput/m/n/10 (-20) was changed. 
  []
 
-) [224] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2005.tex
+) [222] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2005.tex
 Overfull \hbox (3.00035pt too wide) in paragraph at lines 6--8
 []\T1/mdput/m/n/10 (-20) New in-ter-face/op-tions for print-ing, which now en-a
 bles you to choose
@@ -5761,7 +5689,7 @@ Overfull \hbox (1.82155pt too wide) in paragraph at lines 23--25
 eased (re-stricted
  []
 
-[225]
+[223]
 Overfull \hbox (60.25017pt too wide) in paragraph at lines 78--78
  []            \T1/fvm/m/n/8 A tip: my preferred shortcuts are: \TS1/fvm/m/n/8 
 ``\T1/fvm/m/n/8 CTRL + D\TS1/fvm/m/n/8 `` \T1/fvm/m/n/8 for tip after //(//[] 
@@ -5774,7 +5702,7 @@ D\TS1/fvm/m/n/8 `` \T1/fvm/m/n/8 after \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 $\TS1/fvm/
 m/n/8 ' \T1/fvm/m/n/8 for code completion.[] 
  []
 
-[226] [227]
+[224] [225]
 Overfull \hbox (69.44035pt too wide) in paragraph at lines 168--168
  []            \T1/fvm/m/n/8 "Severe problem! The program cannot be initiated. 
 Please, contact the[] 
@@ -5877,7 +5805,7 @@ Overfull \hbox (20.8547pt too wide) in paragraph at lines 213--213
 ing  message.[] 
  []
 
-[228] [229]
+[226] [227]
 LaTeX Font Info:    Font shape `TS1/mdput/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 298.
 Missing character: There is no * in font mdputr8c!
@@ -5912,88 +5840,81 @@ ents and settings$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) UserName$\OMS/mdput
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
-[230] [231] [232]
+[228] [229] [230]
 Overfull \hbox (2.93315pt too wide) in paragraph at lines 465--469
 []\T1/mdput/m/n/10 (-20) The files \T1/mdput/m/it/10 (-20) Tinn-R_Read me.html\
 T1/mdput/m/n/10 (-20) , \T1/mdput/m/it/10 (-20) Tinn-R_Leia me.html \T1/mdput/m
 /n/10 (-20) (in Por-tuguese)
  []
 
-[233] [234] [235] [236] [237] [238]
+[231] [232] [233] [234] [235] [236]
 Overfull \hbox (1.07732pt too wide) in paragraph at lines 717--718
 []\T1/mdput/m/n/10 (-20) New in-ter-face/op-tions for print-ing, it re-mem-bers
  lat-est choic-es/pref-
  []
 
-[239]) [240] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2004.tex
+[237]) [238] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2004.tex
 Overfull \hbox (9.32751pt too wide) in paragraph at lines 12--14
 \T1/mdput/m/n/10 (-20) suite of com-po-nents called psv-Di-alogs writ-ten by \T
 1/fvm/m/n/10 Ser-hiy Perevoznyk\T1/mdput/m/n/10 (-20) .
  []
 
-D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2004.tex:20: Undefined control sequence
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[241] [242]
-Overfull \hbox (93.25075pt too wide) in paragraph at lines 99--99
+[239] [240]
+Overfull \hbox (93.25075pt too wide) in paragraph at lines 97--97
  []            \T1/fvm/m/n/8 Note: Tinn-R 0.0.9.0 r1.13 is now frozen and goes 
 through a wider beta test[] 
  []
 
 
-Overfull \hbox (93.053pt too wide) in paragraph at lines 100--100
+Overfull \hbox (93.053pt too wide) in paragraph at lines 98--98
  []            \T1/fvm/m/n/8 Tinn-R 0.0.9.0 r1.14 and over are considered devel
 opment versions; they may[] 
  []
 
-[243] [244]
-Overfull \hbox (25.61415pt too wide) in paragraph at lines 193--193
+[241] [242]
+Overfull \hbox (25.61415pt too wide) in paragraph at lines 191--191
  []        \T1/fvm/m/n/8 Temporarily, and until a better solution is found, to 
 work properly,[] 
  []
 
 
-Overfull \hbox (27.59836pt too wide) in paragraph at lines 194--194
+Overfull \hbox (27.59836pt too wide) in paragraph at lines 192--192
  []        \T1/fvm/m/n/8 if the window is horizontally split the Search/Replace
  must be  made[] 
  []
 
 
-Overfull \hbox (50.50212pt too wide) in paragraph at lines 195--195
+Overfull \hbox (50.50212pt too wide) in paragraph at lines 193--193
  []        \T1/fvm/m/n/8 at the bottom (main) window, because if it\TS1/fvm/m/n
 /8 '\T1/fvm/m/n/8 s at the top window (secondary)[] 
  []
 
 
-Overfull \hbox (76.2967pt too wide) in paragraph at lines 196--196
+Overfull \hbox (76.2967pt too wide) in paragraph at lines 194--194
  []        \T1/fvm/m/n/8 it doesn\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 t question the c
 onfirmation to each substitution of the text occurrence.[] 
  []
 
 
-Overfull \hbox (47.44035pt too wide) in paragraph at lines 197--197
+Overfull \hbox (47.44035pt too wide) in paragraph at lines 195--195
  []        \T1/fvm/m/n/8 If the window is vertically split, the Search/Replace 
 must be made at the[] 
  []
 
 
-Overfull \hbox (43.47195pt too wide) in paragraph at lines 198--198
+Overfull \hbox (43.47195pt too wide) in paragraph at lines 196--196
  []        \T1/fvm/m/n/8 left window (the right window does not question the co
 nfirmation to each[] 
  []
 
 
-Overfull \hbox (96.25429pt too wide) in paragraph at lines 199--199
+Overfull \hbox (96.25429pt too wide) in paragraph at lines 197--197
  []        \T1/fvm/m/n/8 substitution of the occurrence). For both, any key wil
 l synchronize the split windows.[] 
  []
 
-[245] [246]
-Overfull \hbox (40.22322pt too wide) in paragraph at lines 260--264
+[243] [244]
+Overfull \hbox (40.22322pt too wide) in paragraph at lines 258--262
 \T1/mdput/m/n/8 (-20) (c:$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) arquivos de 
 programas$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) borland$\OMS/mdput/m/n/8 n$\
 T1/mdput/m/n/8 (-20) componentes$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) syned
@@ -6001,7 +5922,11 @@ it$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) source$\OMS/mdput/m/n/8 n$\T1/mdput
 /m/n/8 (-20) SynEditWordWrap.pas,
  []
 
-[247])) [248] (D:\GitHub\Tinn-R-doc\sub\RManuals.tex
+)) [245] (D:\GitHub\Tinn-R-doc\sub\RManuals.tex [246
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
@@ -6036,38 +5961,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
-[249
-
-
-
-]) [250] (D:\GitHub\Tinn-R-doc\sub\gpl3.tex
+[247]) [248] (D:\GitHub\Tinn-R-doc\sub\gpl3.tex
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
 (Font)              scaled to size 8.27998pt on input line 19.
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <9> not available
 (Font)              Font shape `T1/mdput/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
 (Font)              scaled to size 8.27998pt on input line 19.
- [251
+ [249
 
 
 
 ]
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
 (Font)              scaled to size 11.03998pt on input line 83.
- [252] [253] [254]
-[255] [256] [257] [258] [259] [260] [261] [262]
+ [250] [251] [252]
+[253] [254] [255] [256] [257] [258] [259] [260]
 Overfull \hbox (6.17523pt too wide) in paragraph at lines 625--635
 []\T1/mdput/m/n/10 (-20) IN NO EVENT UN-LESS RE-QUIRED BY AP-PLI-CA-BLE LAW OR 
 AGREED
  []
 
-[263]
+[261]
 Overfull \hbox (6.84973pt too wide) in paragraph at lines 663--663
  []\T1/fvm/m/n/8 <one line to give the program\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 s n
 ame and a brief idea of what it does.>[] 
  []
 
-[264]
+[262]
 Overfull \hbox (16.45738pt too wide) in paragraph at lines 691--691
  []\T1/fvm/m/n/8 This program comes with ABSOLUTELY NO WARRANTY; for details ty
 pe \TS1/fvm/m/n/8 `\T1/fvm/m/n/8 show w\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 .[] 
@@ -6079,10 +6000,10 @@ Overfull \hbox (1.89912pt too wide) in paragraph at lines 707--713
 gnu.org/philosophy/why-
  []
 
-) [265] (D:\GitHub\Tinn-R-doc\sub\zzzGlossary.tex)
+) [263] (D:\GitHub\Tinn-R-doc\sub\zzzGlossary.tex)
 (D:\GitHub\Tinn-R-doc\sub\zzzCrossRefs.tex)
 (D:\GitHub\Tinn-R-doc\sub\zzzIndex.tex) (D:\GitHub\Tinn-R-doc\User_guide.ind
-[266
+[264
 
 
 
@@ -6092,14 +6013,14 @@ gnu.org/philosophy/why-
 
 
 
-] [267
+] [265
 
-] [268] [269] [270]
+] [266] [267] [268]
 Overfull \hbox (4.50198pt too wide) in paragraph at lines 442--443
-[]| \T1/mdput/m/n/10 (-20) tools re-sources database, [][]130[][] 
+[]| \T1/mdput/m/n/10 (-20) tools re-sources database, [][]128[][] 
  []
 
-[271] [272
+[269] [270
 
 ]) (D:\GitHub\Tinn-R-doc\sub\zzzAuthors.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--11
@@ -6121,13 +6042,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--36
 
  []
 
-[273
+[271
 
 
 
 
 ] (D:\GitHub\Tinn-R-doc\sub\zzzBackCover.tex
-<./cover/backCover.pdf, id=4591, page=1, 498.00053pt x 668.4975pt>
+<./cover/backCover.pdf, id=4604, page=1, 498.00053pt x 668.4975pt>
 File: ./cover/backCover.pdf Graphic file (type pdf)
 
 <use ./cover/backCover.pdf, page 1>
@@ -6151,7 +6072,7 @@ File: ./cover/backCover.pdf Graphic file (type pdf)
 <use ./cover/backCover.pdf, page 1>
 Package pdftex.def Info: ./cover/backCover.pdf, page1 used on input line 4.
 (pdftex.def)             Requested size: 498.47043pt x 669.12828pt.
- [274
+ [272
 
 
  <D:/GitHub/Tinn-R-doc/cover/backCover.pdf>])
@@ -6181,7 +6102,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `User_guide.out' has not changed.
-(rerunfilecheck)             Checksum: 1AA781661B513674C074A54EDA6DC202;11996.
+(rerunfilecheck)             Checksum: 530C9977082E507F2D73595DD9F86D24;12252.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -6189,10 +6110,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 25866 strings out of 493921
- 405791 string characters out of 3144870
- 722915 words of memory out of 3000000
- 26078 multiletter control sequences out of 15000+200000
+ 25872 strings out of 493921
+ 405879 string characters out of 3144870
+ 722880 words of memory out of 3000000
+ 26082 multiletter control sequences out of 15000+200000
  344052 words of font info for 742 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  63i,18n,94p,918b,2521s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -6215,9 +6136,9 @@ type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
 obe/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr
 i8a.pfb>
-Output written on User_guide.pdf (286 pages, 3028558 bytes).
+Output written on User_guide.pdf (284 pages, 3029307 bytes).
 PDF statistics:
- 4946 PDF objects out of 5155 (max. 8388607)
- 1413 named destinations out of 1440 (max. 500000)
- 88365 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 4959 PDF objects out of 5155 (max. 8388607)
+ 1415 named destinations out of 1440 (max. 500000)
+ 88397 words of extra memory for PDF output out of 89155 (max. 10000000)
 
