@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  1 FEB 2014 09:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  2 FEB 2014 06:20
 entering extended mode
 **eBook
 (D:\GitHub\Tinn-R-doc\eBook.tex
@@ -1166,14 +1166,8 @@ Writing index file eBook.idx
 (D:\GitHub\Tinn-R-doc\sub\aaaListOfTables.aux)
 (D:\GitHub\Tinn-R-doc\sub\oneOverview.aux)
 (D:\GitHub\Tinn-R-doc\sub\twoBasics.aux)
-(D:\GitHub\Tinn-R-doc\sub\threeWorkingWith.aux
-
-LaTeX Warning: Label `fig:rcard_dlg' multiply defined.
-
-
-LaTeX Warning: Label `fig:mirrors_dlg' multiply defined.
-
-) (D:\GitHub\Tinn-R-doc\sub\fourMenuDescription.aux)
+(D:\GitHub\Tinn-R-doc\sub\threeWorkingWith.aux)
+(D:\GitHub\Tinn-R-doc\sub\fourMenuDescription.aux)
 (D:\GitHub\Tinn-R-doc\sub\fiveSecrets.aux)
 (D:\GitHub\Tinn-R-doc\sub\WhatIsNew.aux) (D:\GitHub\Tinn-R-doc\sub\RManuals.aux
 ) (D:\GitHub\Tinn-R-doc\sub\gpl3.aux) (D:\GitHub\Tinn-R-doc\sub\zzzGlossary.aux
@@ -6272,17 +6266,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `eBook.out' has not changed.
 (rerunfilecheck)             Checksum: C9CF14A88BDDBF4C3B24E4ABF2EABCF5;12554.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 25919 strings out of 493921
- 407064 string characters out of 3144870
- 726418 words of memory out of 3000000
- 26099 multiletter control sequences out of 15000+200000
+ 25921 strings out of 493921
+ 407100 string characters out of 3144870
+ 726505 words of memory out of 3000000
+ 26101 multiletter control sequences out of 15000+200000
  328439 words of font info for 736 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  63i,18n,94p,913b,2521s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -6305,7 +6295,7 @@ type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
 obe/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr
 i8a.pfb>
-Output written on eBook.pdf (293 pages, 3801710 bytes).
+Output written on eBook.pdf (293 pages, 3801700 bytes).
 PDF statistics:
  5067 PDF objects out of 5155 (max. 8388607)
  1429 named destinations out of 1440 (max. 500000)
