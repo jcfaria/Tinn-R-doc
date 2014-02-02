@@ -430,39 +430,39 @@
 \indexentry{R!card|hyperpage}{72}
 \indexentry{tools interface!mirrors (R)|hyperpage}{73}
 \indexentry{R!mirrors|hyperpage}{73}
-\indexentry{filetabs|hyperpage}{75}
-\indexentry{toolsbar|hyperpage}{76}
-\indexentry{toolsbar!showhide|hyperpage}{76}
-\indexentry{toolsbar!disposition|hyperpage}{77}
-\indexentry{find and replace|hyperpage}{78}
-\indexentry{find|hyperpage}{78}
-\indexentry{replace|hyperpage}{78}
-\indexentry{search!in files|hyperpage}{80}
-\indexentry{search!case sensitivity|hyperpage}{80}
-\indexentry{search!regular expressions|hyperpage}{80}
-\indexentry{search!results|hyperpage}{80}
-\indexentry{databases|hyperpage}{82}
-\indexentry{databases!shortcuts|hyperpage}{82}
-\indexentry{databases!completion|hyperpage}{82}
-\indexentry{databases!comments|hyperpage}{83}
-\indexentry{R!card|hyperpage}{84}
-\indexentry{databases!card (R)|hyperpage}{84}
-\indexentry{R!mirror|hyperpage}{85}
-\indexentry{databases!mirrors (R)|hyperpage}{85}
-\indexentry{regular expressions|hyperpage}{87}
-\indexentry{regular expressions!simple matches|hyperpage}{87}
-\indexentry{regular expressions!escape sequences|hyperpage}{87}
-\indexentry{regular expressions!character classes|hyperpage}{88}
-\indexentry{metacharacters|hyperpage}{89}
-\indexentry{metacharacters!line separators|hyperpage}{89}
-\indexentry{metacharacters!predefined classes|hyperpage}{89}
-\indexentry{metacharacters!word boundaries|hyperpage}{90}
-\indexentry{metacharacters!iterators|hyperpage}{90}
-\indexentry{metacharacters!alternatives|hyperpage}{91}
-\indexentry{metacharacters!subexpressions|hyperpage}{91}
-\indexentry{metacharacters!backreferences|hyperpage}{92}
-\indexentry{metacharacters!backreferences|hyperpage}{92}
-\indexentry{metacharacters!find examples|hyperpage}{92}
+\indexentry{filetabs|hyperpage}{76}
+\indexentry{toolsbar|hyperpage}{77}
+\indexentry{toolsbar!showhide|hyperpage}{77}
+\indexentry{toolsbar!disposition|hyperpage}{78}
+\indexentry{find and replace|hyperpage}{79}
+\indexentry{find|hyperpage}{79}
+\indexentry{replace|hyperpage}{79}
+\indexentry{search!in files|hyperpage}{81}
+\indexentry{search!case sensitivity|hyperpage}{81}
+\indexentry{search!regular expressions|hyperpage}{81}
+\indexentry{search!results|hyperpage}{81}
+\indexentry{databases|hyperpage}{83}
+\indexentry{databases!shortcuts|hyperpage}{83}
+\indexentry{databases!completion|hyperpage}{83}
+\indexentry{databases!comments|hyperpage}{84}
+\indexentry{R!card|hyperpage}{85}
+\indexentry{databases!card (R)|hyperpage}{85}
+\indexentry{R!mirror|hyperpage}{86}
+\indexentry{databases!mirrors (R)|hyperpage}{86}
+\indexentry{regular expressions|hyperpage}{88}
+\indexentry{regular expressions!simple matches|hyperpage}{88}
+\indexentry{regular expressions!escape sequences|hyperpage}{88}
+\indexentry{regular expressions!character classes|hyperpage}{89}
+\indexentry{metacharacters|hyperpage}{90}
+\indexentry{metacharacters!line separators|hyperpage}{90}
+\indexentry{metacharacters!predefined classes|hyperpage}{90}
+\indexentry{metacharacters!word boundaries|hyperpage}{91}
+\indexentry{metacharacters!iterators|hyperpage}{91}
+\indexentry{metacharacters!alternatives|hyperpage}{92}
+\indexentry{metacharacters!subexpressions|hyperpage}{92}
+\indexentry{metacharacters!backreferences|hyperpage}{93}
+\indexentry{metacharacters!backreferences|hyperpage}{93}
+\indexentry{metacharacters!find examples|hyperpage}{93}
 \indexentry{file menu|hyperpage}{96}
 \indexentry{file menu!template|hyperpage}{96}
 \indexentry{template!R script|hyperpage}{96}
