@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  2 FEB 2014 06:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  2 FEB 2014 23:18
 entering extended mode
 **eBook
 (D:\GitHub\Tinn-R-doc\eBook.tex
@@ -5204,37 +5204,37 @@ Underfull \hbox (badness 10000) in alignment at lines 24--24
 
 
 ] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2014.tex
-Overfull \hbox (7.66675pt too wide) in paragraph at lines 12--14
+Overfull \hbox (7.66675pt too wide) in paragraph at lines 13--15
 \T1/fvm/m/n/10 vanced \T1/mdput/m/n/10 (-20) are now more un-der-stand-able. Th
 anks to \T1/fvm/m/n/10 Berry Boessenkool
  []
 
 [164]) [165] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2013.tex [166]
-Overfull \hbox (0.11523pt too wide) in paragraph at lines 81--82
+Overfull \hbox (0.11523pt too wide) in paragraph at lines 82--83
 []\T1/mdput/m/n/10 (-20) Parts of the source code re-lated to \T1/fvm/m/n/10 Co
 de com-ple-tion \T1/mdput/m/n/10 (-20) were en-hanced. 
  []
 
 
-Overfull \hbox (86.22076pt too wide) in paragraph at lines 87--88
+Overfull \hbox (86.22076pt too wide) in paragraph at lines 88--89
 []\T1/mdput/m/n/10 (-20) The URL of the project was changed to: http://nbcgib.u
 esc.br/lec/software/editores/tinn-
  []
 
 [167]
 LaTeX Font Info:    Font shape `T1/fvm/bx/n' in size <10> not available
-(Font)              Font shape `T1/fvm/b/n' tried instead on input line 120.
+(Font)              Font shape `T1/fvm/b/n' tried instead on input line 121.
 LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
-(Font)              scaled to size 8.24005pt on input line 120.
+(Font)              scaled to size 8.24005pt on input line 121.
  [168]
-Overfull \hbox (7.99176pt too wide) in paragraph at lines 131--138
+Overfull \hbox (7.99176pt too wide) in paragraph at lines 132--139
 []\T1/mdput/m/n/10 (-20) The \T1/fvm/m/n/10 Com-ment\T1/mdput/m/n/10 (-20) , \T
 1/fvm/m/n/10 Un-com-ment first \T1/mdput/m/n/10 (-20) and \T1/fvm/m/n/10 Un-com
 -ment all \T1/mdput/m/n/10 (-20) pro-ce-dures were
  []
 
 [169]) [170] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2012.tex
-Overfull \hbox (7.32373pt too wide) in paragraph at lines 13--14
+Overfull \hbox (7.32373pt too wide) in paragraph at lines 14--15
 []\T1/mdput/m/n/10 (-20) The main menu \T1/fvm/m/n/10 Help/-Main/-File con-ver-
 sion (in-tro-duc-tion) \T1/mdput/m/n/10 (-20) was
  []
@@ -5242,7 +5242,7 @@ sion (in-tro-duc-tion) \T1/mdput/m/n/10 (-20) was
 [171]
 Missing character: There is no * in font mdputr8c!
 
-Overfull \hbox (12.738pt too wide) in paragraph at lines 52--53
+Overfull \hbox (12.738pt too wide) in paragraph at lines 53--54
 []\T1/mdput/m/n/10 (-20) Simple: \T1/fvm/m/n/10 search()\T1/mdput/m/n/10 (-20) 
 . The R in-ter-preter will re-ceive $\OML/mdput/m/it/10 >$ \T1/fvm/m/n/10 searc
 h()\T1/mdput/m/n/10 (-20) ; 
@@ -5250,255 +5250,255 @@ h()\T1/mdput/m/n/10 (-20) ;
 
 Missing character: There is no * in font mdputr8c!
 
-Overfull \hbox (23.84996pt too wide) in paragraph at lines 53--56
+Overfull \hbox (23.84996pt too wide) in paragraph at lines 54--57
 \T1/fvm/m/n/10 iris \T1/mdput/m/n/10 (-20) or it is se-lected, the R in-ter-pre
 ter will re-ceive $\OML/mdput/m/it/10 >$ \T1/fvm/m/n/10 View(iris,
  []
 
 Missing character: There is no * in font mdputr8c!
 
-Overfull \hbox (17.71602pt too wide) in paragraph at lines 56--59
+Overfull \hbox (17.71602pt too wide) in paragraph at lines 57--60
 []\T1/mdput/m/n/10 (-20) Replace whole file: \T1/fvm/m/n/10 source(%f, echo=TRU
 E, ver-bose=TRUE)\T1/mdput/m/n/10 (-20) .
  []
 
 
-Overfull \hbox (3.10696pt too wide) in paragraph at lines 63--65
+Overfull \hbox (3.10696pt too wide) in paragraph at lines 64--66
 []\T1/mdput/m/n/10 (-20) The chap-ter \T1/fvm/m/n/10 Some se-crets for an ef-fi
 -cient use \T1/mdput/m/n/10 (-20) is be-ing re-vised
  []
 
 [172]
-Overfull \hbox (18.65956pt too wide) in paragraph at lines 72--74
+Overfull \hbox (18.65956pt too wide) in paragraph at lines 73--75
 \T1/mdput/m/n/10 (-20) which do not rec-og-nize the \T1/fvm/m/n/10 Op-tion-s/Ap
 -pli-ca-tion/R/R-gui/Recog-
  []
 
 ) [173] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2010.tex
-Overfull \hbox (0.61267pt too wide) in paragraph at lines 7--9
+Overfull \hbox (0.61267pt too wide) in paragraph at lines 8--10
 []\T1/mdput/m/n/10 (-20) A bug, ac-ci-den-tally in-tro-duced in ver-sion 2.3.7.
 0, which averted
  []
 
 
-Overfull \hbox (3.88242pt too wide) in paragraph at lines 32--33
+Overfull \hbox (3.88242pt too wide) in paragraph at lines 33--34
 []\T1/mdput/m/n/10 (-20) This ver-sion is \T1/fvm/m/n/10 fully com-pat-i-ble wi
 th Win-dows 7 and R 2.12.0\T1/mdput/m/n/10 (-20) . 
  []
 
 [174]
-Overfull \hbox (1.42473pt too wide) in paragraph at lines 65--66
+Overfull \hbox (1.42473pt too wide) in paragraph at lines 66--67
 []\T1/mdput/m/n/10 (-20) Permanent con-fig-u-ra-tion of the file Rpro-file.site
  from the menu
  []
 
 [175]
-Overfull \hbox (10.88852pt too wide) in paragraph at lines 101--105
+Overfull \hbox (10.88852pt too wide) in paragraph at lines 102--106
 \T1/mdput/m/n/10 (-20) to chap-ters \T1/fvm/m/n/10 Overview, Ba-sics, Work-ing 
 with, Menu de-scrip-tion
  []
 
 
-Overfull \hbox (0.34935pt too wide) in paragraph at lines 105--109
+Overfull \hbox (0.34935pt too wide) in paragraph at lines 106--110
 []\T1/mdput/m/n/10 (-20) The \T1/fvm/m/n/10 Ap-pli-ca-tion op-tion-s/R/Ba-sic \
 T1/mdput/m/n/10 (-20) has a new op-tion: \T1/fvm/m/n/10 Smart (all
  []
 
 ) [176] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2009.tex
-Overfull \hbox (22.31955pt too wide) in paragraph at lines 13--18
+Overfull \hbox (22.31955pt too wide) in paragraph at lines 14--19
 \T1/fvm/m/n/10 cess vi-o-la-tion at ad-dress NUM-BER in mod-ule 'Tinn-R.exe'.
  []
 
 
-Overfull \hbox (5.09816pt too wide) in paragraph at lines 13--18
+Overfull \hbox (5.09816pt too wide) in paragraph at lines 14--19
 \T1/fvm/m/n/10 Read of ad-dress FFFFFFFF\T1/mdput/m/n/10 (-20) . This bug start
 ed in ver-sion 2.3.4.0
  []
 
 
-Overfull \hbox (31.829pt too wide) in paragraph at lines 41--46
+Overfull \hbox (31.829pt too wide) in paragraph at lines 42--47
 []\T1/mdput/m/n/10 (-20) A bug re-lated to the pack-age \T1/fvm/m/n/10 sem \T1/
 mdput/m/n/10 (-20) by John Fox (func-tions: \T1/fvm/m/n/10 read.moments
  []
 
 [177]
-Overfull \hbox (47.92516pt too wide) in paragraph at lines 70--70
+Overfull \hbox (47.92516pt too wide) in paragraph at lines 71--71
  []          \T1/fvm/m/sl/8 installed <- necessary %in% installed.packages()[, 
 \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 Package\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ][] 
  []
 
 [178]
-Overfull \hbox (14.25113pt too wide) in paragraph at lines 147--147
+Overfull \hbox (14.25113pt too wide) in paragraph at lines 148--148
  []      \T1/fvm/m/sl/8 [1] "backsolve"             "backSpline"            "ba
 cteria"[] 
  []
 
 
-Overfull \hbox (45.99832pt too wide) in paragraph at lines 148--148
+Overfull \hbox (45.99832pt too wide) in paragraph at lines 149--149
  []      \T1/fvm/m/sl/8 [4] "balanceMethodsList"    "ballocation"           "ba
 ndwidth.kernel"[] 
  []
 
 
-Overfull \hbox (42.02992pt too wide) in paragraph at lines 149--149
+Overfull \hbox (42.02992pt too wide) in paragraph at lines 150--150
  []      \T1/fvm/m/sl/8 [7] "bandwidth.nrd"         "barplot"               "ba
 rplot.default"[] 
  []
 
 
-Overfull \hbox (38.06152pt too wide) in paragraph at lines 150--150
+Overfull \hbox (38.06152pt too wide) in paragraph at lines 151--151
  []      \T1/fvm/m/sl/8 [10] "bartlett.test"         "base.-.POSIXt"         "b
 ase.+.POSIXt"[] 
  []
 
 
-Overfull \hbox (34.09312pt too wide) in paragraph at lines 151--151
+Overfull \hbox (34.09312pt too wide) in paragraph at lines 152--152
  []      \T1/fvm/m/sl/8 [13] "base.difftime"         "base.help"             "b
 ase.library"[] 
  []
 
 
-Overfull \hbox (69.80872pt too wide) in paragraph at lines 152--152
+Overfull \hbox (69.80872pt too wide) in paragraph at lines 153--153
  []      \T1/fvm/m/sl/8 [16] "base.loadhistory"      "base.lockEnvironment"  "b
 ase.rbind.data.frame"[] 
  []
 
 
-Overfull \hbox (14.25113pt too wide) in paragraph at lines 153--153
+Overfull \hbox (14.25113pt too wide) in paragraph at lines 154--154
  []      \T1/fvm/m/sl/8 [19] "base.save.image"       "base.savehistory"      "b
 aseenv"[] 
  []
 
 
-Overfull \hbox (0.89227pt too wide) in paragraph at lines 159--161
+Overfull \hbox (0.89227pt too wide) in paragraph at lines 160--162
 []\T1/mdput/m/n/10 (-20) The fam-ily \T1/mdput/m/it/10 (-20) rm-Con-trols \T1/m
 dput/m/n/10 (-20) of com-po-nents was re-moved from the project. 
  []
 
 [179]
-Overfull \hbox (4.79727pt too wide) in paragraph at lines 224--231
+Overfull \hbox (4.79727pt too wide) in paragraph at lines 225--232
 []\T1/mdput/m/n/10 (-20) Under Win-dows Vista the op-tion \T1/mdput/m/it/10 (-2
 0) R/-Con-fig-ure/Per-ma-nent (Rpro-
  []
 
 [180]
-Overfull \hbox (99.74551pt too wide) in paragraph at lines 264--264
+Overfull \hbox (99.74551pt too wide) in paragraph at lines 265--265
  []            \T1/fvm/m/n/8 # uncomment the line below if you want Tinn-R star
 ts always \RR{} starts[] 
  []
 
 
-Overfull \hbox (8.14572pt too wide) in paragraph at lines 269--276
+Overfull \hbox (8.14572pt too wide) in paragraph at lines 270--277
 \T1/fvm/m/n/10 ver-sion 1.0.1 or 1.0.2\T1/mdput/m/n/10 (-20) ). In the \T1/fvm/
 m/n/10 new ver-sion of the TinnR
  []
 
 
-Overfull \hbox (61.50356pt too wide) in paragraph at lines 280--280
+Overfull \hbox (61.50356pt too wide) in paragraph at lines 281--281
  []              \T1/fvm/m/n/8 ##==============================================
 =================[] 
  []
 
 [181]
-Overfull \hbox (61.50356pt too wide) in paragraph at lines 283--283
+Overfull \hbox (61.50356pt too wide) in paragraph at lines 284--284
  []              \T1/fvm/m/n/8 ##==============================================
 =================[] 
  []
 
 
-Overfull \hbox (55.55095pt too wide) in paragraph at lines 284--284
+Overfull \hbox (55.55095pt too wide) in paragraph at lines 285--285
  []              \T1/fvm/m/n/8 ## Set the URL of the preferred repository, belo
 w some examples:[] 
  []
 
 
-Overfull \hbox (65.24078pt too wide) in paragraph at lines 285--285
+Overfull \hbox (65.24078pt too wide) in paragraph at lines 286--286
  []              \T1/fvm/m/n/8 options(repos=\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 http
 ://cran.at.r-project.org/\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 )      # Austria/Wien[] 
 
  []
 
 
-Overfull \hbox (53.33559pt too wide) in paragraph at lines 286--286
+Overfull \hbox (53.33559pt too wide) in paragraph at lines 287--287
  []              \T1/fvm/m/n/8 #options(repos=\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 htt
 p://cran-r.c3sl.ufpr.br/\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 )       # Brazil/PR[] 
  []
 
 
-Overfull \hbox (53.33559pt too wide) in paragraph at lines 287--287
+Overfull \hbox (53.33559pt too wide) in paragraph at lines 288--288
  []              \T1/fvm/m/n/8 #options(repos=\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 htt
 p://cran.fiocruz.br/\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 )           # Brazil/RJ[] 
  []
 
 
-Overfull \hbox (53.33559pt too wide) in paragraph at lines 288--288
+Overfull \hbox (53.33559pt too wide) in paragraph at lines 289--289
  []              \T1/fvm/m/n/8 #options(repos=\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 htt
 p://www.vps.fmvz.usp.br/CRAN/\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 )  # Brazil/SP[] 
  []
 
 
-Overfull \hbox (53.33559pt too wide) in paragraph at lines 289--289
+Overfull \hbox (53.33559pt too wide) in paragraph at lines 290--290
  []              \T1/fvm/m/n/8 #options(repos=\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 htt
 p://brieger.esalq.usp.br/CRAN/\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 ) # Brazil/SP[] 
  []
 
 
-Overfull \hbox (45.39879pt too wide) in paragraph at lines 296--296
+Overfull \hbox (45.39879pt too wide) in paragraph at lines 297--297
  []              \T1/fvm/m/n/8 installed <- necessary %in% installed.packages()
 [, \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 Package\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 ][] 
  []
 
 
-Overfull \hbox (124.99794pt too wide) in paragraph at lines 304--304
+Overfull \hbox (124.99794pt too wide) in paragraph at lines 305--305
  []              \T1/fvm/m/n/8 ## Uncomment the two lines below if you want Tin
 n-R to always start R at start-up[] 
  []
 
 LaTeX Font Info:    Font shape `T1/fvs/m/sl' in size <8> not available
-(Font)              Font shape `T1/fvs/m/it' tried instead on input line 334.
+(Font)              Font shape `T1/fvs/m/it' tried instead on input line 335.
 LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
-(Font)              scaled to size 6.59204pt on input line 334.
+(Font)              scaled to size 6.59204pt on input line 335.
 
-Overfull \hbox (100.26694pt too wide) in paragraph at lines 334--334
+Overfull \hbox (100.26694pt too wide) in paragraph at lines 335--335
  []          \T1/fvm/m/sl/8 ## Uncomment the two lines below if you want Tinn-R
  starts always \T1/fvs/m/it/8 (-20) R \T1/fvm/m/sl/8 starts[] 
  []
 
 [182]
-Overfull \hbox (47.12628pt too wide) in paragraph at lines 359--367
+Overfull \hbox (47.12628pt too wide) in paragraph at lines 360--368
 \T1/mdput/m/n/10 (-20) Txt2tags) of this User guide are avail-able in the folde
 r \T1/fvm/m/n/10 doc/english/user_guide
  []
 
 ) [183] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2008.tex
-Overfull \hbox (12.31897pt too wide) in paragraph at lines 38--42
+Overfull \hbox (12.31897pt too wide) in paragraph at lines 39--43
 []\T1/mdput/m/n/10 (-20) Inside of Tinn-R, go to 'Op-tion-s/Ap-pli-ca-tion/Pro-
 cess-ing/Txt2tags'
  []
 
 
-Overfull \hbox (15.14372pt too wide) in paragraph at lines 38--42
+Overfull \hbox (15.14372pt too wide) in paragraph at lines 39--43
 \T1/mdput/m/n/10 (-20) the paths of in-ter-preter (\T1/fvm/m/n/10 python.exe\T1
 /mdput/m/n/10 (-20) ) and the con-verter (\T1/fvm/m/n/10 txt2tags
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-<./res/txt2tags.png, id=3588, 262.73157pt x 231.86626pt>
+<./res/txt2tags.png, id=3648, 262.73157pt x 231.86626pt>
 File: ./res/txt2tags.png Graphic file (type png)
 
 <use ./res/txt2tags.png>
-Package pdftex.def Info: ./res/txt2tags.png used on input line 45.
+Package pdftex.def Info: ./res/txt2tags.png used on input line 46.
 (pdftex.def)             Requested size: 131.36545pt x 115.93283pt.
  [184]
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
  [185 <D:/GitHub/Tinn-R-doc/res/txt2tags.png>]
 [186]
-Overfull \hbox (48.73103pt too wide) in paragraph at lines 166--166
+Overfull \hbox (48.73103pt too wide) in paragraph at lines 167--167
  []        \T1/fvm/m/n/8 .trPaths <- paste(paste(Sys.getenv(\TS1/fvm/m/n/8 '\T1
 /fvm/m/n/8 APPDATA\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 ), \TS1/fvm/m/n/8 '\T1/fvm/m/n/
 8 \\Tinn-R\\tmp\\\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , sep=\TS1/fvm/m/n/8 ''\T1/fvm/m
@@ -5506,7 +5506,7 @@ Overfull \hbox (48.73103pt too wide) in paragraph at lines 166--166
  []
 
 
-Overfull \hbox (112.26273pt too wide) in paragraph at lines 167--167
+Overfull \hbox (112.26273pt too wide) in paragraph at lines 168--168
  []        \T1/fvm/m/n/8 c(\TS1/fvm/m/n/8 ''\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1
 /fvm/m/n/8 search.txt\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm/m/
 n/8 objects.txt\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 fi
@@ -5517,206 +5517,206 @@ m/m/n/8 ), sep=\TS1/fvm/m/n/8 ''\T1/fvm/m/n/8 )[]
  []
 
 
-Overfull \hbox (35.18057pt too wide) in paragraph at lines 176--179
+Overfull \hbox (35.18057pt too wide) in paragraph at lines 177--180
 []\T1/mdput/m/n/10 (-20) A new op-tion was added to the \T1/mdput/m/it/10 (-20)
  Op-tions\T1/mdput/m/n/10 (-20) : \T1/fvm/m/n/10 max.deparse.length (echo=TRUE)
 \T1/mdput/m/n/10 (-20) .
  []
 
 [187]
-Overfull \hbox (1.46007pt too wide) in paragraph at lines 223--225
+Overfull \hbox (1.46007pt too wide) in paragraph at lines 224--226
 []\T1/mdput/m/n/10 (-20) Small cor-rec-tions and adap-ta-tions sug-gested by te
 sters. Many thanks
  []
 
 [188]
-Overfull \hbox (14.06097pt too wide) in paragraph at lines 262--264
+Overfull \hbox (14.06097pt too wide) in paragraph at lines 263--265
 []\T1/mdput/m/n/10 (-20) The old back-ups \T1/fvm/m/n/10 will not be com-pat-i-
 ble any-more with this
  []
 
 
-Overfull \hbox (10.51376pt too wide) in paragraph at lines 288--288
+Overfull \hbox (10.51376pt too wide) in paragraph at lines 289--289
  []          \T1/fvm/m/sl/8 Tmp = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/Users/jcfa
 ria/AppData/Roaming/Tinn-R/tmp/\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ,[] 
  []
 
 
-Overfull \hbox (62.10295pt too wide) in paragraph at lines 289--289
+Overfull \hbox (62.10295pt too wide) in paragraph at lines 290--290
  []          \T1/fvm/m/sl/8 Search = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/Users/j
 cfaria/AppData/Roaming/Tinn-R/tmp/search.txt\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ,[]
  
  []
 
 
-Overfull \hbox (70.03975pt too wide) in paragraph at lines 290--290
+Overfull \hbox (70.03975pt too wide) in paragraph at lines 291--291
  []          \T1/fvm/m/sl/8 Objects = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/Users/
 jcfaria/AppData/Roaming/Tinn-R/tmp/objects.txt\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ,
 [] 
  []
 
 
-Overfull \hbox (38.29256pt too wide) in paragraph at lines 291--291
+Overfull \hbox (38.29256pt too wide) in paragraph at lines 292--292
  []          \T1/fvm/m/sl/8 File = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/Users/jcf
 aria/AppData/Roaming/Tinn-R/tmp/file.r\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ,[] 
  []
 
 
-Overfull \hbox (77.97655pt too wide) in paragraph at lines 292--292
+Overfull \hbox (77.97655pt too wide) in paragraph at lines 293--293
  []          \T1/fvm/m/sl/8 Selection = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/User
 s/jcfaria/AppData/Roaming/Tinn-R/tmp/selection.r\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8
  ,[] 
  []
 
 
-Overfull \hbox (46.22935pt too wide) in paragraph at lines 293--293
+Overfull \hbox (46.22935pt too wide) in paragraph at lines 294--294
  []          \T1/fvm/m/sl/8 Block = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/Users/jc
 faria/AppData/Roaming/Tinn-R/tmp/block.r\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ,[] 
  []
 
 
-Overfull \hbox (44.24516pt too wide) in paragraph at lines 294--294
+Overfull \hbox (44.24516pt too wide) in paragraph at lines 295--295
  []          \T1/fvm/m/sl/8 Lines = \TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 C:/Users/jc
 faria/AppData/Roaming/Tinn-R/tmp/lines.r\TS1/fvm/m/sl/8 '[] 
  []
 
 [189] [190])
-Overfull \hbox (85.1122pt too wide) in paragraph at lines 428--39
+Overfull \hbox (85.1122pt too wide) in paragraph at lines 429--39
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--39
+Underfull \hbox (badness 10000) in paragraph at lines 429--39
 
  []
 
 [191] [192] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2007.tex
-Overfull \hbox (13.61682pt too wide) in paragraph at lines 30--32
+Overfull \hbox (13.61682pt too wide) in paragraph at lines 31--33
 []\T1/mdput/m/n/10 (-20) A cou-ple of bugs re-lated to the prior ver-sion \T1/m
 dput/m/it/10 (-20) 1.19.4.4 (Dec/13/2007)
  []
 
 [193]
-Overfull \hbox (14.38907pt too wide) in paragraph at lines 82--84
+Overfull \hbox (14.38907pt too wide) in paragraph at lines 83--85
 []\T1/mdput/m/n/10 (-20) A cou-ple of bugs re-lated to the prior ver-sion \T1/m
 dput/m/it/10 (-20) 1.19.4.0 (Nov/29/2007)
  []
 
 
-Overfull \hbox (130.95053pt too wide) in paragraph at lines 106--106
+Overfull \hbox (130.95053pt too wide) in paragraph at lines 107--107
  []            \T1/fvm/m/n/8 Functional LaTeX Symbols Classification Criteria (
 according with the KISS principle):[] 
  []
 
 
-Overfull \hbox (92.4597pt too wide) in paragraph at lines 109--109
+Overfull \hbox (92.4597pt too wide) in paragraph at lines 110--110
  []            \T1/fvm/m/n/8 2. Natural order (ex: Greek: alpha, beta...; Solar
  system: Sun, Mercury...)[] 
  []
 
 [194]
-Overfull \hbox (9.91437pt too wide) in paragraph at lines 117--117
+Overfull \hbox (9.91437pt too wide) in paragraph at lines 118--118
  []            \T1/fvm/m/n/8 Authors: José Cláudio Faria and Jorge Alexandre Wi
 endl[] 
  []
 
 
-Overfull \hbox (5.69936pt too wide) in paragraph at lines 137--138
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 138--139
 []\T1/fvm/m/n/10 Please, don't re-move or re-name any of the fold-ers or
  []
 
 [195]
-Overfull \hbox (0.63403pt too wide) in paragraph at lines 176--180
+Overfull \hbox (0.63403pt too wide) in paragraph at lines 177--181
 \T1/mdput/m/it/10 (-20) cuts.bin \T1/mdput/m/n/10 (-20) to \T1/mdput/m/it/10 (-
 20) short-cuts.txt\T1/mdput/m/n/10 (-20) . There-fore, \T1/fvm/m/n/10 any old p
 ref-er-ences will be
  []
 
-<./res/1_19_2_3.png, id=3678, 269.005pt x 143.53625pt>
+<./res/1_19_2_3.png, id=3738, 269.005pt x 143.53625pt>
 File: ./res/1_19_2_3.png Graphic file (type png)
 
 <use ./res/1_19_2_3.png>
-Package pdftex.def Info: ./res/1_19_2_3.png used on input line 212.
+Package pdftex.def Info: ./res/1_19_2_3.png used on input line 213.
 (pdftex.def)             Requested size: 134.50217pt x 71.76794pt.
  [196]
-<./res/1_19_2_1.png, id=3684, 152.57pt x 200.75pt>
+<./res/1_19_2_1.png, id=3744, 152.57pt x 200.75pt>
 File: ./res/1_19_2_1.png Graphic file (type png)
  <use ./res/1_19_2_1.png>
-Package pdftex.def Info: ./res/1_19_2_1.png used on input line 232.
+Package pdftex.def Info: ./res/1_19_2_1.png used on input line 233.
 (pdftex.def)             Requested size: 76.2848pt x 100.37474pt.
 
 [197 <D:/GitHub/Tinn-R-doc/res/1_19_2_3.png (PNG copy)> <D:/GitHub/Tinn-R-doc/r
 es/1_19_2_1.png (PNG copy)>]
-<./res/1_19_1_13.png, id=3693, 257.96375pt x 165.61874pt>
+<./res/1_19_1_13.png, id=3753, 257.96375pt x 165.61874pt>
 File: ./res/1_19_1_13.png Graphic file (type png)
 
 <use ./res/1_19_1_13.png>
-Package pdftex.def Info: ./res/1_19_1_13.png used on input line 278.
+Package pdftex.def Info: ./res/1_19_1_13.png used on input line 279.
 (pdftex.def)             Requested size: 128.98155pt x 82.80916pt.
  [198 <D:/GitHub/Tinn-R-doc/res/1_19_1_13.png (PNG copy)>] [199]
-Overfull \hbox (4.85147pt too wide) in paragraph at lines 379--381
+Overfull \hbox (4.85147pt too wide) in paragraph at lines 380--382
 []\T1/mdput/m/n/10 (-20) After changes it is nec-es-sary to type \T1/mdput/m/it
 /10 (-20) Save\T1/mdput/m/n/10 (-20) . Oth-er-wise, a ll changes
  []
 
 ) [200] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2006.tex [201] [202]
-Overfull \hbox (82.3649pt too wide) in paragraph at lines 147--147
+Overfull \hbox (82.3649pt too wide) in paragraph at lines 148--148
  []        \T1/fvm/m/n/8 <SHIFT + CTRL + +> (plus  (+) on the numeric keypad): 
 INCREASE (upper limit is 50)[] 
  []
 
 
-Overfull \hbox (82.3649pt too wide) in paragraph at lines 148--148
+Overfull \hbox (82.3649pt too wide) in paragraph at lines 149--149
  []        \T1/fvm/m/n/8 <SHIFT + CTRL + -> (minus (-) on the numeric keypad): 
 DECREASE (lower limit is  1)[] 
  []
 
 [203] [204]
-Overfull \hbox (50.74866pt too wide) in paragraph at lines 263--263
+Overfull \hbox (50.74866pt too wide) in paragraph at lines 264--264
  []        \T1/fvm/m/n/8 R: complex: The main syntax is R, \TS1/fvm/m/n/8 '\T1/
 fvm/m/n/8 <<<\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 >
 >>\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 the tags enable the user[] 
  []
 
 
-Overfull \hbox (34.87506pt too wide) in paragraph at lines 265--265
+Overfull \hbox (34.87506pt too wide) in paragraph at lines 266--266
  []        \T1/fvm/m/n/8 Sweave: The main syntax is TeX, \TS1/fvm/m/n/8 '\T1/fv
 m/m/n/8 >>=\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 @\T
 S1/fvm/m/n/8 ' \T1/fvm/m/n/8 the tags enable the user[] 
  []
 
 
-Overfull \hbox (56.5703pt too wide) in paragraph at lines 272--272
+Overfull \hbox (56.5703pt too wide) in paragraph at lines 273--273
  []        \T1/fvm/m/n/8 The SynHighlighterURI unit implements an URI syntax hi
 ghlighter for SynEdit.[] 
  []
 
 
-Overfull \hbox (43.47195pt too wide) in paragraph at lines 274--274
+Overfull \hbox (43.47195pt too wide) in paragraph at lines 275--275
  []        \T1/fvm/m/n/8 Recognition of URIs is based on the information provid
 ed in the document[] 
  []
 
 
-Overfull \hbox (69.26654pt too wide) in paragraph at lines 275--275
+Overfull \hbox (69.26654pt too wide) in paragraph at lines 276--276
  []        \T1/fvm/m/n/8 "Uniform Resource Identifiers (URI): Generic Syntax" o
 f "The Internet Society",[] 
  []
 
 
-Overfull \hbox (71.25075pt too wide) in paragraph at lines 278--278
+Overfull \hbox (71.25075pt too wide) in paragraph at lines 279--279
  []        \T1/fvm/m/n/8 Also interesting is http://www.freesoft.org/CIE/RFC/17
 38/33.htm which describes[] 
  []
 
 [205] [206]
-Overfull \hbox (2.42522pt too wide) in paragraph at lines 393--394
+Overfull \hbox (2.42522pt too wide) in paragraph at lines 394--395
 []\T1/mdput/m/n/10 (-20) or, i.e, \T1/fvm/m/n/10 any in-struc-tion with more th
 an one sin-gle line\T1/mdput/m/n/10 (-20) , 
  []
 
 [207] [208] [209] [210]
-Overfull \hbox (39.77489pt too wide) in paragraph at lines 587--587
+Overfull \hbox (39.77489pt too wide) in paragraph at lines 588--588
  []            \T1/fvm/m/n/8 OpenBracket: array[THTMLBracket] of PChar=(\TS1/fv
 m/m/n/8 '\T1/fvm/m/n/8 <\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm
 /m/n/8 <!--\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 <%\TS1
@@ -5724,7 +5724,7 @@ m/m/n/8 '\T1/fvm/m/n/8 <\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm
  []
 
 
-Overfull \hbox (39.77489pt too wide) in paragraph at lines 588--588
+Overfull \hbox (39.77489pt too wide) in paragraph at lines 589--589
  []            \T1/fvm/m/n/8 CloseBracket: array[THTMLBracket] of PChar=(\TS1/f
 vm/m/n/8 '\T1/fvm/m/n/8 >\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fv
 m/m/n/8 -->\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 %>\TS1
@@ -5732,7 +5732,7 @@ m/m/n/8 -->\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 , \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 %>\TS1
  []
 
 [211] [212] [213]
-Underfull \hbox (badness 10000) in paragraph at lines 755--759
+Underfull \hbox (badness 10000) in paragraph at lines 756--760
 \T1/mdput/m/n/10 (-3) http://www.luziusschneider.com/Speller/English/index.htm
  []
 
@@ -5741,211 +5741,211 @@ Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
  [215] [216]
-Overfull \hbox (1.92006pt too wide) in paragraph at lines 915--919
+Overfull \hbox (1.92006pt too wide) in paragraph at lines 916--920
 []\T1/mdput/m/n/10 (-20) If the user uses the func-tion \T1/mdput/m/it/10 (-20)
  utils:::setWindowTitle(paste("-",getwd()))
  []
 
 [217]
-Overfull \hbox (61.32974pt too wide) in paragraph at lines 931--931
+Overfull \hbox (61.32974pt too wide) in paragraph at lines 932--932
  []        \T1/fvm/m/n/8 ..\Tinn-R\data           : dbRcard.dbf, dbRcard.dbt, d
 bRCard.ndx, dbRtip.dbf,[] 
  []
 
 
-Overfull \hbox (19.66156pt too wide) in paragraph at lines 933--933
+Overfull \hbox (19.66156pt too wide) in paragraph at lines 934--934
  []        \T1/fvm/m/n/8 ..\Tinn-R\ini            : Shortcuts.tinn, Tinn.ini an
 d ReadMe.txt[] 
  []
 
 
-Overfull \hbox (46.2472pt too wide) in paragraph at lines 935--935
+Overfull \hbox (46.2472pt too wide) in paragraph at lines 936--936
  []        \T1/fvm/m/n/8 ..\Tinn-R\ini\syntax     : C#.ini, C++.ini, ... , XML.
 ini and ReadMe.txt;[] 
  []
 
 
-Overfull \hbox (10.5316pt too wide) in paragraph at lines 936--936
+Overfull \hbox (10.5316pt too wide) in paragraph at lines 937--937
  []        \T1/fvm/m/n/8 ..\Tinn-R\ini\syntax bkp : temporary syntax file and R
 eadMe.txt;[] 
  []
 
 
-Overfull \hbox (24.8231pt too wide) in paragraph at lines 937--937
+Overfull \hbox (24.8231pt too wide) in paragraph at lines 938--938
  []        \T1/fvm/m/n/8 ..\Tinn-R\syntax         : deplate.xml, txt2tags.xml a
 nd ReadMe.txt.[] 
  []
 
 [218]
-Overfull \hbox (61.32974pt too wide) in paragraph at lines 990--990
+Overfull \hbox (61.32974pt too wide) in paragraph at lines 991--991
  []        \T1/fvm/m/n/8 ..\Tinn-R\data           : dbRcard.dbf, dbRcard.dbt, d
 bRCard.ndx, dbRtip.dbf,[] 
  []
 
 
-Overfull \hbox (19.66156pt too wide) in paragraph at lines 992--992
+Overfull \hbox (19.66156pt too wide) in paragraph at lines 993--993
  []        \T1/fvm/m/n/8 ..\Tinn-R\ini            : Shortcuts.tinn, Tinn.ini an
 d ReadMe.txt[] 
  []
 
 
-Overfull \hbox (46.2472pt too wide) in paragraph at lines 994--994
+Overfull \hbox (46.2472pt too wide) in paragraph at lines 995--995
  []        \T1/fvm/m/n/8 ..\Tinn-R\ini\syntax     : C#.ini, C++.ini, ... , XML.
 ini and ReadMe.txt;[] 
  []
 
 
-Overfull \hbox (10.5316pt too wide) in paragraph at lines 995--995
+Overfull \hbox (10.5316pt too wide) in paragraph at lines 996--996
  []        \T1/fvm/m/n/8 ..\Tinn-R\ini\syntax bkp : temporary syntax file and R
 eadMe.txt;[] 
  []
 
 [219]
-Overfull \hbox (5.43684pt too wide) in paragraph at lines 1088--1094
+Overfull \hbox (5.43684pt too wide) in paragraph at lines 1089--1095
 \T1/mdput/m/n/10 (-20) ences was fixed. In fact, Sweave high-lighter is a multi
 -highlighter
  []
 
 [220] [221]
-Overfull \hbox (8.08241pt too wide) in paragraph at lines 1193--1196
+Overfull \hbox (8.08241pt too wide) in paragraph at lines 1194--1197
 \T1/mdput/m/n/10 (-20) more user friendly. In con-se-quence, the main menu \T1/
 mdput/m/it/10 (-20) View \T1/mdput/m/n/10 (-20) was changed. 
  []
 
 ) [222] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2005.tex
-Overfull \hbox (3.00035pt too wide) in paragraph at lines 6--8
+Overfull \hbox (3.00035pt too wide) in paragraph at lines 7--9
 []\T1/mdput/m/n/10 (-20) New in-ter-face/op-tions for print-ing, which now en-a
 bles you to choose
  []
 
 
-Overfull \hbox (1.82155pt too wide) in paragraph at lines 23--25
+Overfull \hbox (1.82155pt too wide) in paragraph at lines 24--26
 []\T1/mdput/m/n/10 (-20) Tinn-R ver-sion 1.18.1.1 BETA was con-sid-ered pre-rel
 eased (re-stricted
  []
 
 [223]
-Overfull \hbox (60.25017pt too wide) in paragraph at lines 78--78
+Overfull \hbox (60.25017pt too wide) in paragraph at lines 79--79
  []            \T1/fvm/m/n/8 A tip: my preferred shortcuts are: \TS1/fvm/m/n/8 
 ``\T1/fvm/m/n/8 CTRL + D\TS1/fvm/m/n/8 `` \T1/fvm/m/n/8 for tip after //(//[] 
  []
 
 
-Overfull \hbox (10.414pt too wide) in paragraph at lines 79--79
+Overfull \hbox (10.414pt too wide) in paragraph at lines 80--80
  []            \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 ``\T1/fvm/m/n/8 CTRL + SHIFT + 
 D\TS1/fvm/m/n/8 `` \T1/fvm/m/n/8 after \TS1/fvm/m/n/8 '\T1/fvm/m/n/8 $\TS1/fvm/
 m/n/8 ' \T1/fvm/m/n/8 for code completion.[] 
  []
 
 [224] [225]
-Overfull \hbox (69.44035pt too wide) in paragraph at lines 168--168
+Overfull \hbox (69.44035pt too wide) in paragraph at lines 169--169
  []            \T1/fvm/m/n/8 "Severe problem! The program cannot be initiated. 
 Please, contact the[] 
  []
 
 
-Overfull \hbox (92.7884pt too wide) in paragraph at lines 171--171
+Overfull \hbox (92.7884pt too wide) in paragraph at lines 172--172
  []            \T1/fvm/m/n/8 "Access violation at address \TS1/fvm/m/n/8 '\T1/f
 vm/m/n/8 hexa number\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 in module \TS1/fvm/m/n/8 '\T
 1/fvm/m/n/8 Tinn-R\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 . Read address[] 
  []
 
 
-Overfull \hbox (89.28235pt too wide) in paragraph at lines 174--174
+Overfull \hbox (89.28235pt too wide) in paragraph at lines 175--175
  []            \T1/fvm/m/n/8 It was now fixed. This bug was related to more tha
 n one file were selected[] 
  []
 
 
-Overfull \hbox (23.01271pt too wide) in paragraph at lines 175--175
+Overfull \hbox (23.01271pt too wide) in paragraph at lines 176--176
  []            \T1/fvm/m/n/8 from the explorer to be opened and Tinn-R was not 
 running.[] 
  []
 
 
-Overfull \hbox (89.28235pt too wide) in paragraph at lines 176--176
+Overfull \hbox (89.28235pt too wide) in paragraph at lines 177--177
  []            \T1/fvm/m/n/8 So, if Tinn-R is not running (if and only if), avo
 id to make it because it[] 
  []
 
 
-Overfull \hbox (73.40875pt too wide) in paragraph at lines 177--177
+Overfull \hbox (73.40875pt too wide) in paragraph at lines 178--178
  []            \T1/fvm/m/n/8 will open one instance of Tinn-R and one file (the
  first in alphabetic[] 
  []
 
 
-Overfull \hbox (85.1162pt too wide) in paragraph at lines 178--178
+Overfull \hbox (85.1162pt too wide) in paragraph at lines 179--179
  []            \T1/fvm/m/n/8 order) only. BTW, if Tinn-R is running, you can se
 lect simultaneously any[] 
  []
 
 
-Overfull \hbox (59.1478pt too wide) in paragraph at lines 198--198
+Overfull \hbox (59.1478pt too wide) in paragraph at lines 199--199
  []        \T1/fvm/m/n/8 SO, IF YOU GET INCORRECT ICON DISPLAYED ON WINDOWS, AF
 TER INSTALLING THE NEW[] 
  []
 
 
-Overfull \hbox (55.37715pt too wide) in paragraph at lines 201--201
+Overfull \hbox (55.37715pt too wide) in paragraph at lines 202--202
  []        \T1/fvm/m/n/8 For acceleration of the show of the icons Windows stor
 es images in the ICON[] 
  []
 
 
-Overfull \hbox (48.6335pt too wide) in paragraph at lines 202--202
+Overfull \hbox (48.6335pt too wide) in paragraph at lines 203--203
  []        \T1/fvm/m/n/8 CACHE (ShellIconCache) a hidden icon cache file in you
 r windows directory.[] 
  []
 
 
-Overfull \hbox (43.47195pt too wide) in paragraph at lines 204--204
+Overfull \hbox (43.47195pt too wide) in paragraph at lines 205--205
  []        \T1/fvm/m/n/8 Sometimes the icon of the object changes, but Windows 
 shows the old icon[] 
  []
 
 
-Overfull \hbox (35.53516pt too wide) in paragraph at lines 205--205
+Overfull \hbox (35.53516pt too wide) in paragraph at lines 206--206
  []        \T1/fvm/m/n/8 instead of the former one. To solve this problem we su
 ggest to use the[] 
  []
 
 
-Overfull \hbox (36.7283pt too wide) in paragraph at lines 206--206
+Overfull \hbox (36.7283pt too wide) in paragraph at lines 207--207
  []        \T1/fvm/m/n/8 program IconChanger (shareware available at http://www
 .shelllabs.com/).[] 
  []
 
 
-Overfull \hbox (55.37715pt too wide) in paragraph at lines 208--208
+Overfull \hbox (55.37715pt too wide) in paragraph at lines 209--209
  []        \T1/fvm/m/n/8 If you have just installed Tinn-R with new icon but Wi
 ndows has not changed[] 
  []
 
 
-Overfull \hbox (27.59836pt too wide) in paragraph at lines 209--209
+Overfull \hbox (27.59836pt too wide) in paragraph at lines 210--210
  []        \T1/fvm/m/n/8 the image, the guide advises you to choose REBUILD ICO
 N CACHE and if[] 
  []
 
 
-Overfull \hbox (35.53516pt too wide) in paragraph at lines 212--212
+Overfull \hbox (35.53516pt too wide) in paragraph at lines 213--213
  []        \T1/fvm/m/n/8 If you have chosen REBUILD the icon cache will start r
 econstructing at[] 
  []
 
 
-Overfull \hbox (20.8547pt too wide) in paragraph at lines 213--213
+Overfull \hbox (20.8547pt too wide) in paragraph at lines 214--214
  []        \T1/fvm/m/n/8 once. If you have chosen REMOVE, you will see the warn
 ing  message.[] 
  []
 
 [226] [227]
 LaTeX Font Info:    Font shape `TS1/mdput/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 298.
+(Font)              scaled to size 7.35999pt on input line 299.
 Missing character: There is no * in font mdputr8c!
 
-Overfull \hbox (2.21777pt too wide) in paragraph at lines 298--300
+Overfull \hbox (2.21777pt too wide) in paragraph at lines 299--301
 []\T1/mdput/m/it/8 (-20) Drive:$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) Docum
 ents and settings$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) UserName$\OMS/mdput
 /m/n/8 n$\T1/mdput/m/it/8 (-20) Application data$\OMS/mdput/m/n/8 n$\T1/mdput/m
@@ -5955,7 +5955,7 @@ ents and settings$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) UserName$\OMS/mdput
 
 Missing character: There is no * in font mdputr8c!
 
-Overfull \hbox (7.97353pt too wide) in paragraph at lines 300--302
+Overfull \hbox (7.97353pt too wide) in paragraph at lines 301--303
 []\T1/mdput/m/it/8 (-20) Drive:$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) Docum
 ents and settings$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) UserName$\OMS/mdput
 /m/n/8 n$\T1/mdput/m/it/8 (-20) Application data$\OMS/mdput/m/n/8 n$\T1/mdput/m
@@ -5965,7 +5965,7 @@ n/8 n$
 
 Missing character: There is no * in font mdputr8c!
 
-Overfull \hbox (6.28871pt too wide) in paragraph at lines 302--304
+Overfull \hbox (6.28871pt too wide) in paragraph at lines 303--305
 []\T1/mdput/m/it/8 (-20) Drive:$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) Docum
 ents and settings$\OMS/mdput/m/n/8 n$\T1/mdput/m/it/8 (-20) UserName$\OMS/mdput
 /m/n/8 n$\T1/mdput/m/it/8 (-20) Application data$\OMS/mdput/m/n/8 n$\T1/mdput/m
@@ -5976,80 +5976,80 @@ Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
 [228] [229] [230]
-Overfull \hbox (2.93315pt too wide) in paragraph at lines 465--469
+Overfull \hbox (2.93315pt too wide) in paragraph at lines 466--470
 []\T1/mdput/m/n/10 (-20) The files \T1/mdput/m/it/10 (-20) Tinn-R_Read me.html\
 T1/mdput/m/n/10 (-20) , \T1/mdput/m/it/10 (-20) Tinn-R_Leia me.html \T1/mdput/m
 /n/10 (-20) (in Por-tuguese)
  []
 
 [231] [232] [233] [234] [235] [236]
-Overfull \hbox (1.07732pt too wide) in paragraph at lines 717--718
+Overfull \hbox (1.07732pt too wide) in paragraph at lines 718--719
 []\T1/mdput/m/n/10 (-20) New in-ter-face/op-tions for print-ing, it re-mem-bers
  lat-est choic-es/pref-
  []
 
 [237]) [238] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2004.tex
-Overfull \hbox (9.32751pt too wide) in paragraph at lines 12--14
+Overfull \hbox (9.32751pt too wide) in paragraph at lines 13--15
 \T1/mdput/m/n/10 (-20) suite of com-po-nents called psv-Di-alogs writ-ten by \T
 1/fvm/m/n/10 Ser-hiy Perevoznyk\T1/mdput/m/n/10 (-20) .
  []
 
 [239] [240]
-Overfull \hbox (93.25075pt too wide) in paragraph at lines 97--97
+Overfull \hbox (93.25075pt too wide) in paragraph at lines 98--98
  []            \T1/fvm/m/n/8 Note: Tinn-R 0.0.9.0 r1.13 is now frozen and goes 
 through a wider beta test[] 
  []
 
 
-Overfull \hbox (93.053pt too wide) in paragraph at lines 98--98
+Overfull \hbox (93.053pt too wide) in paragraph at lines 99--99
  []            \T1/fvm/m/n/8 Tinn-R 0.0.9.0 r1.14 and over are considered devel
 opment versions; they may[] 
  []
 
 [241] [242]
-Overfull \hbox (25.61415pt too wide) in paragraph at lines 191--191
+Overfull \hbox (25.61415pt too wide) in paragraph at lines 192--192
  []        \T1/fvm/m/n/8 Temporarily, and until a better solution is found, to 
 work properly,[] 
  []
 
 
-Overfull \hbox (27.59836pt too wide) in paragraph at lines 192--192
+Overfull \hbox (27.59836pt too wide) in paragraph at lines 193--193
  []        \T1/fvm/m/n/8 if the window is horizontally split the Search/Replace
  must be  made[] 
  []
 
 
-Overfull \hbox (50.50212pt too wide) in paragraph at lines 193--193
+Overfull \hbox (50.50212pt too wide) in paragraph at lines 194--194
  []        \T1/fvm/m/n/8 at the bottom (main) window, because if it\TS1/fvm/m/n
 /8 '\T1/fvm/m/n/8 s at the top window (secondary)[] 
  []
 
 
-Overfull \hbox (76.2967pt too wide) in paragraph at lines 194--194
+Overfull \hbox (76.2967pt too wide) in paragraph at lines 195--195
  []        \T1/fvm/m/n/8 it doesn\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 t question the c
 onfirmation to each substitution of the text occurrence.[] 
  []
 
 
-Overfull \hbox (47.44035pt too wide) in paragraph at lines 195--195
+Overfull \hbox (47.44035pt too wide) in paragraph at lines 196--196
  []        \T1/fvm/m/n/8 If the window is vertically split, the Search/Replace 
 must be made at the[] 
  []
 
 
-Overfull \hbox (43.47195pt too wide) in paragraph at lines 196--196
+Overfull \hbox (43.47195pt too wide) in paragraph at lines 197--197
  []        \T1/fvm/m/n/8 left window (the right window does not question the co
 nfirmation to each[] 
  []
 
 
-Overfull \hbox (96.25429pt too wide) in paragraph at lines 197--197
+Overfull \hbox (96.25429pt too wide) in paragraph at lines 198--198
  []        \T1/fvm/m/n/8 substitution of the occurrence). For both, any key wil
 l synchronize the split windows.[] 
  []
 
 [243] [244]
-Overfull \hbox (40.22322pt too wide) in paragraph at lines 258--262
+Overfull \hbox (40.22322pt too wide) in paragraph at lines 259--263
 \T1/mdput/m/n/8 (-20) (c:$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) arquivos de 
 programas$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) borland$\OMS/mdput/m/n/8 n$\
 T1/mdput/m/n/8 (-20) componentes$\OMS/mdput/m/n/8 n$\T1/mdput/m/n/8 (-20) syned
@@ -6205,7 +6205,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--39
 
 
 ] (D:\GitHub\Tinn-R-doc\sub\zzzBackCover.tex
-<./cover/backCover.pdf, id=4708, page=1, 498.00053pt x 668.4975pt>
+<./cover/backCover.pdf, id=4768, page=1, 498.00053pt x 668.4975pt>
 File: ./cover/backCover.pdf Graphic file (type pdf)
 
 <use ./cover/backCover.pdf, page 1>
@@ -6266,8 +6266,8 @@ Package rerunfilecheck Info: File `eBook.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 25921 strings out of 493921
- 407104 string characters out of 3144870
+ 25931 strings out of 493921
+ 407144 string characters out of 3144870
  726504 words of memory out of 3000000
  26101 multiletter control sequences out of 15000+200000
  328439 words of font info for 736 fonts, out of 3000000 for 9000
@@ -6292,9 +6292,9 @@ type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
 obe/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr
 i8a.pfb>
-Output written on eBook.pdf (293 pages, 3801962 bytes).
+Output written on eBook.pdf (293 pages, 3805637 bytes).
 PDF statistics:
- 5067 PDF objects out of 5155 (max. 8388607)
- 1429 named destinations out of 1440 (max. 500000)
+ 5128 PDF objects out of 5155 (max. 8388607)
+ 1439 named destinations out of 1440 (max. 500000)
  87443 words of extra memory for PDF output out of 89155 (max. 10000000)
 
