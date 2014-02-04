@@ -4,7 +4,7 @@
 
   \indexspace
 
-  \item about, \hyperpage{137}
+  \item about, \hyperpage{139}
   \item application options, \hyperpage{46}
     \subitem editor, \hyperpage{47}
     \subitem editor advanced, \hyperpage{48}
@@ -45,7 +45,7 @@
     \subitem UNIX (LF), \hyperpage{110}
     \subitem WIN (CR+LF), \hyperpage{110}
   \item Deplate, \hyperpage{17}
-  \item discussion group, \hyperpage{137}
+  \item discussion group, \hyperpage{139}
 
   \indexspace
 
@@ -116,8 +116,8 @@
 
   \indexspace
 
-  \item help menu, \hyperpage{137}
-    \subitem main file conversion, \hyperpage{137}
+  \item help menu, \hyperpage{139}
+    \subitem main file conversion, \hyperpage{139}
   \item highlighters
     \subitem color, \hyperpage{56}
     \subitem multi-highlighters, \hyperpage{56}
@@ -126,12 +126,12 @@
   \indexspace
 
   \item icon on Windows, \hyperpage{41}
-  \item ini file, \hyperpage{137}
+  \item ini file, \hyperpage{139}
   \item insert menu, \hyperpage{103}
     \subitem LaTeX, \hyperpage{103}
-    \subitem LaTeX font, \hyperpage{104}
+    \subitem LaTeX font, \hyperpage{105}
     \subitem LaTeX format, \hyperpage{104}
-    \subitem LaTeX header, \hyperpage{103}
+    \subitem LaTeX header, \hyperpage{104}
     \subitem LaTeX math, \hyperpage{103}
   \item install, \hyperpage{32}
   \item installation, \hyperpage{10}
@@ -210,7 +210,7 @@
     \subitem system, \hyperpage{23}, \hyperpage{25}, \hyperpage{30}
     \subitem text, \hyperpage{21}, \hyperpage{25}, \hyperpage{28}, 
 		\hyperpage{30}
-  \item Knitr, \hyperpage{122}
+  \item Knitr, \hyperpage{123}
 
   \indexspace
 
@@ -250,47 +250,47 @@
   \indexspace
 
   \item Pandoc, \hyperpage{18}
-  \item processing, \hyperpage{149}
-    \subitem DVI, \hyperpage{149}
-    \subitem PDF, \hyperpage{149}
+  \item processing, \hyperpage{151}
+    \subitem DVI, \hyperpage{151}
+    \subitem PDF, \hyperpage{151}
   \item project, \hyperpage{65}
   \item project menu, \hyperpage{98}
     \subitem file, \hyperpage{99}
-    \subitem group, \hyperpage{98}
+    \subitem group, \hyperpage{99}
     \subitem project, \hyperpage{98}
   \item Python, \hyperpage{19}
 
   \indexspace
 
   \item R
-    \subitem card, \hyperpage{72}, \hyperpage{85}
+    \subitem card, \hyperpage{73}, \hyperpage{85}
     \subitem explorer, \hyperpage{72}
-    \subitem mirror, \hyperpage{86}, \hyperpage{156}
-    \subitem mirrors, \hyperpage{73}, \hyperpage{156}
-    \subitem set mirror, \hyperpage{156}
-  \item R menu, \hyperpage{117}
-    \subitem close, \hyperpage{117}
-    \subitem connections, \hyperpage{117}
-    \subitem control, \hyperpage{122}
-    \subitem control packages, \hyperpage{123}
-    \subitem Rterm, \hyperpage{118}
-    \subitem Rterm clear, \hyperpage{119}
-    \subitem Rterm file, \hyperpage{118}
-    \subitem Rterm file IO, \hyperpage{118}
-    \subitem Rterm file log, \hyperpage{118}
-    \subitem Rterm focus, \hyperpage{119}
-    \subitem Rterm fontsize, \hyperpage{121}
-    \subitem Rterm history, \hyperpage{121}
-    \subitem Rterm size, \hyperpage{119}
-    \subitem Rterm split, \hyperpage{119}
-    \subitem Rterm syntax, \hyperpage{120}
-    \subitem Rterm syntax IO, \hyperpage{120}
-    \subitem Rterm syntax Log, \hyperpage{120}
-    \subitem Rterm wordwrap, \hyperpage{120}
-    \subitem Rterm workspace, \hyperpage{121}
-    \subitem send, \hyperpage{121}
-    \subitem start, \hyperpage{117}
-  \item recognized words, \hyperpage{137}
+    \subitem mirror, \hyperpage{86}, \hyperpage{158}
+    \subitem mirrors, \hyperpage{74}, \hyperpage{158}
+    \subitem set mirror, \hyperpage{158}
+  \item R menu, \hyperpage{118}
+    \subitem close, \hyperpage{118}
+    \subitem connections, \hyperpage{118}
+    \subitem control, \hyperpage{124}
+    \subitem control packages, \hyperpage{125}
+    \subitem Rterm, \hyperpage{119}
+    \subitem Rterm clear, \hyperpage{120}
+    \subitem Rterm file, \hyperpage{119}
+    \subitem Rterm file IO, \hyperpage{119}
+    \subitem Rterm file log, \hyperpage{120}
+    \subitem Rterm focus, \hyperpage{120}
+    \subitem Rterm fontsize, \hyperpage{122}
+    \subitem Rterm history, \hyperpage{122}
+    \subitem Rterm line wrap, \hyperpage{122}
+    \subitem Rterm size, \hyperpage{120}
+    \subitem Rterm split, \hyperpage{121}
+    \subitem Rterm syntax, \hyperpage{121}
+    \subitem Rterm syntax IO, \hyperpage{121}
+    \subitem Rterm syntax Log, \hyperpage{121}
+    \subitem Rterm workspace, \hyperpage{122}
+    \subitem send, \hyperpage{123}
+    \subitem start, \hyperpage{118}
+  \item recognized words, \hyperpage{139}
   \item regular expressions, \hyperpage{88}
     \subitem character classes, \hyperpage{89}
     \subitem escape sequences, \hyperpage{88}
@@ -304,9 +304,9 @@
     \subitem Log, \hyperpage{63}
   \item Ruby, \hyperpage{17}
   \item \textsf  {R}~functions
-    \subitem help.start, \hyperpage{248}
+    \subitem help.start, \hyperpage{250}
   \item \textsf  {R}~packages
-    \subitem Hmisc, \hyperpage{178}
+    \subitem Hmisc, \hyperpage{180}
 
   \indexspace
 
@@ -317,34 +317,34 @@
     \subitem regular expressions, \hyperpage{81}
     \subitem results, \hyperpage{81}
   \item search menu, \hyperpage{106}
-  \item secrets, \hyperpage{139}
-    \subitem active page, \hyperpage{162}
-    \subitem after installation, \hyperpage{141}
-    \subitem appearance, \hyperpage{145}
-    \subitem arrange, \hyperpage{162}
-    \subitem bars, \hyperpage{158}
-    \subitem card (R), \hyperpage{156}
-    \subitem colors preference, \hyperpage{151}
-    \subitem database, \hyperpage{153}
-      \subsubitem completion, \hyperpage{153}
-      \subsubitem shortcuts, \hyperpage{153}
-    \subitem dock, \hyperpage{146}
-    \subitem editor options, \hyperpage{147}
-    \subitem Editor: how to?, \hyperpage{161}
-    \subitem general, \hyperpage{145}
-    \subitem highlighters preference, \hyperpage{151}
-    \subitem I'm panicking, \hyperpage{144}
-    \subitem introduction, \hyperpage{140}
-    \subitem macros, \hyperpage{161}
-    \subitem marks, \hyperpage{161}
-    \subitem project, \hyperpage{152}
-    \subitem R, \hyperpage{148}, \hyperpage{155}
-      \subsubitem explorer, \hyperpage{155}
-    \subitem spell checker, \hyperpage{159}
-    \subitem split, \hyperpage{160}
-    \subitem tab order, \hyperpage{162}
-    \subitem tools, \hyperpage{152}
-    \subitem visibility, \hyperpage{143}
+  \item secrets, \hyperpage{141}
+    \subitem active page, \hyperpage{164}
+    \subitem after installation, \hyperpage{143}
+    \subitem appearance, \hyperpage{147}
+    \subitem arrange, \hyperpage{164}
+    \subitem bars, \hyperpage{160}
+    \subitem card (R), \hyperpage{158}
+    \subitem colors preference, \hyperpage{153}
+    \subitem database, \hyperpage{155}
+      \subsubitem completion, \hyperpage{155}
+      \subsubitem shortcuts, \hyperpage{155}
+    \subitem dock, \hyperpage{148}
+    \subitem editor options, \hyperpage{149}
+    \subitem Editor: how to?, \hyperpage{163}
+    \subitem general, \hyperpage{147}
+    \subitem highlighters preference, \hyperpage{153}
+    \subitem I'm panicking, \hyperpage{146}
+    \subitem introduction, \hyperpage{142}
+    \subitem macros, \hyperpage{163}
+    \subitem marks, \hyperpage{163}
+    \subitem project, \hyperpage{154}
+    \subitem R, \hyperpage{150}, \hyperpage{157}
+      \subsubitem explorer, \hyperpage{157}
+    \subitem spell checker, \hyperpage{161}
+    \subitem split, \hyperpage{162}
+    \subitem tab order, \hyperpage{164}
+    \subitem tools, \hyperpage{154}
+    \subitem visibility, \hyperpage{145}
   \item selection mode, \hyperpage{54}
     \subitem column, \hyperpage{55}
     \subitem line, \hyperpage{54}
@@ -363,7 +363,7 @@
   \indexspace
 
   \item template
-    \subitem R doc, \hyperpage{96}
+    \subitem R doc, \hyperpage{97}
     \subitem R html, \hyperpage{96}
     \subitem R markdown, \hyperpage{96}
     \subitem R noweb, \hyperpage{96}
@@ -371,8 +371,8 @@
   \item Tinn-R and Rgui, \hyperpage{43}
   \item Tinn-R installation, \hyperpage{31}
   \item tools, \hyperpage{64}
-    \subitem backup, \hyperpage{115}
-    \subitem database, \hyperpage{115}
+    \subitem backup, \hyperpage{116}
+    \subitem database, \hyperpage{116}
     \subitem interface, \hyperpage{64}
     \subitem macro, \hyperpage{116}
     \subitem markup, \hyperpage{66}
@@ -381,18 +381,18 @@
     \subitem misc, \hyperpage{64}
     \subitem project, \hyperpage{65}
     \subitem restore, \hyperpage{116}
-    \subitem results, \hyperpage{66}
+    \subitem results, \hyperpage{67}
     \subitem results inilog, \hyperpage{67}
-    \subitem sort, \hyperpage{116}
+    \subitem sort, \hyperpage{117}
     \subitem Windows expl., \hyperpage{64}
     \subitem Work expl., \hyperpage{65}
   \item tools interface
-    \subitem card (R), \hyperpage{72}
+    \subitem card (R), \hyperpage{73}
     \subitem Comments, \hyperpage{71}
     \subitem completion, \hyperpage{69}
     \subitem database, \hyperpage{69}
-    \subitem mirrors (R), \hyperpage{73}
-    \subitem R, \hyperpage{71}
+    \subitem mirrors (R), \hyperpage{74}
+    \subitem R, \hyperpage{72}
     \subitem R explorer, \hyperpage{72}
     \subitem search, \hyperpage{68}
     \subitem shortcuts, \hyperpage{69}
@@ -400,10 +400,10 @@
   \item tools menu, \hyperpage{111}
     \subitem compilation, \hyperpage{114}
     \subitem conversion deplate, \hyperpage{112}
-    \subitem processing, \hyperpage{111}
-    \subitem processing Txt2tags, \hyperpage{113}
-    \subitem processing viewer, \hyperpage{114}
-    \subitem processing viewer dvi, \hyperpage{114}
+    \subitem processing, \hyperpage{111, 112}
+    \subitem processing Txt2tags, \hyperpage{114}
+    \subitem processing viewer, \hyperpage{115}
+    \subitem processing viewer dvi, \hyperpage{115}
     \subitem processing viewer html, \hyperpage{115}
     \subitem processing viewer pdf, \hyperpage{115}
   \item tools panel, \hyperpage{40}
@@ -415,54 +415,65 @@
 
   \indexspace
 
-  \item user guide, \hyperpage{137}
-  \item user list, \hyperpage{137}
+  \item user guide, \hyperpage{139}
+  \item user list, \hyperpage{139}
 
   \indexspace
 
-  \item view menu, \hyperpage{124}
-    \subitem  Line wrap, \hyperpage{130}
-    \subitem fontsize, \hyperpage{131}
-    \subitem R, \hyperpage{124}
-    \subitem Rterm, \hyperpage{125}
-    \subitem Rterm line wrap, \hyperpage{126}
-    \subitem Rterm size, \hyperpage{125}
-    \subitem Rterm split, \hyperpage{125}
-    \subitem Rterm syntax, \hyperpage{125}
-    \subitem Rterm syntax IO, \hyperpage{126}
-    \subitem Rterm syntax Log, \hyperpage{126}
-    \subitem split, \hyperpage{130}
-    \subitem tabs, \hyperpage{129}
-    \subitem tabs files, \hyperpage{129}
-    \subitem tabs Rterm, \hyperpage{130}
-    \subitem tabs tools, \hyperpage{130}
-    \subitem toolbars, \hyperpage{129}
-    \subitem tools, \hyperpage{126}
-    \subitem tools resources, \hyperpage{127}
-    \subitem tools resources database, \hyperpage{128}
-    \subitem tools resources markup, \hyperpage{127}
-    \subitem tools resources misc, \hyperpage{127}
-    \subitem tools resources R, \hyperpage{128}
-    \subitem tools resources results, \hyperpage{128}
-    \subitem tools size, \hyperpage{127}
+  \item view menu, \hyperpage{126}
+    \subitem  Line wrap, \hyperpage{132}
+    \subitem fontsize, \hyperpage{133}
+    \subitem R, \hyperpage{126}
+    \subitem Rterm, \hyperpage{127}
+    \subitem Rterm line wrap, \hyperpage{128}
+    \subitem Rterm size, \hyperpage{127}
+    \subitem Rterm split, \hyperpage{127}
+    \subitem Rterm syntax, \hyperpage{128}
+    \subitem Rterm syntax IO, \hyperpage{128}
+    \subitem Rterm syntax Log, \hyperpage{128}
+    \subitem split, \hyperpage{133}
+    \subitem tabs, \hyperpage{131}
+    \subitem tabs files, \hyperpage{132}
+    \subitem tabs Rterm, \hyperpage{132}
+    \subitem tabs tools, \hyperpage{132}
+    \subitem toolbars, \hyperpage{131}
+    \subitem tools, \hyperpage{129}
+    \subitem tools resources, \hyperpage{129}
+    \subitem tools resources database, \hyperpage{130}
+    \subitem tools resources markup, \hyperpage{130}
+    \subitem tools resources misc, \hyperpage{130}
+    \subitem tools resources R, \hyperpage{131}
+    \subitem tools resources results, \hyperpage{130}
+    \subitem tools size, \hyperpage{129}
 
   \indexspace
 
-  \item web menu, \hyperpage{133}
-    \subitem processing, \hyperpage{136}
-    \subitem R Editorss, \hyperpage{135}
-    \subitem R GUIs, \hyperpage{135}
-    \subitem R IDEs, \hyperpage{135}
-    \subitem R information, \hyperpage{134}
-    \subitem R search, \hyperpage{133}
-    \subitem R search selected, \hyperpage{133}
-    \subitem S search, \hyperpage{134}
-    \subitem S search selected, \hyperpage{134}
-    \subitem statistics, \hyperpage{135}
-    \subitem statistics virtual labs, \hyperpage{136}
-    \subitem Tinn-R, \hyperpage{135}
+  \item web menu, \hyperpage{135}
+    \subitem processing, \hyperpage{138}
+    \subitem R Editorss, \hyperpage{137}
+    \subitem R GUIs, \hyperpage{137}
+    \subitem R IDEs, \hyperpage{137}
+    \subitem R information, \hyperpage{136}
+    \subitem R search, \hyperpage{135}
+    \subitem R search selected, \hyperpage{135}
+    \subitem S search, \hyperpage{136}
+    \subitem S search selected, \hyperpage{136}
+    \subitem statistics, \hyperpage{137}
+    \subitem statistics virtual labs, \hyperpage{138}
+    \subitem Tinn-R, \hyperpage{137}
+  \item What is New?, \hyperpage{165}
+    \subitem 2004, \hyperpage{241}
+    \subitem 2005, \hyperpage{225}
+    \subitem 2006, \hyperpage{203}
+    \subitem 2007, \hyperpage{195}
+    \subitem 2008, \hyperpage{186}
+    \subitem 2009, \hyperpage{179}
+    \subitem 2010, \hyperpage{176}
+    \subitem 2012, \hyperpage{173}
+    \subitem 2013, \hyperpage{168}
+    \subitem 2014, \hyperpage{166}
   \item What is Tinn-R?, \hyperpage{31}
-  \item windows menu, \hyperpage{132}
+  \item windows menu, \hyperpage{134}
   \item WinEdt, \hyperpage{35}
 
 \end{theindex}

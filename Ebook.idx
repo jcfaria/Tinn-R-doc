@@ -414,7 +414,7 @@
 \indexentry{tools!markup|hyperpage}{66}
 \indexentry{tools!markup txt2tags|hyperpage}{66}
 \indexentry{tools!markup \LaTeX|hyperpage}{66}
-\indexentry{tools!results|hyperpage}{66}
+\indexentry{tools!results|hyperpage}{67}
 \indexentry{tools!results inilog|hyperpage}{67}
 \indexentry{tools interface!search|hyperpage}{68}
 \indexentry{tools interface!spell|hyperpage}{68}
@@ -423,13 +423,13 @@
 \indexentry{tools interface!completion|hyperpage}{69}
 \indexentry{completion|hyperpage}{71}
 \indexentry{tools interface!Comments|hyperpage}{71}
-\indexentry{tools interface!R|hyperpage}{71}
+\indexentry{tools interface!R|hyperpage}{72}
 \indexentry{tools interface!R explorer|hyperpage}{72}
 \indexentry{R!explorer|hyperpage}{72}
-\indexentry{tools interface!card (R)|hyperpage}{72}
-\indexentry{R!card|hyperpage}{72}
-\indexentry{tools interface!mirrors (R)|hyperpage}{73}
-\indexentry{R!mirrors|hyperpage}{73}
+\indexentry{tools interface!card (R)|hyperpage}{73}
+\indexentry{R!card|hyperpage}{73}
+\indexentry{tools interface!mirrors (R)|hyperpage}{74}
+\indexentry{R!mirrors|hyperpage}{74}
 \indexentry{filetabs|hyperpage}{76}
 \indexentry{toolsbar|hyperpage}{77}
 \indexentry{toolsbar!showhide|hyperpage}{77}
@@ -469,11 +469,11 @@
 \indexentry{template!R html|hyperpage}{96}
 \indexentry{template!R markdown|hyperpage}{96}
 \indexentry{template!R noweb|hyperpage}{96}
-\indexentry{template!R doc|hyperpage}{96}
+\indexentry{template!R doc|hyperpage}{97}
 \indexentry{file menu!copy to clipboard|hyperpage}{97}
 \indexentry{project menu|hyperpage}{98}
 \indexentry{project menu!project|hyperpage}{98}
-\indexentry{project menu!group|hyperpage}{98}
+\indexentry{project menu!group|hyperpage}{99}
 \indexentry{project menu!file|hyperpage}{99}
 \indexentry{edit menu|hyperpage}{100}
 \indexentry{edit menu!copy formatted|hyperpage}{100}
@@ -485,9 +485,9 @@
 \indexentry{insert menu|hyperpage}{103}
 \indexentry{insert menu!LaTeX|hyperpage}{103}
 \indexentry{insert menu!LaTeX math|hyperpage}{103}
-\indexentry{insert menu!LaTeX header|hyperpage}{103}
+\indexentry{insert menu!LaTeX header|hyperpage}{104}
 \indexentry{insert menu!LaTeX format|hyperpage}{104}
-\indexentry{insert menu!LaTeX font|hyperpage}{104}
+\indexentry{insert menu!LaTeX font|hyperpage}{105}
 \indexentry{search menu|hyperpage}{106}
 \indexentry{options menu|hyperpage}{107}
 \indexentry{options menu!syntax|hyperpage}{107}
@@ -509,123 +509,134 @@
 \indexentry{delimiter!UNIX (LF)|hyperpage}{110}
 \indexentry{tools menu|hyperpage}{111}
 \indexentry{tools menu!processing|hyperpage}{111}
-\indexentry{tools menu!processing|hyperpage}{111}
+\indexentry{tools menu!processing|hyperpage}{112}
 \indexentry{tools menu!conversion deplate|hyperpage}{112}
-\indexentry{tools menu!processing Txt2tags|hyperpage}{113}
+\indexentry{tools menu!processing Txt2tags|hyperpage}{114}
 \indexentry{tools menu!compilation|hyperpage}{114}
-\indexentry{tools menu!processing viewer|hyperpage}{114}
-\indexentry{tools menu!processing viewer dvi|hyperpage}{114}
+\indexentry{tools menu!processing viewer|hyperpage}{115}
+\indexentry{tools menu!processing viewer dvi|hyperpage}{115}
 \indexentry{tools menu!processing viewer pdf|hyperpage}{115}
 \indexentry{tools menu!processing viewer html|hyperpage}{115}
-\indexentry{tools!database|hyperpage}{115}
-\indexentry{tools!backup|hyperpage}{115}
+\indexentry{tools!database|hyperpage}{116}
+\indexentry{tools!backup|hyperpage}{116}
 \indexentry{tools!restore|hyperpage}{116}
 \indexentry{tools!macro|hyperpage}{116}
-\indexentry{tools!sort|hyperpage}{116}
-\indexentry{R menu|hyperpage}{117}
-\indexentry{R menu!start|hyperpage}{117}
-\indexentry{R menu!close|hyperpage}{117}
-\indexentry{R menu!connections|hyperpage}{117}
-\indexentry{R menu!Rterm|hyperpage}{118}
-\indexentry{R menu!Rterm file|hyperpage}{118}
-\indexentry{R menu!Rterm file IO|hyperpage}{118}
-\indexentry{R menu!Rterm file log|hyperpage}{118}
-\indexentry{R menu!Rterm clear|hyperpage}{119}
-\indexentry{R menu!Rterm focus|hyperpage}{119}
-\indexentry{R menu!Rterm size|hyperpage}{119}
-\indexentry{R menu!Rterm split|hyperpage}{119}
-\indexentry{R menu!Rterm syntax|hyperpage}{120}
-\indexentry{R menu!Rterm syntax IO|hyperpage}{120}
-\indexentry{R menu!Rterm syntax Log|hyperpage}{120}
-\indexentry{R menu!Rterm wordwrap|hyperpage}{120}
-\indexentry{R menu!Rterm history|hyperpage}{121}
-\indexentry{R menu!Rterm workspace|hyperpage}{121}
-\indexentry{R menu!Rterm fontsize|hyperpage}{121}
-\indexentry{R menu!send|hyperpage}{121}
-\indexentry{Knitr|hyperpage}{122}
-\indexentry{R menu!control|hyperpage}{122}
-\indexentry{R menu!control packages|hyperpage}{123}
-\indexentry{view menu|hyperpage}{124}
-\indexentry{view menu!R|hyperpage}{124}
-\indexentry{view menu!Rterm|hyperpage}{125}
-\indexentry{view menu!Rterm size|hyperpage}{125}
-\indexentry{view menu!Rterm split|hyperpage}{125}
-\indexentry{view menu!Rterm syntax|hyperpage}{125}
-\indexentry{view menu!Rterm syntax IO|hyperpage}{126}
-\indexentry{view menu!Rterm syntax Log|hyperpage}{126}
-\indexentry{view menu!Rterm line wrap|hyperpage}{126}
-\indexentry{view menu!tools|hyperpage}{126}
-\indexentry{view menu!tools size|hyperpage}{127}
-\indexentry{view menu!tools resources|hyperpage}{127}
-\indexentry{view menu!tools resources misc|hyperpage}{127}
-\indexentry{view menu!tools resources markup|hyperpage}{127}
-\indexentry{view menu!tools resources results|hyperpage}{128}
-\indexentry{view menu!tools resources database|hyperpage}{128}
-\indexentry{view menu!tools resources R|hyperpage}{128}
-\indexentry{view menu!toolbars|hyperpage}{129}
-\indexentry{view menu!tabs|hyperpage}{129}
-\indexentry{view menu!tabs files|hyperpage}{129}
-\indexentry{view menu!tabs tools|hyperpage}{130}
-\indexentry{view menu!tabs Rterm|hyperpage}{130}
-\indexentry{view menu! Line wrap|hyperpage}{130}
-\indexentry{view menu!split|hyperpage}{130}
-\indexentry{view menu!fontsize|hyperpage}{131}
-\indexentry{windows menu|hyperpage}{132}
-\indexentry{web menu|hyperpage}{133}
-\indexentry{web menu!R search|hyperpage}{133}
-\indexentry{web menu!R search selected|hyperpage}{133}
-\indexentry{web menu!S search|hyperpage}{134}
-\indexentry{web menu!S search selected|hyperpage}{134}
-\indexentry{web menu!R information|hyperpage}{134}
-\indexentry{web menu!R Editorss|hyperpage}{135}
-\indexentry{web menu!R GUIs|hyperpage}{135}
-\indexentry{web menu!R IDEs|hyperpage}{135}
-\indexentry{web menu!Tinn-R|hyperpage}{135}
-\indexentry{web menu!statistics|hyperpage}{135}
-\indexentry{web menu!statistics virtual labs|hyperpage}{136}
-\indexentry{web menu!processing|hyperpage}{136}
-\indexentry{help menu|hyperpage}{137}
-\indexentry{user guide|hyperpage}{137}
-\indexentry{ini file|hyperpage}{137}
-\indexentry{recognized words|hyperpage}{137}
-\indexentry{about|hyperpage}{137}
-\indexentry{user list|hyperpage}{137}
-\indexentry{discussion group|hyperpage}{137}
-\indexentry{help menu!main file conversion|hyperpage}{137}
-\indexentry{secrets|hyperpage}{139}
-\indexentry{secrets!introduction|hyperpage}{140}
-\indexentry{secrets!after installation|hyperpage}{141}
-\indexentry{secrets!visibility|hyperpage}{143}
-\indexentry{secrets!I'm panicking|hyperpage}{144}
-\indexentry{secrets!general|hyperpage}{145}
-\indexentry{secrets!appearance|hyperpage}{145}
-\indexentry{secrets!dock|hyperpage}{146}
-\indexentry{secrets!editor options|hyperpage}{147}
-\indexentry{secrets!R|hyperpage}{148}
-\indexentry{processing|hyperpage}{149}
-\indexentry{processing!DVI|hyperpage}{149}
-\indexentry{processing!PDF|hyperpage}{149}
-\indexentry{secrets!colors preference|hyperpage}{151}
-\indexentry{secrets!highlighters preference|hyperpage}{151}
-\indexentry{secrets!tools|hyperpage}{152}
-\indexentry{secrets!project|hyperpage}{152}
-\indexentry{secrets!database|hyperpage}{153}
-\indexentry{secrets!database!shortcuts|hyperpage}{153}
-\indexentry{secrets!database!completion|hyperpage}{153}
-\indexentry{secrets!R|hyperpage}{155}
-\indexentry{secrets!R!explorer|hyperpage}{155}
-\indexentry{secrets!card (R)|hyperpage}{156}
-\indexentry{R!mirror|hyperpage}{156}
-\indexentry{R!set mirror|hyperpage}{156}
-\indexentry{R!mirrors|hyperpage}{156}
-\indexentry{secrets!bars|hyperpage}{158}
-\indexentry{secrets!spell checker|hyperpage}{159}
-\indexentry{secrets!split|hyperpage}{160}
-\indexentry{secrets!Editor: how to?|hyperpage}{161}
-\indexentry{secrets!macros|hyperpage}{161}
-\indexentry{secrets!marks|hyperpage}{161}
-\indexentry{secrets!arrange|hyperpage}{162}
-\indexentry{secrets!active page|hyperpage}{162}
-\indexentry{secrets!tab order|hyperpage}{162}
-\indexentry{R~packages@\textsf  {R}~packages!Hmisc|hyperpage}{178}
-\indexentry{R~functions@\textsf  {R}~functions!help.start|hyperpage}{248}
+\indexentry{tools!sort|hyperpage}{117}
+\indexentry{R menu|hyperpage}{118}
+\indexentry{R menu!start|hyperpage}{118}
+\indexentry{R menu!close|hyperpage}{118}
+\indexentry{R menu!connections|hyperpage}{118}
+\indexentry{R menu!Rterm|hyperpage}{119}
+\indexentry{R menu!Rterm file|hyperpage}{119}
+\indexentry{R menu!Rterm file IO|hyperpage}{119}
+\indexentry{R menu!Rterm file log|hyperpage}{120}
+\indexentry{R menu!Rterm clear|hyperpage}{120}
+\indexentry{R menu!Rterm focus|hyperpage}{120}
+\indexentry{R menu!Rterm size|hyperpage}{120}
+\indexentry{R menu!Rterm split|hyperpage}{121}
+\indexentry{R menu!Rterm syntax|hyperpage}{121}
+\indexentry{R menu!Rterm syntax IO|hyperpage}{121}
+\indexentry{R menu!Rterm syntax Log|hyperpage}{121}
+\indexentry{R menu!Rterm line wrap|hyperpage}{122}
+\indexentry{R menu!Rterm history|hyperpage}{122}
+\indexentry{R menu!Rterm workspace|hyperpage}{122}
+\indexentry{R menu!Rterm fontsize|hyperpage}{122}
+\indexentry{R menu!send|hyperpage}{123}
+\indexentry{Knitr|hyperpage}{123}
+\indexentry{R menu!control|hyperpage}{124}
+\indexentry{R menu!control packages|hyperpage}{125}
+\indexentry{view menu|hyperpage}{126}
+\indexentry{view menu!R|hyperpage}{126}
+\indexentry{view menu!Rterm|hyperpage}{127}
+\indexentry{view menu!Rterm size|hyperpage}{127}
+\indexentry{view menu!Rterm split|hyperpage}{127}
+\indexentry{view menu!Rterm syntax|hyperpage}{128}
+\indexentry{view menu!Rterm syntax IO|hyperpage}{128}
+\indexentry{view menu!Rterm syntax Log|hyperpage}{128}
+\indexentry{view menu!Rterm line wrap|hyperpage}{128}
+\indexentry{view menu!tools|hyperpage}{129}
+\indexentry{view menu!tools size|hyperpage}{129}
+\indexentry{view menu!tools resources|hyperpage}{129}
+\indexentry{view menu!tools resources misc|hyperpage}{130}
+\indexentry{view menu!tools resources markup|hyperpage}{130}
+\indexentry{view menu!tools resources results|hyperpage}{130}
+\indexentry{view menu!tools resources database|hyperpage}{130}
+\indexentry{view menu!tools resources R|hyperpage}{131}
+\indexentry{view menu!toolbars|hyperpage}{131}
+\indexentry{view menu!tabs|hyperpage}{131}
+\indexentry{view menu!tabs files|hyperpage}{132}
+\indexentry{view menu!tabs tools|hyperpage}{132}
+\indexentry{view menu!tabs Rterm|hyperpage}{132}
+\indexentry{view menu! Line wrap|hyperpage}{132}
+\indexentry{view menu!split|hyperpage}{133}
+\indexentry{view menu!fontsize|hyperpage}{133}
+\indexentry{windows menu|hyperpage}{134}
+\indexentry{web menu|hyperpage}{135}
+\indexentry{web menu!R search|hyperpage}{135}
+\indexentry{web menu!R search selected|hyperpage}{135}
+\indexentry{web menu!S search|hyperpage}{136}
+\indexentry{web menu!S search selected|hyperpage}{136}
+\indexentry{web menu!R information|hyperpage}{136}
+\indexentry{web menu!R Editorss|hyperpage}{137}
+\indexentry{web menu!R GUIs|hyperpage}{137}
+\indexentry{web menu!R IDEs|hyperpage}{137}
+\indexentry{web menu!Tinn-R|hyperpage}{137}
+\indexentry{web menu!statistics|hyperpage}{137}
+\indexentry{web menu!statistics virtual labs|hyperpage}{138}
+\indexentry{web menu!processing|hyperpage}{138}
+\indexentry{help menu|hyperpage}{139}
+\indexentry{user guide|hyperpage}{139}
+\indexentry{ini file|hyperpage}{139}
+\indexentry{recognized words|hyperpage}{139}
+\indexentry{about|hyperpage}{139}
+\indexentry{user list|hyperpage}{139}
+\indexentry{discussion group|hyperpage}{139}
+\indexentry{help menu!main file conversion|hyperpage}{139}
+\indexentry{secrets|hyperpage}{141}
+\indexentry{secrets!introduction|hyperpage}{142}
+\indexentry{secrets!after installation|hyperpage}{143}
+\indexentry{secrets!visibility|hyperpage}{145}
+\indexentry{secrets!I'm panicking|hyperpage}{146}
+\indexentry{secrets!general|hyperpage}{147}
+\indexentry{secrets!appearance|hyperpage}{147}
+\indexentry{secrets!dock|hyperpage}{148}
+\indexentry{secrets!editor options|hyperpage}{149}
+\indexentry{secrets!R|hyperpage}{150}
+\indexentry{processing|hyperpage}{151}
+\indexentry{processing!DVI|hyperpage}{151}
+\indexentry{processing!PDF|hyperpage}{151}
+\indexentry{secrets!colors preference|hyperpage}{153}
+\indexentry{secrets!highlighters preference|hyperpage}{153}
+\indexentry{secrets!tools|hyperpage}{154}
+\indexentry{secrets!project|hyperpage}{154}
+\indexentry{secrets!database|hyperpage}{155}
+\indexentry{secrets!database!shortcuts|hyperpage}{155}
+\indexentry{secrets!database!completion|hyperpage}{155}
+\indexentry{secrets!R|hyperpage}{157}
+\indexentry{secrets!R!explorer|hyperpage}{157}
+\indexentry{secrets!card (R)|hyperpage}{158}
+\indexentry{R!mirror|hyperpage}{158}
+\indexentry{R!set mirror|hyperpage}{158}
+\indexentry{R!mirrors|hyperpage}{158}
+\indexentry{secrets!bars|hyperpage}{160}
+\indexentry{secrets!spell checker|hyperpage}{161}
+\indexentry{secrets!split|hyperpage}{162}
+\indexentry{secrets!Editor: how to?|hyperpage}{163}
+\indexentry{secrets!macros|hyperpage}{163}
+\indexentry{secrets!marks|hyperpage}{163}
+\indexentry{secrets!arrange|hyperpage}{164}
+\indexentry{secrets!active page|hyperpage}{164}
+\indexentry{secrets!tab order|hyperpage}{164}
+\indexentry{What is New?|hyperpage}{165}
+\indexentry{What is New?!2014|hyperpage}{166}
+\indexentry{What is New?!2013|hyperpage}{168}
+\indexentry{What is New?!2012|hyperpage}{173}
+\indexentry{What is New?!2010|hyperpage}{176}
+\indexentry{What is New?!2009|hyperpage}{179}
+\indexentry{R~packages@\textsf  {R}~packages!Hmisc|hyperpage}{180}
+\indexentry{What is New?!2008|hyperpage}{186}
+\indexentry{What is New?!2007|hyperpage}{195}
+\indexentry{What is New?!2006|hyperpage}{203}
+\indexentry{What is New?!2005|hyperpage}{225}
+\indexentry{What is New?!2004|hyperpage}{241}
+\indexentry{R~functions@\textsf  {R}~functions!help.start|hyperpage}{250}
