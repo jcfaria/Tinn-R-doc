@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  6 FEB 2014 21:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  6 FEB 2014 21:06
 entering extended mode
 **User_guide
 (D:\GitHub\Tinn-R-doc\User_guide.tex
@@ -6098,7 +6098,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
 Here is how much of TeX's memory you used:
  25880 strings out of 493921
  405811 string characters out of 3144870
- 722333 words of memory out of 3000000
+ 722336 words of memory out of 3000000
  26084 multiletter control sequences out of 15000+200000
  344052 words of font info for 742 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
