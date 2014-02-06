@@ -1,4 +1,5 @@
-This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+This is c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\makeindex.exe, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning style file d:/GitHub/Tinn-R-doc/index_capital.ist...done (3 attributes redefined, 0 ignored).
 Scanning input file eBook.idx....
 !! Input index error (file = eBook.idx, line = 384):
    -- Illegal null field.
