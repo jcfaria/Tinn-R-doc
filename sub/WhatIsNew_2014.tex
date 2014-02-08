@@ -3,12 +3,19 @@
 \section{Versions released in 2014 (06)}
 \index{What is New?!2014}
 
-\subsection*{3.0.3.4 (Feb/06/2014)}
+\subsection*{3.0.3.4 (Feb/08/2014)}
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
-      \item \RR{} highlighter:: expressions like \texttt{gsub("/", "\\\\", text)}. Thanks to \texttt{Arnold} for pointing it out.
+      \item \RR{} highlighter: expressions like the below. Thanks to \texttt{Arnold} for pointing it out.
+       \begin{verbatim}
+         gsub("/", "\\\\", text)
+       \end{verbatim}.
+      \item Comment/Uncomment: the automatic detection of the language and chunks (regions) for multiple (or complex) languages
+       (like: \texttt{R noweb}, \texttt{R doc}, \texttt{HTML complex}, \texttt{PHP complex}, etc).
     \end{itemize}
+  \item The \texttt{Comment}, \texttt{Uncomment first} and \texttt{Uncomment all}
+   procedures were improved.
 \end{itemize}
 
 
