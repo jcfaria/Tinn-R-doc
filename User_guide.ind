@@ -1,9 +1,9 @@
 \begin{theindex}
-\textbf {Symbols}
+\textbf{Symbols}
   \item .trPaths?, \hyperpage{32}
 
   \indexspace
-\textbf {A}
+\textbf{A}
   \item about, \hyperpage{139}
   \item application options, \hyperpage{46}
     \subitem editor, \hyperpage{47}
@@ -16,12 +16,12 @@
     \subitem R, \hyperpage{51}
 
   \indexspace
-\textbf {B}
+\textbf{B}
   \item bookmarks, \hyperpage{39}
   \item bug report, \hyperpage{31}
 
   \indexspace
-\textbf {C}
+\textbf{C}
   \item color preferences, \hyperpage{42}
   \item column mode, \hyperpage{39}
   \item completion, \hyperpage{71}
@@ -30,7 +30,7 @@
   \item copy and paste, \hyperpage{40}
 
   \indexspace
-\textbf {D}
+\textbf{D}
   \item databases, \hyperpage{83}
     \subitem card (R), \hyperpage{85}
     \subitem comments, \hyperpage{84}
@@ -48,7 +48,7 @@
   \item discussion group, \hyperpage{139}
 
   \indexspace
-\textbf {E}
+\textbf{E}
   \item edit menu, \hyperpage{100}
     \subitem copy formatted, \hyperpage{100}
   \item Emacs, \hyperpage{35}
@@ -59,7 +59,7 @@
     \subitem UTF16-LE, \hyperpage{110}
 
   \indexspace
-\textbf {F}
+\textbf{F}
   \item FAQ, \hyperpage{31}
     \subitem .trPaths?, \hyperpage{32}
     \subitem bookmarks, \hyperpage{39}
@@ -110,12 +110,12 @@
   \item freeze, \hyperpage{43}
 
   \indexspace
-\textbf {G}
+\textbf{G}
   \item graphical debugger, \hyperpage{40}
   \item gutter, \hyperpage{40}
 
   \indexspace
-\textbf {H}
+\textbf{H}
   \item help menu, \hyperpage{139}
     \subitem main file conversion, \hyperpage{139}
   \item highlighters
@@ -124,7 +124,7 @@
   \item hotkeys, \hyperpage{38}, \hyperpage{59}
 
   \indexspace
-\textbf {I}
+\textbf{I}
   \item icon on Windows, \hyperpage{41}
   \item ini file, \hyperpage{139}
   \item insert menu, \hyperpage{103}
@@ -140,7 +140,7 @@
   \item IO Interface, \hyperpage{61}
 
   \indexspace
-\textbf {K}
+\textbf{K}
   \item keyboard shortcuts, \hyperpage{21}
     \subitem alphabetical list, \hyperpage{27}
     \subitem ALT Keys, \hyperpage{27}
@@ -213,12 +213,12 @@
   \item Knitr, \hyperpage{123}
 
   \indexspace
-\textbf {L}
+\textbf{L}
   \item latest version, \hyperpage{31}
   \item Log Interface, \hyperpage{63}
 
   \indexspace
-\textbf {M}
+\textbf{M}
   \item marked blocks, \hyperpage{43}
   \item marks menu, \hyperpage{102}
     \subitem block, \hyperpage{102}
@@ -235,7 +235,7 @@
   \item Miktex, \hyperpage{15}
 
   \indexspace
-\textbf {O}
+\textbf{O}
   \item options menu, \hyperpage{107}
     \subitem default, \hyperpage{109}
     \subitem syntax, \hyperpage{107}
@@ -248,7 +248,7 @@
     \subitem why Tinn-R?, \hyperpage{3}
 
   \indexspace
-\textbf {P}
+\textbf{P}
   \item Pandoc, \hyperpage{18}
   \item processing, \hyperpage{151}
     \subitem DVI, \hyperpage{151}
@@ -261,7 +261,7 @@
   \item Python, \hyperpage{19}
 
   \indexspace
-\textbf {R}
+\textbf{R}
   \item R
     \subitem card, \hyperpage{73}, \hyperpage{85}
     \subitem explorer, \hyperpage{72}
@@ -309,7 +309,7 @@
     \subitem Hmisc, \hyperpage{181}
 
   \indexspace
-\textbf {S}
+\textbf{S}
   \item save my preferences, \hyperpage{33}
   \item search
     \subitem case sensitivity, \hyperpage{81}
@@ -361,7 +361,7 @@
   \item SynEdit, \hyperpage{60}
 
   \indexspace
-\textbf {T}
+\textbf{T}
   \item template
     \subitem R doc, \hyperpage{97}
     \subitem R html, \hyperpage{96}
@@ -414,12 +414,12 @@
   \item Txt2tags, \hyperpage{19}
 
   \indexspace
-\textbf {U}
+\textbf{U}
   \item user guide, \hyperpage{139}
   \item user list, \hyperpage{139}
 
   \indexspace
-\textbf {V}
+\textbf{V}
   \item view menu, \hyperpage{126}
     \subitem  Line wrap, \hyperpage{132}
     \subitem fontsize, \hyperpage{133}
@@ -447,7 +447,7 @@
     \subitem tools size, \hyperpage{129}
 
   \indexspace
-\textbf {W}
+\textbf{W}
   \item web menu, \hyperpage{135}
     \subitem processing, \hyperpage{138}
     \subitem R Editorss, \hyperpage{137}

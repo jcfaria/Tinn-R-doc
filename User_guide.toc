@@ -189,5 +189,5 @@
 \contentsline {section}{\numberline {A.10}Versions released in 2004 (16)}{242}{section.A.10}
 \contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{249}{appendix.B}
 \contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{251}{appendix.C}
-\contentsline {chapter}{Index}{267}{section*.311}
-\contentsline {chapter}{About the Authors}{273}{appendix*.312}
+\contentsline {chapter}{Index}{267}{section*.312}
+\contentsline {chapter}{About the Authors}{273}{appendix*.313}
