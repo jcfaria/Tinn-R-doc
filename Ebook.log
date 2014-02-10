@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  9 FEB 2014 21:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.3)  10 FEB 2014 11:06
 entering extended mode
 **eBook
 (D:\GitHub\Tinn-R-doc\eBook.tex
@@ -5204,10 +5204,10 @@ Underfull \hbox (badness 10000) in alignment at lines 25--25
 
 ] (D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2014.tex
 
-LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 19.
+LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 20.
 
 
-Overfull \hbox (3.99048pt too wide) in paragraph at lines 20--22
+Overfull \hbox (3.99048pt too wide) in paragraph at lines 21--23
 \T1/mdput/m/n/10 (-20) guages (like: \T1/fvm/m/n/10 R noweb\T1/mdput/m/n/10 (-2
 0) , \T1/fvm/m/n/10 R doc\T1/mdput/m/n/10 (-20) , \T1/fvm/m/n/10 HTML com-plex\
 T1/mdput/m/n/10 (-20) , \T1/fvm/m/n/10 PHP com-plex\T1/mdput/m/n/10 (-20) , etc
@@ -5215,14 +5215,14 @@ T1/mdput/m/n/10 (-20) , \T1/fvm/m/n/10 PHP com-plex\T1/mdput/m/n/10 (-20) , etc
  []
 
 
-Overfull \hbox (7.99176pt too wide) in paragraph at lines 23--25
+Overfull \hbox (7.99176pt too wide) in paragraph at lines 24--26
 []\T1/mdput/m/n/10 (-20) The \T1/fvm/m/n/10 Com-ment\T1/mdput/m/n/10 (-20) , \T
 1/fvm/m/n/10 Un-com-ment first \T1/mdput/m/n/10 (-20) and \T1/fvm/m/n/10 Un-com
 -ment all \T1/mdput/m/n/10 (-20) pro-ce-dures were
  []
 
 
-D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2014.tex:33: LaTeX Error: \verb ended by end
+D:\GitHub\Tinn-R-doc\sub\WhatIsNew_2014.tex:34: LaTeX Error: \verb ended by end
  of line.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -5231,7 +5231,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (7.66675pt too wide) in paragraph at lines 47--49
+Overfull \hbox (7.66675pt too wide) in paragraph at lines 48--50
 \T1/fvm/m/n/10 vanced \T1/mdput/m/n/10 (-20) are now more un-der-stand-able. Th
 anks to \T1/fvm/m/n/10 Berry Boessenkool
  []
@@ -6319,7 +6319,7 @@ type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ad
 obe/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/uto
 pia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr
 i8a.pfb>
-Output written on eBook.pdf (295 pages, 3826685 bytes).
+Output written on eBook.pdf (295 pages, 3826873 bytes).
 PDF statistics:
  5153 PDF objects out of 5155 (max. 8388607)
  1444 named destinations out of 1728 (max. 500000)
