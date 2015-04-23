@@ -28,8 +28,8 @@
 \contentsline {subsection}{Python and Txt2tags}{19}{section*.15}
 \contentsline {section}{\numberline {2.2}Keyboard shortcuts (default)}{21}{section.2.2}
 \contentsline {subsection}{Main menu (systematically)}{24}{section*.16}
-\contentsline {subsection}{Call Tip}{26}{section*.17}
-\contentsline {subsection}{Code (or data) Completion}{26}{section*.18}
+\contentsline {subsection}{Call Tip}{27}{section*.17}
+\contentsline {subsection}{Code (or data) Completion}{27}{section*.18}
 \contentsline {subsection}{R Explorer}{27}{section*.19}
 \contentsline {subsection}{Alphabetical List of Keyboard Shortcuts}{27}{section*.20}
 \contentsline {section}{\numberline {2.3}FAQ}{31}{section.2.3}
@@ -40,10 +40,10 @@
 \contentsline {subsection}{Miscellaneous}{39}{section*.25}
 \contentsline {chapter}{\chapternumberline {3}Working With}{45}{chapter.3}
 \contentsline {section}{\numberline {3.1}Application options}{46}{section.3.1}
-\contentsline {subsection}{Main}{47}{section*.26}
+\contentsline {subsection}{Main}{46}{section*.26}
 \contentsline {subsection}{Editor}{47}{section*.27}
-\contentsline {subsection}{R}{51}{section*.28}
-\contentsline {subsection}{Processing}{51}{section*.29}
+\contentsline {subsection}{R}{48}{section*.28}
+\contentsline {subsection}{Processing}{50}{section*.29}
 \contentsline {section}{\numberline {3.2}Selection mode}{54}{section.3.2}
 \contentsline {subsection}{Normal}{54}{section*.30}
 \contentsline {subsection}{Line}{54}{section*.31}
@@ -58,21 +58,21 @@
 \contentsline {subsection}{Misc}{64}{section*.35}
 \contentsline {subsection}{Markup}{66}{section*.36}
 \contentsline {subsection}{Results}{67}{section*.37}
-\contentsline {subsection}{Spell}{68}{section*.38}
-\contentsline {subsection}{Database}{69}{section*.39}
-\contentsline {subsection}{R}{72}{section*.40}
-\contentsline {section}{\numberline {3.8}File tabs}{76}{section.3.8}
-\contentsline {section}{\numberline {3.9}Tools bar}{77}{section.3.9}
-\contentsline {subsection}{Show/Hide}{77}{section*.41}
-\contentsline {subsection}{Disposition}{78}{section*.42}
-\contentsline {section}{\numberline {3.10}Find and replace}{79}{section.3.10}
-\contentsline {subsection}{Find}{79}{section*.43}
-\contentsline {subsection}{Replace (Replace dialog only)}{79}{section*.44}
-\contentsline {section}{\numberline {3.11}Search in files}{81}{section.3.11}
-\contentsline {subsection}{Options}{81}{section*.45}
-\contentsline {subsection}{Where}{81}{section*.46}
-\contentsline {subsection}{Directory options}{81}{section*.47}
-\contentsline {subsection}{Results interface}{81}{section*.48}
+\contentsline {subsection}{Spell}{69}{section*.38}
+\contentsline {subsection}{Database}{70}{section*.39}
+\contentsline {subsection}{R}{73}{section*.40}
+\contentsline {section}{\numberline {3.8}File tabs}{77}{section.3.8}
+\contentsline {section}{\numberline {3.9}Tools bar}{78}{section.3.9}
+\contentsline {subsection}{Show/Hide}{78}{section*.41}
+\contentsline {subsection}{Disposition}{79}{section*.42}
+\contentsline {section}{\numberline {3.10}Find and replace}{80}{section.3.10}
+\contentsline {subsection}{Find}{80}{section*.43}
+\contentsline {subsection}{Replace (Replace dialog only)}{80}{section*.44}
+\contentsline {section}{\numberline {3.11}Search in files}{82}{section.3.11}
+\contentsline {subsection}{Options}{82}{section*.45}
+\contentsline {subsection}{Where}{82}{section*.46}
+\contentsline {subsection}{Directory options}{82}{section*.47}
+\contentsline {subsection}{Results interface}{82}{section*.48}
 \contentsline {section}{\numberline {3.12}Databases}{83}{section.3.12}
 \contentsline {subsection}{Shortcuts}{83}{section*.49}
 \contentsline {subsection}{Completion}{83}{section*.50}
@@ -147,47 +147,48 @@
 \contentsline {chapter}{\chapternumberline {5}Some Secrets for an Efficient Use}{141}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction}{142}{section.5.1}
 \contentsline {section}{\numberline {5.2}After installation}{143}{section.5.2}
-\contentsline {section}{\numberline {5.3}Shortcuts that can make you lose the visibility of a resource}{145}{section.5.3}
-\contentsline {section}{\numberline {5.4}I'm panicking: what do I do?}{146}{section.5.4}
-\contentsline {section}{\numberline {5.5}Application options}{147}{section.5.5}
-\contentsline {subsection}{General}{147}{section*.102}
-\contentsline {subsection}{Appearance}{147}{section*.103}
-\contentsline {subsection}{Dock}{148}{section*.104}
-\contentsline {subsection}{Editor options}{149}{section*.105}
-\contentsline {subsection}{R}{150}{section*.106}
-\contentsline {subsection}{Processing}{151}{section*.107}
-\contentsline {section}{\numberline {5.6}Highlighters (settings)}{153}{section.5.6}
-\contentsline {section}{\numberline {5.7}Tools}{154}{section.5.7}
-\contentsline {subsection}{Project}{154}{section*.108}
-\contentsline {subsection}{Database}{155}{section*.109}
-\contentsline {paragraph}{}{155}{section*.110}
-\contentsline {paragraph}{}{155}{section*.111}
-\contentsline {paragraph}{}{156}{section*.112}
-\contentsline {subsection}{R}{157}{section*.113}
-\contentsline {paragraph}{}{157}{section*.114}
-\contentsline {paragraph}{}{158}{section*.115}
-\contentsline {paragraph}{}{158}{section*.116}
-\contentsline {section}{\numberline {5.8}Bars}{160}{section.5.8}
-\contentsline {section}{\numberline {5.9}Spell checker}{161}{section.5.9}
-\contentsline {section}{\numberline {5.10}Split}{162}{section.5.10}
-\contentsline {section}{\numberline {5.11}Editor: how to?}{163}{section.5.11}
-\contentsline {subsection}{Macros: how to use?}{163}{section*.117}
-\contentsline {subsection}{Marks: how to use?}{163}{section*.118}
-\contentsline {subsection}{Editor, Tools and Rterm: how to arrange?}{164}{section*.119}
-\contentsline {subsection}{Active page using the keyboard: how to change?}{164}{section*.120}
-\contentsline {subsection}{Tab order: how to change?}{164}{section*.121}
-\contentsline {appendix}{\chapternumberline {A}What is New?}{165}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2014 (06)}{166}{section.A.1}
-\contentsline {section}{\numberline {A.2}Versions released in 2013 (10)}{169}{section.A.2}
-\contentsline {section}{\numberline {A.3}Versions released in 2012 (03)}{174}{section.A.3}
-\contentsline {section}{\numberline {A.4}Versions released in 2010 (10)}{177}{section.A.4}
-\contentsline {section}{\numberline {A.5}Versions released in 2009 (16)}{180}{section.A.5}
-\contentsline {section}{\numberline {A.6}Versions released in 2008 (14)}{187}{section.A.6}
-\contentsline {section}{\numberline {A.7}Versions released in 2007 (26)}{196}{section.A.7}
-\contentsline {section}{\numberline {A.8}Versions released in 2006 (64)}{204}{section.A.8}
-\contentsline {section}{\numberline {A.9}Versions released in 2005 (25)}{226}{section.A.9}
-\contentsline {section}{\numberline {A.10}Versions released in 2004 (16)}{242}{section.A.10}
-\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{249}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{251}{appendix.C}
-\contentsline {chapter}{Index}{267}{section*.312}
-\contentsline {chapter}{About the Authors}{273}{appendix*.313}
+\contentsline {section}{\numberline {5.3}Shortcuts that can make you lose the visibility of a resource}{146}{section.5.3}
+\contentsline {section}{\numberline {5.4}I'm panicking: what do I do?}{147}{section.5.4}
+\contentsline {section}{\numberline {5.5}Application options}{148}{section.5.5}
+\contentsline {subsection}{General}{148}{section*.102}
+\contentsline {subsection}{Appearance}{148}{section*.103}
+\contentsline {subsection}{Dock}{149}{section*.104}
+\contentsline {subsection}{Editor options}{150}{section*.105}
+\contentsline {subsection}{R}{151}{section*.106}
+\contentsline {subsection}{Processing}{152}{section*.107}
+\contentsline {section}{\numberline {5.6}Highlighters (settings)}{154}{section.5.6}
+\contentsline {section}{\numberline {5.7}Tools}{155}{section.5.7}
+\contentsline {subsection}{Project}{155}{section*.108}
+\contentsline {subsection}{Database}{156}{section*.109}
+\contentsline {paragraph}{}{156}{section*.110}
+\contentsline {paragraph}{}{156}{section*.111}
+\contentsline {paragraph}{}{157}{section*.112}
+\contentsline {subsection}{R}{158}{section*.113}
+\contentsline {paragraph}{}{158}{section*.114}
+\contentsline {paragraph}{}{159}{section*.115}
+\contentsline {paragraph}{}{159}{section*.116}
+\contentsline {section}{\numberline {5.8}Bars}{161}{section.5.8}
+\contentsline {section}{\numberline {5.9}Spell checker}{162}{section.5.9}
+\contentsline {section}{\numberline {5.10}Split}{163}{section.5.10}
+\contentsline {section}{\numberline {5.11}Editor: how to?}{164}{section.5.11}
+\contentsline {subsection}{Macros: how to use?}{164}{section*.117}
+\contentsline {subsection}{Marks: how to use?}{164}{section*.118}
+\contentsline {subsection}{Editor, Tools and Rterm: how to arrange?}{165}{section*.119}
+\contentsline {subsection}{Active page using the keyboard: how to change?}{165}{section*.120}
+\contentsline {subsection}{Tab order: how to change?}{165}{section*.121}
+\contentsline {appendix}{\chapternumberline {A}What is New?}{167}{appendix.A}
+\contentsline {section}{\numberline {A.1}Versions released in 2015 (01)}{168}{section.A.1}
+\contentsline {section}{\numberline {A.2}Versions released in 2014 (08)}{170}{section.A.2}
+\contentsline {section}{\numberline {A.3}Versions released in 2013 (10)}{173}{section.A.3}
+\contentsline {section}{\numberline {A.4}Versions released in 2012 (03)}{178}{section.A.4}
+\contentsline {section}{\numberline {A.5}Versions released in 2010 (10)}{181}{section.A.5}
+\contentsline {section}{\numberline {A.6}Versions released in 2009 (16)}{184}{section.A.6}
+\contentsline {section}{\numberline {A.7}Versions released in 2008 (14)}{191}{section.A.7}
+\contentsline {section}{\numberline {A.8}Versions released in 2007 (26)}{200}{section.A.8}
+\contentsline {section}{\numberline {A.9}Versions released in 2006 (64)}{208}{section.A.9}
+\contentsline {section}{\numberline {A.10}Versions released in 2005 (25)}{230}{section.A.10}
+\contentsline {section}{\numberline {A.11}Versions released in 2004 (16)}{246}{section.A.11}
+\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{253}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{255}{appendix.C}
+\contentsline {chapter}{Index}{271}{section*.315}
+\contentsline {chapter}{About the Authors}{277}{appendix*.316}

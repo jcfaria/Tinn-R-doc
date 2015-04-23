@@ -190,6 +190,7 @@ while the name will be used (if recognized) as a \LaTeX~symbol.
       \hline
       Ini log & Displays useful results when starting Tinn-R \\
       Search & Interface for \textit{Search} results associated with \textit{Search in files} \\
+      Hex viewer & Interface for hex viewer \\
       \hline
       \\
     \end{tabularx}
@@ -200,7 +201,7 @@ while the name will be used (if recognized) as a \LaTeX~symbol.
 
 It contains resources
 (Table \ref{tab:tools_results})
-related to \textit{Ini log} and \textit{Search}.
+related to \textit{Ini log}, \textit{Search} and \textit{Hex viewer}.
 
 
 \subsubsection{Ini log:}
@@ -219,12 +220,14 @@ related to \textit{Ini log} and \textit{Search}.
       \textbf{Topic} & \textbf{Description} \\
       \hline
       Path of executable and sources (origin) & Lists executable files and resources \\
-      Path of ini files & Lists the path of all folders of the ini \\
+      Path of ini folders & Lists the path of all folders of the ini \\
       Verification of necessary folder and files & Lists the status of folders and files of ini \\
-      Tinn-R, bkp, colors, ini, syntax and syntax bkp & Lists the status of these folders \\
-      Custom (version) & Lists the status of this folder and files \\
+      Tinn-R, app, bkp, colors, editor, syntax, syntax bkp and tmp & Lists the status of these folders \\
       Data (version) & Lists the status of this folder and files \\
       Latex (version) & Lists the status of this folder and files \\
+      Project (version) & Lists the status of this folder and files \\
+      Editor options
+
       Shortcuts (version) & Lists the status of this folder and files \\
       Unihighlighter (version) & Lists the status of this folder and files \\
       Tmp & Lists the status of this folder \\
@@ -262,6 +265,20 @@ for \textit{Search} results associated with \textit{Search in files}.
 The results for the \textit{Search in files} actions are displayed
 as a tree with all files. Double click the file to open it in
 the editor interface.
+
+
+\subsubsection{Hex viewer:}
+\index{tools interface!hex}\\
+
+\begin{figure}[h!]
+  \includegraphics[scale=0.35]{./res/tools_results_hex.png}
+  \caption{Hex (Tools/Hex viewer).}
+  \label{fig:tools_results_hex}
+\end{figure}
+
+The interface
+(Figure \ref{fig:tools_results_hex})
+for \textit{Hex viewer} results associated to any active file.
 
 
 \hypertarget{working_tools_spell}{}

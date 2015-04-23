@@ -56,13 +56,13 @@ R and Tinn-R.
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    Interface (show/hide) & Toggles (show/hide) Rterm interface \\
+    Rterm (show/hide) & Toggles (show/hide) Rterm interface \\
     File & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_file}} \\
     Clear & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_clear}} \\
     Focus & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_focus}} \\
     Size & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_size}} \\
     Split & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_split}} \\
-    Syntax & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_syntax}} \\
+    Highlighter & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_highlighter}} \\
     Line wrap & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_linewrap}} \\
     History & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_history}} \\
     Workspace & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_workspace}} \\
@@ -191,27 +191,27 @@ R and Tinn-R.
   \end{tabularx}\end{scriptsize}
 
 
-\hypertarget{menu_r_rterm_syntax}{}
-\subsubsection{Syntax}\\
-\index{R menu!Rterm syntax}
+\hypertarget{menu_r_rterm_highlighter}{}
+\subsubsection{Highlighter}\\
+\index{R menu!Rterm highlighter}
 
-\includegraphics[scale=0.50]{./res/menu_r_rterm_IOandLog.png}\\
+\includegraphics[scale=0.50]{./res/menu_r_rterm_highlighter.png}\\
 
 \begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    IO & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_syntax\_IO}} \\
-    Log & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_syntax\_Log}} \\
+    IO & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_highlighter\_IO}} \\
+    Log & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm\_highlighter\_Log}} \\
     \hline
   \end{tabularx}\end{scriptsize}
 
 
-\hypertarget{menu_r_rterm_syntax_IO}{}
-\subsubsection{Syntax IO}\\
-\index{R menu!Rterm syntax IO}
+\hypertarget{menu_r_rterm_highlighter_IO}{}
+\subsubsection{Highlighter IO}\\
+\index{R menu!Rterm highlighter IO}
 
-\includegraphics[scale=0.50]{./res/menu_r_rterm_syntax.png}\\
+\includegraphics[scale=0.50]{./res/menu_r_rterm_highlighter_io.png}\\
 
 \begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
@@ -223,11 +223,11 @@ R and Tinn-R.
   \end{tabularx}\end{scriptsize}
 
 
-\hypertarget{menu_r_rterm_syntax_Log}{}
-\subsubsection{Syntax Log}\\
-\index{R menu!Rterm syntax Log}
+\hypertarget{menu_r_rterm_highlighter_Log}{}
+\subsubsection{Highlighter Log}\\
+\index{R menu!Rterm highlighter Log}
 
-\includegraphics[scale=0.50]{./res/menu_r_rterm_syntax.png}\\
+\includegraphics[scale=0.50]{./res/menu_r_rterm_highlighter_log.png}\\
 
 \begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
@@ -324,6 +324,8 @@ R and Tinn-R.
     Clipboard (\texttt{echo=TRUE}) & Sends the clipboard content to R interpreter echoing the content \\
     Marked block & Sends current marked block to R interpreter \\
     Marked block (\texttt{echo=TRUE}) & Sends current marked block to R interpreter echoing the content \\
+		Contiguous & Sends contiguous lines to R interpreter \\
+		Contiguous (\texttt{echo=TRUE}) & Sends contiguous lines to R interpreter echoing the content \\
     Line & Sends current line to R interpreter echoing it \\
     Lines to end page (\texttt{echo=TRUE}) & Sends all visible lines to end page echoing it \\
     Cursor to beginning line & Sends cursor position to beginning line \\

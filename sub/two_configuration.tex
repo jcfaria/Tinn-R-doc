@@ -391,12 +391,15 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
     \end{enumerate}
 \end{itemize}
 
+The conversion options using \texttt{Deplate} depends of the file extension.
+Are recognized: \texttt{.dp, .dpt, .dplt, .deplate and .txt}.
+
 We recently observed a problem when converting files with file names with an
 underscore. For example \texttt{deplate\_intro.dplt}. In these cases the file
 conversion is completed, but Tinn-R won't open the file since it can't find it.
 This pattern is caused by Deplate (a ruby script) generating a file named
 \texttt{deplate\_\_intro.html}. \textit{Observe that this file name contains a
-  double underscore}. In sum, for the time being, avoid underscores in file
+double underscore}. In sum, for the time being, avoid underscores in file
 names when you intend to convert them later through Deplate.
 
 
@@ -480,3 +483,6 @@ names when you intend to convert them later through Deplate.
         \includegraphics[scale=0.50]{./res/app_processing_conversion_txt2tags.png}\\
     \end{enumerate}
 \end{itemize}
+
+The conversion options using \texttt{Txt2tags} depends of the file extension.
+Are recognized: \texttt{.t2, .t2t, .txt2tags. and .txt}.
