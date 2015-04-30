@@ -201,9 +201,9 @@
     \subitem R, \hyperpage{21--27}, \hyperpage{29, 30}
     \subitem replace, \hyperpage{22}, \hyperpage{28}
     \subitem seq, \hyperpage{21}
-    \subitem set, \hyperpage{21}, \hyperpage{23}, \hyperpage{26, 27}, 
+    \subitem set, \hyperpage{21}, \hyperpage{23}, \hyperpage{26}, 
 		\hyperpage{30}
-    \subitem show, \hyperpage{21}, \hyperpage{26}
+    \subitem show, \hyperpage{21}, \hyperpage{26, 27}
     \subitem single, \hyperpage{23}, \hyperpage{26}
     \subitem structure, \hyperpage{22}, \hyperpage{29}
     \subitem system, \hyperpage{23}, \hyperpage{26}, \hyperpage{30}
@@ -302,9 +302,9 @@
     \subitem Log, \hyperpage{63}
   \item Ruby, \hyperpage{17}
   \item \textsf  {R}~functions
-    \subitem help.start, \hyperpage{254}
+    \subitem help.start, \hyperpage{256}
   \item \textsf  {R}~packages
-    \subitem Hmisc, \hyperpage{185}
+    \subitem Hmisc, \hyperpage{186}
 
   \indexspace
 
@@ -461,16 +461,16 @@
     \subitem statistics virtual labs, \hyperpage{138}
     \subitem Tinn-R, \hyperpage{137}
   \item What is New?, \hyperpage{167}
-    \subitem 2004, \hyperpage{246}
-    \subitem 2005, \hyperpage{230}
-    \subitem 2006, \hyperpage{208}
-    \subitem 2007, \hyperpage{200}
-    \subitem 2008, \hyperpage{191}
-    \subitem 2009, \hyperpage{184}
-    \subitem 2010, \hyperpage{181}
-    \subitem 2012, \hyperpage{178}
-    \subitem 2013, \hyperpage{173}
-    \subitem 2014, \hyperpage{170}
+    \subitem 2004, \hyperpage{247}
+    \subitem 2005, \hyperpage{231}
+    \subitem 2006, \hyperpage{209}
+    \subitem 2007, \hyperpage{201}
+    \subitem 2008, \hyperpage{192}
+    \subitem 2009, \hyperpage{185}
+    \subitem 2010, \hyperpage{182}
+    \subitem 2012, \hyperpage{179}
+    \subitem 2013, \hyperpage{174}
+    \subitem 2014, \hyperpage{171}
     \subitem 2015, \hyperpage{168}
   \item What is Tinn-R?, \hyperpage{31}
   \item windows menu, \hyperpage{134}

@@ -181,19 +181,19 @@
 \contentsline {subsection}{Active page using the keyboard: how to change?}{165}{section*.124}
 \contentsline {subsection}{Tab order: how to change?}{165}{section*.125}
 \contentsline {appendix}{\chapternumberline {A}What is New?}{167}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2015 (01)}{168}{section.A.1}
-\contentsline {section}{\numberline {A.2}Versions released in 2014 (08)}{170}{section.A.2}
-\contentsline {section}{\numberline {A.3}Versions released in 2013 (10)}{173}{section.A.3}
-\contentsline {section}{\numberline {A.4}Versions released in 2012 (03)}{178}{section.A.4}
-\contentsline {section}{\numberline {A.5}Versions released in 2010 (10)}{181}{section.A.5}
-\contentsline {section}{\numberline {A.6}Versions released in 2009 (16)}{184}{section.A.6}
-\contentsline {section}{\numberline {A.7}Versions released in 2008 (14)}{191}{section.A.7}
-\contentsline {section}{\numberline {A.8}Versions released in 2007 (26)}{200}{section.A.8}
-\contentsline {section}{\numberline {A.9}Versions released in 2006 (64)}{208}{section.A.9}
-\contentsline {section}{\numberline {A.10}Versions released in 2005 (25)}{230}{section.A.10}
-\contentsline {section}{\numberline {A.11}Versions released in 2004 (16)}{246}{section.A.11}
-\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{253}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{255}{appendix.C}
-\contentsline {chapter}{References}{271}{appendix*.319}
-\contentsline {chapter}{Index}{273}{section*.320}
-\contentsline {chapter}{About the Authors}{279}{appendix*.321}
+\contentsline {section}{\numberline {A.1}Versions released in 2015 (02)}{168}{section.A.1}
+\contentsline {section}{\numberline {A.2}Versions released in 2014 (08)}{171}{section.A.2}
+\contentsline {section}{\numberline {A.3}Versions released in 2013 (10)}{174}{section.A.3}
+\contentsline {section}{\numberline {A.4}Versions released in 2012 (03)}{179}{section.A.4}
+\contentsline {section}{\numberline {A.5}Versions released in 2010 (10)}{182}{section.A.5}
+\contentsline {section}{\numberline {A.6}Versions released in 2009 (16)}{185}{section.A.6}
+\contentsline {section}{\numberline {A.7}Versions released in 2008 (14)}{192}{section.A.7}
+\contentsline {section}{\numberline {A.8}Versions released in 2007 (26)}{201}{section.A.8}
+\contentsline {section}{\numberline {A.9}Versions released in 2006 (64)}{209}{section.A.9}
+\contentsline {section}{\numberline {A.10}Versions released in 2005 (25)}{231}{section.A.10}
+\contentsline {section}{\numberline {A.11}Versions released in 2004 (16)}{247}{section.A.11}
+\contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{255}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{257}{appendix.C}
+\contentsline {chapter}{References}{273}{appendix*.320}
+\contentsline {chapter}{Index}{275}{section*.321}
+\contentsline {chapter}{About the Authors}{281}{appendix*.322}

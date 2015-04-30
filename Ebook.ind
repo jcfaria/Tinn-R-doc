@@ -8,12 +8,12 @@
   \item application options, \hyperpage{46}
     \subitem editor, \hyperpage{47}
     \subitem editor advanced, \hyperpage{47}
-    \subitem editor keystrokes, \hyperpage{48}
+    \subitem editor keystrokes, \hyperpage{47}
     \subitem main, \hyperpage{46}
-    \subitem processing, \hyperpage{51}
+    \subitem processing, \hyperpage{50}
     \subitem processing conversion, \hyperpage{51}
     \subitem processing LaTeX, \hyperpage{53}
-    \subitem R, \hyperpage{50}
+    \subitem R, \hyperpage{48}
 
   \indexspace
 
@@ -24,7 +24,7 @@
 
   \item color preferences, \hyperpage{42}
   \item column mode, \hyperpage{39}
-  \item completion, \hyperpage{71}
+  \item completion, \hyperpage{72}
   \item comunication, \hyperpage{43}
   \item configuration, \hyperpage{10}
   \item copy and paste, \hyperpage{40}
@@ -99,9 +99,9 @@
   \item file menu, \hyperpage{96}
     \subitem copy to clipboard, \hyperpage{97}
     \subitem template, \hyperpage{96}
-  \item filetabs, \hyperpage{76}
-  \item find, \hyperpage{79}
-  \item find and replace, \hyperpage{79}
+  \item filetabs, \hyperpage{77}
+  \item find, \hyperpage{80}
+  \item find and replace, \hyperpage{80}
   \item find errors in my script, \hyperpage{43}
   \item focus control, \hyperpage{41}
   \item format menu, \hyperpage{101}
@@ -201,9 +201,9 @@
     \subitem R, \hyperpage{21--27}, \hyperpage{29, 30}
     \subitem replace, \hyperpage{22}, \hyperpage{28}
     \subitem seq, \hyperpage{21}
-    \subitem set, \hyperpage{21}, \hyperpage{23}, \hyperpage{26, 27}, 
+    \subitem set, \hyperpage{21}, \hyperpage{23}, \hyperpage{26}, 
 		\hyperpage{30}
-    \subitem show, \hyperpage{21}, \hyperpage{26}
+    \subitem show, \hyperpage{21}, \hyperpage{26, 27}
     \subitem single, \hyperpage{23}, \hyperpage{26}
     \subitem structure, \hyperpage{22}, \hyperpage{29}
     \subitem system, \hyperpage{23}, \hyperpage{26}, \hyperpage{30}
@@ -261,10 +261,10 @@
   \indexspace
 
   \item R
-    \subitem card, \hyperpage{73}, \hyperpage{85}
-    \subitem explorer, \hyperpage{72}
+    \subitem card, \hyperpage{74}, \hyperpage{85}
+    \subitem explorer, \hyperpage{73}
     \subitem mirror, \hyperpage{86}, \hyperpage{159}
-    \subitem mirrors, \hyperpage{74}, \hyperpage{159}
+    \subitem mirrors, \hyperpage{75}, \hyperpage{159}
     \subitem set mirror, \hyperpage{159}
   \item R menu, \hyperpage{118}
     \subitem close, \hyperpage{118}
@@ -293,7 +293,7 @@
     \subitem character classes, \hyperpage{89}
     \subitem escape sequences, \hyperpage{88}
     \subitem simple matches, \hyperpage{88}
-  \item replace, \hyperpage{79}
+  \item replace, \hyperpage{80}
   \item reuse my preferences, \hyperpage{33}
   \item Rgui, \hyperpage{14}
   \item Rterm, \hyperpage{14}
@@ -302,18 +302,18 @@
     \subitem Log, \hyperpage{63}
   \item Ruby, \hyperpage{17}
   \item \textsf  {R}~functions
-    \subitem help.start, \hyperpage{254}
+    \subitem help.start, \hyperpage{256}
   \item \textsf  {R}~packages
-    \subitem Hmisc, \hyperpage{185}
+    \subitem Hmisc, \hyperpage{186}
 
   \indexspace
 
   \item save my preferences, \hyperpage{33}
   \item search
-    \subitem case sensitivity, \hyperpage{81}
-    \subitem in files, \hyperpage{81}
-    \subitem regular expressions, \hyperpage{81}
-    \subitem results, \hyperpage{81}
+    \subitem case sensitivity, \hyperpage{82}
+    \subitem in files, \hyperpage{82}
+    \subitem regular expressions, \hyperpage{82}
+    \subitem results, \hyperpage{82}
   \item search menu, \hyperpage{106}
   \item secrets, \hyperpage{141}
     \subitem active page, \hyperpage{165}
@@ -385,16 +385,17 @@
     \subitem Windows expl., \hyperpage{64}
     \subitem Work expl., \hyperpage{65}
   \item tools interface
-    \subitem card (R), \hyperpage{73}
-    \subitem Comments, \hyperpage{71}
-    \subitem completion, \hyperpage{69}
-    \subitem database, \hyperpage{69}
-    \subitem mirrors (R), \hyperpage{74}
-    \subitem R, \hyperpage{72}
-    \subitem R explorer, \hyperpage{72}
+    \subitem card (R), \hyperpage{74}
+    \subitem Comments, \hyperpage{72}
+    \subitem completion, \hyperpage{70}
+    \subitem database, \hyperpage{70}
+    \subitem hex, \hyperpage{68}
+    \subitem mirrors (R), \hyperpage{75}
+    \subitem R, \hyperpage{73}
+    \subitem R explorer, \hyperpage{73}
     \subitem search, \hyperpage{68}
-    \subitem shortcuts, \hyperpage{69}
-    \subitem spell, \hyperpage{68}
+    \subitem shortcuts, \hyperpage{70}
+    \subitem spell, \hyperpage{69}
   \item tools menu, \hyperpage{111}
     \subitem compilation, \hyperpage{114}
     \subitem conversion deplate, \hyperpage{112}
@@ -405,9 +406,9 @@
     \subitem processing viewer html, \hyperpage{115}
     \subitem processing viewer pdf, \hyperpage{115}
   \item tools panel, \hyperpage{40}
-  \item toolsbar, \hyperpage{77}
-    \subitem disposition, \hyperpage{78}
-    \subitem showhide, \hyperpage{77}
+  \item toolsbar, \hyperpage{78}
+    \subitem disposition, \hyperpage{79}
+    \subitem showhide, \hyperpage{78}
   \item triggers, \hyperpage{36}
   \item Txt2tags, \hyperpage{19}
 
@@ -460,16 +461,16 @@
     \subitem statistics virtual labs, \hyperpage{138}
     \subitem Tinn-R, \hyperpage{137}
   \item What is New?, \hyperpage{167}
-    \subitem 2004, \hyperpage{246}
-    \subitem 2005, \hyperpage{230}
-    \subitem 2006, \hyperpage{208}
-    \subitem 2007, \hyperpage{200}
-    \subitem 2008, \hyperpage{191}
-    \subitem 2009, \hyperpage{184}
-    \subitem 2010, \hyperpage{181}
-    \subitem 2012, \hyperpage{178}
-    \subitem 2013, \hyperpage{173}
-    \subitem 2014, \hyperpage{170}
+    \subitem 2004, \hyperpage{247}
+    \subitem 2005, \hyperpage{231}
+    \subitem 2006, \hyperpage{209}
+    \subitem 2007, \hyperpage{201}
+    \subitem 2008, \hyperpage{192}
+    \subitem 2009, \hyperpage{185}
+    \subitem 2010, \hyperpage{182}
+    \subitem 2012, \hyperpage{179}
+    \subitem 2013, \hyperpage{174}
+    \subitem 2014, \hyperpage{171}
     \subitem 2015, \hyperpage{168}
   \item What is Tinn-R?, \hyperpage{31}
   \item windows menu, \hyperpage{134}
