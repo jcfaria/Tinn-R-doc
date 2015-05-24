@@ -1,48 +1,48 @@
 \select@language {english}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Tinn-R screenshot.}}{3}{figure.1.1}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Tinn-R screenshot.\relax }}{3}{figure.caption.6}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Tinn-R: Main resources.}}{46}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Main (Options/Application).}}{47}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Editor options: Display.}}{48}{figure.3.3}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Editor options: Advanced.}}{50}{figure.3.4}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Editor options: keystrokes.}}{50}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces R (Options/Application).}}{51}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces R (Options/Application).}}{52}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces R (Options/Application).}}{52}{figure.3.8}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Conversion (Options/Application/Processing).}}{53}{figure.3.9}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Latex (Options/Application/Processing).}}{54}{figure.3.10}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Normal (selection mode).}}{54}{figure.3.11}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Line (selection mode).}}{55}{figure.3.12}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Column (selection mode).}}{55}{figure.3.13}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Highlighter preferences.}}{56}{figure.3.14}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Shortcuts customization.}}{58}{figure.3.15}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Hotkeys.}}{59}{figure.3.16}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Rterm interface.}}{60}{figure.3.17}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces IO (Rterm interface).}}{61}{figure.3.18}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Log (Rterm interface).}}{63}{figure.3.19}
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Tools interface.}}{64}{figure.3.20}
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Markups (Tools).}}{66}{figure.3.21}
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Inilog (Tools/Results).}}{67}{figure.3.22}
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Search (Tools/Results).}}{68}{figure.3.23}
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Hex (Tools/Hex viewer).}}{68}{figure.3.24}
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Spelling (Tools).}}{69}{figure.3.25}
-\contentsline {figure}{\numberline {3.26}{\ignorespaces Database (Tools).}}{70}{figure.3.26}
-\contentsline {figure}{\numberline {3.27}{\ignorespaces R (Tools).}}{73}{figure.3.27}
-\contentsline {figure}{\numberline {3.28}{\ignorespaces R card (Database).}}{74}{figure.3.28}
-\contentsline {figure}{\numberline {3.29}{\ignorespaces R mirrors (Database).}}{75}{figure.3.29}
-\contentsline {figure}{\numberline {3.30}{\ignorespaces File tabs.}}{77}{figure.3.30}
-\contentsline {figure}{\numberline {3.31}{\ignorespaces File tabs menu.}}{77}{figure.3.31}
-\contentsline {figure}{\numberline {3.32}{\ignorespaces Tools bar.}}{78}{figure.3.32}
-\contentsline {figure}{\numberline {3.33}{\ignorespaces Tools bar menu.}}{79}{figure.3.33}
-\contentsline {figure}{\numberline {3.34}{\ignorespaces Find and replace dialog.}}{80}{figure.3.34}
-\contentsline {figure}{\numberline {3.35}{\ignorespaces Search in files.}}{82}{figure.3.35}
-\contentsline {figure}{\numberline {3.36}{\ignorespaces Shortcuts (Databases).}}{83}{figure.3.36}
-\contentsline {figure}{\numberline {3.37}{\ignorespaces Completion (Databases).}}{84}{figure.3.37}
-\contentsline {figure}{\numberline {3.38}{\ignorespaces Comments (Databases).}}{84}{figure.3.38}
-\contentsline {figure}{\numberline {3.39}{\ignorespaces R card (Databases).}}{85}{figure.3.39}
-\contentsline {figure}{\numberline {3.40}{\ignorespaces R mirrors (Databases).}}{86}{figure.3.40}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tinn-R: Main resources.\relax }}{46}{figure.caption.27}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Main (Options/Application).\relax }}{47}{figure.caption.29}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Editor options: Display.\relax }}{48}{figure.caption.32}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Editor options: Advanced.\relax }}{50}{figure.caption.34}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Editor options: keystrokes.\relax }}{50}{figure.caption.36}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces R (Options/Application).\relax }}{51}{figure.caption.38}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces R (Options/Application).\relax }}{52}{figure.caption.39}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces R (Options/Application).\relax }}{52}{figure.caption.40}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Conversion (Options/Application/Processing).\relax }}{53}{figure.caption.42}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Latex (Options/Application/Processing).\relax }}{54}{figure.caption.43}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Normal (selection mode).\relax }}{54}{figure.caption.45}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Line (selection mode).\relax }}{55}{figure.caption.47}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Column (selection mode).\relax }}{55}{figure.caption.49}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Highlighter preferences.\relax }}{56}{figure.caption.50}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Shortcuts customization.\relax }}{58}{figure.caption.51}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Hotkeys.\relax }}{59}{figure.caption.52}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Rterm interface.\relax }}{60}{figure.caption.53}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces IO (Rterm interface).\relax }}{61}{figure.caption.55}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Log (Rterm interface).\relax }}{63}{figure.caption.58}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Tools interface.\relax }}{64}{figure.caption.60}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Markups (Tools).\relax }}{66}{figure.caption.63}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Inilog (Tools/Results).\relax }}{67}{figure.caption.67}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Search (Tools/Results).\relax }}{68}{figure.caption.69}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Hex (Tools/Hex viewer).\relax }}{68}{figure.caption.70}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Spelling (Tools).\relax }}{69}{figure.caption.72}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Database (Tools).\relax }}{70}{figure.caption.74}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces R (Tools).\relax }}{73}{figure.caption.77}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces R card (Database).\relax }}{74}{figure.caption.79}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces R mirrors (Database).\relax }}{75}{figure.caption.80}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces File tabs.\relax }}{77}{figure.caption.81}
+\contentsline {figure}{\numberline {3.31}{\ignorespaces File tabs menu.\relax }}{77}{figure.caption.82}
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Tools bar.\relax }}{78}{figure.caption.83}
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Tools bar menu.\relax }}{79}{figure.caption.86}
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Find and replace dialog.\relax }}{80}{figure.caption.88}
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Search in files.\relax }}{82}{figure.caption.91}
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Shortcuts (Databases).\relax }}{83}{figure.caption.97}
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Completion (Databases).\relax }}{84}{figure.caption.99}
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Comments (Databases).\relax }}{84}{figure.caption.101}
+\contentsline {figure}{\numberline {3.39}{\ignorespaces R card (Databases).\relax }}{85}{figure.caption.103}
+\contentsline {figure}{\numberline {3.40}{\ignorespaces R mirrors (Databases).\relax }}{86}{figure.caption.105}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}

@@ -1,7 +1,23 @@
 
 \hypertarget{2015}{}
-\section{Versions released in 2015 (02)}
+\section{Versions released in 2015 (03)}
 \index{What is New?!2015}
+
+\subsection*{4.0.3.3 (Mai/22/2015)}
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug related to \texttt{Rterm interface (IO and Log)} and the packages \texttt{car} and \texttt{rms} was fixed.
+        The origin of the bug is that when both packages are loaded they change the pattern of messages on the pipe.
+        Thanks to \texttt{Frank} for pointing it out.
+    \end{itemize}
+  \item The versions 4.0.3.1 and 4.0.3.2 were restrict to testers: thanks for tests and sugestions.
+  \item The \texttt{TinnRcom} package was updated to the version 1.0.18.
+  \item Some files of the folder \texttt{utils} were updated to meet with \texttt{Tinn-RPortable} project (in development) necessities.
+    Therefore, the folders and files of the R variable \texttt{.trPaths} were changed to \texttt{TEMP} environment variable.
+  \item The \texttt{Help} menu was a little changed.
+\end{itemize}
+
 
 \subsection*{4.0.2.1 (Apr/29/2015)}
 \begin{itemize}
@@ -9,8 +25,8 @@
     \begin{itemize}
       \item A bug related to the recent version released (\RR{} 3.2.0) and the instalation of the necessary \texttt{TinnRcom} package was fixed.
         Thanks to \texttt{Duncan Murdoch} for the suport.
-      \item The file \texttt{Rinstall.R} located at the folder \texttt{utils} where Tinn-R was instaled was updated to supress
-        the download of two no more necessary packages (\texttt{Hmisc} and \texttt{R2Html}) to \texttt{TinnRcom} package.
+      \item The file \texttt{Rinstall.R} located at the folder \texttt{utils} where Tinn-R is instaled was updated to supress
+        the download of two packages (\texttt{Hmisc} and \texttt{R2Html}) no more necessary to \texttt{TinnRcom} package.
     \end{itemize}
   \item The \texttt{TinnRcom} package was updated to the version 1.0.17.
 \end{itemize}
@@ -20,35 +36,35 @@
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
-      \item A bug related to Sumatra (PDF viewer) and User guide (PDF), location of topics, has been fixed. If you have it installed,
+      \item A bug related to Sumatra (PDF viewer) and User guide (PDF), location of topics, was fixed. If you have it installed,
         please upgrade to 3.1.1 or higher (\htmladdnormallink{SumatraPDF}{http://www.sumatrapdfreader.org/prerelease.html}).
       \item Drag and drop from \texttt{R explorer} to \texttt{Editor}.
       \item \texttt{Rterm} is now entirely updated after any changes in \texttt{Options/Application} or
         \texttt{Options/Highlighters (settings)}.
       \item A bug related to \texttt{line wrap} has been fixed: thanks to Frank for pointing it out.
-      \item A bug related to character recognition of \texttt{Tools/Database/R/Mirrors} has been fixed.
-      \item A bug related to \texttt{Rterm/Log} text highlighter has been fixed.
-      \item A bug related to \texttt{Page control files} and hints of files has been fixed.
+      \item A bug related to character recognition of \texttt{Tools/Database/R/Mirrors} was fixed.
+      \item A bug related to \texttt{Rterm/Log} text highlighter was fixed.
+      \item A bug related to \texttt{Page control files} and hints of files were fixed.
       \item Some bugs were fixed and it is more user friendly when the editor is in split mode.
-      \item Some bug were fixed related to Hide/Show resources os \texttt{Tools panel}
+      \item Some bugs were fixed related to Hide/Show resources os \texttt{Tools panel}
     \end{itemize}
   \item Pre-release versions 4.0.0.0 to 4.0.1.5 were restrict to testers: thanks for tests and sugestions.
-  \item \texttt{Philipe Silva Farias} has began to work in the project as co-author.
+  \item \texttt{Philipe Silva Farias} began to work in the project as co-author.
   \item Tinn-R Editor - GUI for R Language and Environment is a project under GPL and distributed as freeware.
     Since creating and maintaining the project involve many costs, donations are welcome!
   \item An experimental Hex viewer (\htmladdnormallink{ATBinHex}{http://atviewer.sourceforge.net/atbinhex.htm}) was added to \texttt{Tools/Results/Hex viewer}. There is a bug related to UTF-8 BOM encoding file: the selection of (Char $\rightleftharpoons$ Hex), only in the first line, is not correctly associating the character with its corresponding Hex. It has its own pop-up menu with many (and useful) options.
   \item An experimental file notification resource has been added to the project. The options are at \texttt{Options/Application/General}.
   \item Prior backup (full or database) will not be compatible anymore from this version.
   \item A set of new icons was created specially to the project: thanks to \texttt{Philipe Farias} for the hard work.
-  \item The visual identity of the project has been changed: thanks to \texttt{Carolina Sartório Faria} for the work.
-  \item New resources to autocompletion related to: \verb{( [ { ' "} have been added. If there is a selection, the new feature will respect that.
+  \item The visual identity of the project was changed: thanks to \texttt{Carolina Sartório Faria} for the work.
+  \item New resources to autocompletion related to: \verb{( [ { ' "} were added. If there is a selection, the new feature will respect that.
   \item A new option was added to \texttt{Options/Application/R/Rterm/Options (Rterm)}
     enabling the user to choose if setwidth will be sent automatically when the panel width
     or font size is changed.
   \item Some improvements were made in the \texttt{Options/Application} and this interface has new options now.
-  \item The usability of Rterm interface has been improved.
+  \item The usability of Rterm interface was improved.
   \item The \texttt{URI highlighter} has now a new identifier named \texttt{Space}.
-  \item The default shortcut to alternate the focus among Editor, IO and Log has been changed.
+  \item The default shortcut to alternate the focus among Editor, IO and Log were changed.
   \item The automatic recognition of hardware architecture (32 or 64 bit) was improved.
   \item The \texttt{project Jedi} used in the Tinn-R project was updated to the latest version.
     It correct some bugs related to Tools and Rterm panels and \texttt{Auto Hide} option.
