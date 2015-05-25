@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  24 MAY 2015 07:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 11:50
 entering extended mode
 **eBook
 (eBook.tex
@@ -5441,13 +5441,18 @@ Overfull \hbox (4.83502pt too wide) in paragraph at lines 10--13
  []
 
 
-Overfull \hbox (11.1934pt too wide) in paragraph at lines 45--46
+Overfull \hbox (0.17795pt too wide) in paragraph at lines 15--16
+[]\T1/mdput/m/n/10 (-20) The ver-sions 4.0.3.1, 4.0.3.2 and 4.0.3.3 were re-str
+ict to testers: thanks
+ []
+
+[168]
+Overfull \hbox (11.1934pt too wide) in paragraph at lines 46--47
 []\T1/mdput/m/n/10 (-20) A bug re-lated to char-ac-ter recog-ni-tion of \T1/fvm
 /m/n/10 Tool-s/-Database/R/Mir-
  []
 
-[168]
-sub/WhatIsNew_2015.tex:60: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:61: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -5455,7 +5460,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 [169]
-sub/WhatIsNew_2015.tex:78: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:79: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -6594,7 +6599,7 @@ pe1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopi
 a/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
 a.pfb>
-Output written on eBook.pdf (302 pages, 3164170 bytes).
+Output written on eBook.pdf (302 pages, 3164301 bytes).
 PDF statistics:
  5386 PDF objects out of 6186 (max. 8388607)
  1461 named destinations out of 1728 (max. 500000)
