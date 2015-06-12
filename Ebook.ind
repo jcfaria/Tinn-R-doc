@@ -302,9 +302,9 @@
     \subitem Log, \hyperpage{63}
   \item Ruby, \hyperpage{17}
   \item \textsf  {R}~functions
-    \subitem help.start, \hyperpage{256}
+    \subitem help.start, \hyperpage{258}
   \item \textsf  {R}~packages
-    \subitem Hmisc, \hyperpage{186}
+    \subitem Hmisc, \hyperpage{188}
 
   \indexspace
 
@@ -320,6 +320,7 @@
     \subitem after installation, \hyperpage{143}
     \subitem appearance, \hyperpage{148}
     \subitem arrange, \hyperpage{165}
+    \subitem auto completion, \hyperpage{165}
     \subitem bars, \hyperpage{161}
     \subitem card (R), \hyperpage{159}
     \subitem colors preference, \hyperpage{154}
@@ -460,18 +461,18 @@
     \subitem statistics, \hyperpage{137}
     \subitem statistics virtual labs, \hyperpage{138}
     \subitem Tinn-R, \hyperpage{137}
-  \item What is New?, \hyperpage{167}
-    \subitem 2004, \hyperpage{247}
-    \subitem 2005, \hyperpage{231}
-    \subitem 2006, \hyperpage{209}
-    \subitem 2007, \hyperpage{201}
-    \subitem 2008, \hyperpage{192}
-    \subitem 2009, \hyperpage{185}
-    \subitem 2010, \hyperpage{182}
-    \subitem 2012, \hyperpage{179}
-    \subitem 2013, \hyperpage{174}
-    \subitem 2014, \hyperpage{171}
-    \subitem 2015, \hyperpage{168}
+  \item What is New?, \hyperpage{169}
+    \subitem 2004, \hyperpage{249}
+    \subitem 2005, \hyperpage{233}
+    \subitem 2006, \hyperpage{211}
+    \subitem 2007, \hyperpage{203}
+    \subitem 2008, \hyperpage{194}
+    \subitem 2009, \hyperpage{187}
+    \subitem 2010, \hyperpage{184}
+    \subitem 2012, \hyperpage{181}
+    \subitem 2013, \hyperpage{176}
+    \subitem 2014, \hyperpage{173}
+    \subitem 2015, \hyperpage{170}
   \item What is Tinn-R?, \hyperpage{31}
   \item windows menu, \hyperpage{134}
   \item WinEdt, \hyperpage{35}

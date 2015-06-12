@@ -17,7 +17,7 @@ A level-1 auxiliary file: ./sub/zzzGlossary.aux
 A level-1 auxiliary file: ./sub/zzzCrossRefs.aux
 A level-1 auxiliary file: ./sub/zzzIndex.aux
 A level-1 auxiliary file: ./sub/zzzAuthors.aux
-A level-1 auxiliary file: ./sub/zzzBackCover.aux
+A level-1 auxiliary file: ./sub_ug/zzzBackCover.aux
 I found no \citation commands---while reading file User_guide.aux
 I found no \bibdata command---while reading file User_guide.aux
 I found no \bibstyle command---while reading file User_guide.aux

@@ -70,3 +70,48 @@ CTRL + SHIFT + TAB : Change sequentially the active page to the left
 Drag and drop the tab to the left or right.
 
 \includegraphics[scale=0.50]{./res/filetabs.png}
+
+\subsection{Auto completion: how to use?}
+\index{secrets!auto completion}
+
+In principle it just opens and closes, with just one click, parentheses, square brackets, brackets and quotation marks, i.e.: \verb{( [ { ' "}.
+You just click, say, the open parentheses and the editor automatically completes the closing parentheses and after that puts the cursor in the middle
+of the two.
+
+However, it is not only this. If already exists a previous text doing just that might be a bit laborious,
+since you have to delete one of the two elements (the subsequent to the cursor), to move the cursor
+to the end of the text and then to close the element (parentheses, square brackets, brackets or quotation marks).
+There is an alternative for this: select the previous text and type the open element, i.e: \verb{( [ { ' "}. It is all!
+
+One of the most important feature of this resource is the following: you just write the expression you want to complete, i.e., \verb{( [ { ' "}
+then you select the whole expression and press the element key.
+\textit{The two elements will automatically be placed at the beginning and the end of the selection and the entire selection will be preserved.}
+
+\textbf{Important note}: This can be done in both, the editor as well as in the \texttt{Rterm} window.
+\\
+\\
+A single and illustrative example:
+\begin{itemize}
+  \item A previous text: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_01.png}
+  \item type \texttt{sum} and after to select the text: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_02.png}
+  \item type the open parentheses: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_03.png}
+\end{itemize}
+
+A more complex and illustrative example:
+\begin{itemize}
+  \item A previous text: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_04.png}
+  \item select it: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_05.png}
+  \item type the quotation mark: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_06.png}
+  \item type \texttt{cat}: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_07.png}
+  \item select the text: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_08.png}
+  \item type the open parentheses: \\
+    \includegraphics[scale=0.50]{./res/completion_howto_09.png}
+\end{itemize}
