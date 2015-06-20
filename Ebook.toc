@@ -195,6 +195,6 @@
 \contentsline {section}{\numberline {A.11}Versions released in 2004 (16)}{249}{section.A.11}
 \contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{257}{appendix.B}
 \contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{259}{appendix.C}
-\contentsline {chapter}{References}{275}{appendix*.374}
-\contentsline {chapter}{Index}{277}{section*.375}
-\contentsline {chapter}{About the Authors}{283}{appendix*.376}
+\contentsline {chapter}{References}{275}{appendix*.375}
+\contentsline {chapter}{Index}{277}{section*.376}
+\contentsline {chapter}{About the Authors}{283}{appendix*.377}
