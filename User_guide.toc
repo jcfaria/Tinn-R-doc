@@ -178,18 +178,18 @@
 \contentsline {subsection}{Tab order: how to change?}{165}{section*.173}
 \contentsline {subsection}{Auto completion: how to use?}{165}{section*.174}
 \contentsline {appendix}{\chapternumberline {A}What is New?}{169}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2015 (03)}{170}{section.A.1}
-\contentsline {section}{\numberline {A.2}Versions released in 2014 (08)}{173}{section.A.2}
-\contentsline {section}{\numberline {A.3}Versions released in 2013 (10)}{176}{section.A.3}
-\contentsline {section}{\numberline {A.4}Versions released in 2012 (03)}{181}{section.A.4}
-\contentsline {section}{\numberline {A.5}Versions released in 2010 (10)}{184}{section.A.5}
-\contentsline {section}{\numberline {A.6}Versions released in 2009 (16)}{187}{section.A.6}
-\contentsline {section}{\numberline {A.7}Versions released in 2008 (14)}{194}{section.A.7}
-\contentsline {section}{\numberline {A.8}Versions released in 2007 (26)}{203}{section.A.8}
-\contentsline {section}{\numberline {A.9}Versions released in 2006 (64)}{211}{section.A.9}
-\contentsline {section}{\numberline {A.10}Versions released in 2005 (25)}{233}{section.A.10}
-\contentsline {section}{\numberline {A.11}Versions released in 2004 (16)}{249}{section.A.11}
+\contentsline {section}{\numberline {A.1}Versions released in 2015 (04)}{170}{section.A.1}
+\contentsline {section}{\numberline {A.2}Versions released in 2014 (08)}{174}{section.A.2}
+\contentsline {section}{\numberline {A.3}Versions released in 2013 (10)}{177}{section.A.3}
+\contentsline {section}{\numberline {A.4}Versions released in 2012 (03)}{182}{section.A.4}
+\contentsline {section}{\numberline {A.5}Versions released in 2010 (10)}{185}{section.A.5}
+\contentsline {section}{\numberline {A.6}Versions released in 2009 (16)}{188}{section.A.6}
+\contentsline {section}{\numberline {A.7}Versions released in 2008 (14)}{195}{section.A.7}
+\contentsline {section}{\numberline {A.8}Versions released in 2007 (26)}{204}{section.A.8}
+\contentsline {section}{\numberline {A.9}Versions released in 2006 (64)}{212}{section.A.9}
+\contentsline {section}{\numberline {A.10}Versions released in 2005 (25)}{234}{section.A.10}
+\contentsline {section}{\numberline {A.11}Versions released in 2004 (16)}{250}{section.A.11}
 \contentsline {appendix}{\chapternumberline {B}R manuals on CRAN}{257}{appendix.B}
 \contentsline {appendix}{\chapternumberline {C}GNU GENERAL PUBLIC LICENSE}{259}{appendix.C}
-\contentsline {chapter}{Index}{275}{section*.371}
-\contentsline {chapter}{About the Authors}{281}{appendix*.372}
+\contentsline {chapter}{Index}{275}{section*.372}
+\contentsline {chapter}{About the Authors}{281}{appendix*.373}

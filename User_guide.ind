@@ -304,7 +304,7 @@
   \item \textsf  {R}~functions
     \subitem help.start, \hyperpage{258}
   \item \textsf  {R}~packages
-    \subitem Hmisc, \hyperpage{188}
+    \subitem Hmisc, \hyperpage{189}
 
   \indexspace
 
@@ -462,16 +462,16 @@
     \subitem statistics virtual labs, \hyperpage{138}
     \subitem Tinn-R, \hyperpage{137}
   \item What is New?, \hyperpage{169}
-    \subitem 2004, \hyperpage{249}
-    \subitem 2005, \hyperpage{233}
-    \subitem 2006, \hyperpage{211}
-    \subitem 2007, \hyperpage{203}
-    \subitem 2008, \hyperpage{194}
-    \subitem 2009, \hyperpage{187}
-    \subitem 2010, \hyperpage{184}
-    \subitem 2012, \hyperpage{181}
-    \subitem 2013, \hyperpage{176}
-    \subitem 2014, \hyperpage{173}
+    \subitem 2004, \hyperpage{250}
+    \subitem 2005, \hyperpage{234}
+    \subitem 2006, \hyperpage{212}
+    \subitem 2007, \hyperpage{204}
+    \subitem 2008, \hyperpage{195}
+    \subitem 2009, \hyperpage{188}
+    \subitem 2010, \hyperpage{185}
+    \subitem 2012, \hyperpage{182}
+    \subitem 2013, \hyperpage{177}
+    \subitem 2014, \hyperpage{174}
     \subitem 2015, \hyperpage{170}
   \item What is Tinn-R?, \hyperpage{31}
   \item windows menu, \hyperpage{134}
