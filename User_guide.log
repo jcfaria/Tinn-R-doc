@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  15 JUL 2015 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  15 JUL 2015 18:00
 entering extended mode
 **User_guide
 (User_guide.tex
@@ -1980,12 +1980,12 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- <./res/general.png, id=1163, 756.57657pt x 522.45187pt>
+ <./res/general.png, id=1163, 757.32938pt x 525.46312pt>
 File: ./res/general.png Graphic file (type png)
 
 <use ./res/general.png>
 Package pdftex.def Info: ./res/general.png used on input line 44.
-(pdftex.def)             Requested size: 408.84468pt x 282.32707pt.
+(pdftex.def)             Requested size: 408.84468pt x 283.67369pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 44--45
  [] 
@@ -2357,11 +2357,12 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
 
 
 ] (sub/three_application_options.tex
-<./res/parts_01.png, id=1829, 767.86874pt x 433.62pt>
+<./res/parts_01.png, id=1829, 769.37437pt x 456.20438pt>
 File: ./res/parts_01.png Graphic file (type png)
- <use ./res/parts_01.png>
+
+<use ./res/parts_01.png>
 Package pdftex.def Info: ./res/parts_01.png used on input line 8.
-(pdftex.def)             Requested size: 408.84468pt x 230.88275pt.
+(pdftex.def)             Requested size: 408.84468pt x 242.43454pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 8--9
  [] 
@@ -6616,7 +6617,7 @@ pe1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopi
 a/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
 a.pfb>
-Output written on User_guide.pdf (295 pages, 3060829 bytes).
+Output written on User_guide.pdf (295 pages, 3050107 bytes).
 PDF statistics:
  5356 PDF objects out of 6186 (max. 8388607)
  1484 named destinations out of 1728 (max. 500000)
