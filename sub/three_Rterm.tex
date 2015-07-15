@@ -25,7 +25,7 @@ in Tinn-R has the following aims:
 
 The \textit{IO}
 (Figure \ref{fig:rterm_io})
-and \textit{Log}
+and \textit{LOG}
 (Figure \ref{fig:rterm_log})
 interfaces are instances of the class
 SynEdit. In other words, all prior user knowledge of the resources associated with the editor were preserved:
@@ -49,7 +49,7 @@ SynEdit. In other words, all prior user knowledge of the resources associated wi
   \item \textit{IO} (Figure \ref{fig:rterm_io}): The aim was to add flexibility and power, i.e.,
     joining the power of SynEdit (editor) and the functionality of
     a common console.
-  \item \textit{Log} (Figure \ref{fig:rterm_log}): Has three basic objectives:
+  \item \textit{LOG} (Figure \ref{fig:rterm_log}): Has three basic objectives:
     \begin{enumerate}
       \item To receive and show warnings and error messages;
       \item To make the \textit{IO} interface cleaner;
@@ -130,10 +130,10 @@ Some details:
 
 \begin{itemize}
   \item Shortcuts and pop-up menu make it easy to change among the interfaces:
-    \textit{Editor}, \textit{IO} and \textit{Log}:
+    \textit{Editor}, \textit{IO} and \textit{LOG}:
     \begin{enumerate}
-      \item if \textit{IO} and \textit{Log} are in distinct tabs (views), the
-        common Windows shortcut \texttt{CTRL + TAB} changes the active page (IO-Log).
+      \item if \textit{IO} and \textit{LOG} are in distinct tabs (views), the
+        common Windows shortcut \texttt{CTRL + TAB} changes the active page (IO-LOG).
       \item Any prior line can be sent another time by just putting the cursor
         in any place of it and typing: \texttt{CTRL + ENTER};
     \end{enumerate}
@@ -148,23 +148,23 @@ Some details:
 
 
 \hypertarget{working_rterm_log}{}
-\subsection{Log}
-\index{Rterm!Log}
-\index{Log Interface}
+\subsection{LOG}
+\index{Rterm!LOG}
+\index{LOG Interface}
 
  \begin{figure}[h!]
   \includegraphics[scale=0.35]{./res/rterm_log.png}\\
-  \caption{Log (Rterm interface).}
+  \caption{LOG (Rterm interface).}
   \label{fig:rterm_log}
 \end{figure}
 
-The \textit{Log} interface
+The \textit{LOG} interface
 (Figure \ref{fig:rterm_log})
 is used to receive warnings and error messages (SDTERR) from the \RR{} environment.
 
 It has a special pop-up menu that allows the most common tasks. It is
 self-explanatory. So, take a small tour (right mouse buttom inside of
-Rterm/Log) to know all options.
+Rterm/LOG) to know all options.
 
 Most of the resources available to the \textit{IO} are also available to this
 interface.

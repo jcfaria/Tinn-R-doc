@@ -69,7 +69,7 @@
   \item The resources of \textit{Rterm} interface were extended:
     \begin{itemize}
       \item All resources available enabling the control of \RR{} are now also
-        available to \textit{IO} and \textit{Log} interfaces: print content,
+        available to \textit{IO} and \textit{LOG} interfaces: print content,
         plot, list names, etc;
       \item {To all options enabling the control of R, THE FOCUS WILL BE MAINTENED
           IN THE CURENT WORK INTERFACE Editor or IO, DISREGARDING the Options:
@@ -182,7 +182,7 @@
   \item In order to attend to the request of some users, the menu
     (and related pop-up menu) \textit{Edit} go back to the project interface with
     a new implementation. Due to the large frequency of the use of class SynEdit
-    (editor, editor split, IO, Log, etc), the action will be apllied in the active
+    (editor, editor split, IO, LOG, etc), the action will be apllied in the active
     (selected) instance of the class SynEdit.
   \item The \textit{font} of the \textit{Rterm} interface is now updated after changes
     to \textit{Options/Editor/Display/Font}.
@@ -318,24 +318,24 @@
     maintain the prior user knowledge, the stability, and the structural
     simplicity, but add more flexibility and power to the GUI, mainly
     associated with the new \texttt{Rterm} interface. The \textit{IO}
-    and \textit{Log} interfaces are instances of the class synEdit:
+    and \textit{LOG} interfaces are instances of the class synEdit:
     \begin{itemize}
       \item \texttt{IO}: the aim was to add flexibility and power, i.e.,
         joining the power of synEdit (editor) and the functionality of a
         common console. All prior user knowledge of the resources associated
         with the editor were preserved: marks, shortcuts, syntax, match
         brackets, tips, code completion, data completion, etc;
-      \item \texttt{Log}: has two basic objectives:
+      \item \texttt{LOG}: has two basic objectives:
         \begin{enumerate}
           \item To make the \textit{IO} interface cleaner;
           \item To avoid synchronization difficulties with the inter
             process communication (IPC) called \textit{pipe} in use.
         \end{enumerate}
       \item The shortcuts and the pop-up menu makes it easy to change among the
-        interfaces: \textit{Editor}, \textit{IO} and \textit{Log}:
+        interfaces: \textit{Editor}, \textit{IO} and \textit{LOG}:
         \begin{enumerate}
           \item The common Windows shortcut \texttt{CTRL + TAB} changes
-            the active page (IO-Log).
+            the active page (IO-LOG).
           \item Any prior line can be sent another time by just placing
             the cursor anywhere on and typing: \texttt{CTRL + ENTER};
         \end{enumerate}
@@ -392,7 +392,7 @@
     \texttt{Rterm}) the default shortcuts to view \textit{Line numbers}
     and \textit{Special characters} were changed to \texttt{CTRL + ALT + L}
     and \texttt{CTRL + ALT + K} respectivelly. Now \texttt{CTRL + L} clears
-    the \textit{IO} and \textit{Log} interface, like \texttt{Rgui}.
+    the \textit{IO} and \textit{LOG} interface, like \texttt{Rgui}.
   \item The main component synEdit was updated to the latest stable
     version and minor bugs were fixed.
   \item The descriptions of the synEdit editor options is:

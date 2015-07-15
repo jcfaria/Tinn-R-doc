@@ -53,7 +53,7 @@
 \contentsline {section}{\numberline {3.5}Hotkeys (operational system)}{59}{section.3.5}
 \contentsline {section}{\numberline {3.6}Rterm interface}{60}{section.3.6}
 \contentsline {subsection}{IO}{61}{section*.54}
-\contentsline {subsection}{Log}{63}{section*.57}
+\contentsline {subsection}{LOG}{63}{section*.57}
 \contentsline {section}{\numberline {3.7}Tools interface}{64}{section.3.7}
 \contentsline {subsection}{Misc}{64}{section*.59}
 \contentsline {subsection}{Markup}{66}{section*.62}

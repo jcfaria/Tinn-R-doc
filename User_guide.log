@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  14 JUL 2015 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  15 JUL 2015 12:14
 entering extended mode
 **User_guide
 (User_guide.tex
@@ -1980,12 +1980,12 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- <./res/general.png, id=1163, 758.08218pt x 523.20468pt>
+ <./res/general.png, id=1163, 756.57657pt x 522.45187pt>
 File: ./res/general.png Graphic file (type png)
 
 <use ./res/general.png>
 Package pdftex.def Info: ./res/general.png used on input line 44.
-(pdftex.def)             Requested size: 408.84468pt x 282.17505pt.
+(pdftex.def)             Requested size: 408.84468pt x 282.32707pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 44--45
  [] 
@@ -2119,7 +2119,7 @@ Overfull \hbox (7.02817pt too wide) in paragraph at lines 209--209
 fvm/m/sl/8 '\T1/fvm/m/sl/8 Package\TS1/fvm/m/sl/8 '\T1/fvm/m/sl/8 ][] 
  []
 
-[13] <./res/focus.png, id=1283, 116.68594pt x 40.65187pt>
+[13] <./res/focus.png, id=1284, 116.68594pt x 40.65187pt>
 File: ./res/focus.png Graphic file (type png)
 
 <use ./res/focus.png>
@@ -2137,13 +2137,13 @@ Overfull \hbox (3.82349pt too wide) in paragraph at lines 309--311
 -tio-nar-ies. You should
  []
 
-<./res/yap_01.png, id=1290, 283.0575pt x 338.76563pt>
+<./res/yap_01.png, id=1291, 283.0575pt x 338.76563pt>
 File: ./res/yap_01.png Graphic file (type png)
  <use ./res/yap_01.png>
 Package pdftex.def Info: ./res/yap_01.png used on input line 338.
 (pdftex.def)             Requested size: 141.5284pt x 169.38239pt.
 
-<./res/yap_02.png, id=1291, 274.77657pt x 243.91125pt>
+<./res/yap_02.png, id=1292, 274.77657pt x 243.91125pt>
 File: ./res/yap_02.png Graphic file (type png)
  <use ./res/yap_02.png>
 Package pdftex.def Info: ./res/yap_02.png used on input line 339.
@@ -2163,7 +2163,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--340
 
  []
 
-[15] <./res/app_processing_latex_dvi.png, id=1300, 438.8897pt x 438.13687pt>
+[15] <./res/app_processing_latex_dvi.png, id=1301, 438.8897pt x 438.13687pt>
 File: ./res/app_processing_latex_dvi.png Graphic file (type png)
 
 <use ./res/app_processing_latex_dvi.png>
@@ -2188,7 +2188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 385--389
  []
 
 
-<./res/app_processing_conversion_deplate.png, id=1311, 438.8897pt x 438.13687pt
+<./res/app_processing_conversion_deplate.png, id=1312, 438.8897pt x 438.13687pt
 >
 File: ./res/app_processing_conversion_deplate.png Graphic file (type png)
  <use ./res/app_processing_conversion_deplate.png>
@@ -2201,7 +2201,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 390--391
  []
 
 [17 <./res/app_processing_conversion_deplate.png>]
-<./res/app_processing_conversion_pandoc.png, id=1320, 438.8897pt x 438.13687pt>
+<./res/app_processing_conversion_pandoc.png, id=1321, 438.8897pt x 438.13687pt>
 File: ./res/app_processing_conversion_pandoc.png Graphic file (type png)
 <use ./res/app_processing_conversion_pandoc.png>
 Package pdftex.def Info: ./res/app_processing_conversion_pandoc.png used on inp
@@ -2226,7 +2226,7 @@ Underfull \hbox (badness 10000) in alignment at lines 449--449
 [][] 
  []
 
-<./res/pandoc.png, id=1332, 431.36156pt x 459.96844pt>
+<./res/pandoc.png, id=1333, 431.36156pt x 459.96844pt>
 File: ./res/pandoc.png Graphic file (type png)
  <use ./res/pandoc.png>
 Package pdftex.def Info: ./res/pandoc.png used on input line 452.
@@ -2250,7 +2250,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 478--482
  []
 
 
-<./res/app_processing_conversion_txt2tags.png, id=1342, 438.8897pt x 438.13687p
+<./res/app_processing_conversion_txt2tags.png, id=1343, 438.8897pt x 438.13687p
 t>
 File: ./res/app_processing_conversion_txt2tags.png Graphic file (type png)
  <use ./res/app_processing_conversion_txt2tags.png>
@@ -2273,7 +2273,7 @@ Overfull \hbox (3.02612pt too wide) in paragraph at lines 205--207
 e-lected pro-gram to
  []
 
-[34] <./res/app_r_path.png, id=1767, 438.8897pt x 438.13687pt>
+[34] <./res/app_r_path.png, id=1768, 438.8897pt x 438.13687pt>
 File: ./res/app_r_path.png Graphic file (type png)
 
 <use ./res/app_r_path.png>
@@ -2286,21 +2286,21 @@ all it from[]
  []
 
 [35 <./res/app_r_path.png>]
-<./res/app_r_basic.png, id=1774, 438.8897pt x 438.13687pt>
+<./res/app_r_basic.png, id=1775, 438.8897pt x 438.13687pt>
 File: ./res/app_r_basic.png Graphic file (type png)
 
 <use ./res/app_r_basic.png>
 Package pdftex.def Info: ./res/app_r_basic.png used on input line 268.
 (pdftex.def)             Requested size: 219.4443pt x 219.06789pt.
  [36 <./res/app_r_basic.png>] [37]
-<./res/hotkeys_default.png, id=1787, 376.40625pt x 443.40656pt>
+<./res/hotkeys_default.png, id=1788, 376.40625pt x 443.40656pt>
 File: ./res/hotkeys_default.png Graphic file (type png)
 
 <use ./res/hotkeys_default.png>
 Package pdftex.def Info: ./res/hotkeys_default.png used on input line 374.
 (pdftex.def)             Requested size: 188.20265pt x 221.70273pt.
 
-<./res/hotkeys_custom.png, id=1788, 376.40625pt x 443.40656pt>
+<./res/hotkeys_custom.png, id=1789, 376.40625pt x 443.40656pt>
 File: ./res/hotkeys_custom.png Graphic file (type png)
 
 <use ./res/hotkeys_custom.png>
@@ -2318,7 +2318,7 @@ File: ./res/focus.png Graphic file (type png)
 Package pdftex.def Info: ./res/focus.png used on input line 555.
 (pdftex.def)             Requested size: 58.34282pt x 20.32588pt.
  [41]
-<./res/highlighter_settings.png, id=1808, 752.8125pt x 447.17062pt>
+<./res/highlighter_settings.png, id=1809, 752.8125pt x 447.17062pt>
 File: ./res/highlighter_settings.png Graphic file (type png)
 
 <use ./res/highlighter_settings.png>
@@ -2357,12 +2357,11 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
 
 
 ] (sub/three_application_options.tex
-<./res/parts_01.png, id=1828, 765.6103pt x 454.69875pt>
+<./res/parts_01.png, id=1829, 767.86874pt x 433.62pt>
 File: ./res/parts_01.png Graphic file (type png)
-
-<use ./res/parts_01.png>
+ <use ./res/parts_01.png>
 Package pdftex.def Info: ./res/parts_01.png used on input line 8.
-(pdftex.def)             Requested size: 408.84468pt x 242.81392pt.
+(pdftex.def)             Requested size: 408.84468pt x 230.88275pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 8--9
  [] 
@@ -2375,28 +2374,28 @@ n \T1/fvm/m/n/10 per se (1)\T1/mdput/m/n/10 (-20) , ad-di-tional \T1/fvm/m/n/10
  Tools
  []
 
-<./res/app_main_general.png, id=1831, 438.8897pt x 438.13687pt>
+<./res/app_main_general.png, id=1832, 438.8897pt x 438.13687pt>
 File: ./res/app_main_general.png Graphic file (type png)
 
 <use ./res/app_main_general.png>
 Package pdftex.def Info: ./res/app_main_general.png used on input line 41.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_main_appearance.png, id=1832, 438.8897pt x 438.13687pt>
+<./res/app_main_appearance.png, id=1833, 438.8897pt x 438.13687pt>
 File: ./res/app_main_appearance.png Graphic file (type png)
 
 <use ./res/app_main_appearance.png>
 Package pdftex.def Info: ./res/app_main_appearance.png used on input line 42.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_main_dock.png, id=1833, 438.8897pt x 438.13687pt>
+<./res/app_main_dock.png, id=1834, 438.8897pt x 438.13687pt>
 File: ./res/app_main_dock.png Graphic file (type png)
 
 <use ./res/app_main_dock.png>
 Package pdftex.def Info: ./res/app_main_dock.png used on input line 43.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_main_files.png, id=1834, 438.8897pt x 438.13687pt>
+<./res/app_main_files.png, id=1835, 438.8897pt x 438.13687pt>
 File: ./res/app_main_files.png Graphic file (type png)
 
 <use ./res/app_main_files.png>
@@ -2431,7 +2430,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--70
  []
 
 [46 <./res/parts_01.png>]
-<./res/app_editor_display.png, id=1850, 438.8897pt x 438.13687pt>
+<./res/app_editor_display.png, id=1853, 438.8897pt x 438.13687pt>
 File: ./res/app_editor_display.png Graphic file (type png)
 
 <use ./res/app_editor_display.png>
@@ -2446,7 +2445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
-<./res/app_editor_advanced.png, id=1853, 438.8897pt x 438.13687pt>
+<./res/app_editor_advanced.png, id=1856, 438.8897pt x 438.13687pt>
 File: ./res/app_editor_advanced.png Graphic file (type png)
 
 <use ./res/app_editor_advanced.png>
@@ -2466,7 +2465,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--182
 
  []
 
-<./res/app_editor_keystrokes.png, id=1856, 438.8897pt x 438.13687pt>
+<./res/app_editor_keystrokes.png, id=1859, 438.8897pt x 438.13687pt>
 File: ./res/app_editor_keystrokes.png Graphic file (type png)
 
 <use ./res/app_editor_keystrokes.png>
@@ -2493,14 +2492,14 @@ File: ./res/app_r_basic.png Graphic file (type png)
 Package pdftex.def Info: ./res/app_r_basic.png used on input line 215.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_r_resources.png, id=1871, 438.8897pt x 438.13687pt>
+<./res/app_r_resources.png, id=1874, 438.8897pt x 438.13687pt>
 File: ./res/app_r_resources.png Graphic file (type png)
 
 <use ./res/app_r_resources.png>
 Package pdftex.def Info: ./res/app_r_resources.png used on input line 216.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_r_packages.png, id=1872, 438.8897pt x 438.13687pt>
+<./res/app_r_packages.png, id=1875, 438.8897pt x 438.13687pt>
 File: ./res/app_r_packages.png Graphic file (type png)
 
 <use ./res/app_r_packages.png>
@@ -2524,14 +2523,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--218
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/app_r_rgui_options.png, id=1873, 438.8897pt x 438.13687pt>
+<./res/app_r_rgui_options.png, id=1876, 438.8897pt x 438.13687pt>
 File: ./res/app_r_rgui_options.png Graphic file (type png)
 
 <use ./res/app_r_rgui_options.png>
 Package pdftex.def Info: ./res/app_r_rgui_options.png used on input line 223.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_r_rgui_recognition.png, id=1874, 438.8897pt x 438.13687pt>
+<./res/app_r_rgui_recognition.png, id=1877, 438.8897pt x 438.13687pt>
 File: ./res/app_r_rgui_recognition.png Graphic file (type png)
 
 <use ./res/app_r_rgui_recognition.png>
@@ -2539,14 +2538,14 @@ Package pdftex.def Info: ./res/app_r_rgui_recognition.png used on input line 22
 4.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_r_rterm_options.png, id=1875, 438.8897pt x 438.13687pt>
+<./res/app_r_rterm_options.png, id=1878, 438.8897pt x 438.13687pt>
 File: ./res/app_r_rterm_options.png Graphic file (type png)
 
 <use ./res/app_r_rterm_options.png>
 Package pdftex.def Info: ./res/app_r_rterm_options.png used on input line 225.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_r_rterm_error.png, id=1876, 438.8897pt x 438.13687pt>
+<./res/app_r_rterm_error.png, id=1879, 438.8897pt x 438.13687pt>
 File: ./res/app_r_rterm_error.png Graphic file (type png)
 
 <use ./res/app_r_rterm_error.png>
@@ -2570,21 +2569,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--227
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/app_r_format_r.png, id=1877, 438.8897pt x 438.13687pt>
+<./res/app_r_format_r.png, id=1880, 438.8897pt x 438.13687pt>
 File: ./res/app_r_format_r.png Graphic file (type png)
 
 <use ./res/app_r_format_r.png>
 Package pdftex.def Info: ./res/app_r_format_r.png used on input line 232.
 (pdftex.def)             Requested size: 144.83405pt x 144.5856pt.
 
-<./res/app_r_format_rd.png, id=1878, 438.8897pt x 438.13687pt>
+<./res/app_r_format_rd.png, id=1881, 438.8897pt x 438.13687pt>
 File: ./res/app_r_format_rd.png Graphic file (type png)
 
 <use ./res/app_r_format_rd.png>
 Package pdftex.def Info: ./res/app_r_format_rd.png used on input line 233.
 (pdftex.def)             Requested size: 144.83405pt x 144.5856pt.
 
-<./res/app_r_server.png, id=1879, 438.8897pt x 438.13687pt>
+<./res/app_r_server.png, id=1882, 438.8897pt x 438.13687pt>
 File: ./res/app_r_server.png Graphic file (type png)
 
 <use ./res/app_r_server.png>
@@ -2621,7 +2620,7 @@ Package pdftex.def Info: ./res/app_processing_conversion_txt2tags.png used on i
 nput line 251.
 (pdftex.def)             Requested size: 153.6137pt x 153.35019pt.
 
-<./res/app_processing_conversion_more.png, id=1883, 438.8897pt x 438.13687pt>
+<./res/app_processing_conversion_more.png, id=1886, 438.8897pt x 438.13687pt>
 File: ./res/app_processing_conversion_more.png Graphic file (type png)
 
 <use ./res/app_processing_conversion_more.png>
@@ -2666,7 +2665,7 @@ Package pdftex.def Info: ./res/app_processing_latex_dvi.png used on input line
 277.
 (pdftex.def)             Requested size: 144.83405pt x 144.5856pt.
 
-<./res/app_processing_latex_pdf.png, id=1923, 438.8897pt x 438.13687pt>
+<./res/app_processing_latex_pdf.png, id=1931, 438.8897pt x 438.13687pt>
 File: ./res/app_processing_latex_pdf.png Graphic file (type png)
 
 <use ./res/app_processing_latex_pdf.png>
@@ -2674,7 +2673,7 @@ Package pdftex.def Info: ./res/app_processing_latex_pdf.png used on input line
 278.
 (pdftex.def)             Requested size: 144.83405pt x 144.5856pt.
 
-<./res/app_processing_latex_more.png, id=1924, 438.8897pt x 438.13687pt>
+<./res/app_processing_latex_more.png, id=1932, 438.8897pt x 438.13687pt>
 File: ./res/app_processing_latex_more.png Graphic file (type png)
 
 <use ./res/app_processing_latex_more.png>
@@ -2695,7 +2694,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--280
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) [53 <./res/app_processing_conversion_more.png>] (sub/three_selection_mode.tex
-<./res/selection_normal.png, id=1935, 357.58594pt x 144.54pt>
+<./res/selection_normal.png, id=1943, 357.58594pt x 144.54pt>
 File: ./res/selection_normal.png Graphic file (type png)
 
 <use ./res/selection_normal.png>
@@ -2706,7 +2705,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-<./res/selection_line.png, id=1937, 350.81062pt x 143.78719pt>
+<./res/selection_line.png, id=1945, 350.81062pt x 143.78719pt>
 File: ./res/selection_line.png Graphic file (type png)
 
 <use ./res/selection_line.png>
@@ -2720,7 +2719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./res/selection_column.png, id=1939, 355.3275pt x 146.79843pt>
+<./res/selection_column.png, id=1947, 355.3275pt x 146.79843pt>
 File: ./res/selection_column.png Graphic file (type png)
 
 <use ./res/selection_column.png>
@@ -2773,7 +2772,7 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
  []
 
 ) [57] (sub/three_shortcuts.tex
-<./res/shortcuts_dlg.png, id=1967, 490.08093pt x 340.27126pt>
+<./res/shortcuts_dlg.png, id=1976, 490.08093pt x 340.27126pt>
 File: ./res/shortcuts_dlg.png Graphic file (type png)
 
 <use ./res/shortcuts_dlg.png>
@@ -2802,23 +2801,23 @@ Overfull \hbox (21.85873pt too wide) in paragraph at lines 39--42
  []
 
 ) [59] (sub/three_Rterm.tex
-<./res/rterm.png, id=1981, 435.12563pt x 414.04688pt>
+<./res/rterm.png, id=1991, 468.24937pt x 429.85594pt>
 File: ./res/rterm.png Graphic file (type png)
  <use ./res/rterm.png>
 Package pdftex.def Info: ./res/rterm.png used on input line 7.
-(pdftex.def)             Requested size: 152.29625pt x 144.91856pt.
+(pdftex.def)             Requested size: 163.88972pt x 150.45183pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 [60 <./res/rterm.png>]
-<./res/rterm_io.png, id=1997, 435.12563pt x 414.04688pt>
+<./res/rterm_io.png, id=2010, 468.24937pt x 429.85594pt>
 File: ./res/rterm_io.png Graphic file (type png)
 
 <use ./res/rterm_io.png>
 Package pdftex.def Info: ./res/rterm_io.png used on input line 77.
-(pdftex.def)             Requested size: 152.29625pt x 144.91856pt.
+(pdftex.def)             Requested size: 163.88972pt x 150.45183pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
@@ -2835,20 +2834,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--100
 
  []
 
-[61 <./res/rterm_io.png>]
-<./res/rterm_log.png, id=2016, 435.12563pt x 414.04688pt>
+[61 <./res/rterm_io.png>] [62]
+<./res/rterm_log.png, id=2037, 468.24937pt x 429.85594pt>
 File: ./res/rterm_log.png Graphic file (type png)
 
 <use ./res/rterm_log.png>
 Package pdftex.def Info: ./res/rterm_log.png used on input line 156.
-(pdftex.def)             Requested size: 152.29625pt x 144.91856pt.
+(pdftex.def)             Requested size: 163.88972pt x 150.45183pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[62]) [63 <./res/rterm_log.png>] (sub/three_tools.tex
-<./res/tools_misc_windowsexpl.png, id=2033, 279.29344pt x 354.57469pt>
+) [63 <./res/rterm_log.png>] (sub/three_tools.tex
+<./res/tools_misc_windowsexpl.png, id=2047, 279.29344pt x 354.57469pt>
 File: ./res/tools_misc_windowsexpl.png Graphic file (type png)
 
 <use ./res/tools_misc_windowsexpl.png>
@@ -2856,14 +2855,14 @@ Package pdftex.def Info: ./res/tools_misc_windowsexpl.png used on input line 22
 .
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_misc_workexpl.png, id=2034, 279.29344pt x 354.57469pt>
+<./res/tools_misc_workexpl.png, id=2048, 279.29344pt x 354.57469pt>
 File: ./res/tools_misc_workexpl.png Graphic file (type png)
 
 <use ./res/tools_misc_workexpl.png>
 Package pdftex.def Info: ./res/tools_misc_workexpl.png used on input line 23.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_misc_project.png, id=2035, 279.29344pt x 354.57469pt>
+<./res/tools_misc_project.png, id=2049, 279.29344pt x 354.57469pt>
 File: ./res/tools_misc_project.png Graphic file (type png)
 
 <use ./res/tools_misc_project.png>
@@ -2881,7 +2880,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
 [64 <./res/tools_misc_windowsexpl.png> <./res/tools_misc_workexpl.png> <./res/t
 ools_misc_project.png>] [65]
-<./res/tools_markup_txt2tags_marks.png, id=2070, 279.29344pt x 354.57469pt>
+<./res/tools_markup_txt2tags_marks.png, id=2086, 279.29344pt x 354.57469pt>
 File: ./res/tools_markup_txt2tags_marks.png Graphic file (type png)
 
 <use ./res/tools_markup_txt2tags_marks.png>
@@ -2889,7 +2888,7 @@ Package pdftex.def Info: ./res/tools_markup_txt2tags_marks.png used on input li
 ne 126.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_markup_latex_arrows.png, id=2071, 279.29344pt x 354.57469pt>
+<./res/tools_markup_latex_arrows.png, id=2087, 279.29344pt x 354.57469pt>
 File: ./res/tools_markup_latex_arrows.png Graphic file (type png)
 
 <use ./res/tools_markup_latex_arrows.png>
@@ -2917,7 +2916,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
-<./res/tools_results_inilog.png, id=2086, 279.29344pt x 354.57469pt>
+<./res/tools_results_inilog.png, id=2103, 279.29344pt x 354.57469pt>
 File: ./res/tools_results_inilog.png Graphic file (type png)
 
 <use ./res/tools_results_inilog.png>
@@ -2939,7 +2938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 252--254
 
  []
 
-<./res/tools_results_search.png, id=2097, 279.29344pt x 354.57469pt>
+<./res/tools_results_search.png, id=2116, 279.29344pt x 354.57469pt>
 File: ./res/tools_results_search.png Graphic file (type png)
 
 <use ./res/tools_results_search.png>
@@ -2951,14 +2950,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--272
 
  []
 
-<./res/tools_results_hex.png, id=2099, 279.29344pt x 354.57469pt>
+<./res/tools_results_hex.png, id=2118, 279.29344pt x 354.57469pt>
 File: ./res/tools_results_hex.png Graphic file (type png)
 
 <use ./res/tools_results_hex.png>
 Package pdftex.def Info: ./res/tools_results_hex.png used on input line 274.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_spell.png, id=2101, 279.29344pt x 354.57469pt>
+<./res/tools_spell.png, id=2120, 279.29344pt x 354.57469pt>
 File: ./res/tools_spell.png Graphic file (type png)
 
 <use ./res/tools_spell.png>
@@ -2978,7 +2977,7 @@ Underfull \vbox (badness 1946) has occurred while \output is active []
 
  [68 <./res/tools_results_search.png> <./res/tools_results_hex.png>] [69 <./res
 /tools_spell.png>]
-<./res/tools_database_shortcuts.png, id=2116, 279.29344pt x 354.57469pt>
+<./res/tools_database_shortcuts.png, id=2136, 279.29344pt x 354.57469pt>
 File: ./res/tools_database_shortcuts.png Graphic file (type png)
 
 <use ./res/tools_database_shortcuts.png>
@@ -2986,7 +2985,7 @@ Package pdftex.def Info: ./res/tools_database_shortcuts.png used on input line
 318.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_database_completion.png, id=2117, 279.29344pt x 354.57469pt>
+<./res/tools_database_completion.png, id=2137, 279.29344pt x 354.57469pt>
 File: ./res/tools_database_completion.png Graphic file (type png)
 
 <use ./res/tools_database_completion.png>
@@ -2994,7 +2993,7 @@ Package pdftex.def Info: ./res/tools_database_completion.png used on input line
  319.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_database_comments.png, id=2118, 279.29344pt x 354.57469pt>
+<./res/tools_database_comments.png, id=2138, 279.29344pt x 354.57469pt>
 File: ./res/tools_database_comments.png Graphic file (type png)
 
 <use ./res/tools_database_comments.png>
@@ -3016,21 +3015,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--338
 LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
 (Font)              scaled to size 7.52002pt on input line 453.
  [71] [72]
-<./res/tools_r_explorer.png, id=2148, 279.29344pt x 354.57469pt>
+<./res/tools_r_explorer.png, id=2170, 279.29344pt x 354.57469pt>
 File: ./res/tools_r_explorer.png Graphic file (type png)
 
 <use ./res/tools_r_explorer.png>
 Package pdftex.def Info: ./res/tools_r_explorer.png used on input line 515.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_r_card.png, id=2149, 279.29344pt x 354.57469pt>
+<./res/tools_r_card.png, id=2171, 279.29344pt x 354.57469pt>
 File: ./res/tools_r_card.png Graphic file (type png)
 
 <use ./res/tools_r_card.png>
 Package pdftex.def Info: ./res/tools_r_card.png used on input line 516.
 (pdftex.def)             Requested size: 97.75417pt x 124.103pt.
 
-<./res/tools_r_mirrors.png, id=2150, 279.29344pt x 354.57469pt>
+<./res/tools_r_mirrors.png, id=2172, 279.29344pt x 354.57469pt>
 File: ./res/tools_r_mirrors.png Graphic file (type png)
 
 <use ./res/tools_r_mirrors.png>
@@ -3047,7 +3046,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 533--535
  []
 
 [73 <./res/tools_r_explorer.png> <./res/tools_r_card.png> <./res/tools_r_mirror
-s.png>] <./res/rcard_dlg.png, id=2163, 494.59781pt x 334.24875pt>
+s.png>] <./res/rcard_dlg.png, id=2186, 494.59781pt x 334.24875pt>
 File: ./res/rcard_dlg.png Graphic file (type png)
 
 <use ./res/rcard_dlg.png>
@@ -3066,7 +3065,7 @@ m/n/8 (-20) ).
  []
 
 [74 <./res/rcard_dlg.png>]
-<./res/mirrors_dlg.png, id=2172, 490.83376pt x 325.96782pt>
+<./res/mirrors_dlg.png, id=2195, 490.83376pt x 325.96782pt>
 File: ./res/mirrors_dlg.png Graphic file (type png)
 
 <use ./res/mirrors_dlg.png>
@@ -3085,7 +3084,7 @@ put/m/n/8 (-20) ).
  []
 
 [75 <./res/mirrors_dlg.png>]) [76] (sub/three_filetabs.tex
-<./res/filetabs.png, id=2184, 498.36188pt x 170.88844pt>
+<./res/filetabs.png, id=2208, 498.36188pt x 170.88844pt>
 File: ./res/filetabs.png Graphic file (type png)
 
 <use ./res/filetabs.png>
@@ -3096,7 +3095,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<./res/filetabs_menu.png, id=2185, 171.64125pt x 110.66344pt>
+<./res/filetabs_menu.png, id=2209, 171.64125pt x 110.66344pt>
 File: ./res/filetabs_menu.png Graphic file (type png)
 
 <use ./res/filetabs_menu.png>
@@ -3108,7 +3107,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 ) [77 <./res/filetabs.png> <./res/filetabs_menu.png>] (sub/three_toolsbar.tex
-<./res/toolsbar.png, id=2195, 750.55406pt x 64.74188pt>
+<./res/toolsbar.png, id=2220, 750.55406pt x 64.74188pt>
 File: ./res/toolsbar.png Graphic file (type png)
 
 <use ./res/toolsbar.png>
@@ -3124,7 +3123,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
-<./res/toolsbar_pmenu.png, id=2198, 197.23688pt x 231.11343pt>
+<./res/toolsbar_pmenu.png, id=2223, 197.23688pt x 231.11343pt>
 File: ./res/toolsbar_pmenu.png Graphic file (type png)
 
 <use ./res/toolsbar_pmenu.png>
@@ -3140,13 +3139,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) [78 <./res/toolsbar.png>] [79 <./res/toolsbar_pmenu.png>]
 (sub/three_find_replace.tex
-<./res/find.png, id=2215, 353.06906pt x 162.6075pt>
+<./res/find.png, id=2243, 353.06906pt x 162.6075pt>
 File: ./res/find.png Graphic file (type png)
  <use ./res/find.png>
 Package pdftex.def Info: ./res/find.png used on input line 7.
 (pdftex.def)             Requested size: 123.57602pt x 56.91347pt.
 
-<./res/replace.png, id=2216, 353.06906pt x 185.19188pt>
+<./res/replace.png, id=2244, 353.06906pt x 185.19188pt>
 File: ./res/replace.png Graphic file (type png)
 
 <use ./res/replace.png>
@@ -3158,7 +3157,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--9
  []
 
 [80 <./res/find.png> <./res/replace.png>]) [81] (sub/three_search_in_files.tex
-<./res/searchinfiles.png, id=2231, 277.78781pt x 230.36063pt>
+<./res/searchinfiles.png, id=2260, 277.78781pt x 230.36063pt>
 File: ./res/searchinfiles.png Graphic file (type png)
 
 <use ./res/searchinfiles.png>
@@ -3184,7 +3183,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<./res/completion_dlg.png, id=2242, 490.83376pt x 328.22626pt>
+<./res/completion_dlg.png, id=2272, 490.83376pt x 328.22626pt>
 File: ./res/completion_dlg.png Graphic file (type png)
 
 <use ./res/completion_dlg.png>
@@ -3205,7 +3204,7 @@ put/m/n/8 (-20) from the ori-gin at (\T1/fvm/m/n/8 InstallPath/data/data.zip\T1
 /mdput/m/n/8 (-20) ).
  []
 
-[83] <./res/comments_dlg.png, id=2249, 426.84468pt x 325.96782pt>
+[83] <./res/comments_dlg.png, id=2279, 426.84468pt x 325.96782pt>
 File: ./res/comments_dlg.png Graphic file (type png)
 
 <use ./res/comments_dlg.png>
@@ -3366,7 +3365,7 @@ Overfull \hbox (7.40518pt too wide) in paragraph at lines 466--472
 
 
 ] (sub/four_file.tex
-<./res/menu_file.png, id=2313, 218.31563pt x 280.04625pt>
+<./res/menu_file.png, id=2345, 218.31563pt x 280.04625pt>
 File: ./res/menu_file.png Graphic file (type png)
 
 <use ./res/menu_file.png>
@@ -3382,7 +3381,7 @@ Underfull \hbox (badness 10000) in alignment at lines 27--27
 [][] 
  []
 
-<./res/menu_file_template.png, id=2322, 105.39375pt x 103.88812pt>
+<./res/menu_file_template.png, id=2354, 105.39375pt x 103.88812pt>
 File: ./res/menu_file_template.png Graphic file (type png)
 
 <use ./res/menu_file_template.png>
@@ -3399,7 +3398,7 @@ Underfull \hbox (badness 10000) in alignment at lines 49--49
  []
 
 [96 <./res/menu_file.png> <./res/menu_file_template.png>]
-<./res/menu_file_template_rdoc.png, id=2338, 87.32625pt x 73.77562pt>
+<./res/menu_file_template_rdoc.png, id=2370, 87.32625pt x 73.77562pt>
 File: ./res/menu_file_template_rdoc.png Graphic file (type png)
 
 <use ./res/menu_file_template_rdoc.png>
@@ -3417,7 +3416,7 @@ Underfull \hbox (badness 10000) in alignment at lines 67--67
  []
 
 
-<./res/menu_file_copyfullpathtoclipboard.png, id=2339, 127.97812pt x 58.71938pt
+<./res/menu_file_copyfullpathtoclipboard.png, id=2371, 127.97812pt x 58.71938pt
 >
 File: ./res/menu_file_copyfullpathtoclipboard.png Graphic file (type png)
  <use ./res/menu_file_copyfullpathtoclipboard.png>
@@ -3441,7 +3440,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--12
 
 [97 <./res/menu_file_template_rdoc.png> <./res/menu_file_copyfullpathtoclipboar
 d.png>] (sub/four_project.tex
-<./res/menu_project.png, id=2346, 140.77594pt x 146.04562pt>
+<./res/menu_project.png, id=2378, 140.77594pt x 146.04562pt>
 File: ./res/menu_project.png Graphic file (type png)
 
 <use ./res/menu_project.png>
@@ -3457,7 +3456,7 @@ Underfull \hbox (badness 10000) in alignment at lines 19--19
 [][] 
  []
 
-<./res/menu_project_project.png, id=2359, 108.405pt x 147.55125pt>
+<./res/menu_project_project.png, id=2391, 108.405pt x 147.55125pt>
 File: ./res/menu_project_project.png Graphic file (type png)
 
 <use ./res/menu_project_project.png>
@@ -3475,7 +3474,7 @@ u will be
  []
 
 [98 <./res/menu_project.png> <./res/menu_project_project.png>]
-<./res/menu_project_group.png, id=2370, 108.405pt x 139.27031pt>
+<./res/menu_project_group.png, id=2402, 108.405pt x 139.27031pt>
 File: ./res/menu_project_group.png Graphic file (type png)
 
 <use ./res/menu_project_group.png>
@@ -3486,7 +3485,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-<./res/menu_project_file.png, id=2371, 228.10219pt x 206.27063pt>
+<./res/menu_project_file.png, id=2403, 228.10219pt x 206.27063pt>
 File: ./res/menu_project_file.png Graphic file (type png)
 
 <use ./res/menu_project_file.png>
@@ -3508,7 +3507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--14
  []
 
 [99 <./res/menu_project_group.png> <./res/menu_project_file.png>]
-(sub/four_edit.tex <./res/menu_edit.png, id=2378, 216.81pt x 206.27063pt>
+(sub/four_edit.tex <./res/menu_edit.png, id=2410, 216.81pt x 206.27063pt>
 File: ./res/menu_edit.png Graphic file (type png)
 
 <use ./res/menu_edit.png>
@@ -3524,7 +3523,7 @@ Underfull \hbox (badness 10000) in alignment at lines 23--23
 [][] 
  []
 
-<./res/menu_edit_copyformated.png, id=2383, 76.03406pt x 73.77562pt>
+<./res/menu_edit_copyformated.png, id=2415, 76.03406pt x 73.77562pt>
 File: ./res/menu_edit_copyformated.png Graphic file (type png)
 
 <use ./res/menu_edit_copyformated.png>
@@ -3547,7 +3546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--16
  []
 
 [100 <./res/menu_edit.png> <./res/menu_edit_copyformated.png>]
-(sub/four_format.tex <./res/menu_format.png, id=2392, 94.85437pt x 87.32625pt>
+(sub/four_format.tex <./res/menu_format.png, id=2424, 94.85437pt x 87.32625pt>
 File: ./res/menu_format.png Graphic file (type png)
 
 <use ./res/menu_format.png>
@@ -3558,7 +3557,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_format_selection.png, id=2405, 170.88844pt x 117.43875pt>
+<./res/menu_format_selection.png, id=2437, 170.88844pt x 117.43875pt>
 File: ./res/menu_format_selection.png Graphic file (type png)
 
 <use ./res/menu_format_selection.png>
@@ -3570,7 +3569,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<./res/menu_format_word.png, id=2406, 115.18031pt x 80.55093pt>
+<./res/menu_format_word.png, id=2438, 115.18031pt x 80.55093pt>
 File: ./res/menu_format_word.png Graphic file (type png)
 
 <use ./res/menu_format_word.png>
@@ -3581,7 +3580,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-<./res/menu_format_reformat.png, id=2407, 206.27063pt x 43.66313pt>
+<./res/menu_format_reformat.png, id=2439, 206.27063pt x 43.66313pt>
 File: ./res/menu_format_reformat.png Graphic file (type png)
 
 <use ./res/menu_format_reformat.png>
@@ -3594,7 +3593,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--18
 
 [101 <./res/menu_format.png> <./res/menu_format_selection.png> <./res/menu_form
 at_word.png> <./res/menu_format_reformat.png>] (sub/four_marks.tex
-<./res/menu_marks.png, id=2420, 150.5625pt x 65.49469pt>
+<./res/menu_marks.png, id=2452, 150.5625pt x 65.49469pt>
 File: ./res/menu_marks.png Graphic file (type png)
 
 <use ./res/menu_marks.png>
@@ -3605,7 +3604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_marks_block.png, id=2425, 140.77594pt x 58.71938pt>
+<./res/menu_marks_block.png, id=2457, 140.77594pt x 58.71938pt>
 File: ./res/menu_marks_block.png Graphic file (type png)
 
 <use ./res/menu_marks_block.png>
@@ -3622,7 +3621,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--20
  []
 
 [102 <./res/menu_marks.png> <./res/menu_marks_block.png>] (sub/four_insert.tex
-<./res/menu_insert.png, id=2435, 162.6075pt x 87.32625pt>
+<./res/menu_insert.png, id=2467, 162.6075pt x 87.32625pt>
 File: ./res/menu_insert.png Graphic file (type png)
 
 <use ./res/menu_insert.png>
@@ -3633,7 +3632,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_insert_latex.png, id=2440, 87.32625pt x 95.6072pt>
+<./res/menu_insert_latex.png, id=2472, 87.32625pt x 95.6072pt>
 File: ./res/menu_insert_latex.png Graphic file (type png)
 
 <use ./res/menu_insert_latex.png>
@@ -3644,7 +3643,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<./res/menu_insert_latex_math.png, id=2457, 188.95593pt x 95.6072pt>
+<./res/menu_insert_latex_math.png, id=2489, 188.95593pt x 95.6072pt>
 File: ./res/menu_insert_latex_math.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_math.png>
@@ -3658,7 +3657,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
 [103 <./res/menu_insert.png> <./res/menu_insert_latex.png> <./res/menu_insert_l
 atex_math.png>]
-<./res/menu_insert_latex_header.png, id=2473, 114.4275pt x 134.00063pt>
+<./res/menu_insert_latex_header.png, id=2505, 114.4275pt x 134.00063pt>
 File: ./res/menu_insert_latex_header.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_header.png>
@@ -3670,7 +3669,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-<./res/menu_insert_latex_format.png, id=2474, 101.62968pt x 110.66344pt>
+<./res/menu_insert_latex_format.png, id=2506, 101.62968pt x 110.66344pt>
 File: ./res/menu_insert_latex_format.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_format.png>
@@ -3683,7 +3682,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
  []
 
 [104 <./res/menu_insert_latex_header.png> <./res/menu_insert_latex_format.png>]
-<./res/menu_insert_latex_font.png, id=2481, 105.39375pt x 276.28218pt>
+<./res/menu_insert_latex_font.png, id=2513, 105.39375pt x 276.28218pt>
 File: ./res/menu_insert_latex_font.png Graphic file (type png)
 
 <use ./res/menu_insert_latex_font.png>
@@ -3701,7 +3700,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--22
  []
 
 [105 <./res/menu_insert_latex_font.png>] (sub/four_search.tex
-<./res/menu_search.png, id=2487, 170.13562pt x 124.21407pt>
+<./res/menu_search.png, id=2519, 170.13562pt x 124.21407pt>
 File: ./res/menu_search.png Graphic file (type png)
 
 <use ./res/menu_search.png>
@@ -3718,7 +3717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--24
  []
 
 [106 <./res/menu_search.png>] (sub/four_options.tex
-<./res/menu_options.png, id=2506, 286.06876pt x 236.38312pt>
+<./res/menu_options.png, id=2538, 286.06876pt x 236.38312pt>
 File: ./res/menu_options.png Graphic file (type png)
 
 <use ./res/menu_options.png>
@@ -3729,7 +3728,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_options_syntax.png, id=2527, 137.01187pt x 65.49469pt>
+<./res/menu_options_syntax.png, id=2559, 137.01187pt x 65.49469pt>
 File: ./res/menu_options_syntax.png Graphic file (type png)
 
 <use ./res/menu_options_syntax.png>
@@ -3741,7 +3740,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
  []
 
 [107 <./res/menu_options.png> <./res/menu_options_syntax.png>]
-<./res/menu_options_syntax_set.png, id=2547, 124.21407pt x 540.51938pt>
+<./res/menu_options_syntax_set.png, id=2579, 124.21407pt x 540.51938pt>
 File: ./res/menu_options_syntax_set.png Graphic file (type png)
 
 <use ./res/menu_options_syntax_set.png>
@@ -3754,7 +3753,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
  []
 
 [108 <./res/menu_options_syntax_set.png>]
-<./res/menu_options_syntax_default.png, id=2554, 93.34875pt x 73.77562pt>
+<./res/menu_options_syntax_default.png, id=2586, 93.34875pt x 73.77562pt>
 File: ./res/menu_options_syntax_default.png Graphic file (type png)
 
 <use ./res/menu_options_syntax_default.png>
@@ -3766,7 +3765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
-<./res/menu_options_selectionmode.png, id=2555, 147.55125pt x 73.77562pt>
+<./res/menu_options_selectionmode.png, id=2587, 147.55125pt x 73.77562pt>
 File: ./res/menu_options_selectionmode.png Graphic file (type png)
 
 <use ./res/menu_options_selectionmode.png>
@@ -3785,7 +3784,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--26
 
 [109 <./res/menu_options_syntax_default.png> <./res/menu_options_selectionmode.
 png>] (sub/four_encoding.tex
-<./res/menu_encoding.png, id=2574, 171.64125pt x 80.55093pt>
+<./res/menu_encoding.png, id=2606, 171.64125pt x 80.55093pt>
 File: ./res/menu_encoding.png Graphic file (type png)
 
 <use ./res/menu_encoding.png>
@@ -3796,7 +3795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_encoding_default.png, id=2587, 91.84312pt x 88.83188pt>
+<./res/menu_encoding_default.png, id=2619, 91.84312pt x 88.83188pt>
 File: ./res/menu_encoding_default.png Graphic file (type png)
 
 <use ./res/menu_encoding_default.png>
@@ -3808,7 +3807,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-<./res/menu_encoding_convert.png, id=2588, 91.84312pt x 88.83188pt>
+<./res/menu_encoding_convert.png, id=2620, 91.84312pt x 88.83188pt>
 File: ./res/menu_encoding_convert.png Graphic file (type png)
 
 <use ./res/menu_encoding_convert.png>
@@ -3820,7 +3819,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-<./res/menu_encoding_delimiter.png, id=2589, 105.39375pt x 73.77562pt>
+<./res/menu_encoding_delimiter.png, id=2621, 105.39375pt x 73.77562pt>
 File: ./res/menu_encoding_delimiter.png Graphic file (type png)
 
 <use ./res/menu_encoding_delimiter.png>
@@ -3839,7 +3838,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--28
 
 [110 <./res/menu_encoding.png> <./res/menu_encoding_default.png> <./res/menu_en
 coding_convert.png> <./res/menu_encoding_delimiter.png>] (sub/four_tools.tex
-<./res/menu_tools.png, id=2602, 149.05687pt x 234.8775pt>
+<./res/menu_tools.png, id=2634, 149.05687pt x 234.8775pt>
 File: ./res/menu_tools.png Graphic file (type png)
 
 <use ./res/menu_tools.png>
@@ -3850,7 +3849,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_tools_processing.png, id=2631, 132.495pt x 73.77562pt>
+<./res/menu_tools_processing.png, id=2663, 132.495pt x 73.77562pt>
 File: ./res/menu_tools_processing.png Graphic file (type png)
 
 <use ./res/menu_tools_processing.png>
@@ -3863,7 +3862,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
  []
 
 [111 <./res/menu_tools.png> <./res/menu_tools_processing.png>]
-<./res/menu_tools_processing_conversion.png, id=2660, 162.6075pt x 73.77562pt>
+<./res/menu_tools_processing_conversion.png, id=2692, 162.6075pt x 73.77562pt>
 File: ./res/menu_tools_processing_conversion.png Graphic file (type png)
 
 <use ./res/menu_tools_processing_conversion.png>
@@ -3876,7 +3875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
  []
 
 
-<./res/menu_tools_processing_conversion_deplate.png, id=2673, 270.25969pt x 237
+<./res/menu_tools_processing_conversion_deplate.png, id=2705, 270.25969pt x 237
 .88875pt>
 File: ./res/menu_tools_processing_conversion_deplate.png Graphic file (type png
 )
@@ -3910,7 +3909,7 @@ File: ./res/pandoc.png Graphic file (type png)
 Package pdftex.def Info: ./res/pandoc.png used on input line 102.
 (pdftex.def)             Requested size: 215.68025pt x 229.98366pt.
  [113]
-<./res/menu_tools_processing_conversion_txt2tags.png, id=2690, 180.675pt x 259.
+<./res/menu_tools_processing_conversion_txt2tags.png, id=2722, 180.675pt x 259.
 7203pt>
 File: ./res/menu_tools_processing_conversion_txt2tags.png Graphic file (type pn
 g)
@@ -3924,7 +3923,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
  []
 
 
-<./res/menu_tools_processing_compilation.png, id=2692, 309.40594pt x 139.27031p
+<./res/menu_tools_processing_compilation.png, id=2724, 309.40594pt x 139.27031p
 t>
 File: ./res/menu_tools_processing_compilation.png Graphic file (type png)
  <use ./res/menu_tools_processing_compilation.png>
@@ -3948,7 +3947,7 @@ Underfull \hbox (badness 10000) in alignment at lines 155--155
 
 [114 <./res/menu_tools_processing_conversion_txt2tags.png> <./res/menu_tools_pr
 ocessing_compilation.png>]
-<./res/menu_tools_processing_viewer.png, id=2700, 80.55093pt x 73.77562pt>
+<./res/menu_tools_processing_viewer.png, id=2732, 80.55093pt x 73.77562pt>
 File: ./res/menu_tools_processing_viewer.png Graphic file (type png)
 
 <use ./res/menu_tools_processing_viewer.png>
@@ -3961,7 +3960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
  []
 
 
-<./res/menu_tools_processing_viewer_dvi.png, id=2713, 196.48407pt x 58.71938pt>
+<./res/menu_tools_processing_viewer_dvi.png, id=2745, 196.48407pt x 58.71938pt>
 File: ./res/menu_tools_processing_viewer_dvi.png Graphic file (type png)
 <use ./res/menu_tools_processing_viewer_dvi.png>
 Package pdftex.def Info: ./res/menu_tools_processing_viewer_dvi.png used on inp
@@ -3978,7 +3977,7 @@ Underfull \hbox (badness 10000) in alignment at lines 188--188
  []
 
 
-<./res/menu_tools_processing_viewer_pdf.png, id=2714, 196.48407pt x 58.71938pt>
+<./res/menu_tools_processing_viewer_pdf.png, id=2746, 196.48407pt x 58.71938pt>
 File: ./res/menu_tools_processing_viewer_pdf.png Graphic file (type png)
 <use ./res/menu_tools_processing_viewer_pdf.png>
 Package pdftex.def Info: ./res/menu_tools_processing_viewer_pdf.png used on inp
@@ -3995,7 +3994,7 @@ Underfull \hbox (badness 10000) in alignment at lines 204--204
  []
 
 
-<./res/menu_tools_processing_viewer_html.png, id=2715, 261.22594pt x 80.55093pt
+<./res/menu_tools_processing_viewer_html.png, id=2747, 261.22594pt x 80.55093pt
 >
 File: ./res/menu_tools_processing_viewer_html.png Graphic file (type png)
  <use ./res/menu_tools_processing_viewer_html.png>
@@ -4012,7 +4011,7 @@ Underfull \hbox (badness 10000) in alignment at lines 221--221
 [][] 
  []
 
-<./res/menu_tools_database.png, id=2716, 96.36pt x 103.88812pt>
+<./res/menu_tools_database.png, id=2748, 96.36pt x 103.88812pt>
 File: ./res/menu_tools_database.png Graphic file (type png)
 
 <use ./res/menu_tools_database.png>
@@ -4028,7 +4027,7 @@ Underfull \vbox (badness 1163) has occurred while \output is active []
 
  [115 <./res/menu_tools_processing_viewer.png> <./res/menu_tools_processing_vie
 wer_dvi.png> <./res/menu_tools_processing_viewer_pdf.png> <./res/menu_tools_pro
-cessing_viewer_html.png>] <./res/menu_tools_backup.png, id=2728, 108.405pt x 58
+cessing_viewer_html.png>] <./res/menu_tools_backup.png, id=2760, 108.405pt x 58
 .71938pt>
 File: ./res/menu_tools_backup.png Graphic file (type png)
 
@@ -4040,7 +4039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
-<./res/menu_tools_restore.png, id=2729, 108.405pt x 58.71938pt>
+<./res/menu_tools_restore.png, id=2761, 108.405pt x 58.71938pt>
 File: ./res/menu_tools_restore.png Graphic file (type png)
 
 <use ./res/menu_tools_restore.png>
@@ -4051,7 +4050,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-<./res/menu_tools_macro.png, id=2730, 109.1578pt x 58.71938pt>
+<./res/menu_tools_macro.png, id=2762, 109.1578pt x 58.71938pt>
 File: ./res/menu_tools_macro.png Graphic file (type png)
 
 <use ./res/menu_tools_macro.png>
@@ -4062,7 +4061,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-<./res/menu_tools_sort.png, id=2731, 88.07906pt x 73.77562pt>
+<./res/menu_tools_sort.png, id=2763, 88.07906pt x 73.77562pt>
 File: ./res/menu_tools_sort.png Graphic file (type png)
 
 <use ./res/menu_tools_sort.png>
@@ -4075,7 +4074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
 [116 <./res/menu_tools_database.png> <./res/menu_tools_backup.png> <./res/menu_
 tools_restore.png> <./res/menu_tools_macro.png>]) [117 <./res/menu_tools_sort.p
-ng>] (sub/four_r.tex <./res/menu_r.png, id=2745, 167.12437pt x 204.765pt>
+ng>] (sub/four_r.tex <./res/menu_r.png, id=2777, 167.12437pt x 204.765pt>
 File: ./res/menu_r.png Graphic file (type png)
 
 <use ./res/menu_r.png>
@@ -4091,7 +4090,7 @@ Underfull \hbox (badness 10000) in alignment at lines 23--23
 [][] 
  []
 
-<./res/menu_r_startcloseandconections.png, id=2766, 167.87718pt x 80.55093pt>
+<./res/menu_r_startcloseandconections.png, id=2798, 167.87718pt x 80.55093pt>
 File: ./res/menu_r_startcloseandconections.png Graphic file (type png)
 
 <use ./res/menu_r_startcloseandconections.png>
@@ -4108,7 +4107,7 @@ Underfull \hbox (badness 10000) in alignment at lines 42--42
 [][] 
  []
 
-<./res/menu_r_rterm.png, id=2767, 241.65282pt x 221.32687pt>
+<./res/menu_r_rterm.png, id=2799, 241.65282pt x 221.32687pt>
 File: ./res/menu_r_rterm.png Graphic file (type png)
 
 <use ./res/menu_r_rterm.png>
@@ -4127,19 +4126,19 @@ Underfull \hbox (badness 10000) in alignment at lines 71--71
 [][] 
  []
 
-<./res/menu_r_rterm_IOandLog.png, id=2819, 73.77562pt x 58.71938pt>
+<./res/menu_r_rterm_IOandLog.png, id=2851, 76.03406pt x 58.71938pt>
 File: ./res/menu_r_rterm_IOandLog.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_IOandLog.png>
 Package pdftex.def Info: ./res/menu_r_rterm_IOandLog.png used on input line 78.
 
-(pdftex.def)             Requested size: 36.88771pt x 29.3596pt.
+(pdftex.def)             Requested size: 38.01692pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-<./res/menu_r_rterm_file_IOandLog.png, id=2828, 85.06781pt x 73.77562pt>
+<./res/menu_r_rterm_file_IOandLog.png, id=2860, 85.06781pt x 73.77562pt>
 File: ./res/menu_r_rterm_file_IOandLog.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_file_IOandLog.png>
@@ -4163,29 +4162,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-<./res/menu_r_rterm_clear.png, id=2848, 160.34906pt x 73.77562pt>
+<./res/menu_r_rterm_clear.png, id=2880, 162.6075pt x 73.77562pt>
 File: ./res/menu_r_rterm_clear.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_clear.png>
 Package pdftex.def Info: ./res/menu_r_rterm_clear.png used on input line 129.
-(pdftex.def)             Requested size: 80.17433pt x 36.88771pt.
+(pdftex.def)             Requested size: 81.30354pt x 36.88771pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-<./res/menu_r_rterm_focus.png, id=2849, 134.75343pt x 73.77562pt>
+<./res/menu_r_rterm_focus.png, id=2881, 150.5625pt x 73.77562pt>
 File: ./res/menu_r_rterm_focus.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_focus.png>
 Package pdftex.def Info: ./res/menu_r_rterm_focus.png used on input line 146.
-(pdftex.def)             Requested size: 67.37654pt x 36.88771pt.
+(pdftex.def)             Requested size: 75.28105pt x 36.88771pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-<./res/menu_r_rterm_size.png, id=2850, 169.38281pt x 73.77562pt>
+<./res/menu_r_rterm_size.png, id=2882, 169.38281pt x 73.77562pt>
 File: ./res/menu_r_rterm_size.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_size.png>
@@ -4198,7 +4197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
 [120 <./res/menu_r_rterm_clear.png> <./res/menu_r_rterm_focus.png> <./res/menu_
 r_rterm_size.png>]
-<./res/menu_r_rterm_split.png, id=2859, 222.07968pt x 80.55093pt>
+<./res/menu_r_rterm_split.png, id=2891, 222.07968pt x 80.55093pt>
 File: ./res/menu_r_rterm_split.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_split.png>
@@ -4219,19 +4218,19 @@ Overfull \hbox (104.84468pt too wide) in paragraph at lines 191--192
 [][] 
  []
 
-<./res/menu_r_rterm_highlighter.png, id=2860, 73.77562pt x 58.71938pt>
+<./res/menu_r_rterm_highlighter.png, id=2892, 76.03406pt x 58.71938pt>
 File: ./res/menu_r_rterm_highlighter.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_highlighter.png>
 Package pdftex.def Info: ./res/menu_r_rterm_highlighter.png used on input line 
 198.
-(pdftex.def)             Requested size: 36.88771pt x 29.3596pt.
+(pdftex.def)             Requested size: 38.01692pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
-<./res/menu_r_rterm_highlighter_io.png, id=2869, 73.02281pt x 58.71938pt>
+<./res/menu_r_rterm_highlighter_io.png, id=2901, 73.02281pt x 58.71938pt>
 File: ./res/menu_r_rterm_highlighter_io.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_highlighter_io.png>
@@ -4243,7 +4242,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-<./res/menu_r_rterm_highlighter_log.png, id=2870, 73.02281pt x 58.71938pt>
+<./res/menu_r_rterm_highlighter_log.png, id=2902, 73.02281pt x 58.71938pt>
 File: ./res/menu_r_rterm_highlighter_log.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_highlighter_log.png>
@@ -4257,19 +4256,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
 [121 <./res/menu_r_rterm_split.png> <./res/menu_r_rterm_highlighter.png> <./res
 /menu_r_rterm_highlighter_io.png> <./res/menu_r_rterm_highlighter_log.png>]
-<./res/menu_r_rterm_linewrap.png, id=2881, 114.4275pt x 58.71938pt>
+<./res/menu_r_rterm_linewrap.png, id=2913, 116.68594pt x 58.71938pt>
 File: ./res/menu_r_rterm_linewrap.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_linewrap.png>
 Package pdftex.def Info: ./res/menu_r_rterm_linewrap.png used on input line 247
 .
-(pdftex.def)             Requested size: 57.21361pt x 29.3596pt.
+(pdftex.def)             Requested size: 58.34282pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
-<./res/menu_r_rterm_history.png, id=2882, 128.73094pt x 95.6072pt>
+<./res/menu_r_rterm_history.png, id=2914, 128.73094pt x 95.6072pt>
 File: ./res/menu_r_rterm_history.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_history.png>
@@ -4281,7 +4280,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-<./res/menu_r_rterm_workspace.png, id=2883, 74.52844pt x 58.71938pt>
+<./res/menu_r_rterm_workspace.png, id=2915, 74.52844pt x 58.71938pt>
 File: ./res/menu_r_rterm_workspace.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_workspace.png>
@@ -4293,7 +4292,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
-<./res/menu_fontsize_generic.png, id=2884, 170.13562pt x 58.71938pt>
+<./res/menu_fontsize_generic.png, id=2916, 170.13562pt x 58.71938pt>
 File: ./res/menu_fontsize_generic.png Graphic file (type png)
 
 <use ./res/menu_fontsize_generic.png>
@@ -4305,7 +4304,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
-<./res/menu_r_send.png, id=2885, 237.13594pt x 316.93407pt>
+<./res/menu_r_send.png, id=2917, 237.13594pt x 316.93407pt>
 File: ./res/menu_r_send.png Graphic file (type png)
 
 <use ./res/menu_r_send.png>
@@ -4331,7 +4330,7 @@ Underfull \hbox (badness 10000) in alignment at lines 336--336
 [][] 
  []
 
-<./res/menu_r_send_knitr.png, id=2898, 215.30438pt x 58.71938pt>
+<./res/menu_r_send_knitr.png, id=2930, 215.30438pt x 58.71938pt>
 File: ./res/menu_r_send_knitr.png Graphic file (type png)
 
 <use ./res/menu_r_send_knitr.png>
@@ -4342,7 +4341,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
-<./res/menu_r_control.png, id=2899, 257.46187pt x 347.04657pt>
+<./res/menu_r_control.png, id=2931, 257.46187pt x 347.04657pt>
 File: ./res/menu_r_control.png Graphic file (type png)
 
 <use ./res/menu_r_control.png>
@@ -4379,7 +4378,7 @@ Overfull \hbox (104.84468pt too wide) in paragraph at lines 383--384
  []
 
 [124 <./res/menu_r_control.png>]
-<./res/menu_r_control_packages.png, id=2917, 133.24782pt x 192.72pt>
+<./res/menu_r_control_packages.png, id=2949, 133.24782pt x 192.72pt>
 File: ./res/menu_r_control_packages.png Graphic file (type png)
 
 <use ./res/menu_r_control_packages.png>
@@ -4419,7 +4418,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 410--32
  []
 
 [125 <./res/menu_r_control_packages.png>] (sub/four_view.tex
-<./res/menu_view.png, id=2923, 253.69781pt x 400.49625pt>
+<./res/menu_view.png, id=2955, 253.69781pt x 400.49625pt>
 File: ./res/menu_view.png Graphic file (type png)
 
 <use ./res/menu_view.png>
@@ -4435,7 +4434,7 @@ Underfull \hbox (badness 10000) in alignment at lines 33--33
 [][] 
  []
 
-<./res/menu_view_r.png, id=2956, 172.39406pt x 58.71938pt>
+<./res/menu_view_r.png, id=2988, 172.39406pt x 58.71938pt>
 File: ./res/menu_view_r.png Graphic file (type png)
 
 <use ./res/menu_view_r.png>
@@ -4452,7 +4451,7 @@ Underfull \hbox (badness 10000) in alignment at lines 49--49
  []
 
 [126 <./res/menu_view.png> <./res/menu_view_r.png>]
-<./res/menu_view_r_rterm.png, id=2981, 241.65282pt x 132.495pt>
+<./res/menu_view_r_rterm.png, id=3013, 241.65282pt x 132.495pt>
 File: ./res/menu_view_r_rterm.png Graphic file (type png)
 
 <use ./res/menu_view_r_rterm.png>
@@ -4487,6 +4486,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
  []
 
 
+Underfull \hbox (badness 1454) in paragraph at lines 103--103
+\T1/mdput/m/n/7 plac-ing \T1/mdput/m/it/7 IO \T1/mdput/m/n/7 and \T1/mdput/m/it
+/7 LOG \T1/mdput/m/n/7 in the same
+ []
+
+
 Underfull \hbox (badness 10000) in alignment at lines 103--103
 [][] 
  []
@@ -4496,7 +4501,7 @@ File: ./res/menu_r_rterm_highlighter.png Graphic file (type png)
  <use ./res/menu_r_rterm_highlighter.png>
 Package pdftex.def Info: ./res/menu_r_rterm_highlighter.png used on input line 
 111.
-(pdftex.def)             Requested size: 36.88771pt x 29.3596pt.
+(pdftex.def)             Requested size: 38.01692pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
@@ -4526,7 +4531,7 @@ File: ./res/menu_r_rterm_linewrap.png Graphic file (type png)
 <use ./res/menu_r_rterm_linewrap.png>
 Package pdftex.def Info: ./res/menu_r_rterm_linewrap.png used on input line 159
 .
-(pdftex.def)             Requested size: 57.21361pt x 29.3596pt.
+(pdftex.def)             Requested size: 58.34282pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
@@ -4552,7 +4557,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
-<./res/menu_view_tools.png, id=3018, 166.37157pt x 87.32625pt>
+<./res/menu_view_tools.png, id=3050, 166.37157pt x 87.32625pt>
 File: ./res/menu_view_tools.png Graphic file (type png)
 
 <use ./res/menu_view_tools.png>
@@ -4563,7 +4568,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
-[128] <./res/menu_view_tools_size.png, id=3034, 115.93312pt x 73.77562pt>
+[128] <./res/menu_view_tools_size.png, id=3066, 115.93312pt x 73.77562pt>
 File: ./res/menu_view_tools_size.png Graphic file (type png)
 
 <use ./res/menu_view_tools_size.png>
@@ -4575,7 +4580,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
-<./res/menu_view_tools_resources.png, id=3035, 122.70844pt x 118.94438pt>
+<./res/menu_view_tools_resources.png, id=3067, 122.70844pt x 118.94438pt>
 File: ./res/menu_view_tools_resources.png Graphic file (type png)
 
 <use ./res/menu_view_tools_resources.png>
@@ -4594,7 +4599,7 @@ Underfull \hbox (badness 10000) in alignment at lines 238--238
 
 [129 <./res/menu_view_tools.png> <./res/menu_view_tools_size.png> <./res/menu_v
 iew_tools_resources.png>]
-<./res/menu_view_tools_resources_misc.png, id=3070, 154.32657pt x 95.6072pt>
+<./res/menu_view_tools_resources_misc.png, id=3102, 154.32657pt x 95.6072pt>
 File: ./res/menu_view_tools_resources_misc.png Graphic file (type png)
 
 <use ./res/menu_view_tools_resources_misc.png>
@@ -4612,7 +4617,7 @@ Underfull \hbox (badness 10000) in alignment at lines 257--257
  []
 
 
-<./res/menu_view_tools_resources_markup.png, id=3071, 134.00063pt x 80.55093pt>
+<./res/menu_view_tools_resources_markup.png, id=3103, 134.00063pt x 80.55093pt>
 File: ./res/menu_view_tools_resources_markup.png Graphic file (type png)
 <use ./res/menu_view_tools_resources_markup.png>
 Package pdftex.def Info: ./res/menu_view_tools_resources_markup.png used on inp
@@ -4624,7 +4629,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 264--265
  []
 
 
-<./res/menu_view_tools_resources_results.png, id=3072, 143.78719pt x 95.6072pt>
+<./res/menu_view_tools_resources_results.png, id=3104, 143.78719pt x 95.6072pt>
 File: ./res/menu_view_tools_resources_results.png Graphic file (type png)
 <use ./res/menu_view_tools_resources_results.png>
 Package pdftex.def Info: ./res/menu_view_tools_resources_results.png used on in
@@ -4636,7 +4641,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 281--282
  []
 
 
-<./res/menu_view_tools_resources_database.png, id=3073, 141.52875pt x 95.6072pt
+<./res/menu_view_tools_resources_database.png, id=3105, 141.52875pt x 95.6072pt
 >
 File: ./res/menu_view_tools_resources_database.png Graphic file (type png)
  <use ./res/menu_view_tools_resources_database.png>
@@ -4651,7 +4656,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--299
 [130 <./res/menu_view_tools_resources_misc.png> <./res/menu_view_tools_resource
 s_markup.png> <./res/menu_view_tools_resources_results.png> <./res/menu_view_to
 ols_resources_database.png>]
-<./res/menu_view_tools_resources_r.png, id=3082, 131.74219pt x 95.6072pt>
+<./res/menu_view_tools_resources_r.png, id=3114, 131.74219pt x 95.6072pt>
 File: ./res/menu_view_tools_resources_r.png Graphic file (type png)
 
 <use ./res/menu_view_tools_resources_r.png>
@@ -4663,7 +4668,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
  []
 
-<./res/menu_view_toolsbar.png, id=3083, 197.23688pt x 231.11343pt>
+<./res/menu_view_toolsbar.png, id=3115, 197.23688pt x 231.11343pt>
 File: ./res/menu_view_toolsbar.png Graphic file (type png)
 
 <use ./res/menu_view_toolsbar.png>
@@ -4674,7 +4679,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
-<./res/menu_view_tabs.png, id=3084, 82.80937pt x 73.77562pt>
+<./res/menu_view_tabs.png, id=3116, 82.80937pt x 73.77562pt>
 File: ./res/menu_view_tabs.png Graphic file (type png)
 
 <use ./res/menu_view_tabs.png>
@@ -4687,7 +4692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
 [131 <./res/menu_view_tools_resources_r.png> <./res/menu_view_toolsbar.png> <./
 res/menu_view_tabs.png>]
-<./res/menu_view_tabs_files.png, id=3107, 118.94438pt x 80.55093pt>
+<./res/menu_view_tabs_files.png, id=3139, 118.94438pt x 80.55093pt>
 File: ./res/menu_view_tabs_files.png Graphic file (type png)
 
 <use ./res/menu_view_tabs_files.png>
@@ -4699,7 +4704,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 378--379
 
  []
 
-<./res/menu_view_tabs_tools.png, id=3108, 82.05656pt x 88.83188pt>
+<./res/menu_view_tabs_tools.png, id=3140, 82.05656pt x 88.83188pt>
 File: ./res/menu_view_tabs_tools.png Graphic file (type png)
 
 <use ./res/menu_view_tabs_tools.png>
@@ -4711,7 +4716,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
  []
 
-<./res/menu_view_tabs_rterm.png, id=3109, 82.05656pt x 88.83188pt>
+<./res/menu_view_tabs_rterm.png, id=3141, 82.05656pt x 88.83188pt>
 File: ./res/menu_view_tabs_rterm.png Graphic file (type png)
 
 <use ./res/menu_view_tabs_rterm.png>
@@ -4723,18 +4728,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
-<./res/menu_view_linewrap.png, id=3110, 182.93344pt x 73.77562pt>
+<./res/menu_view_linewrap.png, id=3142, 164.11313pt x 73.77562pt>
 File: ./res/menu_view_linewrap.png Graphic file (type png)
 
 <use ./res/menu_view_linewrap.png>
 Package pdftex.def Info: ./res/menu_view_linewrap.png used on input line 431.
-(pdftex.def)             Requested size: 91.46649pt x 36.88771pt.
+(pdftex.def)             Requested size: 82.05635pt x 36.88771pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
-<./res/menu_view_split.png, id=3111, 92.59593pt x 80.55093pt>
+<./res/menu_view_split.png, id=3143, 92.59593pt x 80.55093pt>
 File: ./res/menu_view_split.png Graphic file (type png)
 
 <use ./res/menu_view_split.png>
@@ -4767,7 +4772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 474--34
  []
 
 [133 <./res/menu_view_split.png>] (sub/four_window.tex
-<./res/menu_window.png, id=3126, 227.34938pt x 168.63pt>
+<./res/menu_window.png, id=3158, 227.34938pt x 168.63pt>
 File: ./res/menu_window.png Graphic file (type png)
 
 <use ./res/menu_window.png>
@@ -4784,7 +4789,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--36
  []
 
 [134 <./res/menu_window.png>] (sub/four_web.tex
-<./res/menu_web.png, id=3133, 150.5625pt x 139.27031pt>
+<./res/menu_web.png, id=3165, 150.5625pt x 139.27031pt>
 File: ./res/menu_web.png Graphic file (type png)
 
 <use ./res/menu_web.png>
@@ -4795,7 +4800,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<./res/menu_web_rsearch.png, id=3158, 163.3603pt x 140.77594pt>
+<./res/menu_web_rsearch.png, id=3190, 163.3603pt x 140.77594pt>
 File: ./res/menu_web_rsearch.png Graphic file (type png)
 
 <use ./res/menu_web_rsearch.png>
@@ -4811,7 +4816,7 @@ Underfull \hbox (badness 10000) in alignment at lines 40--40
 [][] 
  []
 
-<./res/menu_web_rsearch_selected.png, id=3187, 96.36pt x 73.77562pt>
+<./res/menu_web_rsearch_selected.png, id=3219, 96.36pt x 73.77562pt>
 File: ./res/menu_web_rsearch_selected.png Graphic file (type png)
 
 <use ./res/menu_web_rsearch_selected.png>
@@ -4829,7 +4834,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<./res/menu_web_rsearch_nabble.png, id=3216, 95.6072pt x 58.71938pt>
+<./res/menu_web_rsearch_nabble.png, id=3248, 95.6072pt x 58.71938pt>
 File: ./res/menu_web_rsearch_nabble.png Graphic file (type png)
 
 <use ./res/menu_web_rsearch_nabble.png>
@@ -4837,14 +4842,14 @@ Package pdftex.def Info: ./res/menu_web_rsearch_nabble.png used on input line 6
 4.
 (pdftex.def)             Requested size: 47.80347pt x 29.3596pt.
 
-<./res/menu_web_ssearch.png, id=3225, 129.48375pt x 65.49469pt>
+<./res/menu_web_ssearch.png, id=3257, 129.48375pt x 65.49469pt>
 File: ./res/menu_web_ssearch.png Graphic file (type png)
 
 <use ./res/menu_web_ssearch.png>
 Package pdftex.def Info: ./res/menu_web_ssearch.png used on input line 78.
 (pdftex.def)             Requested size: 64.7417pt x 32.74725pt.
 
-<./res/menu_web_ssearch_selected.png, id=3234, 113.67468pt x 43.66313pt>
+<./res/menu_web_ssearch_selected.png, id=3266, 113.67468pt x 43.66313pt>
 File: ./res/menu_web_ssearch_selected.png Graphic file (type png)
 
 <use ./res/menu_web_ssearch_selected.png>
@@ -4856,7 +4861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-<./res/menu_web_rinformation.png, id=3239, 113.67468pt x 155.83218pt>
+<./res/menu_web_rinformation.png, id=3271, 113.67468pt x 155.83218pt>
 File: ./res/menu_web_rinformation.png Graphic file (type png)
 
 <use ./res/menu_web_rinformation.png>
@@ -4868,7 +4873,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-<./res/menu_web_rguis.png, id=3272, 119.69719pt x 177.66376pt>
+<./res/menu_web_rguis.png, id=3304, 119.69719pt x 177.66376pt>
 File: ./res/menu_web_rguis.png Graphic file (type png)
 
 <use ./res/menu_web_rguis.png>
@@ -4881,7 +4886,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
 [136 <./res/menu_web_rsearch_nabble.png> <./res/menu_web_ssearch.png> <./res/me
 nu_web_ssearch_selected.png> <./res/menu_web_rinformation.png>]
-<./res/menu_web_tinnr.png, id=3319, 152.82094pt x 95.6072pt>
+<./res/menu_web_tinnr.png, id=3351, 152.82094pt x 95.6072pt>
 File: ./res/menu_web_tinnr.png Graphic file (type png)
 
 <use ./res/menu_web_tinnr.png>
@@ -4892,7 +4897,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-<./res/menu_web_statistics.png, id=3332, 169.38281pt x 95.6072pt>
+<./res/menu_web_statistics.png, id=3364, 169.38281pt x 95.6072pt>
 File: ./res/menu_web_statistics.png Graphic file (type png)
 
 <use ./res/menu_web_statistics.png>
@@ -4910,7 +4915,7 @@ Underfull \hbox (badness 10000) in alignment at lines 186--186
 
 [137 <./res/menu_web_rguis.png> <./res/menu_web_tinnr.png> <./res/menu_web_stat
 istics.png>]
-<./res/menu_web_statistics_virtuallabs.png, id=3358, 225.09094pt x 88.83188pt>
+<./res/menu_web_statistics_virtuallabs.png, id=3390, 225.09094pt x 88.83188pt>
 File: ./res/menu_web_statistics_virtuallabs.png Graphic file (type png)
 
 <use ./res/menu_web_statistics_virtuallabs.png>
@@ -4922,7 +4927,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-<./res/menu_web_processing.png, id=3375, 88.83188pt x 88.83188pt>
+<./res/menu_web_processing.png, id=3407, 88.83188pt x 88.83188pt>
 File: ./res/menu_web_processing.png Graphic file (type png)
 
 <use ./res/menu_web_processing.png>
@@ -4940,7 +4945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--38
 
 [138 <./res/menu_web_statistics_virtuallabs.png> <./res/menu_web_processing.png
 >] (sub/four_help.tex
-<./res/menu_help.png, id=3399, 202.50656pt x 206.27063pt>
+<./res/menu_help.png, id=3431, 202.50656pt x 206.27063pt>
 File: ./res/menu_help.png Graphic file (type png)
 
 <use ./res/menu_help.png>
@@ -4956,7 +4961,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []|\T1/mdput/m/n/7 File con-ver-sion (in-tro-duc-
  []
 
-<./res/menu_help_conversion.png, id=3416, 88.83188pt x 73.77562pt>
+<./res/menu_help_conversion.png, id=3448, 88.83188pt x 73.77562pt>
 File: ./res/menu_help_conversion.png Graphic file (type png)
 
 <use ./res/menu_help_conversion.png>
@@ -4982,7 +4987,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--24
 LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
 (Font)              scaled to size 8.41995pt on input line 7.
 
-<./res/parts_02.png, id=3444, 760.34062pt x 79.79813pt>
+<./res/parts_02.png, id=3476, 760.34062pt x 79.79813pt>
 File: ./res/parts_02.png Graphic file (type png)
 
 <use ./res/parts_02.png>
@@ -4993,14 +4998,14 @@ Overfull \hbox (76.16937pt too wide) in paragraph at lines 9--10
 [][] 
  []
 
-<./res/secrets_connecting.png, id=3445, 62.48344pt x 40.65187pt>
+<./res/secrets_connecting.png, id=3477, 62.48344pt x 40.65187pt>
 File: ./res/secrets_connecting.png Graphic file (type png)
 
 <use ./res/secrets_connecting.png>
 Package pdftex.def Info: ./res/secrets_connecting.png used on input line 35.
 (pdftex.def)             Requested size: 31.24164pt x 20.32588pt.
 
-<./res/secrets_sendline.png, id=3446, 45.16875pt x 40.65187pt>
+<./res/secrets_sendline.png, id=3478, 45.16875pt x 40.65187pt>
 File: ./res/secrets_sendline.png Graphic file (type png)
 
 <use ./res/secrets_sendline.png>
@@ -5017,7 +5022,7 @@ Overfull \hbox (0.76494pt too wide) in paragraph at lines 74--79
  \T1/fvm/m/n/10 sm-Nor-mal \T1/mdput/m/n/10 (-20) (\T1/fvm/m/n/10 s=selection,
  []
 
-<./res/secrets_statusbar.png, id=3456, 749.80125pt x 39.14626pt>
+<./res/secrets_statusbar.png, id=3488, 749.80125pt x 39.14626pt>
 File: ./res/secrets_statusbar.png Graphic file (type png)
 
 <use ./res/secrets_statusbar.png>
@@ -5029,7 +5034,7 @@ Overfull \hbox (70.8997pt too wide) in paragraph at lines 80--81
  []
 
 [144 <./res/secrets_sendline.png> <./res/secrets_statusbar.png>]
-<./res/secrets_rtoolbar.png, id=3464, 741.52031pt x 40.65187pt>
+<./res/secrets_rtoolbar.png, id=3496, 741.52031pt x 40.65187pt>
 File: ./res/secrets_rtoolbar.png Graphic file (type png)
 
 <use ./res/secrets_rtoolbar.png>
@@ -5248,7 +5253,7 @@ Overfull \hbox (70.8997pt too wide) in paragraph at lines 8--10
  []
 
 ) [161] (sub/five_spell.tex
-<./res/secrets_spell.png, id=3550, 155.07938pt x 40.65187pt>
+<./res/secrets_spell.png, id=3582, 155.07938pt x 40.65187pt>
 File: ./res/secrets_spell.png Graphic file (type png)
 
 <use ./res/secrets_spell.png>
@@ -5256,7 +5261,7 @@ Package pdftex.def Info: ./res/secrets_spell.png used on input line 13.
 (pdftex.def)             Requested size: 77.53949pt x 20.32588pt.
 ) [162 <./res/secrets_spell.png>]
 (sub/five_split.tex) [163] (sub/five_editor_howto.tex
-<./res/secrets_macro.png, id=3561, 60.225pt x 40.65187pt>
+<./res/secrets_macro.png, id=3593, 60.225pt x 40.65187pt>
 File: ./res/secrets_macro.png Graphic file (type png)
 
 <use ./res/secrets_macro.png>
@@ -5296,63 +5301,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--95
 
  []
 
-<./res/completion_howto_01.png, id=3571, 209.28188pt x 59.47218pt>
+<./res/completion_howto_01.png, id=3603, 209.28188pt x 59.47218pt>
 File: ./res/completion_howto_01.png Graphic file (type png)
 
 <use ./res/completion_howto_01.png>
 Package pdftex.def Info: ./res/completion_howto_01.png used on input line 96.
 (pdftex.def)             Requested size: 104.64067pt x 29.73601pt.
 
-<./res/completion_howto_02.png, id=3572, 209.28188pt x 57.21375pt>
+<./res/completion_howto_02.png, id=3604, 209.28188pt x 57.21375pt>
 File: ./res/completion_howto_02.png Graphic file (type png)
 
 <use ./res/completion_howto_02.png>
 Package pdftex.def Info: ./res/completion_howto_02.png used on input line 98.
 (pdftex.def)             Requested size: 104.64067pt x 28.6068pt.
 
-<./res/completion_howto_03.png, id=3573, 209.28188pt x 57.96657pt>
+<./res/completion_howto_03.png, id=3605, 209.28188pt x 57.96657pt>
 File: ./res/completion_howto_03.png Graphic file (type png)
 
 <use ./res/completion_howto_03.png>
 Package pdftex.def Info: ./res/completion_howto_03.png used on input line 100.
 (pdftex.def)             Requested size: 104.64067pt x 28.9832pt.
 
-<./res/completion_howto_04.png, id=3574, 209.28188pt x 55.70813pt>
+<./res/completion_howto_04.png, id=3606, 209.28188pt x 55.70813pt>
 File: ./res/completion_howto_04.png Graphic file (type png)
 
 <use ./res/completion_howto_04.png>
 Package pdftex.def Info: ./res/completion_howto_04.png used on input line 106.
 (pdftex.def)             Requested size: 104.64067pt x 27.85399pt.
 
-<./res/completion_howto_05.png, id=3575, 209.28188pt x 57.96657pt>
+<./res/completion_howto_05.png, id=3607, 209.28188pt x 57.96657pt>
 File: ./res/completion_howto_05.png Graphic file (type png)
 
 <use ./res/completion_howto_05.png>
 Package pdftex.def Info: ./res/completion_howto_05.png used on input line 108.
 (pdftex.def)             Requested size: 104.64067pt x 28.9832pt.
 
-<./res/completion_howto_06.png, id=3576, 209.28188pt x 55.70813pt>
+<./res/completion_howto_06.png, id=3608, 209.28188pt x 55.70813pt>
 File: ./res/completion_howto_06.png Graphic file (type png)
 
 <use ./res/completion_howto_06.png>
 Package pdftex.def Info: ./res/completion_howto_06.png used on input line 110.
 (pdftex.def)             Requested size: 104.64067pt x 27.85399pt.
 
-<./res/completion_howto_07.png, id=3577, 209.28188pt x 55.70813pt>
+<./res/completion_howto_07.png, id=3609, 209.28188pt x 55.70813pt>
 File: ./res/completion_howto_07.png Graphic file (type png)
 
 <use ./res/completion_howto_07.png>
 Package pdftex.def Info: ./res/completion_howto_07.png used on input line 112.
 (pdftex.def)             Requested size: 104.64067pt x 27.85399pt.
 
-<./res/completion_howto_08.png, id=3578, 208.52907pt x 55.70813pt>
+<./res/completion_howto_08.png, id=3610, 208.52907pt x 55.70813pt>
 File: ./res/completion_howto_08.png Graphic file (type png)
 
 <use ./res/completion_howto_08.png>
 Package pdftex.def Info: ./res/completion_howto_08.png used on input line 114.
 (pdftex.def)             Requested size: 104.26427pt x 27.85399pt.
 
-<./res/completion_howto_09.png, id=3579, 209.28188pt x 55.70813pt>
+<./res/completion_howto_09.png, id=3611, 209.28188pt x 55.70813pt>
 File: ./res/completion_howto_09.png Graphic file (type png)
 
 <use ./res/completion_howto_09.png>
@@ -5372,25 +5377,25 @@ Underfull \hbox (badness 10000) in alignment at lines 26--26
  []
 
 [169] (sub/WhatIsNew_2015.tex
-Overfull \hbox (4.83502pt too wide) in paragraph at lines 26--29
+Overfull \hbox (4.83502pt too wide) in paragraph at lines 29--32
 []\T1/mdput/m/n/10 (-20) A bug re-lated to \T1/fvm/m/n/10 Rterm in-ter-face (IO
- and Log) \T1/mdput/m/n/10 (-20) and the pack-
+ and LOG) \T1/mdput/m/n/10 (-20) and the pack-
  []
 
 
-Overfull \hbox (0.17795pt too wide) in paragraph at lines 31--32
+Overfull \hbox (0.17795pt too wide) in paragraph at lines 34--35
 []\T1/mdput/m/n/10 (-20) The ver-sions 4.0.3.1, 4.0.3.2 and 4.0.3.3 were re-str
 ict to testers: thanks
  []
 
 [170]
-Overfull \hbox (11.1934pt too wide) in paragraph at lines 64--65
+Overfull \hbox (11.1934pt too wide) in paragraph at lines 67--68
 []\T1/mdput/m/n/10 (-20) A bug re-lated to char-ac-ter recog-ni-tion of \T1/fvm
 /m/n/10 Tool-s/-Database/R/Mir-
  []
 
 [171]
-sub/WhatIsNew_2015.tex:79: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:82: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -5398,7 +5403,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 [172]
-sub/WhatIsNew_2015.tex:97: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:100: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -5714,7 +5719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-<./res/txt2tags.png, id=3838, 274.02374pt x 231.86626pt>
+<./res/txt2tags.png, id=3870, 274.02374pt x 231.86626pt>
 File: ./res/txt2tags.png Graphic file (type png)
 
 <use ./res/txt2tags.png>
@@ -5723,14 +5728,7 @@ Package pdftex.def Info: ./res/txt2tags.png used on input line 47.
  [195]
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
-
-Overfull \hbox (2.89876pt too wide) in paragraph at lines 71--74
-\T1/mdput/m/n/10 (-20) avail-able to \T1/mdput/m/it/10 (-20) IO \T1/mdput/m/n/1
-0 (-20) and \T1/mdput/m/it/10 (-20) Log \T1/mdput/m/n/10 (-20) in-ter-faces: pr
-int con-tent, plot, list names,
- []
-
-[196 <./res/txt2tags.png>] [197]
+ [196 <./res/txt2tags.png>] [197]
 Overfull \hbox (50.27231pt too wide) in paragraph at lines 168--168
  []        \T1/fvm/m/n/8 .trPaths <- paste(paste(Sys.getenv(\TS1/fvm/m/n/8 '\T1
 /fvm/m/n/8 APPDATA\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 ), \TS1/fvm/m/n/8 '\T1/fvm/m/n/
@@ -5865,21 +5863,21 @@ Overfull \hbox (0.79018pt too wide) in paragraph at lines 178--182
 ref-er-ences will be
  []
 
-<./res/1_19_2_3.png, id=3929, 269.005pt x 143.53625pt>
+<./res/1_19_2_3.png, id=3961, 269.005pt x 143.53625pt>
 File: ./res/1_19_2_3.png Graphic file (type png)
 
 <use ./res/1_19_2_3.png>
 Package pdftex.def Info: ./res/1_19_2_3.png used on input line 214.
 (pdftex.def)             Requested size: 134.50217pt x 71.76794pt.
  [207]
-<./res/1_19_2_1.png, id=3935, 152.57pt x 200.75pt>
+<./res/1_19_2_1.png, id=3967, 152.57pt x 200.75pt>
 File: ./res/1_19_2_1.png Graphic file (type png)
  <use ./res/1_19_2_1.png>
 Package pdftex.def Info: ./res/1_19_2_1.png used on input line 234.
 (pdftex.def)             Requested size: 76.2848pt x 100.37474pt.
 
 [208 <./res/1_19_2_3.png (PNG copy)> <./res/1_19_2_1.png (PNG copy)>]
-<./res/1_19_1_13.png, id=3944, 257.96375pt x 165.61874pt>
+<./res/1_19_1_13.png, id=3976, 257.96375pt x 165.61874pt>
 File: ./res/1_19_1_13.png Graphic file (type png)
 
 <use ./res/1_19_1_13.png>
@@ -6429,7 +6427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--36
 
 
 ] (sub_ug/zzzBackCover.tex
-<./cover_ug/backCover.pdf, id=4946, 497.94029pt x 668.4975pt>
+<./cover_ug/backCover.pdf, id=4978, 497.94029pt x 668.4975pt>
 File: ./cover_ug/backCover.pdf Graphic file (type pdf)
 
 <use ./cover_ug/backCover.pdf>
@@ -6440,7 +6438,7 @@ File: ./cover_ug/backCover.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./cover_ug/backCover.pdf used on input line 4.
 (pdftex.def)             Requested size: 497.93907pt x 668.49586pt.
 
-<./cover_ug/backCover.pdf, id=4949, page=1, 497.94029pt x 668.4975pt>
+<./cover_ug/backCover.pdf, id=4981, page=1, 497.94029pt x 668.4975pt>
 File: ./cover_ug/backCover.pdf Graphic file (type pdf)
 
 <use ./cover_ug/backCover.pdf, page 1>
@@ -6484,23 +6482,122 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `User_guide.out' has not changed.
-(rerunfilecheck)             Checksum: 279B0F59DAF6AF5DC29393E5B119722F;12470.
+(rerunfilecheck)             Checksum: 93B02364E63831786D0CDA3D2C983B14;12470.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 26449 strings out of 493671
- 408673 string characters out of 3141414
- 732350 words of memory out of 3000000
+ 26481 strings out of 493671
+ 409211 string characters out of 3141414
+ 732356 words of memory out of 3000000
  26664 multiletter control sequences out of 15000+200000
  350218 words of font info for 751 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  63i,19n,94p,1016b,2523s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{menu_web_search_selected} has been referenced but
  does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.109} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.107} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.95} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.92} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.90} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.88} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.87} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.85} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.84} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.82} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.79} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.78} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.73} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.72} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.71} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.70} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.65} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.64} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.60} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.62} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.59} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.57} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.56} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.54} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.46} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.44} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.39} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.37} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.34} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.33} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.31} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.10} has been referenced but does not
+ exist, replaced by a fixed one
 
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}<C:/Program Files 
@@ -6519,9 +6616,9 @@ pe1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopi
 a/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
 a.pfb>
-Output written on User_guide.pdf (295 pages, 3082044 bytes).
+Output written on User_guide.pdf (295 pages, 3060829 bytes).
 PDF statistics:
- 5317 PDF objects out of 6186 (max. 8388607)
- 1452 named destinations out of 1728 (max. 500000)
+ 5356 PDF objects out of 6186 (max. 8388607)
+ 1484 named destinations out of 1728 (max. 500000)
  84904 words of extra memory for PDF output out of 89155 (max. 10000000)
 

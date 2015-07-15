@@ -213,7 +213,7 @@
   \indexspace
 
   \item latest version, \hyperpage{31}
-  \item Log Interface, \hyperpage{63}
+  \item LOG Interface, \hyperpage{63}
 
   \indexspace
 
@@ -275,12 +275,12 @@
     \subitem Rterm clear, \hyperpage{120}
     \subitem Rterm file, \hyperpage{119}
     \subitem Rterm file IO, \hyperpage{119}
-    \subitem Rterm file log, \hyperpage{120}
+    \subitem Rterm file lOG, \hyperpage{120}
     \subitem Rterm focus, \hyperpage{120}
     \subitem Rterm fontsize, \hyperpage{122}
     \subitem Rterm highlighter, \hyperpage{121}
     \subitem Rterm highlighter IO, \hyperpage{121}
-    \subitem Rterm highlighter Log, \hyperpage{121}
+    \subitem Rterm highlighter LOG, \hyperpage{121}
     \subitem Rterm history, \hyperpage{122}
     \subitem Rterm line wrap, \hyperpage{122}
     \subitem Rterm size, \hyperpage{120}
@@ -299,7 +299,7 @@
   \item Rterm, \hyperpage{14}
     \subitem interface, \hyperpage{60}
     \subitem IO, \hyperpage{61}
-    \subitem Log, \hyperpage{63}
+    \subitem LOG, \hyperpage{63}
   \item Ruby, \hyperpage{17}
   \item \textsf  {R}~functions
     \subitem help.start, \hyperpage{258}
@@ -427,7 +427,7 @@
     \subitem Rterm, \hyperpage{127}
     \subitem Rterm highlighter, \hyperpage{128}
     \subitem Rterm highlighter IO, \hyperpage{128}
-    \subitem Rterm highlighter Log, \hyperpage{128}
+    \subitem Rterm highlighter LOG, \hyperpage{128}
     \subitem Rterm line wrap, \hyperpage{128}
     \subitem Rterm size, \hyperpage{127}
     \subitem Rterm split, \hyperpage{127}

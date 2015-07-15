@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  14 JUL 2015 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  15 JUL 2015 16:43
 entering extended mode
 **eBook
 (eBook.tex
@@ -2132,12 +2132,12 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- <./res/general.png, id=1257, 758.08218pt x 523.20468pt>
+ <./res/general.png, id=1257, 756.57657pt x 522.45187pt>
 File: ./res/general.png Graphic file (type png)
 
 <use ./res/general.png>
 Package pdftex.def Info: ./res/general.png used on input line 44.
-(pdftex.def)             Requested size: 408.84468pt x 282.17505pt.
+(pdftex.def)             Requested size: 408.84468pt x 282.32707pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 44--45
  [] 
@@ -2509,12 +2509,11 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
 
 
 ] (sub/three_application_options.tex
-<./res/parts_01.png, id=1921, 765.6103pt x 454.69875pt>
+<./res/parts_01.png, id=1921, 767.86874pt x 433.62pt>
 File: ./res/parts_01.png Graphic file (type png)
-
-<use ./res/parts_01.png>
+ <use ./res/parts_01.png>
 Package pdftex.def Info: ./res/parts_01.png used on input line 8.
-(pdftex.def)             Requested size: 408.84468pt x 242.81392pt.
+(pdftex.def)             Requested size: 408.84468pt x 230.88275pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 8--9
  [] 
@@ -2954,23 +2953,23 @@ Overfull \hbox (21.85873pt too wide) in paragraph at lines 39--42
  []
 
 ) [59] (sub/three_Rterm.tex
-<./res/rterm.png, id=2075, 435.12563pt x 414.04688pt>
+<./res/rterm.png, id=2075, 468.24937pt x 429.85594pt>
 File: ./res/rterm.png Graphic file (type png)
  <use ./res/rterm.png>
 Package pdftex.def Info: ./res/rterm.png used on input line 7.
-(pdftex.def)             Requested size: 152.29625pt x 144.91856pt.
+(pdftex.def)             Requested size: 163.88972pt x 150.45183pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 [60 <./res/rterm.png>]
-<./res/rterm_io.png, id=2090, 435.12563pt x 414.04688pt>
+<./res/rterm_io.png, id=2090, 468.24937pt x 429.85594pt>
 File: ./res/rterm_io.png Graphic file (type png)
 
 <use ./res/rterm_io.png>
 Package pdftex.def Info: ./res/rterm_io.png used on input line 77.
-(pdftex.def)             Requested size: 152.29625pt x 144.91856pt.
+(pdftex.def)             Requested size: 163.88972pt x 150.45183pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
@@ -2987,19 +2986,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--100
 
  []
 
-[61 <./res/rterm_io.png>]
-<./res/rterm_log.png, id=2109, 435.12563pt x 414.04688pt>
+[61 <./res/rterm_io.png>] [62]
+<./res/rterm_log.png, id=2116, 468.24937pt x 429.85594pt>
 File: ./res/rterm_log.png Graphic file (type png)
 
 <use ./res/rterm_log.png>
 Package pdftex.def Info: ./res/rterm_log.png used on input line 156.
-(pdftex.def)             Requested size: 152.29625pt x 144.91856pt.
+(pdftex.def)             Requested size: 163.88972pt x 150.45183pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[62]) [63 <./res/rterm_log.png>] (sub/three_tools.tex
+) [63 <./res/rterm_log.png>] (sub/three_tools.tex
 <./res/tools_misc_windowsexpl.png, id=2126, 279.29344pt x 354.57469pt>
 File: ./res/tools_misc_windowsexpl.png Graphic file (type png)
 
@@ -4279,13 +4278,13 @@ Underfull \hbox (badness 10000) in alignment at lines 71--71
 [][] 
  []
 
-<./res/menu_r_rterm_IOandLog.png, id=2912, 73.77562pt x 58.71938pt>
+<./res/menu_r_rterm_IOandLog.png, id=2912, 76.03406pt x 58.71938pt>
 File: ./res/menu_r_rterm_IOandLog.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_IOandLog.png>
 Package pdftex.def Info: ./res/menu_r_rterm_IOandLog.png used on input line 78.
 
-(pdftex.def)             Requested size: 36.88771pt x 29.3596pt.
+(pdftex.def)             Requested size: 38.01692pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
@@ -4315,23 +4314,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-<./res/menu_r_rterm_clear.png, id=2942, 160.34906pt x 73.77562pt>
+<./res/menu_r_rterm_clear.png, id=2942, 162.6075pt x 73.77562pt>
 File: ./res/menu_r_rterm_clear.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_clear.png>
 Package pdftex.def Info: ./res/menu_r_rterm_clear.png used on input line 129.
-(pdftex.def)             Requested size: 80.17433pt x 36.88771pt.
+(pdftex.def)             Requested size: 81.30354pt x 36.88771pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-<./res/menu_r_rterm_focus.png, id=2943, 134.75343pt x 73.77562pt>
+<./res/menu_r_rterm_focus.png, id=2943, 150.5625pt x 73.77562pt>
 File: ./res/menu_r_rterm_focus.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_focus.png>
 Package pdftex.def Info: ./res/menu_r_rterm_focus.png used on input line 146.
-(pdftex.def)             Requested size: 67.37654pt x 36.88771pt.
+(pdftex.def)             Requested size: 75.28105pt x 36.88771pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
@@ -4371,13 +4370,13 @@ Overfull \hbox (104.84468pt too wide) in paragraph at lines 191--192
 [][] 
  []
 
-<./res/menu_r_rterm_highlighter.png, id=2953, 73.77562pt x 58.71938pt>
+<./res/menu_r_rterm_highlighter.png, id=2953, 76.03406pt x 58.71938pt>
 File: ./res/menu_r_rterm_highlighter.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_highlighter.png>
 Package pdftex.def Info: ./res/menu_r_rterm_highlighter.png used on input line 
 198.
-(pdftex.def)             Requested size: 36.88771pt x 29.3596pt.
+(pdftex.def)             Requested size: 38.01692pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
@@ -4409,13 +4408,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
 [121 <./res/menu_r_rterm_split.png> <./res/menu_r_rterm_highlighter.png> <./res
 /menu_r_rterm_highlighter_io.png> <./res/menu_r_rterm_highlighter_log.png>]
-<./res/menu_r_rterm_linewrap.png, id=2974, 114.4275pt x 58.71938pt>
+<./res/menu_r_rterm_linewrap.png, id=2974, 116.68594pt x 58.71938pt>
 File: ./res/menu_r_rterm_linewrap.png Graphic file (type png)
 
 <use ./res/menu_r_rterm_linewrap.png>
 Package pdftex.def Info: ./res/menu_r_rterm_linewrap.png used on input line 247
 .
-(pdftex.def)             Requested size: 57.21361pt x 29.3596pt.
+(pdftex.def)             Requested size: 58.34282pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
@@ -4639,6 +4638,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
  []
 
 
+Underfull \hbox (badness 1454) in paragraph at lines 103--103
+\T1/mdput/m/n/7 plac-ing \T1/mdput/m/it/7 IO \T1/mdput/m/n/7 and \T1/mdput/m/it
+/7 LOG \T1/mdput/m/n/7 in the same
+ []
+
+
 Underfull \hbox (badness 10000) in alignment at lines 103--103
 [][] 
  []
@@ -4648,7 +4653,7 @@ File: ./res/menu_r_rterm_highlighter.png Graphic file (type png)
  <use ./res/menu_r_rterm_highlighter.png>
 Package pdftex.def Info: ./res/menu_r_rterm_highlighter.png used on input line 
 111.
-(pdftex.def)             Requested size: 36.88771pt x 29.3596pt.
+(pdftex.def)             Requested size: 38.01692pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
@@ -4678,7 +4683,7 @@ File: ./res/menu_r_rterm_linewrap.png Graphic file (type png)
 <use ./res/menu_r_rterm_linewrap.png>
 Package pdftex.def Info: ./res/menu_r_rterm_linewrap.png used on input line 159
 .
-(pdftex.def)             Requested size: 57.21361pt x 29.3596pt.
+(pdftex.def)             Requested size: 58.34282pt x 29.3596pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
@@ -4875,12 +4880,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
-<./res/menu_view_linewrap.png, id=3204, 182.93344pt x 73.77562pt>
+<./res/menu_view_linewrap.png, id=3204, 164.11313pt x 73.77562pt>
 File: ./res/menu_view_linewrap.png Graphic file (type png)
 
 <use ./res/menu_view_linewrap.png>
 Package pdftex.def Info: ./res/menu_view_linewrap.png used on input line 431.
-(pdftex.def)             Requested size: 91.46649pt x 36.88771pt.
+(pdftex.def)             Requested size: 82.05635pt x 36.88771pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
@@ -5524,25 +5529,25 @@ Underfull \hbox (badness 10000) in alignment at lines 26--26
  []
 
 [169] (sub/WhatIsNew_2015.tex
-Overfull \hbox (4.83502pt too wide) in paragraph at lines 26--29
+Overfull \hbox (4.83502pt too wide) in paragraph at lines 29--32
 []\T1/mdput/m/n/10 (-20) A bug re-lated to \T1/fvm/m/n/10 Rterm in-ter-face (IO
- and Log) \T1/mdput/m/n/10 (-20) and the pack-
+ and LOG) \T1/mdput/m/n/10 (-20) and the pack-
  []
 
 
-Overfull \hbox (0.17795pt too wide) in paragraph at lines 31--32
+Overfull \hbox (0.17795pt too wide) in paragraph at lines 34--35
 []\T1/mdput/m/n/10 (-20) The ver-sions 4.0.3.1, 4.0.3.2 and 4.0.3.3 were re-str
 ict to testers: thanks
  []
 
 [170]
-Overfull \hbox (11.1934pt too wide) in paragraph at lines 64--65
+Overfull \hbox (11.1934pt too wide) in paragraph at lines 67--68
 []\T1/mdput/m/n/10 (-20) A bug re-lated to char-ac-ter recog-ni-tion of \T1/fvm
 /m/n/10 Tool-s/-Database/R/Mir-
  []
 
 [171]
-sub/WhatIsNew_2015.tex:79: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:82: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -5550,7 +5555,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 [172]
-sub/WhatIsNew_2015.tex:97: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:100: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -5875,14 +5880,7 @@ Package pdftex.def Info: ./res/txt2tags.png used on input line 47.
  [195]
 Missing character: There is no * in font mdputr8c!
 Missing character: There is no * in font mdputr8c!
-
-Overfull \hbox (2.89876pt too wide) in paragraph at lines 71--74
-\T1/mdput/m/n/10 (-20) avail-able to \T1/mdput/m/it/10 (-20) IO \T1/mdput/m/n/1
-0 (-20) and \T1/mdput/m/it/10 (-20) Log \T1/mdput/m/n/10 (-20) in-ter-faces: pr
-int con-tent, plot, list names,
- []
-
-[196 <./res/txt2tags.png>] [197]
+ [196 <./res/txt2tags.png>] [197]
 Overfull \hbox (50.27231pt too wide) in paragraph at lines 168--168
  []        \T1/fvm/m/n/8 .trPaths <- paste(paste(Sys.getenv(\TS1/fvm/m/n/8 '\T1
 /fvm/m/n/8 APPDATA\TS1/fvm/m/n/8 '\T1/fvm/m/n/8 ), \TS1/fvm/m/n/8 '\T1/fvm/m/n/
@@ -6658,12 +6656,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `eBook.out' has not changed.
-(rerunfilecheck)             Checksum: 1799A825007B3868AEAC2A30CE33E634;12769.
+(rerunfilecheck)             Checksum: 8C38E83EE99199B89AD3D73857B6E6D0;12769.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
  26498 strings out of 493671
- 409517 string characters out of 3141414
+ 409519 string characters out of 3141414
  735894 words of memory out of 3000000
  26680 multiletter control sequences out of 15000+200000
  328796 words of font info for 745 fonts, out of 3000000 for 9000
@@ -6689,7 +6687,7 @@ pe1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopi
 a/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
 a.pfb>
-Output written on eBook.pdf (304 pages, 3308996 bytes).
+Output written on eBook.pdf (304 pages, 3236577 bytes).
 PDF statistics:
  5421 PDF objects out of 6186 (max. 8388607)
  1466 named destinations out of 1728 (max. 500000)
