@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  18 JUL 2015 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  19 JUL 2015 09:49
 entering extended mode
 **eBook
 (eBook.tex
@@ -5530,25 +5530,25 @@ Underfull \hbox (badness 10000) in alignment at lines 26--26
  []
 
 [169] (sub/WhatIsNew_2015.tex
-Overfull \hbox (4.83502pt too wide) in paragraph at lines 31--34
+Overfull \hbox (4.83502pt too wide) in paragraph at lines 33--36
 []\T1/mdput/m/n/10 (-20) A bug re-lated to \T1/fvm/m/n/10 Rterm in-ter-face (IO
  and LOG) \T1/mdput/m/n/10 (-20) and the pack-
  []
 
 
-Overfull \hbox (0.17795pt too wide) in paragraph at lines 36--37
+Overfull \hbox (0.17795pt too wide) in paragraph at lines 38--39
 []\T1/mdput/m/n/10 (-20) The ver-sions 4.0.3.1, 4.0.3.2 and 4.0.3.3 were re-str
 ict to testers: thanks
  []
 
 [170]
-Overfull \hbox (11.1934pt too wide) in paragraph at lines 69--70
+Overfull \hbox (11.1934pt too wide) in paragraph at lines 71--72
 []\T1/mdput/m/n/10 (-20) A bug re-lated to char-ac-ter recog-ni-tion of \T1/fvm
 /m/n/10 Tool-s/-Database/R/Mir-
  []
 
 [171]
-sub/WhatIsNew_2015.tex:84: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:86: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -5556,7 +5556,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 [172]
-sub/WhatIsNew_2015.tex:102: Extra }, or forgotten \endgroup
+sub/WhatIsNew_2015.tex:104: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -6688,7 +6688,7 @@ pe1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopi
 a/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
 a.pfb>
-Output written on eBook.pdf (304 pages, 3258060 bytes).
+Output written on eBook.pdf (304 pages, 3258155 bytes).
 PDF statistics:
  5421 PDF objects out of 6186 (max. 8388607)
  1466 named destinations out of 1728 (max. 500000)
