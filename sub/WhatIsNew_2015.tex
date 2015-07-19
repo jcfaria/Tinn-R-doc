@@ -1,18 +1,20 @@
 
 \hypertarget{2015}{}
-\section{Versions released in 2015 (04)}
+\section{Versions released in 2015 (05)}
 \index{What is New?!2015}
 
-\subsection*{4.0.3.6 (jul/15/2015)}
+\subsection*{4.0.3.6 (jul/21/2015)}
 \begin{itemize}
   \item If the user choice in \texttt{Options/Application/R/Patch (R)} is
     \textbf{No} to \texttt{Use latest installed version (always)} option, in the startup,
     Tinn-R will search in all letters of the system drives for the fully informed path of R.
     It is very useful in the portable flavors due to letters changes in different computers.
   \item The visibility of all PageControl TabSheets caption were improved.
-  \item \texttt{Enio G. Jelihovischi} is no longer working on the project development team.
-    Thanks for the work done by \texttt{Enio} over the years with the User Guide and Ebook.
-    He will remain as co-author on both.
+  \item R will be always started with two options:
+    \begin{itemize}
+      \item \texttt{options(pkgType='binary')}
+      \item \texttt{options(install.packages.check.source='no')}
+    \end{itemize}
 \end{itemize}
 
 

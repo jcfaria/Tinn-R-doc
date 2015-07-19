@@ -182,7 +182,7 @@
 \contentsline {subsection}{Tab order: how to change?}{165}{section*.177}
 \contentsline {subsection}{Auto completion: how to use?}{165}{section*.178}
 \contentsline {appendix}{\chapternumberline {A}What is New?}{169}{appendix.A}
-\contentsline {section}{\numberline {A.1}Versions released in 2015 (04)}{170}{section.A.1}
+\contentsline {section}{\numberline {A.1}Versions released in 2015 (05)}{170}{section.A.1}
 \contentsline {section}{\numberline {A.2}Versions released in 2014 (08)}{174}{section.A.2}
 \contentsline {section}{\numberline {A.3}Versions released in 2013 (10)}{177}{section.A.3}
 \contentsline {section}{\numberline {A.4}Versions released in 2012 (03)}{182}{section.A.4}
