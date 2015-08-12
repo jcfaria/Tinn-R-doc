@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  11 AUG 2015 11:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  11 AUG 2015 20:49
 entering extended mode
 **eBook
 (eBook.tex
@@ -2132,12 +2132,12 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- <./res/general.png, id=1257, 756.57657pt x 520.19344pt>
+ <./res/general.png, id=1257, 756.57657pt x 525.46312pt>
 File: ./res/general.png Graphic file (type png)
 
 <use ./res/general.png>
 Package pdftex.def Info: ./res/general.png used on input line 44.
-(pdftex.def)             Requested size: 408.84468pt x 281.10664pt.
+(pdftex.def)             Requested size: 408.84468pt x 283.95432pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 44--45
  [] 
@@ -2509,12 +2509,12 @@ fvm/m/n/8 {\TS1/fvm/m/n/8 ' \T1/fvm/m/n/8 and \TS1/fvm/m/n/8 '```' \T1/fvm/m/n/
 
 
 ] (sub/three_application_options.tex
-<./res/parts_01.png, id=1925, 763.35187pt x 456.95718pt>
+<./res/parts_01.png, id=1925, 758.835pt x 447.17062pt>
 File: ./res/parts_01.png Graphic file (type png)
 
 <use ./res/parts_01.png>
 Package pdftex.def Info: ./res/parts_01.png used on input line 8.
-(pdftex.def)             Requested size: 408.84468pt x 244.73811pt.
+(pdftex.def)             Requested size: 408.84468pt x 240.92949pt.
 
 Overfull \hbox (104.84468pt too wide) in paragraph at lines 8--9
  [] 
@@ -4457,12 +4457,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
-<./res/menu_r_send.png, id=3013, 214.55156pt x 241.65282pt>
+<./res/menu_r_send.png, id=3013, 214.55156pt x 207.77625pt>
 File: ./res/menu_r_send.png Graphic file (type png)
 
 <use ./res/menu_r_send.png>
 Package pdftex.def Info: ./res/menu_r_send.png used on input line 313.
-(pdftex.def)             Requested size: 107.27551pt x 120.82611pt.
+(pdftex.def)             Requested size: 107.27551pt x 103.88786pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
@@ -5140,13 +5140,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--26
 LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
 (Font)              scaled to size 8.41995pt on input line 7.
 
-<./res/parts_02.png, id=3572, 758.835pt x 80.55093pt>
+<./res/parts_02.png, id=3572, 759.58781pt x 79.79813pt>
 File: ./res/parts_02.png Graphic file (type png)
- <use ./res/parts_02.png>
-Package pdftex.def Info: ./res/parts_02.png used on input line 9.
-(pdftex.def)             Requested size: 379.41658pt x 40.27536pt.
 
-Overfull \hbox (75.41658pt too wide) in paragraph at lines 9--10
+<use ./res/parts_02.png>
+Package pdftex.def Info: ./res/parts_02.png used on input line 9.
+(pdftex.def)             Requested size: 379.79297pt x 39.89896pt.
+
+Overfull \hbox (75.79297pt too wide) in paragraph at lines 9--10
 [][] 
  []
 
@@ -5185,14 +5186,14 @@ Overfull \hbox (70.8997pt too wide) in paragraph at lines 80--81
 [][] 
  []
 
-<./res/secrets_rtoolbar.png, id=3586, 662.475pt x 43.66313pt>
+<./res/secrets_rtoolbar.png, id=3586, 639.89063pt x 43.66313pt>
 File: ./res/secrets_rtoolbar.png Graphic file (type png)
 
 <use ./res/secrets_rtoolbar.png>
 Package pdftex.def Info: ./res/secrets_rtoolbar.png used on input line 89.
-(pdftex.def)             Requested size: 331.2367pt x 21.8315pt.
+(pdftex.def)             Requested size: 319.94452pt x 21.8315pt.
 )
-Overfull \hbox (27.2367pt too wide) in paragraph at lines 89--17
+Overfull \hbox (15.94452pt too wide) in paragraph at lines 89--17
 [][]
  []
 
@@ -5388,14 +5389,14 @@ e of time. Thus, the database
 File: ./res/parts_02.png Graphic file (type png)
  <use ./res/parts_02.png>
 Package pdftex.def Info: ./res/parts_02.png used on input line 8.
-(pdftex.def)             Requested size: 379.41658pt x 40.27536pt.
+(pdftex.def)             Requested size: 379.79297pt x 39.89896pt.
 File: ./res/secrets_statusbar.png Graphic file (type png)
 
 <use ./res/secrets_statusbar.png>
 Package pdftex.def Info: ./res/secrets_statusbar.png used on input line 9.
 (pdftex.def)             Requested size: 374.8997pt x 19.57307pt.
 
-Overfull \hbox (75.41658pt too wide) in paragraph at lines 8--10
+Overfull \hbox (75.79297pt too wide) in paragraph at lines 8--10
 [][]
  []
 
@@ -6787,7 +6788,7 @@ pe1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adob
 e/utopia/putbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopi
 a/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
 a.pfb>
-Output written on eBook.pdf (304 pages, 3164219 bytes).
+Output written on eBook.pdf (304 pages, 3319213 bytes).
 PDF statistics:
  5468 PDF objects out of 6186 (max. 8388607)
  1501 named destinations out of 1728 (max. 500000)
