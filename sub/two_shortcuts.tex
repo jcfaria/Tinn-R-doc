@@ -17,17 +17,25 @@ This section provides information about keyboard shortcuts.
   ALT  + DOWN            : R history: down (IO)
   ALT  + E               : R echo (on/off)
   ALT  + L               : Clear (LOG)
+  ALT  + LEFT            : Editor: set focus
+  ALT  + PGDN            : LOG: set focus
+  ALT  + RIGHT           : IO: set focus
   ALT  + UP              : R history: up (IO)
-  CTRL + ALT + DOWN      : IO: set focus
-  CTRL + ALT + RIGHT     : LOG: set focus
-  CTRL + ALT + UP        : Editor: set focus
+  CTRL + -               : Insert <-
+  CTRL + +               : Insert ->
   CTRL + ENTER           : Send any prior line (IO)
   CTRL + F1              : Example on selected word*
+  CTRL + F2              : Open example on selected word*
   CTRL + L               : Clear (IO)
+  CTRL + SPACE           : Tip after '(' and completion after '$'
+  CTRL + TAB             : Change seq. IO and LOG to the right**
+  CTRL + TIL             : Send current file to Sweave
+  SHIFT + CTRL + TAB     : Change seq. IO and LOG to the left**
   F1                     : Help on selected word*
   SHIFT + CTRL + B       : Clear (IO and LOG)
   SHIFT + CTRL + F1      : R help (HTML)*
-  * (requires an R session)
+  *  (requires an R session)
+  ** (requires focus)
 \end{Rtables}
 % =============================================================================
 
@@ -49,16 +57,19 @@ This section provides information about keyboard shortcuts.
   CTRL  + ALT  + L        : Line number (show/hide)
   CTRL  + ALT  + K        : Special characters (show/hide)
   CTRL  + ALT  + V        : Tool bars: all (show/hide)
-  CTRL  + TAB             : Change seq. the active page to the right*
-  CTRL  + SHIFT + TAB     : Change seq. the active page to the left*
-  SHIFT + CTRL + UP       : Increase font size**
-  SHIFT + CTRL + DOWN     : Decrease font size**
+  CTRL  + TAB             : Change seq. the active page
+                            (Editor, RTerm an Help) to the right*
+  CTRL  + SHIFT + TAB     : Change seq. the active page
+                            (Editor, RTerm an Help) to the left*
+  SHIFT + CTRL + +        : Increase font size**
+  SHIFT + CTRL + -        : Decrease font size**
   *  (requires more than one)
   ** (text within the main interface)
 \end{Rtables}
 % =============================================================================
 
 
+\newpage
 \subsubsection{Navigation:}
 \index{keyboard shortcuts!navigation}
 
@@ -74,8 +85,6 @@ This section provides information about keyboard shortcuts.
 \end{Rtables}
 % =============================================================================
 
-
-\newpage
 \subsubsection{Search/Replace and Go:}
 \index{keyboard shortcuts!search/replace and go}
 
@@ -115,6 +124,7 @@ This section provides information about keyboard shortcuts.
 % =============================================================================
 
 
+\newpage
 \subsubsection{Edition:}
 \index{keyboard shortcuts!edition}
 
@@ -183,14 +193,18 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[R script edition keyboard shortcuts]
     R script edition keyboard shortcuts},
   label=hotkey:rscript]
-  CTRL + +                : Insert ->  (numeric keypad)
-  CTRL + -                : Insert <-  (numeric keypad)
-  CTRL + *                : Insert tip (numeric keypad)
+  CTRL + -                : Insert <-
+  CTRL + -                : Insert <-  (numeric keypad)*
+  CTRL + +                : Insert ->
+  CTRL + +                : Insert ->  (numeric keypad)*
+  CTRL + *                : Insert tip (numeric keypad)*
   CTRL + ENTER            : Send current line to R and insert a line break
+  * (not configurable by user)
 \end{Rtables}
 % =============================================================================
 
 
+\newpage
 \subsubsection{Selection:}
 \index{keyboard shortcuts!selection}
 
@@ -239,6 +253,7 @@ This section provides information about keyboard shortcuts.
   SHIFT + CTRL + S       : Conversion: txt2tags to Sweave
   SHIFT + CTRL + T       : Conversion: txt2tags to LaTeX
   SHIFT + CTRL + O       : Open current HTML files**
+  SHIFT + CTRL + U       : Open current file (generic)
   SHIFT + CTRL + ALT + H : Conversion: deplate to HTML
   SHIFT + CTRL + ALT + S : Conversion: deplate to Sweave
   SHIFT + CTRL + ALT + T : Conversion: deplate to LaTeX
@@ -371,7 +386,10 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[Insert menu keyboard shortcuts]
     Insert menu keyboard shortcuts},
   label=menu:insert]
-  SHIFT + CTRL + I        : Insert dimensional element (LaTeX)
+  CTRL + -               : Insert <-
+  CTRL + +               : Insert ->
+  CTRL + J               : Completion
+  SHIFT + CTRL + I       : Insert dimensional element (LaTeX)
 \end{Rtables}
 % =============================================================================
 
@@ -420,11 +438,13 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[Tools menu keyboard shortcuts]
     ToolsMenu keyboard shortcuts},
   label=menu:tools]
+  SHIFT + CTRL + Down     : Sort strings
   SHIFT + CTRL + H        : Conversion: txt2tags to HTML
   SHIFT + CTRL + P        : Conversion: Pandoc*
   SHIFT + CTRL + S        : Conversion: txt2tags to Sweave
   SHIFT + CTRL + T        : Conversion: txt2tags to LaTeX
   SHIFT + CTRL + O        : Open current HTML files**
+  SHIFT + CTRL + U        : Open current file (generic)
   SHIFT + CTRL + ALT + H  : Conversion: deplate to HTML
   SHIFT + CTRL + ALT + S  : Conversion: deplate to Sweave
   SHIFT + CTRL + ALT + T  : Conversion: deplate to LaTeX
@@ -451,9 +471,9 @@ This section provides information about keyboard shortcuts.
     R menu keyboard shortcuts},
   label=menu:r]
   ALT  + L               : Clear (LOG)
-  CTRL + ALT + DOWN      : IO: set focus
-  CTRL + ALT + RIGHT     : LOG: set focus
-  CTRL + ALT + UP        : Editor: set focus
+  ALT  + LEFT            : Editor: set focus
+  ALT  + PGDN            : LOG: set focus
+  ALT  + RIGHT           : IO: set focus
   CTRL + F10             : R interface: minimize
   CTRL + F11             : R interface: optimize
   CTRL + F12             : R interface: maximize
@@ -472,12 +492,12 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[View menu keyboard shortcuts]
     View menu keyboard shortcuts},
   label=menu:view]
+  ALT  + LEFT             : Editor: set focus
+  ALT  + PGDN             : LOG: set focus
+  ALT  + RIGHT            : IO: set focus
   ALT  + W                : Editor: line wrap (show/hide)
-  CTRL + ALT + DOWN       : IO: set focus
   CTRL + ALT + K          : Special characters (show/hide)
   CTRL + ALT + L          : Line number (show/hide)
-  CTRL + ALT + RIGHT      : LOG: set focus
-  CTRL + ALT + UP         : Editor: set focus
   CTRL + ALT + V          : Tool bars: all (show/hide)
   CTRL + F10              : R interface: minimize
   CTRL + F11              : R interface: optimize
@@ -497,8 +517,7 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[Call tip keyboard shortcuts]
     Call tip keyboard shortcuts},
   label=shortcut:calltip]
-  CTRL + D                : Possible option
-  CTRL + Q                : Possible option
+  CTRL + SPACE  : Tip after '(' and completion after '$'
 \end{Rtables}
 % =============================================================================
 
@@ -512,8 +531,7 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[Code completion keyboard shortcuts]
     Code completion keyboard shortcuts},
   label=shortcut:codecompletion]
-  SHIFT + CTRL + D        : Possible option
-  SHIFT + CTRL + Q        : Possible option
+  CTRL + SPACE  : Tip after '(' and completion after '$'
 \end{Rtables}
 % =============================================================================
 
@@ -550,24 +568,27 @@ This section provides information about keyboard shortcuts.
   ALT + B                 : Web
   ALT + C                 : Block comment
   ALT + D                 : Window
-  ALT + E                 : R echo (on/off)
   ALT + DOWN              : R history: down (IO)
   ALT + E                 : Edit
+  ALT + E                 : R echo (on/off)
   ALT + F                 : File
   ALT + H                 : Help
   ALT + I                 : Insert
   ALT + L                 : Clear (LOG)
+  ALT + LEFT              : Editor: set focus
   ALT + M                 : Marks
   ALT + N                 : Block uncomment (first occurrence)
   ALT + O                 : Options
   ALT + P                 : Project
+  ALT + PGDN              : LOG: set focus
   ALT + R                 : R
+  ALT + RIGHT             : IO: set focus
   ALT + S                 : Search
   ALT + T                 : Tools
   ALT + UP                : R history: up (IO)
   ALT + V                 : View
-  ALT + Z                 : Block uncomment (all occurrence)
   ALT + W                 : Editor: line wrap (show/hide)
+  ALT + Z                 : Block uncomment (all occurrence)
 \end{Rtables}
 % =============================================================================
 
@@ -581,37 +602,36 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[CTRL keyboard shortcuts]
     CTRL keyboard shortcuts},
   label=shortcut:ctrl]
-  CTRL + -                : Insert <-  (numeric keypad)
+  CTRL + -                : Insert <-
+  CTRL + -                : Insert <-  (numeric keypad)*
   CTRL + (                : Insert (or replace) (|)
   CTRL + )                : Insert (or replace) ()
   CTRL + *                : Insert tip (numeric keypad)
-  CTRL + +                : Insert ->  (numeric keypad)
+  CTRL + +                : Insert ->
+  CTRL + +                : Insert ->  (numeric keypad)*
   CTRL + A                : Select all
   CTRL + ALT + C          : Auto completion \verb{( [ { ' "}
   CTRL + ALT + D          : Compilation: LaTeX to DVI (single)
-  CTRL + ALT + DOWN       : IO: set focus
   CTRL + ALT + G          : Gutter (show/hide)
   CTRL + ALT + I          : Compilation: Make index (makeindex)
   CTRL + ALT + K          : Special characters (show/hide)
   CTRL + ALT + L          : Line number (show/hide)
   CTRL + ALT + N          : Enable notification
   CTRL + ALT + P          : Compilation: LaTeX to DVI (single)
-  CTRL + ALT + RIGHT      : LOG: set focus
   CTRL + ALT + S          : Mark block
   CTRL + ALT + U          : Update silently
-  CTRL + ALT + UP         : Editor: set focus
   CTRL + ALT + V          : Tool bars: all (show/hide)
   CTRL + ALT + X          : Unmark all
   CTRL + ALT + Z          : Unmark block
   CTRL + B                : Match bracket
   CTRL + C                : Copy
-  CTRL + D                : Possible option
   CTRL + E                : Refresh R environment
   CTRL + END              : End doc
   CTRL + ENTER            : Send any prior line (IO)
   CTRL + ENTER            : Send current line to R and insert a line break
   CTRL + F                : Find
-  CTRL + F1               : Example on selected word*
+  CTRL + F1               : Example on selected word**
+  CTRL + F2               : Open example on selected word*
   CTRL + F10              : R interface: minimize
   CTRL + F11              : R interface: optimize
   CTRL + F12              : R interface: maximize
@@ -627,20 +647,23 @@ This section provides information about keyboard shortcuts.
   CTRL + NUMBER[0..9]     : Go to mark (no numeric keypad)
   CTRL + O                : Open file
   CTRL + P                : Print
-  CTRL + Q                : Possible option
   CTRL + R                : Replace text
   CTRL + S                : Save file
-  CTRL + SHIFT + TAB      : Change seq. the active page to the left**
+  CTRL + SPACE            : Tip after '(' and completion after '$'
   CTRL + T                : Delete word
-  CTRL + TAB              : Change seq. the active page*
+  CTRL + TAB              : Change seq. the active page
+                            (Editor, RTerm an Help) to the right ***
+  CTRL + TIL              : Send current file to Sweave
   CTRL + U                : Block unindent
   CTRL + V                : Paste
   CTRL + W                : Close file
   CTRL + X                : Cut
   CTRL + Y                : Delete line
   CTRL + Z                : Undo
-  *  (requires an R session)
-  ** (require more than one)
+  * (not configurable by user)
+  ** (requires an R session)
+  *** (require more than one)
+
 \end{Rtables}
 % =============================================================================
 
@@ -713,6 +736,8 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[SHIFT + keyboard shortcuts]
     SHIFT + keyboard shortcuts},
   label=shortcut:shiftplus]
+  SHIFT + CTRL + +            : Increase font size*
+  SHIFT + CTRL + -            : Decrease font size
   SHIFT + CTRL + ALT + D      : Compilation: LaTeX to DVI (bibtex)
   SHIFT + CTRL + ALT + H      : Conversion: deplate to HTML
   SHIFT + CTRL + ALT + P      : Compilation: LaTeX to PDF (bibtex)
@@ -720,8 +745,7 @@ This section provides information about keyboard shortcuts.
   SHIFT + CTRL + ALT + T      : Conversion: deplate to LaTeX
   SHIFT + CTRL + B            : Clear (IO and LOG)
   SHIFT + CTRL + C            : Selection: set to column mode
-  SHIFT + CTRL + D            : Possible option
-  SHIFT + CTRL + DOWN         : Decrease font size*
+  SHIFT + CTRL + Down         : Sort strings
   SHIFT + CTRL + E            : Refresh R explorer or filter
   SHIFT + CTRL + F            : Search in files
   SHIFT + CTRL + F1           : R help (HTML)*
@@ -733,11 +757,12 @@ This section provides information about keyboard shortcuts.
   SHIFT + CTRL + N            : Selection: set to normal mode
   SHIFT + CTRL + NUMBER[0..9] : Mark (no numeric keypad)
   SHIFT + CTRL + O            : Open current HTML files****
-  SHIFT + CTRL + Q            : Possible option
   SHIFT + CTRL + R            : Reload file
   SHIFT + CTRL + S            : Conversion: txt2tags to Sweave
   SHIFT + CTRL + T            : Conversion: txt2tags to LaTeX
-  SHIFT + CTRL + UP           : Increase font size*
+  SHIFT + CTRL + TAB          : Change seq. the active page
+                                (Editor, RTerm an Help) to the left
+  SHIFT + CTRL + U            : Open current file (generic)
   SHIFT + CTRL + W            : Close all files
   SHIFT + CTRL + Z            : Redo
   *    (extensive to text of the main interface)

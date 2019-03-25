@@ -17,7 +17,7 @@ This section provides information on \textbf{F}requently \textbf{A}sked
     the default Notepad running under the Windows OS. The name is the
     recursive acronym: \underline{T}inn \underline{i}s \underline{n}ot
     \underline{N}otepad.
-  \item \htmladdnormallink{Tinn-R}{http://nbcgib.uesc.br/lec/software/editores/tinn-r/en}
+  \item \htmladdnormallink{Tinn-R}{https://nbcgib.uesc.br/tinnr/en/}
     is an extension of the original Tinn editor (ASCII and UNICODE), providing additional
     functionality to control
     \htmladdnormallink{R}{http://cran.r-project.org}
@@ -66,7 +66,7 @@ interface since this will help us address the issue more promptly.
 
 \begin{itemize}
   \item The latest version of Tinn-R can be downloaded from
-    \htmladdnormallink{Web page}{http://nbcgib.uesc.br/lec/software/editores/tinn-r/en} or
+    \htmladdnormallink{Web page}{https://nbcgib.uesc.br/tinnr/en/} or
     \htmladdnormallink{SourceForge}{https://sourceforge.net/projects/tinn-r/}.
 \end{itemize}
 
@@ -216,7 +216,7 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
 \index{FAQ!starting GUI}
 \index{starting GUI}
 
-\includegraphics[scale=.50]{./res/app_r_path.png}
+\includegraphics[scale=.50]{./res/app_r_pathandoptions.png}
 
 \begin{itemize}
   \item You can start your preferred Rgui directly from Tinn-R. To do that,
@@ -371,8 +371,10 @@ increase the value a bit by setting
 \index{FAQ!hotkeys}
 \index{hotkeys}
 
-\includegraphics[scale=.50]{./res/hotkeys_default.png}
-\includegraphics[scale=.50]{./res/hotkeys_custom.png}
+\includegraphics[scale=.50]{./res/hotkeys_send.png}
+\includegraphics[scale=.50]{./res/hotkeys_control.png}
+\includegraphics[scale=.50]{./res/hotkeys_custom_1.png}
+\includegraphics[scale=.50]{./res/hotkeys_custom_2.png}
 
 \subsubsection{What is the difference between hotkeys (operational system) and shortcuts in Tinn-R?}
 
@@ -383,6 +385,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
+\newpage
 \subsubsection{How do I define hotkeys for R tools in Tinn-R?}
 \index{FAQ!defining hotkeys}
 \index{defining hotkeys}
@@ -394,7 +397,6 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\newpage
 \subsubsection{Is there a shortcut for cycling through opened files?}
 \index{FAQ!shortcut for cycling}
 \index{shortcut for cycling}
@@ -656,7 +658,7 @@ from all simple highlighters.
 \end{itemize}
 
 
-\subsubsection{The comunication between Tinn-R and Rgui seems to freeze!}
+\subsubsection{The comunication between Tinn-R and Rgui.exe seems to freeze!}
 \index{FAQ!comunication}
 \index{comunication}
 \index{FAQ!Tinn-R and Rgui}
@@ -671,3 +673,34 @@ from all simple highlighters.
     However, the solution is very simple: rest your mouse (without pressing for a few seconds) on the
     icon of the Tinn-R on the taskbar of windows\ldots: the communication should be restored automatically.
 \end{itemize}
+
+\subsubsection{The comunication between Tinn-R and Rterm.exe seems to freeze using knit function!}
+\index{FAQ!comunication}
+\index{comunication}
+\index{FAQ!Tinn-R and Rterm}
+\index{Tinn-R and Rterm}
+\index{FAQ!knitr}
+\index{FAQ!knit}
+\index{freeze}
+
+\begin{itemize}
+  \item To all \texttt{knit} procedures it will be added the argument \texttt{quiet=TRUE}.
+    It is very dificult to sincronize the \texttt{txtProgreesBar} used in these functions and
+    \texttt{Rterm} interface. So, if you want more control, we suggest (for while) to use the \texttt{knit}
+    with \texttt{Rgui.exe} intead of \texttt{Rterm.exe}.
+\end{itemize}
+
+\subsubsection{How to make Ctrl+Shift+0 mark works?}
+\index{FAQ!marks}
+\index{FAQ!Ctrl+Shift+0}
+\index{marks}
+\index{Ctrl+Shift+0}
+
+For Windows 10, do the following (it may be a bit different for Windows 8):
+\begin{enumerate}
+  \item In the control panel, click Language. This brings up the "Language" panel.
+  \item Choose "Advanced Settings" in the left area. This brings up the "Advanced Settings" panel.
+  \item Choose "Change language bar hot keys". This brings up the "Text Services & Input Language" panel.
+  \item Select that item and click the "Change Key Sequence" button. This brings up the "Change Key Sequence" panel.
+  \item Set the Ctrl + Shift in both radio buttons to "Not Assigned" and click OK.
+\end{enumerate}

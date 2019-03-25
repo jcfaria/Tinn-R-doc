@@ -1,5 +1,0 @@
-%http://www.latex-community.org/forum/viewtopic.php?f=51&t=8096
-%how_to_use: makeindex -s index_capital.ist User_guide.idx
-headings_flag 1
-heading_prefix "\\textbf\{"
-heading_suffix "\}"

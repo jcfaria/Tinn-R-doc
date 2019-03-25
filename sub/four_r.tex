@@ -9,14 +9,14 @@
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    Start/close and connections & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_startcloseandconections}} \\
+%    Start/close and connections & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_startcloseandconections}} \\
     Set .trPaths (temporarily) & Sets (temporarily) the necessary .trPaths object in \RR{} environment
     This object provided by TinnRcom package. This option is useful only if the user can not, for some reason,   install the TinnRcom package \\
     Get info (R and TinnRcom) & Get information about \RR{} and the necessary TinnRcom package \\
     Update mirrors & Updates the Rmirrors.xml file \\
     Rterm & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_rterm}} \\
     Send & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_send}} \\
-    Editor: current line to top & Brings the current line to the top of the editor interface \\
+%    Editor: current line to top & Brings the current line to the top of the editor interface \\
     Control & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_control}} \\
     Hotkeys (operational system) & Shows Tinn-R hotkeys (related with the operational system) dialog. \htmladdnormallink{See Hotkeys (operational system) ...}{\#working\_hotkeys} \\
     \hline
@@ -218,7 +218,9 @@ R and Tinn-R.
     \textbf{Option} & \textbf{Description} \\
     \hline
     Text & Sets the IO highlighter to Text \\
+    Text (no multline string) & Sets the IO highlighter to Text without string multline suport \\
     R & Sets the IO highlighter to R \\
+    R (no multline string) & Sets the IO highlighter to R without string multline suport \\
     \hline
   \end{tabularx}\end{scriptsize}
 
@@ -234,7 +236,9 @@ R and Tinn-R.
     \textbf{Option} & \textbf{Description} \\
     \hline
     Text & Sets the LOG highlighter to Text \\
+    Text (no multline string) & Sets the LOG highlighter to Text without string multline suport \\
     R & Sets the LOG highlighter to R \\
+    R (no multline string) & Sets the LOG highlighter to R without string multline suport \\
     \hline
   \end{tabularx}\end{scriptsize}
 
@@ -324,8 +328,9 @@ R and Tinn-R.
     %Clipboard (\texttt{echo=TRUE}) & Sends the clipboard content to R interpreter echoing the content \\
     Marked block & Sends current marked block to R interpreter \\
     %Marked block (\texttt{echo=TRUE}) & Sends current marked block to R interpreter echoing the content \\
-		Contiguous & Sends contiguous lines to R interpreter \\
-		%Contiguous (\texttt{echo=TRUE}) & Sends contiguous lines to R interpreter echoing the content \\
+		  Contiguous & Sends contiguous lines to R interpreter \\
+		  %Contiguous (\texttt{echo=TRUE}) & Sends contiguous lines to R interpreter echoing the content \\
+    Smart & Sends complete instruction blocks when the cursor is located in a complex context \\
     Line & Sends current line to R interpreter echoing it \\
     Lines to end page & Sends all visible lines to end page echoing it \\
     %Lines to end page (\texttt{echo=TRUE}) & Sends all visible lines to end page echoing it \\
@@ -377,6 +382,7 @@ R and Tinn-R.
     Escape & Stops all computations in Rgui \\
     Help (selected) & Sends to R interpreter a \texttt{help(selected)} instruction \\
     Example (selected) & Sends to R interpreter a \texttt{example(selected)} instruction \\
+    Open example (selected) & Sends to R interpreter an instruction to generate an example text file of the \texttt{object selected}\\
     Help & Sends to R interpreter a \texttt{help.start(update=FALSE)} instruction \\
     Packages & \textit{\htmladdnormallink{See options ...}{\#menu\_r\_control\_packages}} \\
     TCP/IP connection & Sends to R interpreter an instruction to start: \texttt{startSocketServer(port=portnumber)} or stop: \texttt{startSocketServer(port=portnumber)} the TCP/IP connection \\

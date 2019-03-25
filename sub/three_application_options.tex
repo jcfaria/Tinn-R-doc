@@ -188,6 +188,23 @@ Table \ref{tab:editor_advanced}
 show the main resources.
 
 
+\hypertarget{working_editor_encoding_eol}{}
+\subsubsection{Encoding/EOL:}
+\index{application options!editor encoding}
+\index{application options!editor EOL}
+
+\begin{figure}[h!]
+  \includegraphics[scale=0.50]{./res/app_editor_encoding.png}\\
+  \caption{Editor options: encoding/EOL.}
+  \label{fig:editor_encoding}
+\end{figure}
+
+This interface
+(Figure \ref{fig:editor_encoding})
+allows to change the default encoding and EOL when creating new files and
+also the user option related to UTF-8 files.
+
+
 \hypertarget{working_editor_keystrokes}{}
 \subsubsection{Keystrokes:}
 \index{application options!editor keystrokes}
@@ -211,12 +228,27 @@ all instances of the main class \textit{SynEdit}: Editor, IO and LOG.
 \index{application options!R}
 
 \begin{figure}[h!]
-  \includegraphics[scale=0.35]{./res/app_r_path.png}~~
-  \includegraphics[scale=0.35]{./res/app_r_basic.png}\\
-  \includegraphics[scale=0.35]{./res/app_r_resources.png}~~
-  \includegraphics[scale=0.35]{./res/app_r_packages.png}\\
+  \includegraphics[scale=0.35]{./res/app_r_installed.png}~~
+  \includegraphics[scale=0.35]{./res/app_r_pathandoptions.png}\\
+  \includegraphics[scale=0.35]{./res/app_r_basic.png}~~
+  \includegraphics[scale=0.35]{./res/app_r_resources.png}\\
   \caption{R (Options/Application).}
   \label{fig:app_r_a}
+\end{figure}
+
+\begin{figure}[h!]
+  \includegraphics[scale=0.33]{./res/app_r_packages_library.png}~~
+  \includegraphics[scale=0.33]{./res/app_r_packages_tinnrcom.png}\\
+  \includegraphics[scale=0.33]{./res/app_r_packages_svsocket.png}\\
+  \caption{R (Options/Application).}
+  \label{fig:app_r_b}
+\end{figure}
+
+\begin{figure}[h!]
+  \includegraphics[scale=0.33]{./res/app_r_packages_formatr.png}~~
+  \includegraphics[scale=0.33]{./res/app_r_packages_knitr.png}\\
+  \caption{R (Options/Application).}
+  \label{fig:app_r_c}
 \end{figure}
 
 \begin{figure}[h!]
@@ -225,18 +257,13 @@ all instances of the main class \textit{SynEdit}: Editor, IO and LOG.
   \includegraphics[scale=0.35]{./res/app_r_rterm_options.png}~~
   \includegraphics[scale=0.35]{./res/app_r_rterm_error.png}\\
   \caption{R (Options/Application).}
-  \label{fig:app_r_b}
+  \label{fig:app_r_d}
 \end{figure}
 
-\begin{figure}[h!]
-  \includegraphics[scale=0.33]{./res/app_r_format_r.png}~~
-  \includegraphics[scale=0.33]{./res/app_r_format_rd.png}~~
-  \includegraphics[scale=0.33]{./res/app_r_server.png}\\
-  \caption{R (Options/Application).}
-  \label{fig:app_r_c}
-\end{figure}
-
-Figures \ref{fig:app_r_a}, \ref{fig:app_r_b} and \ref{fig:app_r_c}
+Figures \ref{fig:app_r_a},
+        \ref{fig:app_r_b},
+        \ref{fig:app_r_c} and
+        \ref{fig:app_r_d}
 shows a set of options available. As you can see, it allows a high level
 of customization with the \RR{} environment.
 
@@ -275,7 +302,7 @@ Tinn-R project makes it easy to work with these nice conversion tools: Deplate, 
 
 \begin{figure}[h!]
   \includegraphics[scale=0.33]{./res/app_processing_latex_dvi.png}~~
-  \includegraphics[scale=0.33]{./res/app_processing_latex_pdf.png}~~
+  \includegraphics[scale=0.33]{./res/app_processing_latex_pdf.png}\\
   \includegraphics[scale=0.33]{./res/app_processing_latex_more.png}\\
   \caption{Latex (Options/Application/Processing).}
   \label{fig:app_processing_latex_options}

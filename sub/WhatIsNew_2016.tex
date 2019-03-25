@@ -1,0 +1,86 @@
+
+\hypertarget{2016}{}
+\section{Versions released in 2016 (01)}
+\index{What is New?!2016}
+
+\subsection*{5.1.2.0 (oct/15/2016)}
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Two major bugs introduced in the \texttt{pre-release version 4.2.6.0} have been fixed.
+      \item A bug related to \texttt{Help}, \texttt{Example} and \texttt{Open example}
+        when all files were closed was fixed.
+      \item A bug related to \texttt{Rterm interface (IO)} and the package \texttt{debug} was fixed.
+        Thanks to \texttt{Ivan B. Allaman} for pointing it out.
+      \item A bug related to the \texttt{custom color storage} was fixed.
+      \item A bug related to the \texttt{Options/Syntax (highlighter)/Default (to new files)} was fixed.
+      \item A bug related to the \texttt{Options/Syntax (highlighter)} was fixed.
+        Thanks to \texttt{Manuela Huso} for pointing it out.
+      \item Some issues about the \texttt{completion} followed by \texttt{F3}
+        to find the next occurrence of \texttt{|} were corrected.
+      \item Issues about the installation of TinnRcom package (and its dependences) were corrected.
+    \end{itemize}
+  \item A lot of \texttt{PRE-RELEASE} versions of the project have been released, not restrict to testers. Thanks for testing and suggestions.
+  \item The installation of TinnRcom package (and its dependences) was improved. From now, the sources (\texttt{.tar.gz}) and
+    the binaries (\texttt{.zip}) of the packages \texttt{formatR}, \texttt{svMisc}, \texttt{svSocket} and \texttt{TinnRcom}
+    will be released within the setup of Tinn-R. After the installation, it will be placed at \texttt{packages} folder.
+    So all will be installed from the local \texttt{.zip}.
+  \item The package \texttt{TinnRcom} was upgraded to the version \texttt{1.0.20}.
+  \item The menu \texttt{options} has a new option: \texttt{R echo (on/off)}. This grants the user the choice to echo (or not)
+    some options of send file, selection, clipboard, block marked, contiguous lines a line to end of page.
+    A related button was add to R task bar. This made simpler and user friendly these options.
+    The default shortcut to toggle this option is \texttt{ALT + E}
+  \item The procedure to \texttt{open a remote file from an URL} was improved and also covers  \texttt{https} protocol.
+  \item If the user choice in \texttt{Options/Application/R/Patch (R)} is
+    \textbf{No} to \texttt{Use latest installed version (always)} option, at startup,
+    Tinn-R will search in all letters of the system drives for the fully informed path of R.
+    It is very useful in the portable flavours due to letters changes in different computers.
+  \item The visibility of all \texttt{Page Control} and \texttt{Tab Sheets} caption were improved.
+  \item R will always start with two options:
+    \begin{itemize}
+      \item \texttt{options(pkgType='binary')}
+      \item \texttt{options(install.packages.check.source='no')}
+    \end{itemize}
+  \item If the user do not have a personal library to manage the packages,
+    from this version on, Tinn-R will create a folder named \texttt{x.y}, related to major and minor R version in the \texttt{C:/Users/User/Documents/R/win-library/}.
+    This library will be used as default to package manager. The user can change the default library at
+    \texttt{Options/Application/R/Packages (R)} in the \texttt{Library trees (.libPaths()}.
+  \item The default files \texttt{Shortcuts.xml} and \texttt{Mirrors.xml} were updated.
+  \item The default shortcuts related to focus on \texttt{Rterm interface} (Editor, IO and LOG) were changed
+    due conflict with Windows 10.
+  \item When using \texttt{Rterm} (except with the \texttt{Send File}option) all other options related with more than one line will be added do the \texttt{R history}.
+  \item The source code related to identification of \texttt{library trees .libPaths()} was improved.
+  \item The \texttt{R explorer} interface related to identification of environments from objects was improved.
+  \item The resources related to \texttt{update mirrors} in runtime were improved.
+  \item The resources related to \texttt{knitr} and \texttt{Sweave} were improved and new options are in \texttt{Options/Application/R/Packages/Knitr}.
+  \item To all \texttt{knit} procedures it will be added the argument \texttt{quiet=TRUE}.
+    So, if you want more control, or to big documents, it is suggested (for while) to use the \texttt{knit}
+    with \texttt{Rgui.exe} instead of \texttt{Rterm.exe}.
+  \item The menu \texttt{Insert} has a new option: \texttt{R (assignment)}. This option make flexible
+    to insert \texttt{<-} and \texttt{->} assignment. As it is associated to shortcuts, the user can customize both.
+  \item The navigator of all database was replaced.
+  \item The \texttt{IO} prompt of the \texttt{Rterm} interface is more user friendly. For this
+    set \texttt{Options/Application/Editor/Advanced/Scroll pas end of line} option.
+  \item It was add a new item in the main menu: \texttt{Tools/Processing/Viewer/Open current file (generic)}.
+  \item The menu \texttt{Web} as heavy reworked and has new options.
+  \item The windows \texttt{Options/Application} received improvements.
+  \item A new resource allowing the user to \texttt{open/learning/edit} the example script of any R objet,
+    from the \texttt{editor}, \texttt{Rterm/IO}, \texttt{Rterm/LOG} or window \texttt{Tools/R/explorer} was added.
+  \item The \texttt{tip} and \texttt{data completion} were deeply improved.
+    \texttt{CTRL + SPACE} is the single trigger for both and the distinction is made in the context of the call.
+    Additionally this feature now find the object, the package and the pattern in complex contexts multiline.
+  \item The shortcuts \texttt{CTRL + TAB} and \texttt{SHIFT + CTRL + TAB}, not user configurable, can now be also used in all interfaces
+    \texttt{Editor, Rterm and Help} to sequentially switch the pages.
+  \item This version is full compatible with \texttt{Microsoft R Open - MRO}.
+  \item The folder \texttt{utils} was deeply restructured and it was added an instruction \texttt{unlockBinding("last.warning", baseenv())}
+    to the new file \texttt{info.R} to workaround a small bug among \texttt{svSocket} and \texttt{MRO}.
+    Thanks to \texttt{Marc Laurencelle} to pointing it out.
+  \item The identifier \texttt{Note} brought back to the highlighter of R family, and due to this utility also added to \texttt{Text} highlighter. Thanks to \texttt{Ari} for pointing it out.
+  \item The \texttt{R family, All and Text highlighter} received improvements related to \texttt{strings} identification.
+    The intention is that they do not identify the shortened forms (he's, you'd, you've, etc.) as string.
+  \item New options related to \texttt{Rterm: IO and LOG} highlighters.
+  \item The usability of \texttt{Rterm} interface is now more robust, stable and user friendly.
+  \item An new resource \texttt{Check for update} was added to the main menu \texttt{Help}.
+  \item The development team would like to publicly thank \texttt{Marc Laurencelle} for the contributions and suggestions to Tinn-R project.
+  \item Tinn-R Team has two new members: \texttt{Philiphe A. Kramer} and \texttt{Swami de P. Lima}, welcome!
+\end{itemize}
