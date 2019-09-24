@@ -1,7 +1,30 @@
 
 \hypertarget{2019}{}
-\section{Versions released in 2019 (03)}
+\section{Versions released in 2019 (05)}
 \index{What is New?!2019}
+
+\subsection*{5.4.1.1 (to be released)}
+\begin{itemize}
+  \item We are looking for the maximum freedom and efficiency to interact with the R interpreter.
+    In this sense, improvements have been made to the \texttt{Rterm IO} interface and some of the restrictions
+    on editing inside of this interface (mainly related to last line or the prompt) have been removed.
+  \item From now, to send any line (or just one small selection) to the R interpreter, you must press the
+    \textbf{CTRL + ENTER} shortcut keys (not user configurable). \textit{It is not recommended to send selection of more than one line of code in this way}.
+  \item The \texttt{R history} can be viewed (and searched) in a new synEdit completion window. The shortcut (not user configurable) is \textbf{CTRL + ALT + SPACE}.
+  \item The \texttt{R highlighter} was improved, has new objects and from now it is case dependent, it is, it will highlighter, for example
+    \textbf{LETTERS, letters, CO2, co2, \ldots} in the same way.
+  \item Some parts of the Object Pascal \textbf{pipe} were rewritten.
+  \item From this version the instructions stored in \texttt{R history} are only those typed and submitted directly in the \texttt{Rterm IO} interface.
+  \item The highlighter identifier \texttt{Note} was renamed to \texttt{Note\_0}. It make more sense since it were created \texttt{Note\_1} and \texttt{Note\_2}
+    in previous version.
+\end{itemize}
+
+\subsection*{5.3.4.1 (apr/22/2019)}
+\begin{itemize}
+  \item Two new identifiers have been added to highlighters
+   \textbf{R} and \textbf{Text}: \texttt{Note\_1} and \texttt{Note\_2}.
+   They are useful to be used as differentiated marks (now in three levels) in scripts and texts.
+\end{itemize}
 
 \subsection*{5.3.3.1 (fev/25/2019)}
 \begin{itemize}

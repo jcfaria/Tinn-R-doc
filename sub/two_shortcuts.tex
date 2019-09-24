@@ -21,9 +21,10 @@ This section provides information about keyboard shortcuts.
   ALT  + PGDN            : LOG: set focus
   ALT  + RIGHT           : IO: set focus
   ALT  + UP              : R history: up (IO)
+  ALT  + CTRL + SPACE    : R history completion window (IO)
   CTRL + -               : Insert <-
   CTRL + +               : Insert ->
-  CTRL + ENTER           : Send any prior line (IO)
+  CTRL + ENTER           : Send any line or sel. (single line only) (IO)
   CTRL + F1              : Example on selected word*
   CTRL + F2              : Open example on selected word*
   CTRL + L               : Clear (IO)
@@ -418,13 +419,14 @@ This section provides information about keyboard shortcuts.
 \begin{Rtables}[caption={[Options menu keyboard shortcuts]
     Options menu keyboard shortcuts},
   label=menu:options]
+  CTRL  + ALT  + M        : Shortcuts/Keystrokes/hotkeys (map)
   ALT   + E               : R echo (on/off)
   CTRL  + ALT  + C        : Auto completion \verb{( [ { ' "}
   CTRL  + ALT  + N        : Enable notification
   CTRL  + ALT  + U        : Update silently
+  SHIFT + CTRL + N        : Selection: set to normal mode
   SHIFT + CTRL + C        : Selection: set to column mode
   SHIFT + CTRL + L        : Selection: set to line mode
-  SHIFT + CTRL + N        : Selection: set to normal mode
 \end{Rtables}
 % =============================================================================
 
@@ -484,6 +486,7 @@ This section provides information about keyboard shortcuts.
 % =============================================================================
 
 
+\newpage
 \subsubsection{View:}
 \index{keyboard shortcuts!view}
 
@@ -551,6 +554,7 @@ This section provides information about keyboard shortcuts.
 % =============================================================================
 
 
+\newpage
 \hypertarget{basic_card_alphabetical}{}
 \subsection{Alphabetical List of Keyboard Shortcuts}
 \index{keyboard shortcuts!alphabetical list}
@@ -567,6 +571,7 @@ This section provides information about keyboard shortcuts.
   ALT + A                 : Format
   ALT + B                 : Web
   ALT + C                 : Block comment
+  ALT + CTRL + SPACE      : R history completion window (IO)
   ALT + D                 : Window
   ALT + DOWN              : R history: down (IO)
   ALT + E                 : Edit
@@ -616,6 +621,7 @@ This section provides information about keyboard shortcuts.
   CTRL + ALT + I          : Compilation: Make index (makeindex)
   CTRL + ALT + K          : Special characters (show/hide)
   CTRL + ALT + L          : Line number (show/hide)
+  CTRL + ALT + M          : Shortcut/keystrokes/hotkeys (map)
   CTRL + ALT + N          : Enable notification
   CTRL + ALT + P          : Compilation: LaTeX to DVI (single)
   CTRL + ALT + S          : Mark block
@@ -627,8 +633,8 @@ This section provides information about keyboard shortcuts.
   CTRL + C                : Copy
   CTRL + E                : Refresh R environment
   CTRL + END              : End doc
-  CTRL + ENTER            : Send any prior line (IO)
-  CTRL + ENTER            : Send current line to R and insert a line break
+  CTRL + ENTER (Rterm IO) : Send any line or sel. (single line only) (IO)
+  CTRL + ENTER (Editor)   : Send current line to R and insert a line break
   CTRL + F                : Find
   CTRL + F1               : Example on selected word**
   CTRL + F2               : Open example on selected word*

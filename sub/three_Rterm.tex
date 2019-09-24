@@ -3,7 +3,7 @@
 \section{Rterm interface}
 \index{Rterm!interface}
 
-\begin{figure}[h!]
+\begin{figure}[H]
   \includegraphics[scale=0.35]{./res/rterm.png}\\
   \caption{Rterm interface.}
   \label{fig:rterm_interface}
@@ -73,7 +73,7 @@ order is:
 \index{Rterm!IO}
 \index{IO Interface}
 
-\begin{figure}[h!]
+\begin{figure}[H]
   \includegraphics[scale=0.35]{./res/rterm_io.png}\\
   \caption{IO (Rterm interface).}
   \label{fig:rterm_io}
@@ -139,9 +139,9 @@ Some details:
     \end{enumerate}
   \item The last line of the \textit{IO} interface (the prompt) has special features:
     \begin{enumerate}
-      \item It has some restrictions for edition and navigation;
+      \item \texttt{CTRL+ENTER} must be used to send any line or selection (single line only) to R interpreter;
       \item \texttt{ALT+DOWN} and \texttt{ALT+UP} are the shortcuts (prior/later)
-        for command history. The history is continuous, cyclic, and have a 100
+        for command R history. The R history is continuous, cyclic, and have a 100
         line limit.
     \end{enumerate}
 \end{itemize}
@@ -152,7 +152,7 @@ Some details:
 \index{Rterm!LOG}
 \index{LOG Interface}
 
- \begin{figure}[h!]
+ \begin{figure}[H]
   \includegraphics[scale=0.35]{./res/rterm_log.png}\\
   \caption{LOG (Rterm interface).}
   \label{fig:rterm_log}
