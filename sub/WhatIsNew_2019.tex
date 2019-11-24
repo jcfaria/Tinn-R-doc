@@ -3,20 +3,26 @@
 \section{Versions released in 2019 (05)}
 \index{What is New?!2019}
 
-\subsection*{5.4.1.1 (to be released)}
+\subsection*{6.1.1.1 (nov/12/2019)}
 \begin{itemize}
+  \item The handling of all shortcuts, keystrokes and hotkeys are now centered on a single user interface
+    that is much simpler and more efficient than previous options. As a result, a new menu option has been
+    created: \texttt{Options/Shortcuts/keystrokes/hotkeys (map)}. It was a very hard and time consuming work,
+    we hope you enjoy the end result.
   \item We are looking for the maximum freedom and efficiency to interact with the R interpreter.
-    In this sense, improvements have been made to the \texttt{Rterm IO} interface and some of the restrictions
-    on editing inside of this interface (mainly related to last line or the prompt) have been removed.
-  \item From now, to send any line (or just one small selection) to the R interpreter, you must press the
-    \textbf{CTRL + ENTER} shortcut keys (not user configurable). \textit{It is not recommended to send selection of more than one line of code in this way}.
+    Thus, improvements have been made to the \texttt{Rterm IO} interface and some of the restrictions
+    on editing inside of this interface.
+  \item From now on, to send any prior line (or just selections) to the R interpreter, you must press the
+    \textbf{CTRL + ENTER} shortcut keys (not user configurable). In the lateset line the user can use both: \textbf{ENTER} or \textbf{CTRL + ENTER}.
   \item The \texttt{R history} can be viewed (and searched) in a new synEdit completion window. The shortcut (not user configurable) is \textbf{CTRL + ALT + SPACE}.
-  \item The \texttt{R highlighter} was improved, has new objects and from now it is case dependent, it is, it will highlighter, for example
+  \item The \texttt{R highlighter} was improved, has new objects and, from now on, will be case dependent, that is, it will highlighter, for example,
     \textbf{LETTERS, letters, CO2, co2, \ldots} in the same way.
   \item Some parts of the Object Pascal \textbf{pipe} were rewritten.
-  \item From this version the instructions stored in \texttt{R history} are only those typed and submitted directly in the \texttt{Rterm IO} interface.
-  \item The highlighter identifier \texttt{Note} was renamed to \texttt{Note\_0}. It make more sense since it were created \texttt{Note\_1} and \texttt{Note\_2}
+  \item From this version the instructions stored in \texttt{R history} are only those typed in and submitted directly into \texttt{Rterm IO} interface.
+  \item The highlighter identifier \texttt{Note} was renamed to \texttt{Note\_0}. It makes more sense since \texttt{Note\_1} and \texttt{Note\_2} were created
     in previous version.
+  \item Due to low usage, all shortcuts (default) associated with Txt2tags to Deplate converters have been removed.
+  \item A new shortcut (default) has been associated with the option \texttt{Save file as: SHIFT+CTRL+S}.
 \end{itemize}
 
 \subsection*{5.3.4.1 (apr/22/2019)}
@@ -30,7 +36,7 @@
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
-      \item A bug associated to the procedure \texttt{Help/Check for update} and the prior
+      \item A bug associated with the procedure \texttt{Help/Check for update} and the prior
         \texttt{5.3.2.1 (fev/12/2019) portable} version was fixed.
     \end{itemize}
 \end{itemize}
@@ -39,7 +45,7 @@
 \begin{itemize}
   \item The recognition of complex R object names for \texttt{print}, \texttt{plot}, \texttt{names}
     \texttt{structure}, \texttt{edit}, \texttt{fix}, \texttt{help}, \texttt{example} and \texttt{open example}
-      were improved. For example, to all cases:
+      were improved. For example, for all cases:
     \begin{itemize}
       \item iris
       \item iris[1]
@@ -50,8 +56,8 @@
       \item iris[["Sepal.Length"]]
     \end{itemize}
     that it will be correctly recognized.
-  \item The \texttt{Replace} procedure was improved. From now it will remember, for all files, the same
-    word list used to replacement.
+  \item The \texttt{Replace} procedure was improved. From herefter, it will remember, for all files, the same
+    word list used for replacement.
   \item The \htmladdnormallink{Tinn-R web site}{https://nbcgib.uesc.br/tinnr/en/} was updated,
     the new URL is: \textbf{https://nbcgib.uesc.br/tinnr/en/}.
 \end{itemize}
@@ -59,26 +65,25 @@
 \subsection*{5.3.1.1 (jan/06/2019)}
 \begin{itemize}
   \item The status bar was redesigned.
-  \item The option \texttt{R send: line} have a new feature that allows the main editor to send sequential instructions
+  \item The option \texttt{R send: line} has a new feature that allows the main editor to send sequential instructions
     while the interpreter returns the signal +(plus) after each incomplete instruction. This option can be fast and easily switched in the status bar.
   \item A new option to send instructions to R interpreter is being implemented: \texttt{R send: smart}.
-    The goal is to simplify to begginer users to send complete instruction blocks when the cursor is located in a complex context:
-    Out of the first line of functions, instructions with several contiguous lines and similar situations.
-    The work is advanced, but not yet fully done. Because of that, this feature is disabled. If the user try to use/enable it, will get the message:
+    The goal is to simplify it for beginner users to send complete instruction blocks when the cursor is located in a complex context:
+    out of the first line of functions, instructions with several contiguous lines and similar situations.
+    The work is underway, but not yet fully done. Because of that, this feature is disabled. If the user try to use/enable it, he/she will get the message:
     \texttt{This feature is still in development.}
-  \item The interface \texttt{Hotkeys (operational system)} were simplified and improved. Additionally, the amount of customizable user actions
-    was increased to 20. On demand, this number can be easily increased.
-    Due to this changes, the previous hotkeys will be lost and it is necessary to recreate them from the new GUI.
+  \item The interface \texttt{Hotkeys (operational system)} was simplified and improved. Additionally, the number of customizable user actions increased to 20.
+   On demand, this number can be easily increased. Due to these changes, the previous hotkeys will be lost, recreating them from the new GUI is necessary.
   \item Excepting the source files of Project Description (\texttt{Tinn\_R.dpr} and \texttt{Tinn-R\_portable.dpr}),
    all source code files were unified. Therefore, from now on it became easier to compile and distribute the
-   \texttt{setup} e \texttt{portable} \texttt{Tinn-R\_X.X.X.X\_setup.exe} and \\
+   \texttt{setup} and \texttt{portable} \texttt{Tinn-R\_X.X.X.X\_setup.exe} and \\
    \texttt{Tinn-R\_X.X.X.X\_portable.zip} versions, respectively.
-   The custom support in PortableApps standards were completely removed.
-  \item From this version it is possible to use some special characters
+   The custom support in PortableApps standards was completely removed.
+  \item This version allows using some special characters
     (for example: \textbf{.aa}, \textbf{-bb}, \textbf{\_cc}, \textbf{~dd}, \textbf{?ee} \textbf{!ff} and \textbf{@gg}) as trigger to data completion.
     All triggers of the new HTML group begin with \textbf{'<'} character. It will give more flexibility to create completion to other languages.
-  \item The mechanism of completion was enhanced a bit. From now on it is more user friendly related to the indentation of the text in all supported languages.
+  \item The mechanism of completion was enhanced a bit. From now on it will be more user-friendly regarding to the indentation of the text in all supported languages.
   \item Corrections were made in the popup menu interfaces \texttt{Rterm} \texttt{IO} and \texttt{LOG}.
-  \item The option to donate to the project has changed. From now on it will be a bank account in the name of project coordinator.
+  \item The option to donate to the project has changed. Hereafter, it will be a bank account in the name of the project coordinator.
     \textbf{Please, do not use the PayPal account anymore}.
 \end{itemize}

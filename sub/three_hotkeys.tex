@@ -4,9 +4,9 @@
 \index{hotkeys}
 
 \begin{figure}[H]
-  \includegraphics[scale=0.36]{./res/hotkeys_send.png}
-  \includegraphics[scale=0.36]{./res/hotkeys_control.png}
-  \includegraphics[scale=0.36]{./res/hotkeys_custom.png}
+  \includegraphics[scale=0.36]{./res/skh_map_rh_send_dlg.png}
+  \includegraphics[scale=0.36]{./res/skh_map_rh_control_dlg.png}
+  \includegraphics[scale=0.36]{./res/skh_map_rh_custom_dlg.png}
   \caption{Hotkeys.}
   \label{fig:hotkeys}
 \end{figure}
@@ -26,11 +26,12 @@ is checked. The objective of these options (\textit{Inactive} and
 \textit{Active}) is to avoid conflict with others applications allowing
 to enable/disable the set of hotkeys quickly and easily.
 
-The \texttt{R/Hotkeys} interface was deeply reworked in the version 2.4.0.0 and it now has two tabs,
-\texttt{Default} and \texttt{Custom}:
+The \texttt{R/Hotkeys} interface was deeply reworked in the version 5.05.01.01 and it now has three tabs,
+\texttt{Send}, \texttt{Control} and \texttt{Custom}:
 
 \begin{itemize}
-\item \texttt{Default}: Contains the already traditional instructions of Tinn-R;
+\item \texttt{Send}: Contains the already traditional \texttt{Send} instructions of Tinn-R;
+\item \texttt{Custom}: Contains the already traditional \texttt{Control} instructions of Tinn-R;
 \item \texttt{Custom}: \textbf{Allows the user to customize any instructions} to be send to \RR{} interpreter (thanks to Philemon Lenherr for the suggestion). The instructions must be as follows:
  \begin{itemize}
  \item Simple: \texttt{search()}. The \RR{} interpreter will receive \texttt{$>$ search()};
@@ -42,3 +43,5 @@ The \texttt{R/Hotkeys} interface was deeply reworked in the version 2.4.0.0 and 
    All rules related to send file are preserved.
  \end{itemize}
 \end{itemize}
+
+Starting with version 5.05.01.01, the number of \texttt{Custom} statements the user can define is unlimited.

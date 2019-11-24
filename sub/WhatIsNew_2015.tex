@@ -5,7 +5,7 @@
 
 \subsection*{4.0.3.5 (jun/22/2015)}
 \begin{itemize}
-  \item Due to two portable versions (simple and compatible with Apps) were made some adjustments in the application source code and project structure.
+  \item Due to two portable versions (simple and compatible with Apps) some adjustments were made in the application source code and the project structure.
 \end{itemize}
 
 
@@ -13,15 +13,15 @@
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
-      \item A bug related to \texttt{Rterm interface (IO and LOG)} and the packages \texttt{car} and \texttt{rms} was fixed.
-        The origin of the bug is that when both packages are loaded they change the pattern of messages on the pipe.
+      \item A bug related to \texttt{Rterm interface (IO and LOG)} and to the packages \texttt{car} and \texttt{rms} was fixed.
+        The bug occurs because the pattern of messages on the pipe changes when both packages are loaded.
         Thanks to \texttt{Frank} for pointing it out.
-      \item A bug related to \texttt{Update R mirrors} and the countries \texttt{Germany, Spain and Sweden} was fixed.
+      \item A bug related to \texttt{Update R mirrors} and to the countries \texttt{Germany, Spain and Sweden} was fixed.
     \end{itemize}
-  \item The versions 4.0.3.1, 4.0.3.2 and 4.0.3.3 were restrict to testers: thanks for tests and suggestions.
-  \item From this version on, Tinn-R will be released in three flavours: \texttt{Tinn-R}, \texttt{Tinn-R Portable} and
+  \item The versions 4.0.3.1, 4.0.3.2 and 4.0.3.3 were restricted to testers: thanks for the tests and suggestions.
+  \item From this version on, Tinn-R will be released in three flavors: \texttt{Tinn-R}, \texttt{Tinn-R Portable} and
     compatible with \texttt{PortableApps platform}.
-  \item Some files of the folder \texttt{utils} were updated to meet with \texttt{Tinn-R Portable} project necessities.
+  \item Some files of the folder \texttt{utils} were updated to meet the \texttt{Tinn-R Portable} project needs.
     Therefore, the folder and paths of the R variable \texttt{.trPaths} were changed to \texttt{TEMP} environment variable.
   \item The \texttt{Help} menu was slightly changed.
   \item The \texttt{TinnRcom} package was updated to version 1.0.18.
@@ -32,10 +32,10 @@
 \begin{itemize}
   \item Bug(s) fixed:
     \begin{itemize}
-      \item A bug related to the recent release (\RR{} 3.2.0) and the installation of the necessary \texttt{TinnRcom} package were fixed.
+      \item A bug related to the recent release (\RR{} 3.2.0) and to the installation of the necessary \texttt{TinnRcom} package was fixed.
         Thanks to \texttt{Duncan Murdoch} for the support.
       \item The file \texttt{Rinstall.R} located at the folder \texttt{utils}, where Tinn-R is installed, was updated to suppress
-        the download of two packages (\texttt{Hmisc} and \texttt{R2Html}), no longer necessary to \texttt{TinnRcom} package.
+        the download of two packages (\texttt{Hmisc} and \texttt{R2Html}), which are no longer necessary to the \texttt{TinnRcom} package.
     \end{itemize}
   \item The \texttt{TinnRcom} package was updated to version 1.0.17.
 \end{itemize}
@@ -46,12 +46,12 @@
   \item Features Added:
     \begin{itemize}
       \item Drag and drop from \texttt{R explorer} to \texttt{Editor}.
-      \item An experimental Hex viewer (\htmladdnormallink{ATBinHex}{http://atviewer.sourceforge.net/atbinhex.htm}) was added to \texttt{Tools/Results/Hex viewer}. There is a bug related to UTF-8 BOM encoding file: the selection of (Char $\rightleftharpoons$ Hex), only in the first line, is not correctly associating the character with its corresponding Hex. It has its own pop-up menu with many (and useful) options.
+      \item An experimental Hex viewer (\htmladdnormallink{ATBinHex}{http://atviewer.sourceforge.net/atbinhex.htm}) was added to \texttt{Tools/Results/Hex viewer}. A bug is related to the UTF-8 BOM encoding file: the selection of (Char $\rightleftharpoons$ Hex), only in the first line, is not correctly associating the character with its corresponding Hex. It has its own pop-up menu with many (and useful) options.
       \item New resources to autocompletion related to: \verb|( [ { ' "| were added. If there is a selection, the new feature will respect that.
       \item A new option was added to \texttt{Options/Application/R/Rterm/Options (Rterm)}
-    enabling the user to choose if setwidth will be sent automatically when the panel width
+    enabling the user to choose if the setwidth will be sent automatically when the panel width
     or font size is changed.
-      \item A new option was added: \texttt{Project/Open demo}. The objective is to show to novice user what is a project and it's utility.
+      \item A new option was added: \texttt{Project/Open demo}. The objective is to show the novice user what is a project and it's utility.
       \item The main menu \texttt{Options} has three new options:
         \begin{itemize}
           \item Auto completion \verb|( [ { ' "| \texttt{CTRL + ALT + C}
@@ -64,33 +64,33 @@
     \begin{itemize}
       \item A bug related to Sumatra (PDF viewer) and User guide (PDF), location of topics, was fixed. If you have it installed,
         please upgrade to 3.1.1 or higher (\htmladdnormallink{SumatraPDF}{http://www.sumatrapdfreader.org/prerelease.html}).
-      \item \texttt{Rterm} is now entirely updated after any changes in \texttt{Options/Application} or
+      \item \texttt{Rterm} is now entirely updated after some changes in \texttt{Options/Application} or
         \texttt{Options/Highlighters (settings)}.
       \item A bug related to \texttt{line wrap} has been fixed: thanks to Frank for pointing it out.
       \item A bug related to character recognition of \texttt{Tools/Database/R/Mirrors} was fixed.
       \item A bug related to \texttt{Rterm/LOG} text highlighter was fixed.
       \item A bug related to \texttt{Page control files} and hints of files were fixed.
       \item Some bugs were fixed and it is more user friendly when the editor is in split mode.
-      \item Some bugs were fixed related to Hide/Show resources of \texttt{Tools panel}.
+      \item Some bugs related to Hide/Show resources of \texttt{Tools panel} were fixed.
     \end{itemize}
-  \item Pre-release versions 4.0.0.0 to 4.0.1.5 were restrict to testers: thanks for tests and sugestions.
+  \item The pre-release versions 4.0.0.0 to 4.0.1.5 were restricted to testers: thanks for the tests and sugestions.
   \item \texttt{Philipe Silva Farias} began to work in the project as co-author.
   \item An experimental file notification resource has been added to the project. The options are at \texttt{Options/Application/General}.
-  \item Prior backup (full or database) will not be compatible anymore from this version.
+  \item Prior backup (full or database) will no longer be compatible from this version on.
   \item A set of new icons was created specially to the project: thanks to \texttt{Philipe Silva Farias} for the hard work.
-  \item The visual identity of the project was changed: thanks to \texttt{Carolina Sartório Faria} for the work.
+  \item The visual identity of the project changed: thanks to \texttt{Carolina Sartório Faria} for the work.
   \item Some improvements were made in the \texttt{Options/Application} and this interface has new options now.
   \item The usability of Rterm interface was improved.
   \item The \texttt{URI highlighter} has now a new identifier named \texttt{Space}.
-  \item The default shortcut to alternate the focus among Editor, IO and LOG were changed.
+  \item The default shortcut to alternate the focus between Editor, IO and LOG was changed.
   \item The automatic recognition of hardware architecture (32 or 64 bit) was improved.
   \item The \texttt{project Jedi} used in the Tinn-R project was updated to the latest version.
     Some bugs related to Tools and Rterm panels and \texttt{Auto Hide} option were corrected.
   \item The list of recognized words of R highlighter family related to \texttt{plotting} has been updated.
     Thanks to \texttt{Berry Boessenkool} for pointing it out.
   \item The order of the objects was changed in \texttt{Tools/R/Explorer}. It has now a more natural order and hierarchy.
-  \item The available fonts family were restricted to \texttt{True Type} and \texttt{FixedPitchOnly}.
+  \item The available font family was restricted to \texttt{True Type} and \texttt{FixedPitchOnly}.
   \item It is now possible to open any URL from the Windows Opend Dialog: \texttt{File/Open}.
   \item Tinn-R Editor - GUI for R Language and Environment is a project under GPL and distributed as freeware.
-    Since creating and maintaining the project involve many costs, donations are welcome!
+    Since creating and maintaining the project involve many costs, donations are welcomed!
 \end{itemize}
