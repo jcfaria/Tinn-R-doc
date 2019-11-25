@@ -3,26 +3,33 @@
 \section{Versions released in 2019 (05)}
 \index{What is New?!2019}
 
-\subsection*{6.1.1.1 (nov/12/2019)}
+\subsection*{6.1.1.1 (nov/25/2019)}
 \begin{itemize}
+  \item Some parts of the Object Pascal \textbf{pipe} were rewritten. It is now more fast, estable and robust.
   \item The handling of all shortcuts, keystrokes and hotkeys are now centered on a single user interface
     that is much simpler and more efficient than previous options. As a result, a new menu option has been
     created: \texttt{Options/Shortcuts/keystrokes/hotkeys (map)}. It was a very hard and time consuming work,
     we hope you enjoy the end result.
   \item We are looking for the maximum freedom and efficiency to interact with the R interpreter.
-    Thus, improvements have been made to the \texttt{Rterm IO} interface and some of the restrictions
-    on editing inside of this interface.
-  \item From now on, to send any prior line (or just selections) to the R interpreter, you must press the
-    \textbf{CTRL + ENTER} shortcut keys (not user configurable). In the lateset line the user can use both: \textbf{ENTER} or \textbf{CTRL + ENTER}.
-  \item The \texttt{R history} can be viewed (and searched) in a new synEdit completion window. The shortcut (not user configurable) is \textbf{CTRL + ALT + SPACE}.
+    Thus, improvements have been made to the \texttt{Rterm IO} interface:
+    \begin{itemize}
+      \item From now on, to send any prior line (or just any selection) to the R interpreter, you must press the
+        \textbf{CTRL + ENTER} shortcut keys (not user configurable).
+      \item In the latest line the user can use both: a simple \textbf{ENTER} or \textbf{CTRL + ENTER} to send the current line.
+      \item The \texttt{R history} can be viewed (and filtered progressively as you type) in a new \texttt{SynEdit completion window}.
+        The shortcut (not user configurable) is \textbf{CTRL + ALT + SPACE}.
+    \end{itemize}
+  \item The option to send the clipboard content, with shortcut \textbf{CTRL + Q} by default, to \RR{} interpreter was removed.
   \item The \texttt{R highlighter} was improved, has new objects and, from now on, will be case dependent, that is, it will highlighter, for example,
     \textbf{LETTERS, letters, CO2, co2, \ldots} in the same way.
-  \item Some parts of the Object Pascal \textbf{pipe} were rewritten.
   \item From this version the instructions stored in \texttt{R history} are only those typed in and submitted directly into \texttt{Rterm IO} interface.
   \item The highlighter identifier \texttt{Note} was renamed to \texttt{Note\_0}. It makes more sense since \texttt{Note\_1} and \texttt{Note\_2} were created
     in previous version.
   \item Due to low usage, all shortcuts (default) associated with Txt2tags to Deplate converters have been removed.
   \item A new shortcut (default) has been associated with the option \texttt{Save file as: SHIFT+CTRL+S}.
+  \item From now on, the shortcut (not user configurable) \textbf{CTRL + ENTER} is associated to send line (or selection) from the Editor to the \RR{} interpreter.
+    The previous use (send the current line and insert a new one) was removed. This was an old request from users but we believe it is no longer used much.
+    Therefore, unless otherwise stated, we no longer wish to make this feature available.
 \end{itemize}
 
 \subsection*{5.3.4.1 (apr/22/2019)}
