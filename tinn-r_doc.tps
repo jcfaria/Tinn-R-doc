@@ -34,6 +34,7 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_threeWorkingWith.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_application_options.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_databases.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_editor.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_filetabs.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_find_replace.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_highlighters.tex
@@ -92,6 +93,7 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2016.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2018.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2019.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2020.tex
 \07. Appendix B
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\RManuals.tex
 \08. Appendix C
