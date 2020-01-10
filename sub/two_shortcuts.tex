@@ -14,27 +14,28 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[R interface keyboard shortcuts]
     R interface keyboard shortcuts},
   label=hotkey:rinterface]
-  ALT  + DOWN            : R history: down (IO)
-  ALT  + E               : R echo (on/off)
-  ALT  + L               : Clear (LOG)
-  ALT  + LEFT            : Editor: set focus
-  ALT  + PGDN            : LOG: set focus
-  ALT  + RIGHT           : IO: set focus
-  ALT  + UP              : R history: up (IO)
-  ALT  + CTRL + SPACE    : R history completion window (IO)
-  CTRL + -               : Insert <-
-  CTRL + +               : Insert ->
-  CTRL + ENTER           : Send line or selection (Editor and IO)
-  CTRL + F1              : Example on selected word*
-  CTRL + F2              : Open example on selected word*
-  CTRL + L               : Clear (IO)
-  CTRL + SPACE           : Tip after '(' and completion after '$'
-  CTRL + TAB             : Change seq. IO and LOG to the right**
-  CTRL + TIL             : Send current file to Sweave
-  SHIFT + CTRL + TAB     : Change seq. IO and LOG to the left**
-  F1                     : Help on selected word*
-  SHIFT + CTRL + B       : Clear (IO and LOG)
-  SHIFT + CTRL + F1      : R help (HTML)*
+  ALT  + DOWN         : R history: down (IO)
+  ALT  + E            : R echo (on/off)
+  ALT  + L            : Clear (LOG)
+  ALT  + LEFT         : Editor: set focus
+  ALT  + PGDN         : LOG: set focus
+  ALT  + RIGHT        : IO: set focus
+  ALT  + UP           : R history: up (IO)
+  ALT  + CTRL + SPACE : R history completion window (IO)
+  CTRL + -            : Insert <-
+  CTRL + +            : Insert ->
+  CTRL + DELETE       : Delete the pair of active (highlighted) brackets
+  CTRL + ENTER        : Send line or selection (Editor and IO)
+  CTRL + F1           : Example on selected word*
+  CTRL + F2           : Open example on selected word*
+  CTRL + L            : Clear (IO)
+  CTRL + SPACE        : Tip after '(' and completion after '$'
+  CTRL + TAB          : Change seq. IO and LOG to the right**
+  CTRL + TIL          : Send current file to Sweave
+  SHIFT + CTRL + TAB  : Change seq. IO and LOG to the left**
+  F1                  : Help on selected word*
+  SHIFT + CTRL + B    : Clear (IO and LOG)
+  SHIFT + CTRL + F1   : R help (HTML)*
   *  (requires an R session)
   ** (requires focus)
 \end{Rtables}
@@ -49,21 +50,21 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Visualization keyboard shortcuts]
     Visualization keyboard shortcuts},
   label=hotkey:visualization]
-  CTRL  + F8              : Tools: visible (show/hide)
-  CTRL  + F9              : R interface: visible (show/hide)
-  CTRL  + F10             : R interface: minimize
-  CTRL  + F11             : R interface: optimize
-  CTRL  + F12             : R interface: maximize
-  CTRL  + ALT  + G        : Gutter (show/hide)
-  CTRL  + ALT  + L        : Line number (show/hide)
-  CTRL  + ALT  + K        : Special characters (show/hide)
-  CTRL  + ALT  + V        : Tool bars: all (show/hide)
-  CTRL  + TAB             : Change seq. the active page
-                            (Editor, RTerm an Help) to the right*
-  CTRL  + SHIFT + TAB     : Change seq. the active page
-                            (Editor, RTerm an Help) to the left*
-  SHIFT + CTRL + +        : Increase font size**
-  SHIFT + CTRL + -        : Decrease font size**
+  CTRL  + F8          : Tools: visible (show/hide)
+  CTRL  + F9          : R interface: visible (show/hide)
+  CTRL  + F10         : R interface: minimize
+  CTRL  + F11         : R interface: optimize
+  CTRL  + F12         : R interface: maximize
+  CTRL  + ALT  + G    : Gutter (show/hide)
+  CTRL  + ALT  + L    : Line number (show/hide)
+  CTRL  + ALT  + K    : Special characters (show/hide)
+  CTRL  + ALT  + V    : Tool bars: all (show/hide)
+  CTRL  + TAB         : Change seq. the active page
+                        (Editor, RTerm an Help) to the right*
+  CTRL  + SHIFT + TAB : Change seq. the active page
+                        (Editor, RTerm an Help) to the left*
+  SHIFT + CTRL + +    : Increase font size**
+  SHIFT + CTRL + -    : Decrease font size**
   *  (requires more than one)
   ** (text within the main interface)
 \end{Rtables}
@@ -79,10 +80,10 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Navigation keyboard shortcuts]
     Navigation keyboard shortcuts},
   label=hotkey:navigation]
-  CTRL  + END             : End of a doc
-  CTRL  + HOME            : Beginning of a doc
-  END                     : End of a line
-  HOME                    : Beginning of a line
+  CTRL  + END  : End of a doc
+  CTRL  + HOME : Beginning of a doc
+  END          : End of a line
+  HOME         : Beginning of a line
 \end{Rtables}
 % =============================================================================
 
@@ -94,11 +95,11 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Search/Replace and go keyboard shortcuts]
     Search/Replace and go keyboard shortcuts},
   label=hotkey:search]
-  CTRL  + F               : Find
-  F3                      : Find again
-  SHIFT + CTRL + F        : Search in files
-  CTRL  + R               : Replace
-  CTRL  + G               : Go to line
+  CTRL  + F        : Find
+  F3               : Find again
+  SHIFT + CTRL + F : Search in files
+  CTRL  + R        : Replace
+  CTRL  + G        : Go to line
 \end{Rtables}
 % =============================================================================
 
@@ -111,15 +112,15 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Function keys]
     Function keys},
   label=hotkey:function]
-  F1                      : Help on selected word*
-  F2                      : List the structure of selected object*
-  F3                      : Find again
-  F7                      : Macro record
-  F8                      : Macro play
-  F9                      : Clear the R console*
-  F10                     : Close all graphic devices*
-  F11                     : Remove all objects*
-  F12                     : Clear all*
+  F1  : Help on selected word*
+  F2  : List the structure of selected object*
+  F3  : Find again
+  F7  : Macro record
+  F8  : Macro play
+  F9  : Clear the R console*
+  F10 : Close all graphic devices*
+  F11 : Remove all objects*
+  F12 : Clear all*
   * (requires an R session)
 \end{Rtables}
 % =============================================================================
@@ -134,25 +135,26 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Edition keyboard shortcuts]
     Edition keyboard shortcuts},
   label=hotkey:editions]
-  ALT   + C               : Block comment
-  ALT   + N               : Block uncomment (first ocurrence)
-  ALT   + Z               : Block uncomment (all ocurrence)
-  CTRL  + (               : Insert (or replace) (|)
-  CTRL  + )               : Insert (or replace) ()
-  CTRL  + A               : Select all
-  CTRL  + C               : Copy
-  CTRL  + END             : End doc
-  CTRL  + HOME            : Beginning of a doc
-  CTRL  + I               : Block indent
-  CTRL  + T               : Delete word
-  CTRL  + U               : Block unindent
-  CTRL  + V               : Paste
-  CTRL  + X               : Cut
-  CTRL  + Y               : Delete line
-  CTRL  + Z               : Undo
-  END                     : End of a line
-  HOME                    : Beginning of a line
-  SHIFT + CTRL + Z        : Redo
+  ALT   + C        : Block comment
+  ALT   + N        : Block uncomment (first ocurrence)
+  ALT   + Z        : Block uncomment (all ocurrence)
+  CTRL  + (        : Insert (or replace) (|)
+  CTRL  + )        : Insert (or replace) ()
+  CTRL  + A        : Select all
+  CTRL  + C        : Copy
+  CTRL  + DELETE   : Delete the pair of active (highlighted) brackets
+  CTRL  + END      : End doc
+  CTRL  + HOME     : Beginning of a doc
+  CTRL  + I        : Block indent
+  CTRL  + T        : Delete word
+  CTRL  + U        : Block unindent
+  CTRL  + V        : Paste
+  CTRL  + X        : Cut
+  CTRL  + Y        : Delete line
+  CTRL  + Z        : Undo
+  END              : End of a line
+  HOME             : Beginning of a line
+  SHIFT + CTRL + Z : Redo
 \end{Rtables}
 % =============================================================================
 
@@ -179,9 +181,9 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Project keyboard shortcuts]
     Project keyboard shortcuts},
   label=hotkey:project]
-  CTRL  + INS             : Add current file to selected group
-  SHIFT + CTRL + INS      : Add file(s) to selected group (with dialog)
-  DEL                     : Delete selected group or file
+  CTRL  + INS        : Add current file to selected group
+  SHIFT + CTRL + INS : Add file(s) to selected group (with dialog)
+  DEL                : Delete selected group or file
 \end{Rtables}
 % =============================================================================
 
@@ -194,11 +196,11 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[R script edition keyboard shortcuts]
     R script edition keyboard shortcuts},
   label=hotkey:rscript]
-  CTRL + -                : Insert <-
-  CTRL + -                : Insert <-  (numeric keypad)*
-  CTRL + +                : Insert ->
-  CTRL + +                : Insert ->  (numeric keypad)*
-  CTRL + *                : Insert tip (numeric keypad)*
+  CTRL + - : Insert <-
+  CTRL + - : Insert <-  (numeric keypad)*
+  CTRL + + : Insert ->
+  CTRL + + : Insert ->  (numeric keypad)*
+  CTRL + * : Insert tip (numeric keypad)*
   * (not configurable by user)
 \end{Rtables}
 % =============================================================================
@@ -213,12 +215,12 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Selection keyboard shortcuts]
     Selection keyboard shortcuts},
   label=hotkey:selection]
-  CTRL  + ALT  + S        : Mark block
-  CTRL  + ALT  + Z        : Unmark block
-  CTRL  + ALT  + X        : Unmark all
-  SHIFT + CTRL + C        : Selection: set to column mode
-  SHIFT + CTRL + L        : Selection: set to line mode
-  SHIFT + CTRL + N        : Selection: set to normal mode
+  CTRL  + ALT  + S : Mark block
+  CTRL  + ALT  + Z : Unmark block
+  CTRL  + ALT  + X : Unmark all
+  SHIFT + CTRL + C : Selection: set to column mode
+  SHIFT + CTRL + L : Selection: set to line mode
+  SHIFT + CTRL + N : Selection: set to normal mode
 \end{Rtables}
 % =============================================================================
 
@@ -248,9 +250,9 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Conversion and visualization keyboard shortcuts]
     Conversion and visualization keyboard shortcuts},
   label=hotkey:conversion]
-  SHIFT + CTRL + P       : Conversion: Pandoc*
-  SHIFT + CTRL + O       : Open current HTML files**
-  SHIFT + CTRL + U       : Open current file (generic)
+  SHIFT + CTRL + P : Conversion: Pandoc*
+  SHIFT + CTRL + O : Open current HTML files**
+  SHIFT + CTRL + U : Open current file (generic)
   *  (a universal document converter)
   ** (with system default browser)
 \end{Rtables}
@@ -267,20 +269,20 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Main menu keyboard shortcuts]
     Main Menu keyboard shortcuts},
   label=menu:main]
-  ALT + F                 : File
-  ALT + P                 : Project
-  ALT + E                 : Edit
-  ALT + A                 : Format
-  ALT + M                 : Marks
-  ALT + I                 : Insert
-  ALT + S                 : Search
-  ALT + O                 : Options
-  ALT + T                 : Tools
-  ALT + R                 : R
-  ALT + V                 : View
-  ALT + D                 : Window
-  ALT + B                 : Web
-  ALT + H                 : Help
+  ALT + F : File
+  ALT + P : Project
+  ALT + E : Edit
+  ALT + A : Format
+  ALT + M : Marks
+  ALT + I : Insert
+  ALT + S : Search
+  ALT + O : Options
+  ALT + T : Tools
+  ALT + R : R
+  ALT + V : View
+  ALT + D : Window
+  ALT + B : Web
+  ALT + H : Help
 \end{Rtables}
 % =============================================================================
 
@@ -293,14 +295,14 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[File menu keyboard shortcuts]
     File menu keyboard shortcuts},
   label=menu:file]
-  CTRL  + N               : New file
-  CTRL  + O               : Open file
-  CTRL  + P               : Print
-  CTRL  + S               : Save file
-  CTRL  + W               : Close file
-  SHIFT + CTRL + R        : Reload file
-  SHIFT + CTRL + S        : Save file as
-  SHIFT + CTRL + W        : Close all files
+  CTRL  + N        : New file
+  CTRL  + O        : Open file
+  CTRL  + P        : Print
+  CTRL  + S        : Save file
+  CTRL  + W        : Close file
+  SHIFT + CTRL + R : Reload file
+  SHIFT + CTRL + S : Save file as
+  SHIFT + CTRL + W : Close all files
 \end{Rtables}
 % =============================================================================
 
@@ -313,8 +315,8 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Project menu keyboard shortcuts]
     Project keyboard shortcuts},
   label=menu:project]
-  CTRL  + INS             : Add current file to selected group
-  SHIFT + CTRL + INS      : Add file(s) to selected group (with dialog)
+  CTRL  + INS        : Add current file to selected group
+  SHIFT + CTRL + INS : Add file(s) to selected group (with dialog)
 \end{Rtables}
 % =============================================================================
 
@@ -327,15 +329,16 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Edit menu keyboard shortcuts]
     Edit menu keyboard shortcuts},
   label=menu:edit]
-  CTRL + Z                : Undo
-  CTRL + SHIFT + Z        : Redo
-  CTRL + C                : Copy
-  CTRL + X                : Cut
-  CTRL + V                : Paste
-  CTRL + A                : Copy all
-  ALT  + C                : Block/line comment
-  ALT  + N                : Block/line uncomment first occurrence
-  ALT  + Z                : Block/line uncomment all occurrences
+  CTRL + Z         : Undo
+  CTRL + SHIFT + Z : Redo
+  CTRL + C         : Copy
+  CTRL + X         : Cut
+  CTRL + V         : Paste
+  CTRL + A         : Copy all
+  ALT  + C         : Block/line comment
+  ALT  + N         : Block/line uncomment first occurrence
+  ALT  + Z         : Block/line uncomment all occurrences
+  CTRL + DELETE    : Delete the pair of active (highlighted) brackets
 \end{Rtables}
 % =============================================================================
 
@@ -349,9 +352,9 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Format menu keyboard shortcuts]
     Format menu keyboard shortcuts},
   label=menu:format]
-  CTRL + F5               : Reformat R (file or selection)
-  CTRL + I                : Block indent
-  CTRL + U                : Block unindent
+  CTRL + F5 : Reformat R (file or selection)
+  CTRL + I  : Block indent
+  CTRL + U  : Block unindent
 \end{Rtables}
 % =============================================================================
 
@@ -381,10 +384,10 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Insert menu keyboard shortcuts]
     Insert menu keyboard shortcuts},
   label=menu:insert]
-  CTRL + -               : Insert <-
-  CTRL + +               : Insert ->
-  CTRL + J               : Completion
-  SHIFT + CTRL + I       : Insert dimensional element (LaTeX)
+  CTRL + -         : Insert <-
+  CTRL + +         : Insert ->
+  CTRL + J         : Completion
+  SHIFT + CTRL + I : Insert dimensional element (LaTeX)
 \end{Rtables}
 % =============================================================================
 
@@ -397,10 +400,10 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Search menu keyboard shortcuts]
     Search menu keyboard shortcuts},
   label=menu:search]
-  CTRL + F                : Search text
-  CTRL + G                : Go to
-  CTRL + R                : Replace text
-  F3                      : Search again
+  CTRL + F : Search text
+  CTRL + G : Go to
+  CTRL + R : Replace text
+  F3       : Search again
 \end{Rtables}
 % =============================================================================
 
@@ -413,14 +416,14 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Options menu keyboard shortcuts]
     Options menu keyboard shortcuts},
   label=menu:options]
-  CTRL  + ALT  + M        : Shortcuts/Keystrokes/hotkeys (map)
-  ALT   + E               : R echo (on/off)
-  CTRL  + ALT  + C        : Auto completion \verb{( [ { ' "}
-  CTRL  + ALT  + N        : Enable notification
-  CTRL  + ALT  + U        : Update silently
-  SHIFT + CTRL + N        : Selection: set to normal mode
-  SHIFT + CTRL + C        : Selection: set to column mode
-  SHIFT + CTRL + L        : Selection: set to line mode
+  CTRL  + ALT  + M : Shortcuts/Keystrokes/hotkeys (map)
+  ALT   + E        : R echo (on/off)
+  CTRL  + ALT  + C : Auto completion \verb{( [ { ' "}
+  CTRL  + ALT  + N : Enable notification
+  CTRL  + ALT  + U : Update silently
+  SHIFT + CTRL + N : Selection: set to normal mode
+  SHIFT + CTRL + C : Selection: set to column mode
+  SHIFT + CTRL + L : Selection: set to line mode
 \end{Rtables}
 % =============================================================================
 
@@ -434,18 +437,18 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Tools menu keyboard shortcuts]
     ToolsMenu keyboard shortcuts},
   label=menu:tools]
-  SHIFT + CTRL + Down     : Sort strings
-  SHIFT + CTRL + P        : Conversion: Pandoc*
-  SHIFT + CTRL + O        : Open current HTML files**
-  SHIFT + CTRL + U        : Open current file (generic)
-  CTRL  + ALT  + D        : Compilation: LaTeX to DVI (single)
-  CTRL  + ALT  + P        : Compilation: LaTeX to DVI (single)
-  SHIFT + CTRL + ALT + D  : Compilation: LaTeX to DVI (bibtex)
-  SHIFT + CTRL + ALT + P  : Compilation: LaTeX to PDF (bibtex)
-  CTRL  + ALT  + I        : Compilation: Make index (makeindex)
-  CTRL  + B               : Match bracket
-  F7                      : Macro/Record
-  F8                      : Macro/Play
+  SHIFT + CTRL + Down    : Sort strings
+  SHIFT + CTRL + P       : Conversion: Pandoc*
+  SHIFT + CTRL + O       : Open current HTML files**
+  SHIFT + CTRL + U       : Open current file (generic)
+  CTRL  + ALT  + D       : Compilation: LaTeX to DVI (single)
+  CTRL  + ALT  + P       : Compilation: LaTeX to DVI (single)
+  SHIFT + CTRL + ALT + D : Compilation: LaTeX to DVI (bibtex)
+  SHIFT + CTRL + ALT + P : Compilation: LaTeX to PDF (bibtex)
+  CTRL  + ALT  + I       : Compilation: Make index (makeindex)
+  CTRL  + B              : Match bracket
+  F7                     : Macro/Record
+  F8                     : Macro/Play
   *  (a universal document converter)
   ** (with system default browser)
 \end{Rtables}
@@ -460,16 +463,16 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[R menu keyboard shortcuts]
     R menu keyboard shortcuts},
   label=menu:r]
-  ALT  + L               : Clear (LOG)
-  ALT  + LEFT            : Editor: set focus
-  ALT  + PGDN            : LOG: set focus
-  ALT  + RIGHT           : IO: set focus
-  CTRL + F10             : R interface: minimize
-  CTRL + F11             : R interface: optimize
-  CTRL + F12             : R interface: maximize
-  CTRL + F9              : R interface: visible (show/hide)
-  CTRL + L               : Clear (IO)
-  SHIFT + CTRL + B       : Clear (IO and LOG)
+  ALT  + L         : Clear (LOG)
+  ALT  + LEFT      : Editor: set focus
+  ALT  + PGDN      : LOG: set focus
+  ALT  + RIGHT     : IO: set focus
+  CTRL + F10       : R interface: minimize
+  CTRL + F11       : R interface: optimize
+  CTRL + F12       : R interface: maximize
+  CTRL + F9        : R interface: visible (show/hide)
+  CTRL + L         : Clear (IO)
+  SHIFT + CTRL + B : Clear (IO and LOG)
 \end{Rtables}
 % =============================================================================
 
@@ -483,18 +486,18 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[View menu keyboard shortcuts]
     View menu keyboard shortcuts},
   label=menu:view]
-  ALT  + LEFT             : Editor: set focus
-  ALT  + PGDN             : LOG: set focus
-  ALT  + RIGHT            : IO: set focus
-  ALT  + W                : Editor: line wrap (show/hide)
-  CTRL + ALT + K          : Special characters (show/hide)
-  CTRL + ALT + L          : Line number (show/hide)
-  CTRL + ALT + V          : Tool bars: all (show/hide)
-  CTRL + F10              : R interface: minimize
-  CTRL + F11              : R interface: optimize
-  CTRL + F12              : R interface: maximize
-  CTRL + F8               : Tools: visible (show/hide)
-  CTRL + F9               : R interface: visible (show/hide)
+  ALT  + LEFT    : Editor: set focus
+  ALT  + PGDN    : LOG: set focus
+  ALT  + RIGHT   : IO: set focus
+  ALT  + W       : Editor: line wrap (show/hide)
+  CTRL + ALT + K : Special characters (show/hide)
+  CTRL + ALT + L : Line number (show/hide)
+  CTRL + ALT + V : Tool bars: all (show/hide)
+  CTRL + F10     : R interface: minimize
+  CTRL + F11     : R interface: optimize
+  CTRL + F12     : R interface: maximize
+  CTRL + F8      : Tools: visible (show/hide)
+  CTRL + F9      : R interface: visible (show/hide)
 \end{Rtables}
 % =============================================================================
 
@@ -508,7 +511,7 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Call tip keyboard shortcuts]
     Call tip keyboard shortcuts},
   label=shortcut:calltip]
-  CTRL + SPACE  : Tip after '(' and completion after '$'
+  CTRL + SPACE : Tip after '(' and completion after '$'
 \end{Rtables}
 % =============================================================================
 
@@ -522,7 +525,7 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Code completion keyboard shortcuts]
     Code completion keyboard shortcuts},
   label=shortcut:codecompletion]
-  CTRL + SPACE  : Tip after '(' and completion after '$'
+  CTRL + SPACE : Tip after '(' and completion after '$'
 \end{Rtables}
 % =============================================================================
 
@@ -536,8 +539,8 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[R explorer keyboard shortcuts]
     R explorer keyboard shortcuts},
   label=shortcut:rexplorer]
-  CTRL  + E               : Refresh R environment
-  SHIFT + CTRL + E        : Refresh R explorer or filter
+  CTRL  + E        : Refresh R environment
+  SHIFT + CTRL + E : Refresh R explorer or filter
 \end{Rtables}
 % =============================================================================
 
@@ -556,32 +559,32 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[ALT keyboard shortcuts]
     ALT Keyboard Shortcuts},
   label=shortcut:alt]
-  ALT + A                 : Format
-  ALT + B                 : Web
-  ALT + C                 : Block comment
-  ALT + CTRL + SPACE      : R history completion window (IO)
-  ALT + D                 : Window
-  ALT + DOWN              : R history: down (IO)
-  ALT + E                 : Edit
-  ALT + E                 : R echo (on/off)
-  ALT + F                 : File
-  ALT + H                 : Help
-  ALT + I                 : Insert
-  ALT + L                 : Clear (LOG)
-  ALT + LEFT              : Editor: set focus
-  ALT + M                 : Marks
-  ALT + N                 : Block uncomment (first occurrence)
-  ALT + O                 : Options
-  ALT + P                 : Project
-  ALT + PGDN              : LOG: set focus
-  ALT + R                 : R
-  ALT + RIGHT             : IO: set focus
-  ALT + S                 : Search
-  ALT + T                 : Tools
-  ALT + UP                : R history: up (IO)
-  ALT + V                 : View
-  ALT + W                 : Editor: line wrap (show/hide)
-  ALT + Z                 : Block uncomment (all occurrence)
+  ALT + A            : Format
+  ALT + B            : Web
+  ALT + C            : Block comment
+  ALT + CTRL + SPACE : R history completion window (IO)
+  ALT + D            : Window
+  ALT + DOWN         : R history: down (IO)
+  ALT + E            : Edit
+  ALT + E            : R echo (on/off)
+  ALT + F            : File
+  ALT + H            : Help
+  ALT + I            : Insert
+  ALT + L            : Clear (LOG)
+  ALT + LEFT         : Editor: set focus
+  ALT + M            : Marks
+  ALT + N            : Block uncomment (first occurrence)
+  ALT + O            : Options
+  ALT + P            : Project
+  ALT + PGDN         : LOG: set focus
+  ALT + R            : R
+  ALT + RIGHT        : IO: set focus
+  ALT + S            : Search
+  ALT + T            : Tools
+  ALT + UP           : R history: up (IO)
+  ALT + V            : View
+  ALT + W            : Editor: line wrap (show/hide)
+  ALT + Z            : Block uncomment (all occurrence)
 \end{Rtables}
 % =============================================================================
 
@@ -595,64 +598,65 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[CTRL keyboard shortcuts]
     CTRL keyboard shortcuts},
   label=shortcut:ctrl]
-  CTRL + -                : Insert <-
-  CTRL + -                : Insert <-  (numeric keypad)*
-  CTRL + (                : Insert (or replace) (|)
-  CTRL + )                : Insert (or replace) ()
-  CTRL + *                : Insert tip (numeric keypad)
-  CTRL + +                : Insert ->
-  CTRL + +                : Insert ->  (numeric keypad)*
-  CTRL + A                : Select all
-  CTRL + ALT + C          : Auto completion \verb{( [ { ' "}
-  CTRL + ALT + D          : Compilation: LaTeX to DVI (single)
-  CTRL + ALT + G          : Gutter (show/hide)
-  CTRL + ALT + I          : Compilation: Make index (makeindex)
-  CTRL + ALT + K          : Special characters (show/hide)
-  CTRL + ALT + L          : Line number (show/hide)
-  CTRL + ALT + M          : Shortcut/keystrokes/hotkeys (map)
-  CTRL + ALT + N          : Enable notification
-  CTRL + ALT + P          : Compilation: LaTeX to DVI (single)
-  CTRL + ALT + S          : Mark block
-  CTRL + ALT + U          : Update silently
-  CTRL + ALT + V          : Tool bars: all (show/hide)
-  CTRL + ALT + X          : Unmark all
-  CTRL + ALT + Z          : Unmark block
-  CTRL + B                : Match bracket
-  CTRL + C                : Copy
-  CTRL + E                : Refresh R environment
-  CTRL + END              : End doc
-  CTRL + ENTER            : Send line or selection (Editor and IO)
-  CTRL + F                : Find
-  CTRL + F1               : Example on selected word**
-  CTRL + F2               : Open example on selected word*
-  CTRL + F10              : R interface: minimize
-  CTRL + F11              : R interface: optimize
-  CTRL + F12              : R interface: maximize
-  CTRL + F5               : Reformat R (file or selection)
-  CTRL + F8               : Tools: visible (show/hide)
-  CTRL + F9               : R interface: visible (show/hide)
-  CTRL + G                : Go to line
-  CTRL + HOME             : Beginning doc
-  CTRL + I                : Block indent
-  CTRL + INS              : Add current file to selected group
-  CTRL + L                : Clear (IO)
-  CTRL + N                : New file
-  CTRL + NUMBER[0..9]     : Go to mark (no numeric keypad)
-  CTRL + O                : Open file
-  CTRL + P                : Print
-  CTRL + R                : Replace text
-  CTRL + S                : Save file
-  CTRL + SPACE            : Tip after '(' and completion after '$'
-  CTRL + T                : Delete word
-  CTRL + TAB              : Change seq. the active page
-                            (Editor, RTerm an Help) to the right ***
-  CTRL + TIL              : Send current file to Sweave
-  CTRL + U                : Block unindent
-  CTRL + V                : Paste
-  CTRL + W                : Close file
-  CTRL + X                : Cut
-  CTRL + Y                : Delete line
-  CTRL + Z                : Undo
+  CTRL + -            : Insert <-
+  CTRL + -            : Insert <-  (numeric keypad)*
+  CTRL + (            : Insert (or replace) (|)
+  CTRL + )            : Insert (or replace) ()
+  CTRL + *            : Insert tip (numeric keypad)
+  CTRL + +            : Insert ->
+  CTRL + +            : Insert ->  (numeric keypad)*
+  CTRL + A            : Select all
+  CTRL + ALT + C      : Auto completion \verb{( [ { ' "}
+  CTRL + ALT + D      : Compilation: LaTeX to DVI (single)
+  CTRL + ALT + G      : Gutter (show/hide)
+  CTRL + ALT + I      : Compilation: Make index (makeindex)
+  CTRL + ALT + K      : Special characters (show/hide)
+  CTRL + ALT + L      : Line number (show/hide)
+  CTRL + ALT + M      : Shortcut/keystrokes/hotkeys (map)
+  CTRL + ALT + N      : Enable notification
+  CTRL + ALT + P      : Compilation: LaTeX to DVI (single)
+  CTRL + ALT + S      : Mark block
+  CTRL + ALT + U      : Update silently
+  CTRL + ALT + V      : Tool bars: all (show/hide)
+  CTRL + ALT + X      : Unmark all
+  CTRL + ALT + Z      : Unmark block
+  CTRL + B            : Match bracket
+  CTRL + C            : Copy
+  CTRL + DELETE       : Delete the pair of active (highlighted) brackets
+  CTRL + E            : Refresh R environment
+  CTRL + END          : End doc
+  CTRL + ENTER        : Send line or selection (Editor and IO)
+  CTRL + F            : Find
+  CTRL + F1           : Example on selected word**
+  CTRL + F2           : Open example on selected word*
+  CTRL + F10          : R interface: minimize
+  CTRL + F11          : R interface: optimize
+  CTRL + F12          : R interface: maximize
+  CTRL + F5           : Reformat R (file or selection)
+  CTRL + F8           : Tools: visible (show/hide)
+  CTRL + F9           : R interface: visible (show/hide)
+  CTRL + G            : Go to line
+  CTRL + HOME         : Beginning doc
+  CTRL + I            : Block indent
+  CTRL + INS          : Add current file to selected group
+  CTRL + L            : Clear (IO)
+  CTRL + N            : New file
+  CTRL + NUMBER[0..9] : Go to mark (no numeric keypad)
+  CTRL + O            : Open file
+  CTRL + P            : Print
+  CTRL + R            : Replace text
+  CTRL + S            : Save file
+  CTRL + SPACE        : Tip after '(' and completion after '$'
+  CTRL + T            : Delete word
+  CTRL + TAB          : Change seq. the active page
+                        (Editor, RTerm an Help) to the right ***
+  CTRL + TIL          : Send current file to Sweave
+  CTRL + U            : Block unindent
+  CTRL + V            : Paste
+  CTRL + W            : Close file
+  CTRL + X            : Cut
+  CTRL + Y            : Delete line
+  CTRL + Z            : Undo
   * (not configurable by user)
   ** (requires an R session)
   *** (require more than one)
@@ -668,7 +672,7 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[DEL keyboard shortcut]
     DEL keyboard shortcut},
   label=shortcut:del]
-  DEL (Project)   : Delete selected group or file
+  DEL (Project) : Delete selected group or file
 \end{Rtables}
 % =============================================================================
 
@@ -681,7 +685,7 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[END keyboard shortcut]
     END keyboard shortcut},
   label=shortcut:end]
-  END             : End line
+  END : End line
 \end{Rtables}
 % =============================================================================
 
@@ -694,15 +698,15 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[Function + keyboard shortcuts]
     Function + keyboard shortcuts},
   label=shortcut:funplus]
-  F1      : Help on selected word*
-  F2      : List structure of selected object*
-  F3      : Find again
-  F7      : Macro record
-  F8      : Macro play
-  F9      : Clear the R console*
-  F10     : Close all graphic devices*
-  F11     : Remove all objects*
-  F12     : Clear all*
+  F1  : Help on selected word*
+  F2  : List structure of selected object*
+  F3  : Find again
+  F7  : Macro record
+  F8  : Macro play
+  F9  : Clear the R console*
+  F10 : Close all graphic devices*
+  F11 : Remove all objects*
+  F12 : Clear all*
   * (requires an R session)
 \end{Rtables}
 % =============================================================================
@@ -716,7 +720,7 @@ This section provides information about application shortcuts.
 \begin{Rtables}[caption={[HOME keyboard shortcut]
     HOME keyboard shortcut},
   label=shortcut:home]
-  HOME    : Beginning line
+  HOME : Beginning line
 \end{Rtables}
 % =============================================================================
 
