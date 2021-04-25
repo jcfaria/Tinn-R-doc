@@ -94,6 +94,7 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2018.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2019.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2020.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2021.tex
 \07. Appendix B
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\RManuals.tex
 \08. Appendix C

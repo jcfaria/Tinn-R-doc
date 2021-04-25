@@ -359,7 +359,7 @@ R and Tinn-R.
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    Set work directory (current file path) & Sets the work directory of the R interpreter to the current file path \\
+    Work directory (get/set) &  \textit{\htmladdnormallink{See options ...}{\#menu\_r\_control\_workdir}} \\
     List all objects & Sends to R interpreter a \texttt{ls()} instruction \\
     Print content (selected) & Sends to R interpreter a \texttt{selected} word \\
     List names (selected) & Sends to R interpreter a \texttt{names(selected)} instruction \\
@@ -383,6 +383,25 @@ R and Tinn-R.
 
 
 \newpage
+\hypertarget{menu_r_control_workdir}{}
+\subsubsection{Work directory}\\
+\index{Work directory}
+\index{getwd()}
+\index{setwd()}
+\index{R menu!work directory}
+
+\includegraphics[scale=0.50]{./res/menu_r_control_workdir.png}\\
+
+\begin{scriptsize}\begin{tabularx}{\headwidth}{>{\hsize=0.2\hsize}X>{\hsize=0.7\hsize}X}\\
+    \hline
+    \textbf{Option} & \textbf{Description} \\
+    \hline
+    Get (current) & Get the work directory of the R interpreter \\
+    Set (to current file path) & Set the work directory of the R interpreter to the current file path \\
+    Set (choose) & Set the work directory of the R interpreter allowing to choose from the Windows dialog \\
+    \hline
+  \end{tabularx}\end{scriptsize}
+
 \hypertarget{menu_r_control_packages}{}
 \subsubsection{Packages}\\
 \index{R menu!control packages}
