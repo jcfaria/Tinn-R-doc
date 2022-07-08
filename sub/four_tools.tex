@@ -5,22 +5,24 @@
 
 \includegraphics[scale=0.50]{./res/menu_tools.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.2\hsize}X>{\hsize=0.8\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.2\hsize}X>{\hsize=0.8\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    Processing & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing}} \\
-    Database & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_database}} \\
-    Backup & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_backup}} \\
-    Restore & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_restore}} \\
-    Macro & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_macro}} \\
+    Processing & \textit{\href{\#menu\_tools\_processing}{See options ...}} \\
+    Database & \textit{\href{\#menu\_tools\_database}{See options ...}} \\
+    Backup & \textit{\href{\#menu\_tools\_backup}{See options ...}} \\
+    Restore & \textit{\href{\#menu\_tools\_restore}{See options ...}} \\
+    Macro & \textit{\href{\#menu\_tools\_macro}{See options ...}} \\
     ASCII chart & Allows you to insert an active char to the active document \\
     Differences & Opens the nice TextDiff command by Angus Johnson integrated within Tinn-R \\
-    Spell & Starts the speller (\htmladdnormallink{see instructions ...}{\#working\_tools\_spell}) \\
-    Sort & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_sort}} \\
+    Spell & Starts the speller (\href{\#working\_tools\_spell}{see instructions ...}) \\
+    Sort & \textit{\href{\#menu\_tools\_sort}{See options ...}} \\
     Count & Shows the result of the count action (words, characters + spaces, character - spaces and spaces) for files or a text selection \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 \hypertarget{menu_tools_processing}{}
 \subsection{Processing}
@@ -28,16 +30,22 @@
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    Conversion & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_conversion}} \\
-    Compilation (LaTeX) & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_conversion\_compilation}} \\
-    Viewer & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_viewer}} \\
+    Conversion & \textit{\href{\#menu\_tools\_processing\_conversion}{See options ...}} \\
+    \LaTeX ~set main (file) & Set the current file as the main file for operations associated with \LaTeX* \\
+    Compilation (\LaTeX) & \textit{\href{\#menu\_tools\_processing\_conversion\_compilation}{See options ...}} \\
+    Viewer & \textit{\href{\#menu\_tools\_processing\_viewer}{See options ...}} \\
     \hline
-  \end{tabularx}\end{scriptsize}
-
+  \end{tabularx}
+\end{scriptsize}
+*: When there are two main file indications for \LaTeX ~(one in the project and the other in the main
+interface for any file), the option from within the project takes precedence, that is, it is mandatory.
+\index{LaTeX!main file}
+\index{LaTeX!set the main file}
 
 \newpage
 \hypertarget{menu_tools_processing_conversion}{}
@@ -46,15 +54,17 @@
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_conversion.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    Deplate to & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_conversion\_deplate}} \\
-    Pandoc & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_conversion\_pandoc}} \\
-    Txt2tags to & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_conversion\_txt2tags}} \\
+    Deplate to & \textit{\href{\#menu\_tools\_processing\_conversion\_deplate}{See options ...}} \\
+    Pandoc & \textit{\href{\#menu\_tools\_processing\_conversion\_pandoc}{See options ...}} \\
+    Txt2tags to & \textit{\href{\#menu\_tools\_processing\_conversion\_txt2tags}{See options ...}} \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 \hypertarget{menu_tools_processing_conversion_deplate}{}
 \subsubsection{Deplate to}\\
@@ -62,12 +72,13 @@
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_conversion_deplate.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.6\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.6\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    LaTeX & Converts a Deplate file to LaTeX \\
-    LaYeX-dramatist & Converts a Deplate file to LaTeX-dramatist \\
+    \LaTeX & Converts a Deplate file to \LaTeX \\
+    LaTeX-dramatist & Converts a Deplate file to LaTeX-dramatist \\
     Sweave & Converts a Deplate file to Sweave \\
     Plain & Converts a Deplate file to Plain \\
     HTML & Converts a Deplate file to HTML \\
@@ -80,9 +91,10 @@
     Dbk-book & Converts a Deplate file to Dbk-book \\
     Dbk-ref & Converts a Deplate file to Dbk-ref \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
-Tip: \htmladdnormallink{see details ...}{http://deplate.sourceforge.net/Output.html}
+Tip: \href{http://deplate.sourceforge.net/Output.html}{see details ...}
 
 
 \newpage
@@ -91,7 +103,7 @@ Tip: \htmladdnormallink{see details ...}{http://deplate.sourceforge.net/Output.h
 
 \includegraphics[scale=.50]{./res/pandoc.png}
 
-Tip: \htmladdnormallink{see details ...}{http://johnmacfarlane.net/pandoc/index.html}
+Tip: \href{http://johnmacfarlane.net/pandoc/index.html}{see details ...}
 
 
 \newpage
@@ -101,11 +113,12 @@ Tip: \htmladdnormallink{see details ...}{http://johnmacfarlane.net/pandoc/index.
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_conversion_txt2tags.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    LaTeX & Converts a Txt2tags file into LaTeX \\
+    \LaTeX & Converts a Txt2tags file into \LaTeX \\
     Sweave & Converts a Txt2tags file into Sweave \\
     Txt & Converts a Txt2tags file into txt \\
     HTML & Converts a Txt2tags file into HTML \\
@@ -120,30 +133,33 @@ Tip: \htmladdnormallink{see details ...}{http://johnmacfarlane.net/pandoc/index.
     Magic point & Converts a Txt2tags file into Magic point \\
     Page maker & Converts a Txt2tags file into Page maker \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
-Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
+Tip: \href{http://txt2tags.sourceforge.net/}{see details ...}
 
 
 \hypertarget{menu_tools_processing_conversion_compilation}{}
-\subsubsection{Compilation (LaTeX)}\\
+\subsubsection{Compilation (\LaTeX)}\\
 \index{tools menu!compilation}
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_compilation.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.5\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.5\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
     Always shows console minimized when compiling & When this option is set the DOS console will be minimized when compiling \\
-    DVI (single) & Compiles a LaTeX file to DVI in single way \\
-    DVI (bibtex) & Compiles a LaTeX file to DVI in bibtex way (three compilation) \\
-    PDF (single) & Compiles a LaTeX file to PDF in single way \\
-    PDF (bibtex) & Compiles a LaTeX file to PDF in bibtex way (three compilation) \\
+    DVI (single) & Compiles a \LaTeX ~file to DVI in single way \\
+    DVI (bibtex) & Compiles a \LaTeX ~file to DVI in bibtex way (three compilation) \\
+    PDF (single) & Compiles a \LaTeX ~file to PDF in single way \\
+    PDF (bibtex) & Compiles a \LaTeX ~file to PDF in bibtex way (three compilation) \\
     Make index (makeindex) \\
-    LaTeX clear (waste) \\
+    \LaTeX ~clear (waste) \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_processing_viewer}{}
@@ -152,16 +168,18 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_viewer.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
-    DVI  & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_viewer\_DVI}} \\
-    PDF  & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_viewer\_pdf}} \\
-    HTML & \textit{\htmladdnormallink{See options ...}{\#menu\_tools\_processing\_viewer\_html}} \\
+    DVI  & \textit{\href{\#menu\_tools\_processing\_viewer\_DVI}{See options ...}} \\
+    PDF  & \textit{\href{\#menu\_tools\_processing\_viewer\_pdf}{See options ...}} \\
+    HTML & \textit{\href{\#menu\_tools\_processing\_viewer\_html}{See options ...}} \\
     Open current file (generic) \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_processing_viewer_DVI}{}
@@ -170,14 +188,16 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_viewer_dvi.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.7\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.7\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
     Open always after compilation (option) & When this option is set the DVI file will be opened by the viewer after the compilation \\
     Open file & Shows the \textit{Windows Open dialog} to select a DVI file to be opened by the viewer \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_processing_viewer_pdf}{}
@@ -186,14 +206,16 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_viewer_pdf.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.7\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.7\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
     Open always after compilation (option) & When this option is set the PDF file will be opened by the viewer after the compilation \\
     Open file & Shows the \textit{Windows Open dialog} to select a DVI file to be opened by the viewer \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_processing_viewer_html}{}
@@ -202,7 +224,8 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_processing_viewer_html.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.7\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.7\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
@@ -210,7 +233,8 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
     Open current file & Opens the current HTML file with the viewer \\
     Open file & Shows the \textit{Windows Open dialog} to select a HTML file to be opened by the viewer \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_database}{}
@@ -219,7 +243,8 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_database.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
@@ -229,7 +254,8 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
     Card (R) & Shows R card database (XML based) dialog \\
     Mirrors (R) & Shows R mirrors database (XML based) dialog \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_backup}{}
@@ -238,14 +264,16 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_backup.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
     System configuration & Backups Tinn-R configuration (ini files) \\
     Database & Backups database (Cachexml, Comments.xml, Completions.xml, Rcard.xml, Rmirrors.xml and Shortcuts.xml) \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_restore}{}
@@ -254,14 +282,16 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_restore.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
     System configuration & Restores a prior Tinn-R backup (ini files) \\
     Database & Restores a prior database backup (Cachexml, Comments.xml, Completions.xml, Rcard.xml, Rmirrors.xml and Shortcuts.xml) \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 
 \hypertarget{menu_tools_macro}{}
@@ -270,14 +300,16 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_macro.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
     Record & Toggles macro recording on and off. Note that when recording a macro the button changes \\
     Play & Plays a previous recorded macro \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 \textbf{It is not possible to save/edit macros, they are temporary}
 
@@ -288,7 +320,8 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
 
 \includegraphics[scale=0.50]{./res/menu_tools_sort.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
@@ -296,6 +329,7 @@ Tip: \htmladdnormallink{see details ...}{http://txt2tags.sourceforge.net/}
     Numbers & Sorts numbers \\
     Dates & Sorts dates \\
     \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}
 
 \textbf{Sort works on the entire document unless some text is selected}

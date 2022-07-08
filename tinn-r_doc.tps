@@ -1,19 +1,19 @@
-\00a. main
+\00a. MAIN
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\eBook.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\User_guide.tex
-\00b. sty
+\00b. STY
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sty\EditusColors.sty
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sty\EditusFonts.sty
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sty\EditusHyperref.sty
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sty\EditusMemoir.sty
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sty\EditusPackages.sty
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sty\EditusSweave.sty
-\00c. sub_ug
+\00c. SUB_UG
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub_ug\aaaDedication.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub_ug\aaaFrontCover.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub_ug\aaaTitle.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub_ug\zzzBackCover.tex
-\00d. aaa
+\00d. AAA
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\aaaBookSeries.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\aaaCopyright.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\aaaCredits.tex
@@ -23,14 +23,14 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\aaaListOfTables.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\aaaPreface.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\aaaTableOfContents.tex
-\01. Overview
-  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\oneOverview.tex
-\02. Basics
+\01. OVERVIEW
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_oneOverview.tex
+\02. BASICS
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_twoBasics.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\two_configuration.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\two_faq.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\two_shortcuts.tex
-\03. Working With
+\03. WORKING WITH
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_threeWorkingWith.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_application_options.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_databases.tex
@@ -48,7 +48,7 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_shortcuts.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_tools.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_toolsbar.tex
-\04. Menu Descrition
+\04. MENU DESCRITION
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_fourMenuDescription.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\four_edit.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\four_file.tex
@@ -64,7 +64,7 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\four_view.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\four_web.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\four_window.tex
-\05. Some Secrets for an Efficiente Use
+\05. SECRETS FOR AN EFFICIENTE USE
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_fiveSecrets.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\five_after_installation.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\five_application_options.tex
@@ -77,7 +77,7 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\five_split.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\five_tools.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\five_visibility.tex
-\06. Appendix A
+\06. APPENDIX A
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_WhatIsNew.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2004.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2005.tex
@@ -95,15 +95,226 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2019.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2020.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2021.tex
-\07. Appendix B
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2022.tex
+\07. APPENDIX B
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\RManuals.tex
-\08. Appendix C
+\08. APPENDIX C
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\gpl3.tex
-\09. zzz
+\09. ZZZ
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\zzzAuthors.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\zzzBackCover.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\zzzBibliography.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\zzzCrossRefs.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\zzzGlossary.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\zzzIndex.tex
-\generic group*
+\10.RES
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\1_19_1_13.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\1_19_2_1.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\1_19_2_3.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_editor_advanced.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_editor_display.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_editor_encoding.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_main_appearance.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_main_dock.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_main_files.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_main_general.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_conversion_deplate.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_conversion_more.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_conversion_pandoc.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_conversion_txt2tags.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_latex_dvi.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_latex_more.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_processing_latex_pdf.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_basic.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_installed.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_packages.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_packages_formatr.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_packages_knitr.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_packages_library.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_packages_svsocket.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_packages_tinnrcom.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_pathandoptions.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_resources.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_rgui_options.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_rgui_recognition.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_rterm_error.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\app_r_rterm_options.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\comments_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_01.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_02.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_03.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_04.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_05.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_06.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_07.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_08.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\completion_howto_09.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\donation.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\download_sf_2019.01.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\encoding.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\eol.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\filetabs.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\filetabs_menu.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\find.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\focus.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\general.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\highlighter_settings.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\marks.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_edit.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_file.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_file_copyfullpathtoclipboard.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_file_template.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_file_template_rdoc.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_fontsize_generic.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format_encoding.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format_eol.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format_formatr.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format_selection.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format_utf8.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_format_word.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_help.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_help_conversion.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert_latex.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert_latex_font.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert_latex_format.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert_latex_header.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert_latex_math.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_insert_r_assignment.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_marks.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_marks_block.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_options.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_options_selectionmode.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_options_syntax.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_options_syntax_default.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_options_syntax_set.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_project.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_project_file.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_project_group.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_project_project.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_control.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_control_packages.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_control_workdir.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_clear.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_file_IOandLog.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_focus.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_highlighter.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_highlighter_io.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_highlighter_log.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_history.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_IOandLog.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_linewrap.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_size.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_split.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_rterm_workspace.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_send.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_send_knitr.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_r_startcloseandconections.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_search.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_backup.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_database.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_macro.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_compilation.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_conversion.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_conversion_deplate.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_conversion_txt2tags.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_viewer.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_viewer_dvi.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_viewer_html.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_processing_viewer_pdf.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_restore.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_tools_sort.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_font.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_linewrap.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_r.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_r_rterm.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_split.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tabs.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tabs_files.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tabs_rterm.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tabs_tools.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_resources.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_resources_database.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_resources_markup.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_resources_misc.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_resources_r.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_resources_results.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_tools_size.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_view_toolsbar.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_processing.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_rguis.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_rinformation.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_rsearch.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_rsearch_nabble.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_rsearch_selected.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_statistics.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_statistics_virtuallabs.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_web_tinnr.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\menu_window.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\mirrors_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\pandoc.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\parts_01.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\parts_02.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\projects_files_groups.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\projects_open_demo.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\projects_text_mode.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\rcard_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\replace.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\rterm.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\rterm_io.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\rterm_log.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\searchinfiles.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\secrets_connecting.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\secrets_macro.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\secrets_rtoolbar.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\secrets_sendline.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\secrets_spell.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\selection_column.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\selection_line.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\selection_normal.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\shortcuts_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\skh_map_keystrokes_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\skh_map_rh_control_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\skh_map_rh_custom_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\skh_map_rh_send_dlg.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\skh_map_shortcuts.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\status_bar.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\status_bar_off.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\sumatra.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_comments.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_completion.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_keystrokes.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_rh_control.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_rh_custom.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_rh_send.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_database_shortcuts.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_markup_latex_arrows.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_markup_txt2tags_marks.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_misc_project.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_misc_windowsexpl.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_misc_workexpl.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_r_card.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_r_explorer.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_r_mirrors.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_results_hex.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_results_inilog.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_results_search.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\tools_spell.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\toolsbar.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\toolsbar_pmenu.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\txt2tags.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\windows_mark_01.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\windows_mark_02.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\windows_mark_03.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\yap_01.png
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\res\yap_02.png
+\zzz_group*

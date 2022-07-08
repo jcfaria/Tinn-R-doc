@@ -1,7 +1,171 @@
 
 \hypertarget{2021}{}
-\section{Versions released in 2021 (06)}
+\section{Versions released in 2021 (15)}
 \index{What is New?!2021}
+
+\subsection*{8.1.3.5 (jun/22/2021)}
+\begin{itemize}
+  \item Bug(s) fixed: 
+    \begin{itemize}
+      \item A bug associated to the \texttt{completion resource} with content longer than one line 
+        (eg: \texttt{ma}, \texttt{iec}, etc)
+        has been fixed. This bug was accidentally introduced in previous version 8.1.3.4.
+      \item A bug associated to the interface \texttt{Tools/R/Explorer} and the \texttt{package dplyr} was fixed.
+      \item A bug associated to error message \texttt{baseenv()} from R flavors MRO and R-devel was fixed.
+        This bug was associated to the package svMisc. Thanks to SciViews Team.
+    \end{itemize}
+  \item The toolbar of the \texttt{Tools/Project} interface has been redesigned.
+  \item The \texttt{Tools/R/Explorer} interface has the default option, from now on, not to display all objects.
+    That is, hidden objects from the environment (\texttt{.object}) are not shown.
+  \item A new updated version (1.0.22) of the \texttt{TinnRcom} package is being distributed with this version 
+    of the project.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.3.4 (jun/01/2021)}
+\begin{itemize}
+  \item The project's old web page (\texttt{https://nbcgib.uesc.br/tinnr/en/}) has been permanently
+    removed.
+  \item The demo project files were updated.
+  \item The files in the \texttt{utils} folder have been updated. As a result, the versions of
+    packages that the TinnRcom package depends on are checked at R startup and will be updated
+    whenever necessary.
+  \item Balthazar Mattos Farnese started working on the project as a contributor responsible
+    for the project's web page and email server. Welcome Balthazar.
+  \item Some improvements and refinements have been made in the previous version 8.1.3.3.
+		\item Automatic indentation (after carriage return) during editing has been considerably
+    improved in this version; it was hard work. If you notice any inconsistencies,
+    please prepare a small sample file and send detailed information to be corrected.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.3.3 (mai/10/2021)}
+\begin{itemize}
+  \item Improvements were made to the \texttt{Tools/Markup/LaTeX} interface.
+  \item Improvements have been made to the \texttt{demo project}.
+  \item Improvements have been made to the recently implemented features that enable you to
+    mark a \LaTeX ~file (\texttt{.tex}) as the main (root), both in the main interface and in
+    the projects.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.3.2 (mai/09/2021)}
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Bugs associated with some templates were fixed.
+    \end{itemize}
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.3.1 (mai/08/2021)}
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item A bug associated with automatic updating (\texttt{menu/Help/Check for update}) was fixed. 
+        The origin of the bug was the exchange of the NBCGIB project server for Digital Ocean and the 
+        differentiated security standards.
+      \item A bug associated with the position of the code completion (or tips) window when two monitors
+        are used has been fixed.
+    \end{itemize}
+  \item All dialogs for choosing folders (Updater, R choose dir, etc.) have been improved 
+    due to the use of the most modern Windows API.
+  \item The elements of the \texttt{Tools/LaTeX} interface have been updated and improved.
+    The \texttt{LaTeX\_symbols.tex} file was added to the demo project and the corresponding
+    \texttt{LaTeX\_symbols.pdf} file was added to the \textbf{doc} folder where the application
+    was installed.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.2.10 (mai/03/2021)}
+\begin{itemize}
+  \item A new option has been added that enables the user  
+    \textbf{to sets the main \LaTeX ~file}. Thus, he can be editing in any
+    file that, when compiling (generate the PDF or DVI), the instruction will be sent correctly
+    for the compiler. This new feature speeds up the process of creating files (PDF and DVI) 
+    as the user does not need to navigate to the main file each time to submit 
+    to the compilation. The feature is functional for all options
+    associated with compilation (.pdf, .dvi, makeindex and bibitex). This resource is volatile
+    with each session and project, that is, it is not stored with the project information.
+  \item When there are two main file indications for \LaTeX ~(one in the \textbf{project} and the
+    other in the \textbf{main interface} for any file), this option, from within the project, 
+    takes precedence, that is, it is mandatory.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.2.9 (mai/02/2021)}
+\begin{itemize}
+  \item Tinn-R is enabled (for many years) to do reverse search in DVI and PDF. 
+    However, only the reverse search in DVI was documented, as it had been used 
+    in large projects (books) written in \LaTeX. ~Recently working on a book directly
+    from \LaTeX ~to PDF, the feature was tested and documented in the user guide.
+    The feature is fully functional as long as the correct directive is used: 
+    \textbf{pdflatex -c-style-errors --synctex=1}.
+  \item A new project-related option has been added that enables the user  
+    \textbf{to sets the main \LaTeX ~project file}. Thus, he can be editing in any project
+    file that, when compiling (generate the PDF or DVI), the instruction will be sent correctly
+    for the compiler. This new feature speeds up the process of creating files (PDF and DVI) 
+    as the user does not need to navigate to the main file each time to submit the project 
+    to the compilation. For projects with many files, this feature (already present in more 
+    specialized \LaTeX ~editors) makes work much easier. The feature is functional for all options
+    associated with compilation (.pdf, .dvi, makeindex and bibitex). This resource is volatile
+    with each session and project, that is, it is not stored with the project information.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.2.8 (apr/28/2021)}
+\begin{itemize}
+  \item Bug(s) fixed:
+    \begin{itemize}
+      \item Version 8.1.2.7, due to the detection of two serious bugs, accidentally
+        inserted in the project's source code, has been removed from all project repositories.
+        The bugs have been fixed. \color{darkred}{It is strongly recommended not to use version 8.1.2.7!}
+    \end{itemize}
+  \item Some improvements have been made to some program windows.
+  \item Automatic indentation (after carriage return) during editing has been considerably
+    improved in this version; it was hard work. If you notice any inconsistencies,
+    please prepare a small sample file and send detailed information to be corrected.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
+
+\subsection*{8.1.2.7 (apr/26/2021) - \color{darkred}{Removed from all project repositories}}
+\begin{itemize}
+  \item Some improvements have been made to some program windows.
+  \item Some default database were updated (\texttt{Rmirrors.xml}, \texttt{Completion.xml}).
+  \item Trying to circumvent the technological delay of the Brazilian economy related to
+    the difficulties of transferring values from abroad to Brazil, the project now receives
+    donations via cryptocurrencies: \textbf{Bitcoin} and \textbf{Bitcoin Cash}.
+    In the main menu Help/About/Donation, the accounts for receiving donations (transfers)
+    can be copied \texttt{(CTRL + C)} and pasted \texttt{(CTRL + V)} at the destination.
+  \item The license verification and validation procedure is still disabled in this version.
+    So, if you want, you can request a license to help improve the mechanism,
+    as it will be being tested on more diverse hardware and software platforms than
+    those used by testers. In the future version, the validation mechanism will be enabled.
+\end{itemize}
 
 \subsection*{8.1.2.6 (apr/23/2021)}
 \begin{itemize}
@@ -17,7 +181,7 @@
   \item The license verification and validation procedure is still disabled in this version.
     So, if you want, you can request a license to help improve the mechanism,
     as it will be being tested on more diverse hardware and software platforms than
-    those used by testers. In the next version, the validation mechanism will be enabled.
+    those used by testers. In the future version, the validation mechanism will be enabled.
 \end{itemize}
 
 \subsection*{8.1.2.5 (apr/21/2021)}
@@ -34,7 +198,7 @@
     The license verification and validation procedure is disabled in this version.
     So, if you want, you can request a license to help improve the mechanism,
     as it will be being tested on more diverse hardware and software platforms than
-    those used by testers. In the next version, the validation mechanism will be enabled.
+    those used by testers. In the future version, the validation mechanism will be enabled.
 \end{itemize}
 
 \subsection*{8.1.2.4 (apr/18/2021) - Restrict to testers}

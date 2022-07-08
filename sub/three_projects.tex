@@ -91,8 +91,29 @@ After saving it \texttt{(Crtl+S)}, the second button from left to right will rec
 graphical interface of the project from its textual description.
 
 \subsection{Submit entire project (or parts) to R interpreter}
-If you organize your R scripts into projects with a proper group structure, a project popup menu option allows the individual file, 
-group, and entire project to be sent to the interpreter. This can be very productive in R package development and more complex data analyses.
+If you organize your R scripts into projects with a proper group structure, 
+a project popup menu option allows the individual file, group, and entire project to be sent to the interpreter. 
+This can be very productive in R package development and more complex data analyses.
+
+\subsection{Sets the main \LaTeX ~project file}
+\index{project!sets the main LaTeX project file}
+\index{project!main LaTeX project file}
+\index{project!LaTeX}
+\index{LaTeX}
+\index{LaTeX!sets the main LaTeX project file}
+\index{LaTeX!main LaTeX project file}
+Once you choose a project file as the main one, you can be editing in any project 
+file that, when compiling (generate the pdf or dvi), the instruction will be sent correctly
+for the compiler. This new feature speeds up the process of creating files (PDF and DVI) 
+as the user does not need to navigate to the main file each time to submit the project 
+to the compilation. For projects with many files, this feature (already present in more 
+specialized \LaTeX ~editors) makes work much easier. The feature is functional for all options
+associated with compilation (.pdf, .dvi, makeindex and bibitex). This resource is volatile
+with each session and project, that is, it is not stored with the project information.
+
+When there are two main file indications for \LaTeX ~(one in the project and the other in the main
+interface for any file), this option, from within the project, takes precedence, that is, it is mandatory.
 
 \subsection{Closing your projects}
-When finished with the project, or just to back it up as it is, click the smaller yellow-brown file-card icon, then \texttt{Save}.
+When finished with the project, or just to back it up as it is, click the smaller yellow-brown file-card icon, 
+then \texttt{Save}.

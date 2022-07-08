@@ -2,10 +2,13 @@
 \hypertarget{menu_edit}{}
 \section{Edit}
 \index{edit menu}
+\index{RTF formatted}
+\index{Export!RTF formatted}
 
 \includegraphics[scale=0.50]{./res/menu_edit.png}\\
 
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.4\hsize}X>{\hsize=0.7\hsize}X}\\
+\begin{scriptsize}
+  \begin{tabularx}{\textwidth}{>{\hsize=0.4\hsize}X>{\hsize=0.7\hsize}X}\\
     \hline
     \textbf{Option} & \textbf{Description} \\
     \hline
@@ -14,28 +17,12 @@
     Copy & Copies the selected text and places it in the Windows clipboard \\
     Cut & Cuts the selected text and places it in the Windows clipboard \\
     Paste & Places any text in the Windows clipboard at position indicated by the cursor within the file \\
-    Copy formatted (to export) & \textit{\htmladdnormallink{See options ...}{\#menu\_edit\_copyformatted}} \\
+    Copies selection to clipboard (RTF formatted) & Exports a selection to the Windows clipboard in RTF format. Useful for documenting R code in RTF editors. \\
     Select all & Selects the whole text contained in the file \\
     Comment & Adds comments to selected line(s) \\
     Uncomment firsts occurrence & Removes the first occurrence from a comment in the selected line(s) \\
     Uncomment all occurrence & Removes all occurrences from a comment in the selected line(s) \\
     Delete (bracket) & Delete the pair: current and matching bracket \\
     \hline
-  \end{tabularx}\end{scriptsize}
-
-
-\hypertarget{menu_edit_copyformatted}{}
-\subsection{Copy formatted (to export)}
-\index{edit menu!copy formatted}
-
-\includegraphics[scale=0.50]{./res/menu_edit_copyformated.png}\\
-
-\begin{scriptsize}\begin{tabularx}{\textwidth}{>{\hsize=0.1\hsize}X>{\hsize=0.7\hsize}X}\\
-    \hline
-    \textbf{Option} & \textbf{Description} \\
-    \hline
-    RTF & Copies the selected text and places it in the Windows clipboard in Rtf format \\
-    HTML & Copies the selected text and places it in the Windows clipboard in Html format \\
-    TeX & Copies the selected text and places it in the Windows clipboard in TeX format \\
-    \hline
-  \end{tabularx}\end{scriptsize}
+  \end{tabularx}
+\end{scriptsize}

@@ -39,6 +39,8 @@ applications.
   \item Starting from version 2.0.0.0, \texttt{Tinn-R requires
       \RR{} to run either Rterm or Rgui in SDI mode}. There are four
     alternatives you can choose from: Rterm, Rgui in SDI mode or JGR.
+  \item Starting from version 8.02.01.01, Rgui must be launched from within Tinn-R so that it is properly
+          identified at startup.
   \item You have three basic options in order to switch Rgui from
     MDI to SDI:
     \begin{enumerate}
@@ -84,9 +86,9 @@ The chosen repository will be the new default for all actions dependent reposito
   \item Start \RR{}
   \item Install the following packages:
     \begin{enumerate}
-      \item \htmladdnormallink{TinnR}{http://cran.r-project.org/web/packages/TinnR/index.html}
-      \item \htmladdnormallink{svSocket}{http://cran.r-project.org/web/packages/svSocket/index.html}
-      \item \htmladdnormallink{formatR}{http://cran.r-project.org/web/packages/formatR/index.html}
+      \item \href{http://cran.r-project.org/web/packages/TinnR/index.html}{TinnR}
+      \item \href{http://cran.r-project.org/web/packages/svSocket/index.html}{svSocket}
+      \item \href{http://cran.r-project.org/web/packages/formatR/index.html}{formatR}
     \end{enumerate}
   \item Close \RR{}
   \item Install the new version of Tinn-R
@@ -154,17 +156,17 @@ The chosen repository will be the new default for all actions dependent reposito
   \item Start Rgui or Rterm from within Tinn-R
   \item Read the content from the links below:
     \begin{itemize}
-      \item \textit{\htmladdnormallink{Card}{\#basic\_card}}: to know
+      \item \textit{\href{\#basic\_card}{Card}}: to know
         the shortcuts related with Rterm and all others
-      \item \textit{\htmladdnormallink{What is new}{\#whatisnew}}:
+      \item \textit{\href{\#whatisnew}{What is new}}:
         to know the news.
     \end{itemize}
 \end{enumerate}
 
 
 Information about how to customize the \texttt{Rprofile.site} file can be obtained from
-\htmladdnormallink{Initialization at Start of an R Session}{http://stat.ethz.ch/R-manual/R-patched/library/base/html/Startup.html}
-and an example of this file from \htmladdnormallink{SourceForge}{http://sourceforge.net/p/tinn-r/news/?source=navbar}.
+\href{http://stat.ethz.ch/R-manual/R-patched/library/base/html/Startup.html}{Initialization at Start of an R Session}
+and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?source=navbar}{SourceForge}.
 
 
 \subsubsection{If you have any version of Tinn-R ($>$= 2.2.0.2) installed and configured:}
@@ -302,7 +304,7 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
     \begin{enumerate}
       \item Close Tinn-R (if it is running);
       \item Download the
-        \htmladdnormallink{dictionaries}{http://www.luziusschneider.com/Speller/English/index.htm}
+        \href{http://www.luziusschneider.com/Speller/English/index.htm}{dictionaries}
         you would like to add to Tinn-R;
       \item Install the file (for example ISpEnFrGe.exe);
     \end{enumerate}
@@ -317,6 +319,8 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
 
 \subsection{Inverse DVI search}
 \index{inverse DVI search}
+\index{search!inverse DVI }
+\index{DVI!inverse search}
 
 \begin{itemize}
   \item Tinn-R is able to perform \texttt{inverse DVI search}. To get this
@@ -329,6 +333,10 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
     \begin{footnotesize}
       \begin{verbatim}
         C:\Tinn-R\bin\Tinn-R.exe "%f;%l"
+        
+        Note:
+        %f: file
+        %l: line
       \end{verbatim}
     \end{footnotesize}
 
@@ -340,8 +348,6 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
       \item It is necessary to add the parameter for Miktex compilation
         within Tinn-R (\textit{Options/Application/Processing/Latex/DVI}):
         latex -c-style-errors \texttt{--src-specials};
-      \item Tinn-R can do all of this automatically by setting the
-        option \textit{Restore default}:
 
         \begin{footnotesize}
           \begin{verbatim}
@@ -356,20 +362,66 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
 \end{itemize}
 
 
+\subsection{Inverse PDF search}
+\index{inverse PDF search}
+\index{search!inverse PDF}
+\index{PDF!inverse search}
+
+\begin{itemize}
+  \item Tinn-R is able to perform \texttt{inverse PDF search}. To get this
+    function to work, include in your PDF previewer (we recomend Sumatra) the path of the
+    binary executable file for Tinn-R along with the parameters for
+    file and line.  For example, using Sumatra, the configuration
+    would be (assuming a default path for Tinn-R):
+    \index{Sumatra}
+
+    \begin{footnotesize}
+      \begin{verbatim}
+        C:\Tinn-R\bin\Tinn-R.exe "%f;%l"
+        
+        Note:
+        %f: file
+        %l: line
+      \end{verbatim}
+    \end{footnotesize}
+
+    \begin{itemize}
+      \item Please make sure that there is no space between the
+        parameters \%f(related to file) and \%l(related to line);\\\\
+        \includegraphics[scale=0.80]{./res/sumatra.png}\\
+      \item It is necessary to add the parameter for Miktex compilation
+        within Tinn-R (\textit{Options/Application/Processing/Latex/PDF}):
+        pdflatex -c-style-errors \texttt{ --synctex=1};
+      \item Tinn-R can do all of this automatically by setting the
+        option \textit{Restore default}:
+
+        \begin{footnotesize}
+          \begin{verbatim}
+            pdflatex -c-style-errors --synctex=1
+            and
+            bibtex
+          \end{verbatim}
+        \end{footnotesize}
+
+        \includegraphics[scale=0.60]{./res/app_processing_latex_pdf.png}\\
+    \end{itemize}
+\end{itemize}
+
+
 \subsection{Ruby and Deplate}
 \index{Ruby}
 \index{Deplate}
 
 \begin{itemize}
-  \item \htmladdnormallink{Deplate}{http://deplate.sourceforge.net/}
-    \htmladdnormallink{(user guide here)}{http://deplate.sourceforge.net/deplate.html}
+  \item \href{http://deplate.sourceforge.net/}{Deplate}
+    \href{http://deplate.sourceforge.net/deplate.html}{(user guide here)}
     is a remote
-    \htmladdnormallink{Ruby}{http://www.ruby-lang.org/en/} based tool for
-    converting documents written in wiki-like markup to LaTeX, HTML, HTML slides,
-    or DocBook format. Deplate supports page templates, embedded LaTeX code,
+    \href{http://www.ruby-lang.org/en/}{Ruby} based tool for
+    converting documents written in wiki-like markup to \LaTeX, HTML, HTML slides,
+    or DocBook format. Deplate supports page templates, embedded \LaTeX ~code,
     footnotes, citations, bibliographies, automatic generation of indices, tables
     of contents, among others. Deplate can also be used to create Web pages and,
-    via LaTeX or DocBook, high-quality printouts.
+    via \LaTeX ~or DocBook, high-quality printouts.
 
   \item Tinn-R works with the Ruby interpreter for Windows (ruby.exe) and Ruby
     scripts to generate file conversation within deplate.
@@ -377,10 +429,10 @@ and an example of this file from \htmladdnormallink{SourceForge}{http://sourcefo
   \item To install and configure these resources follow these steps:
     \begin{enumerate}
       \item Download and unzip the
-        \htmladdnormallink{Ruby}{http://www.ruby-lang.org/en/}
+        \href{http://www.ruby-lang.org/en/}{Ruby}
         interpreter anywhere in your computer;
       \item Download and unzip
-        \htmladdnormallink{Deplate}{http://deplate.sourceforge.net/Download.php}
+        \href{http://deplate.sourceforge.net/Download.php}{Deplate}
         anywhere in your computer;
       \item Within Tinn-R, go to \texttt{Options/Application/Processing/Conversion/Deplate}
         and add information on parameters (\texttt{-f} is the default),
@@ -409,14 +461,14 @@ names when you intend to convert them later through Deplate.
 \includegraphics[scale=0.50]{./res/app_processing_conversion_pandoc.png}
 
 \begin{itemize}
-\item If you need to convert files from one markup format into another, \htmladdnormallink{Pandoc}{http://johnmacfarlane.net/pandoc/index.html} is your swiss-army knife.
+\item If you need to convert files from one markup format into another, \href{http://johnmacfarlane.net/pandoc/index.html}{Pandoc} is your swiss-army knife.
 \item To install and configure Pandoc resources, just follow these steps:
  \begin{enumerate}
- \item \htmladdnormallink{Download}{http://code.google.com/p/pandoc/downloads/list} and install the converter Pandoc anywhere in your computer;
+ \item \href{http://code.google.com/p/pandoc/downloads/list}{Download} and install the converter Pandoc anywhere in your computer;
  \item Within Tinn-R, go to \texttt{Options/Application/Processing/Conversion/Pandoc} and add information on path (\texttt{pandoc.exe}).
 
  \end{enumerate}
-\item Pandoc can \htmladdnormallink{convert}{http://johnmacfarlane.net/pandoc/README.html} documents:
+\item Pandoc can \href{http://johnmacfarlane.net/pandoc/README.html}{convert} documents:
 \end{itemize}
 
 \begin{footnotesize}\begin{tabularx}{130pt}{lX} \\
@@ -426,7 +478,7 @@ names when you intend to convert them later through Deplate.
   DocBook \\
   HTML \\
   JSON version of native AST \\
-  LaTeX \\
+  \LaTeX \\
   markdown \\
   native Haskell \\
   reStructuredText \\
@@ -442,8 +494,8 @@ names when you intend to convert them later through Deplate.
     Ebooks & EPUB \\
     HTML formats & XHTML, HTML5, and HTML slide shows using Slidy, Slideous, S5, or DZSlides \\
     Lightweight markup formats & Markdown, reStructuredText, AsciiDoc, MediaWiki markup, Emacs Org-Mode, Textile \\
-    PDF via LaTeX \\
-    TeX formats & LaTeX, ConTeXt, LaTeX Beamer slides \\
+    PDF via \LaTeX \\
+    TeX formats & \LaTeX, ConTeXt, \LaTeX Beamer slides \\
     Word processor formats & Microsoft Word docx, OpenOffice/LibreOffice ODT, OpenDocument XML \\
     \hline
   \end{tabularx}\end{footnotesize}
@@ -456,10 +508,10 @@ names when you intend to convert them later through Deplate.
 \index{Txt2tags}
 
 \begin{itemize}
-  \item \htmladdnormallink{Txt2tags}{http://txt2tags.sourceforge.net}
-    \htmladdnormallink{(user guide here)}{http://txt2tags.sourceforge.net/userguide}
+  \item \href{http://txt2tags.sourceforge.net}{Txt2tags}
+    \href{http://txt2tags.sourceforge.net/userguide}{(user guide here)}
     converts a text file with \texttt{minimal and human readable markup} to:
-    HTML, XHTML, SGML, LaTeX, Lout, UNIX man page, Wikipedia, Google Code Wiki,
+    HTML, XHTML, SGML, \LaTeX, Lout, UNIX man page, Wikipedia, Google Code Wiki,
     DokuWiki, MoinMoin, MagicPoint (mgp), and PageMaker. It is simple and fast,
     featuring automatic TOC, macros, filters, include, tools, GUI, CLI,
     Web interfaces, translations, and extensive documentation.
@@ -470,10 +522,10 @@ names when you intend to convert them later through Deplate.
   \item To install and configure Python resources, just follow these steps:
     \begin{enumerate}
       \item Download and install the
-        \htmladdnormallink{Python}{http://www.python.org/download/}
+        \href{http://www.python.org/download/}{Python}
         interpreter anywhere in your computer;
       \item Download and unzip
-        \htmladdnormallink{Txt2tags}{http://txt2tags.sourceforge.net/}
+        \href{http://txt2tags.sourceforge.net/}{Txt2tags}
         anywhere in your computer;
       \item Within Tinn-R, go to \texttt{Options/Application/Processing/Txt2tags}
         and add information on parameters (\texttt{-t} is the default),

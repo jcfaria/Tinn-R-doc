@@ -1,0 +1,26 @@
+  \item The \texttt{R Send smart} option was finally enabled. It took a lot of work to do and we don't consider it finished. This option is still experimental
+    and should not be seen as a substitute for \texttt{R send: line} and other safer features like block marking or manual selection.
+    Should be used when the cursor is in the middle of some complex context (pipe, function or common usage) and for some
+    reason \textbf{the user does not want to place the cursor in the first position of a block or the cursor is at the end of a block and want to send the block above}.
+    Given the diversity of forms and programming habits that \texttt{R} allows, we believe that it is almost impossible to implement an
+    infallible algorithm to identify the text block. With this feature we don't want to encourage bad habits to work with the R interpreter.
+    Our intention is to try to make it easier to use in some common situations in order to increase a little efficiency in sending instructions.
+    Due to the countless possibilities of error in the algoritmo, a opção padrão é apenas fazer a seleção do bloco, pois se errar o usuário pode corrigir
+    manualmente a seleção. Para o envio da seleção, pode-se usar o recurso de enviar seleção ou o atalho default \texttt{CTRL+R}.
+    Em \texttt{Tools/Misc/Project/Open demo}. Entretanto, em \texttt{Options/Application/R/Basic/Startup and running/After selecting} existem opções
+    para customisar o recurso. Examples below:
+  \verbatim
+      res_c <- cut(res,
+               .|  breaks = c(-Inf,
+               .|             120,
+               .|             130,
+               .|             140,
+    cursor pos .|             150,
+               .|             Inf),
+               .|  labels = c('black',
+               .|             'red',
+               .|             'green',
+               .|             'blue',
+               .|             'gold'))
+               .|
+  \end{verbatim}

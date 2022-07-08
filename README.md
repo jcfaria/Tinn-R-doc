@@ -15,7 +15,7 @@ The **source code** of this software is available at:
 - https://github.com/jcfaria/Tinn-R
 
 The **stable version** of this software is available at:
-- https://nbcgib.uesc.br/tinnr/en/
+- https://tinn-r.org/en/
 - https://sourceforge.net/projects/tinn-r/
 
 The **Ebook** of this software are available at:

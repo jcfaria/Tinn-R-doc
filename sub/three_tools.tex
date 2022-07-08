@@ -32,9 +32,9 @@ sides of the main interface.
       \hline
       \textbf{Tool} & \textbf{Description} \\
       \hline
-      Windows expl. & \textit{\htmladdnormallink{See details ...}{\#working\_tools\_misc\_windowsexpl}} \\
-      Work expl. & \textit{\htmladdnormallink{See details ...}{\#working\_tools\_misc\_workexpl}} \\
-      Project & \textit{\htmladdnormallink{See details ...}{\#working\_tools\_misc\_project}} \\
+      Windows expl. & \textit{\href{\#working\_tools\_misc\_windowsexpl}{See details ...}} \\
+      Work expl. & \textit{\href{\#working\_tools\_misc\_workexpl}{See details ...}} \\
+      Project & \textit{\href{\#working\_tools\_misc\_project}{See details ...}} \\
       \hline
     \end{tabularx}
   \end{footnotesize}
@@ -136,7 +136,7 @@ See Figure \ref{fig:tools_misc_options}.
       \textbf{Tool} & \textbf{Description} \\
       \hline
       Txt2tags & Sets marks, macros and settings of Txt2tags convertor \\
-      LaTeX & Sets \LaTeX~symbols settings in a customizable manner \\
+      \LaTeX & Sets \LaTeX~symbols settings in a customizable manner \\
       \hline
       \\
     \end{tabularx}
@@ -159,7 +159,7 @@ marks, macros, and settings for the Txt2tags convertor.
 A single click over any graphical will add it to the current editor.
 
 
-\subsubsection{LaTeX:}
+\subsubsection{\LaTeX:}
 
 Set
 (Figure \ref{fig:tools_markup_txt2tags_options})
@@ -303,9 +303,9 @@ for \textit{Hex viewer} results associated to any active file.
 
 To enable spellchecking with Tinn-R it is necessary to install at
 least one dictionary of the list of
-\htmladdnormallink{available}{http://www.luziusschneider.com/Speller/English/index.htm} ones.
+\href{http://www.luziusschneider.com/Speller/English/index.htm}{available} ones.
 It is also a good idea to install the dictionary manager.
-\htmladdnormallink{See instructions ...}{\#configuration\_spellerinstalation}.
+\href{\#configuration\_spellerinstalation}{See instructions ...}.
 
 
 %\newpage
@@ -548,6 +548,10 @@ of objects, card and mirrors management of the \RR{} environment.
 \subsubsection{Explorer:}
 \index{tools interface!R explorer}
 \index{R!explorer}
+\index{R explorer}
+\index{R explorer!Dim}
+\index{R explorer!ns}
+\index{R explorer!nd}
 
 This interface
 (Figure \ref{fig:tools_r})
@@ -572,6 +576,10 @@ A double click in any selected object will add its name to the editor.
 If the object is dragged to the editor interface, the textual description
 of the object is always shown in a new file. It is useful to know the
 sources of functions and to see data objects (vectors, frames, list, etc).
+
+If view mode is grid, you can see more details about each object. In grid mode,
+in the \textit{Dim} column, the description \textbf{ns} and \textbf{nd} mean
+nonsense and undefined, respectively.
 
 \subsubsection{Card:}
 \index{tools interface!card (R)}
@@ -648,7 +656,7 @@ The \textit{Mirrors} is an interface that allows the user to manage the reposito
 You should always choose a repository physically closest to where you are,
 so that, the Web communication tends to be faster and more efficient.
 
-The default mirror is the University \htmladdnormallink{Wien}{http://cran.at.r-project.org/}
+The default mirror is the University \href{http://cran.at.r-project.org/}{Wien}
 (Austria). Consider that this is the central mirror of CRAN.
 
 The reasons for the Tinn-R always set a repository are two:
