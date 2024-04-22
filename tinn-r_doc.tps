@@ -33,19 +33,17 @@
 \03. WORKING WITH
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\a_threeWorkingWith.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_application_options.tex
-  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_databases.tex
-  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_editor.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_database.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_filetabs.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_find_replace.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_highlighters.tex
-  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_hotkeys.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_main_dialogs.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_marks.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_projects.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_regular_expressions.tex
-  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_Rterm.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_search_in_files.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_selection_mode.tex
-  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_shortcuts.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_term.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_tools.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\three_toolsbar.tex
 \04. MENU DESCRITION
@@ -96,6 +94,8 @@
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2020.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2021.tex
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2022.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2023.tex
+  C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\WhatIsNew_2024.tex
 \07. APPENDIX B
   C:\Users\jcfaria\Documents\GitHub\Tinn-R-doc\sub\RManuals.tex
 \08. APPENDIX C

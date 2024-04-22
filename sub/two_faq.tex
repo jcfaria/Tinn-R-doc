@@ -12,7 +12,7 @@ This section provides information on \textbf{F}requently \textbf{A}sked
 \index{What is Tinn-R?}
 
 \begin{itemize}
-  \item \href{http://tinn.solarvoid.com}{Tinn} is a small
+  \item \href{https://sourceforge.net/projects/tinn/files/TinnMDI/}{Tinn} is a small
     ASCII file editor primarily intended as a better replacement for
     the default Notepad running under the Windows OS. The name is the
     recursive acronym: \underline{T}inn \underline{i}s \underline{n}ot
@@ -21,9 +21,9 @@ This section provides information on \textbf{F}requently \textbf{A}sked
     is an extension of the original Tinn editor (ASCII and UNICODE), providing additional
     functionality to control
     \href{http://cran.r-project.org}{R}
-    running as Rgui (in SDI mode), Rterm and a whole lot of additional resources.
+    running as Rgui.exe (in SDI mode), Rterm.exe and a whole lot of additional resources.
   \item Tinn-R can also be thought of as feature-rich replacement of the
-    basic script editor provided with Rgui. It provides syntax-highlighting,
+    basic script editor provided with Rgui.exe. It provides syntax-highlighting,
     code submission as a whole or line-by-line, in addition to many other
     useful tools to ease the writing and debugging of \RR{} code.
   \item Both Tinn and Tinn-R are distributed under the
@@ -46,7 +46,7 @@ If you submit a bug report, please provide as much detail as possible. This
 includes indicating the Tinn-R version, your operating system (Windows XP,
 Windows 7, etc), and language (English, French, Portuguese). If the bug
 is related to an interface with \RR{}, please also indicate which version of
-\RR{} you are using, as well as whether you are running Rterm or Rgui. Ideally,
+\RR{} you are using, as well as whether you are running Rterm.exe or Rgui.exe. Ideally,
 please also add the content of the \textit{Tools/Results/Ini log}
 interface since this will help us address the issue more promptly.
 
@@ -58,7 +58,7 @@ interface since this will help us address the issue more promptly.
 \textit{\href{\#basic\_configuration}{See details ...}}
 
 
-\subsubsection{Where can I get the latest version of Tinn-R?}
+\subsubsection{Where can I get the latest version of Tinn-R?}\\
 \index{FAQ!latest version}
 \index{latest version}
 
@@ -69,7 +69,7 @@ interface since this will help us address the issue more promptly.
 \end{itemize}
 
 
-\subsubsection{How do I install Tinn-R?}
+\subsubsection{How do I install Tinn-R?}\\
 \index{FAQ!install}
 \index{install}
 
@@ -88,9 +88,9 @@ interface since this will help us address the issue more promptly.
 
 
 \hypertarget{faq_trpaths}{}
-\subsubsection\textbf{.trPaths? (a very recorrent FAQ)}
-\index{FAQ!.trPaths?}
-\index{.trPaths?}
+\subsubsection\textbf{.paths? (a very recorrent FAQ)}\\
+\index{FAQ!.paths?}
+\index{.paths?}
 
 If your version is the same or above 3.0.1.0, Tinn-R does not require any special configuration.
 That is, the program is ready to be used. One important thing to be done before using it:
@@ -101,7 +101,7 @@ The chosen repository will be the new default for all actions dependent reposito
 (install packages, upgrade packages, etc).
 
 If you have any version of Tinn-R ($<$= 2.2.0.2) installed,
-you need to define your .trPaths correctly in the file \texttt{R/etc/Rprofile.site}.
+you need to define your \texttt{.paths} correctly in the file \texttt{R/etc/Rprofile.site}.
 With the "new" versions of Windows (Vista, 7 e 8) write permissions are more annoying to deal with,
 and you have to manually give yourself permission to write to the file/directory,
 before you can change and save the files. So, to fix it, you have to enable write
@@ -121,7 +121,6 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
       \item Hidden (files and folders)
         \begin{itemize}
           \item \href{http://windows.microsoft.com/en-US/windows7/Show-hidden-files}{Microsoft}
-          \item \href{http://carbonite.custhelp.com/app/answers/detail/a\_id/1379/\~{}/\%5Bwindows\%5D-viewing-hidden-files-and-folders}{Carbonite}
           \item \href{http://pcsupport.about.com/od/windows7/ht/show-hidden-files-windows-7.htm}{About.com}
           \item \href{http://www.computerhope.com/issues/ch000516.htm}{Computer Hope}
         \end{itemize}
@@ -135,7 +134,7 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
 \end{itemize}
 
 
-\subsubsection{Can I get the source code?}
+\subsubsection{Can I get the source code?}\\
 \index{FAQ!source code}
 \index{source code}
 
@@ -147,7 +146,7 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
 \end{itemize}
 
 
-\subsubsection{How can I add a shortcut to Tinn-R in the start menu or in the desktop?}
+\subsubsection{How can I add a shortcut to Tinn-R in the start menu or in the desktop?}\\
 
 \begin{itemize}
   \item This is automatically done by the installer.
@@ -162,31 +161,25 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
 
 
 \hypertarget{faq_preferences}{}
-\subsubsection{Can I save or reuse my preferences on another computer?}
+\subsubsection{Can I save or reuse my preferences on another computer?}\\
 \index{FAQ!save my preferences}
 \index{save my preferences}
 \index{FAQ!reuse my preferences}
 \index{reuse my preferences}
 
 \begin{itemize}
-  \item You have a save/restore configuration tool under
-    \texttt{Tools/Backup or Restore system configuration} or \texttt{Database}.
-    Just backup your config file on one computer, copy it to the computer
-    where you intend to use the same preferences, then restore them there.
-  \item The restore function assumes that you are using same OS and user name.
-  \item Otherwise:
+  \item \textbf{Desktop version}:
     \begin{enumerate}
-      \item Unzip the file Tinn-R\_X.X.X.X\_preferences\_bkp in a place of
-        your choice;
-      \item Copy the folder Tinn-R;
+      \item Copy the folder where Tinn-R stores all user preferences
+        (main menu: Help/Ini files (path information));
       \item Paste it inside the directory with the Tinn-R folder;
-      \item To find where that folder is located, from the main menu
-        just select \texttt{Help/Ini files (path information)}.
     \end{enumerate}
+  \item \textbf{Portable version}. The subfolder \texttt{app\_data} stores all user preferences.
+    In this case, you can load the application on the memory device or make it available in the cloud.
 \end{itemize}
 
 
-\subsubsection{How can I open a file in Tinn-R by double-clicking it under Windows Explorer?}
+\subsubsection{How can I open a file in Tinn-R by double-clicking it under Windows Explorer?}\\
 
 \begin{itemize}
   \item You need to register Tinn-R as the default program to open
@@ -208,19 +201,19 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
 \end{itemize}
 
 
-\subsubsection{How to define the starting Rgui from within Tinn-R?}
+\subsubsection{How to define the starting Rgui.exe from within Tinn-R?}\\
 \index{FAQ!starting GUI}
 \index{starting GUI}
 
 \includegraphics[scale=.50]{./res/app_r_pathandoptions.png}
 
 \begin{itemize}
-  \item You must start your preferred Rgui directly from Tinn-R. To do that,
+  \item You must start your preferred Rgui.exe directly from Tinn-R. To do that,
     go to \texttt{Options/Application/R/Path}. \textbf{From Tinn-R version 8.02.01.01,
-    Rgui must be launched from within Tinn-R so that it is properly
+    Rgui.exe must be launched from within Tinn-R so that it is properly
     identified at startup}.
   \item At the bottom of the dialog box, you can determine the path of
-    the Rgui executable to start from within Tinn-R. Select
+    the Rgui.exe executable to start from within Tinn-R. Select
     \texttt{Rgui.exe} from, for instance,
     \texttt{C:$\backslash$Program Files$\backslash$R$\backslash$R-X.X.X$\backslash$bin$\backslash$Rgui.exe}).
 
@@ -231,21 +224,21 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
       \end{verbatim}
     \end{footnotesize}
 
-  \item With Rgui, you must choose SDI mode at Edit/GUI preferences.
+  \item With Rgui.exe, you must choose SDI mode at Edit/GUI preferences.
 \end{itemize}
 
 
-\subsubsection{Can I define Tinn-R as the default editor for R objects?}
+\subsubsection{Can I define Tinn-R as the default editor for R objects?}\\
 \index{FAQ!default editor}
 \index{default editor}
 
 \begin{itemize}
   \item No, currently, it does not have that capability. In order to do that,
-    just use the internal script editor of Rgui to edit() or fix() \RR{} objects.
+    just use the internal script editor of Rgui.exe to edit() or fix() \RR{} objects.
 \end{itemize}
 
 
-\subsubsection{Can I use Emacs or WinEdt style for syntax highlighting color?}
+\subsubsection{Can I use Emacs or WinEdt style for syntax highlighting color?}\\
 \index{FAQ!Emacs}
 \index{Emacs}
 \index{FAQ!WinEdt}
@@ -259,17 +252,17 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
 \end{itemize}
 
 
-\subsubsection{What does "Triggers" mean in Options/Application/R/General/Basic?}
+\subsubsection{What does "Args and data" mean in Options/Application/R/General/Basic?}\\
 \index{FAQ!triggers}
 \index{triggers}
 
-\includegraphics[scale=.50]{./res/app_r_basic.png}
+\includegraphics[scale=.50]{./res/app_r_basic_completion_history.png}
 
 \begin{itemize}
-  \item Tips are tooltips displaying the syntax of the currently used
+  \item Args are tooltips displaying the syntax of the currently used
     \RR{} function.
   \item By default, if you enter the name of a function followed by an open
-    bracket such as \texttt{sd(} in a \RR{} code document, then Tinn-R recognizes
+    bracket such as \texttt{'sd(|)'} in a \RR{} code document, then Tinn-R recognizes
     that you call the \texttt{sd} \RR{} function and reminds you of its syntax
     by showing the following tip: \texttt{x, na.rm=FALSE}, that is, \texttt{sd}
     accepts two arguments: \texttt{x}, and \texttt{na.rm} with the latter
@@ -279,12 +272,10 @@ access to the \texttt{Rprofile.site} file and then configure \RR{} to run.
     functions are cached in this database.  Adding them all manually is
     tedious.
   \item Tinn-R therefore offers a second mechanism: direct requests to \RR{}. This
-    is accomplished through DDE and/or TCP/IP protocols, using functions
+    is accomplished through TCP/IP protocols, using functions
     automatically loaded when you start the TinnR package you downloaded
     from CRAN.
     (\textit{\href{\#basic\_configuration}{See details ...}}).
-  \item When a tip is showed (Editor, IO or LOG interface) it is possible
-    to add all arguments by typing the shortcut \texttt{CTRL + *}.
 \end{itemize}
 
 On some computers, the delay for synchronization might need to be adjusted.
@@ -293,7 +284,7 @@ increase the value a bit by setting
 \texttt{Options/Application/Main/General/Computational synchronization (delay)}.
 
 
-\subsubsection{Can I start R and Tinn-R all at once?}
+\subsubsection{Can I start R and Tinn-R all at once?}\\
 
 \begin{itemize}
   \item There are many ways to accomplish this, but here is one: first,
@@ -359,21 +350,21 @@ increase the value a bit by setting
       \end{verbatim}
     \end{footnotesize}
 
-    Switch to Tinn-R and type: \texttt{cube(}. You should get a call-tip displaying
+    Switch to Tinn-R and type: \texttt{'cube(|)'}. You should get a call-tip displaying
     \texttt{x} if the \RR{} call-tip server was correctly installed.
 
 \end{itemize}
 
-
+\hypertarget{faq_hotkeys}{}
 \subsection{Hotkeys (operational system)}
 \index{FAQ!hotkeys}
 \index{hotkeys}
 
-\includegraphics[scale=.40]{./res/skh_map_rh_send_dlg.png}
-\includegraphics[scale=.40]{./res/skh_map_rh_control_dlg.png}
-\includegraphics[scale=.40]{./res/skh_map_rh_custom_dlg.png}
+\includegraphics[scale=.36]{./res/dlg_skh_map_rh_send.png}
+\includegraphics[scale=.36]{./res/dlg_skh_map_rh_control.png}
+\includegraphics[scale=.36]{./res/dlg_skh_map_rh_custom.png}
 
-\subsubsection{What is the difference between hotkeys (operational system) and shortcuts in Tinn-R?}
+\subsubsection{What is the difference between hotkeys (operational system) and shortcuts in Tinn-R?}\\
 
 \begin{itemize}
   \item The hotkeys are related to the operational system. In other
@@ -382,18 +373,18 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{How do I define hotkeys for R tools in Tinn-R?}
+\subsubsection{How do I define hotkeys for R tools in Tinn-R?}\\
 \index{FAQ!defining hotkeys}
 \index{defining hotkeys}
 
 \begin{itemize}
-  \item Go to \texttt{R/Hotkeys of R}. Once there, define your favorite
+  \item Go to \texttt{Tools/Database/Hotkeys (R)}. Once there, define your favorite
     hotkeys for the various \RR{} tools and make sure to activate them
     (Option -$>$ Active).
 \end{itemize}
 
 
-\subsubsection{Is there a shortcut for cycling through opened files?}
+\subsubsection{Is there a shortcut for cycling through opened files?}\\
 \index{FAQ!shortcut for cycling}
 \index{shortcut for cycling}
 
@@ -404,7 +395,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{Is there a shortcut for $<$- and -$>$ for the S/R languages?}
+\subsubsection{Is there a shortcut for $<$- and -$>$ for the S/R languages?}\\
 
 \begin{itemize}
   \item The (non user configurable) shortcut for \texttt{-$>$} is
@@ -417,7 +408,7 @@ increase the value a bit by setting
 
 \subsection{Miscellaneous}
 
-\subsubsection{I am editing a table. Can I select text in column mode?}
+\subsubsection{I am editing a table. Can I select text in column mode?}\\
 \index{FAQ!column mode}
 \index{column mode}
 
@@ -434,7 +425,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{Can I define bookmarks to facilitate the navigation through my documents?}
+\subsubsection{Can I define bookmarks to facilitate the navigation through my documents?}\\
 \index{FAQ!bookmarks}
 \index{bookmarks}
 
@@ -447,7 +438,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{What is the left gutter used for?}
+\subsubsection{What is the left gutter used for?}\\
 \index{FAQ!gutter}
 \index{gutter}
 
@@ -461,7 +452,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{Can I run my code step-by-step?}
+\subsubsection{Can I run my code step-by-step?}\\
 \index{FAQ!step-by-step}
 \index{step-by-step}
 
@@ -480,7 +471,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{Is there a graphical debugger for my R functions?}
+\subsubsection{Is there a graphical debugger for my R functions?}\\
 \index{FAQ!graphical debugger}
 \index{graphical debugger}
 
@@ -491,7 +482,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{What is the Tools panel?}
+\subsubsection{What is the Tools panel?}\\
 \index{FAQ!tools panel}
 \index{tools panel}
 
@@ -506,7 +497,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{Can I copy and paste syntax highlighted R code in Word, Writer or other RTF edtitor?}
+\subsubsection{Can I copy and paste syntax highlighted R code in Word, Writer or other RTF edtitor?}\\
 \index{FAQ!copy and paste}
 \index{FAQ!copy and paste highlighted R code}
 \index{FAQ!export syntax highlighted R code}
@@ -522,7 +513,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{How can I fix incorrect icon displays on Windows after I have installed a new version of Tinn-R?}
+\subsubsection{How can I fix incorrect icon displays on Windows after I have installed a new version of Tinn-R?}\\
 \index{FAQ!icon on Windows}
 \index{icon on Windows}
 
@@ -547,7 +538,7 @@ increase the value a bit by setting
 \end{itemize}
 
 
-\subsubsection{Basic instructions about focus control:}
+\subsubsection{Basic instructions about focus control:}\\
 \index{FAQ!focus control}
 \index{focus control}
 
@@ -555,19 +546,19 @@ increase the value a bit by setting
 \begin{itemize}
   \item Tinn-R has a button within the \textit{Options toolbar}
     with the hint (\textit{Options: return focus to editor
-      after send/control Rgui}) that enables the user to
+      after send/control Rgui.exe}) that enables the user to
     configure out the focus control. When this option is
     \texttt{checked} Tinn-R will display the following behavior:
     \begin{itemize}
       \item If the editor has the focus, it will \texttt{go back}
         to the editor after any \textit{send to} or \textit{R control}
-        action, otherwise it will remain on Rgui. This is also
+        action, otherwise it will remain on Rgui.exe. This is also
         true when working with a dual-monitor display.
     \end{itemize}
-  \item If the Rterm has the focus, it will be \texttt{maintained}
+  \item If the Term has the focus, it will be \texttt{maintained}
     in this interface (\textit{IO}), \texttt{disregarding} the
     \textit{Options: return focus to editor after send/control
-      Rgui}.
+      Rgui.exe}.
 \end{itemize}
 
 
@@ -575,7 +566,7 @@ increase the value a bit by setting
 \index{FAQ!color preferences}
 \index{color preferences}
 
-\includegraphics[scale=.50]{./res/highlighter_settings.png}
+\includegraphics[scale=.50]{./res/dlg_highlighter_settings.png}
 
 Tinn-R has seven multi-highlighters: \textit{HTML complex}, \textit{PHP complex},
 \textit{R complex}, \textit{R doc},  \textit{R html}, \textit{R markdown} and \textit{R noweb},
@@ -619,7 +610,7 @@ If you want to make these changes permanent, just set the  preferences
 from all simple highlighters.
 
 
-\subsubsection{How do I set a block as marked?}
+\subsubsection{How do I set a block as marked?}\\
 \index{FAQ!marked blocks}
 \index{marked blocks}
 
@@ -635,14 +626,14 @@ from all simple highlighters.
 \end{itemize}
 
 
-\subsubsection{How can I find errors in my script using Rterm interface?}
+\subsubsection{How can I find errors in my script using Term interface?}\\
 \index{FAQ!find errors in my script}
 \index{find errors in my script}
 
 \begin{itemize}
-  \item The \texttt{Application options/R/Rterm} is split in two tabs: \texttt{Error} and \texttt{Options}.
+  \item The \texttt{Application options/R/Term} is split in two tabs: \texttt{Error} and \texttt{Options}.
     The tab Error has an option: \texttt{Trying to find code errors (at the editor)*}.
-    It enables the user to set Tinn-R in order to find code errors at the editor when sending instructions to Rterm.
+    It enables the user to set Tinn-R in order to find code errors at the editor when sending instructions to Rterm.exe.
   \item It may happen that the error will not be found at the right place.
     For example, the error might be the same word
     appearing in a comment which comes before the actual code.
@@ -654,7 +645,7 @@ from all simple highlighters.
 \end{itemize}
 
 
-\subsubsection{The comunication between Tinn-R and Rgui.exe seems to freeze!}
+\subsubsection{The comunication between Tinn-R and Rgui.exe seems to freeze!}\\
 \index{FAQ!comunication}
 \index{comunication}
 \index{FAQ!Tinn-R and Rgui}
@@ -664,13 +655,13 @@ from all simple highlighters.
 
 \begin{itemize}
   \item \textbf{First, it is not necessary to reinstall the Tinn-R nor R}!
-  \item In some Windows flavors the communication between \texttt{Rgui} and \texttt{Tinn-R} sporadically seems to freeze.
+  \item In some Windows flavors the communication between \texttt{Rgui.exe} and \texttt{Tinn-R} sporadically seems to freeze.
     The cause of this bug is still unknown to us and seems to be related to the new features of some Windows flavors.
     However, the solution is very simple: rest your mouse (without pressing for a few seconds) on the
     icon of the Tinn-R on the taskbar of windows\ldots: the communication should be restored automatically.
 \end{itemize}
 
-\subsubsection{The comunication between Tinn-R and Rterm.exe seems to freeze using knit function!}
+\subsubsection{The comunication between Tinn-R and Rterm.exe seems to freeze using knit function!}\\
 \index{FAQ!comunication}
 \index{comunication}
 \index{FAQ!Tinn-R and Rterm}
@@ -682,11 +673,11 @@ from all simple highlighters.
 \begin{itemize}
   \item To all \texttt{knit} procedures it will be added the argument \texttt{quiet=TRUE}.
     It is very dificult to sincronize the \texttt{txtProgreesBar} used in these functions and
-    \texttt{Rterm} interface. So, if you want more control, we suggest (for while) to use the \texttt{knit}
+    \texttt{Term} interface. So, if you want more control, we suggest (for while) to use the \texttt{knit}
     with \texttt{Rgui.exe} intead of \texttt{Rterm.exe}.
 \end{itemize}
 
-\subsubsection{How to make Ctrl+Shift+0 mark works?}
+\subsubsection{How to make Ctrl+Shift+0 mark works?}\\
 \index{FAQ!marks}
 \index{FAQ!Ctrl+Shift+0}
 \index{marks}

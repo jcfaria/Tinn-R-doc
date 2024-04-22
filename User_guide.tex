@@ -2,6 +2,7 @@
 \documentclass[10pt, openright, twoside]{memoir}\setstocksize{23.5cm}{17.5cm}
 \usepackage{./sty/EditusPackages}
 
+\renewcommand{\subsubsection} {\textsl{ }\\ }
 
 \makeindex
 
@@ -19,14 +20,14 @@
 % --------------------------------------------------------------------
 \mainmatter
 
-\include{./sub/a_oneOverview}           % Tinn-R Overview
-\include{./sub/a_twoBasics}             % Tinn-R Basics
-\include{./sub/a_threeWorkingWith}      % Working with Tinn-R
-\include{./sub/a_fourMenuDescription}   % Tinn-R Menu Description
-\include{./sub/a_fiveSecrets}           % Some secrets for an efficient use
-\include{./sub/a_WhatIsNew}             % Appendix What is New
-\include{./sub/RManuals}                % Appendix R Manuals
-\include{./sub/gpl3}                    % Appendix GNU licence
+\include{./sub/a_oneOverview}         % Tinn-R Overview
+\include{./sub/a_twoBasics}           % Tinn-R Basics
+\include{./sub/a_threeWorkingWith}    % Working with Tinn-R
+\include{./sub/a_fourMenuDescription} % Tinn-R Menu Description
+\include{./sub/a_fiveSecrets}         % Some secrets for an efficient use
+\include{./sub/a_WhatIsNew}           % Appendix What is New
+\include{./sub/RManuals}              % Appendix R Manuals
+\include{./sub/gpl3}                  % Appendix GNU licence
 
 % --------------------------------------------------------------------
 \backmatter

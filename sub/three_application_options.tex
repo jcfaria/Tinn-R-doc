@@ -18,12 +18,13 @@ to know all available resources and to configure this out (according to your
 preferences) in a nice way. The default set of options might not be suitable
 for every user.
 
-The window \textit{Application options} allows the user to set the major piece
+The window \textit{Application options} (\texttt{Options/Aplication}) and
+\textit{Highlighters settings} (\texttt{Options/Highlighters (settings)}) allows the user to set the major piece
 of user preferences related to the application.
 
 It must be clear from now on that the Tinn-R project is the sum of three main
 resources (Figure \ref{fig:tinn-r_interface}):
-The application \texttt{per se (1)},
+The application \texttt{per se (1)}, ~
 additional \texttt{Tools (2)} and
 the instances of the \texttt{SynEdit class (3)}.
 The \texttt{Tools (2)} was projected to allows the expansion of resources.
@@ -36,11 +37,18 @@ The options visible in all pictures reflect a set of the project leader preferen
 \subsection{Main}
 \index{application options!main}
 
+Since the options are self-explanatory, Table \ref{tab:app_main} only gives some
+details about the most difficult options to understand.
+
+\subsubsection{General:}\\
+\index{application options!general}
+
 \begin{figure}[H]
   \includegraphics[scale=0.35]{./res/app_main_general.png}~~
-  \includegraphics[scale=0.35]{./res/app_main_appearance.png}\\
-  \includegraphics[scale=0.35]{./res/app_main_dock.png}~~
-  \includegraphics[scale=0.35]{./res/app_main_files.png}\\
+  \includegraphics[scale=0.35]{./res/app_main_appearance.png}~~
+  \includegraphics[scale=0.35]{./res/app_main_reservedkeys.png}\\
+  \includegraphics[scale=0.35]{./res/app_main_files.png}~~
+  \includegraphics[scale=0.35]{./res/app_main_view.png}\\
   \caption{Main (Options/Application).}
   \label{fig:app_main_options}
 \end{figure}
@@ -59,10 +67,6 @@ The options visible in all pictures reflect a set of the project leader preferen
        and keep testing until getting to the optimal value. The default value (100 ms) may not be optimal for all users. \\
       Remove extension for \textit{Save as} & All file extensions will be removed
        in the \textit{Save as} Windows interface \\
-      Application colors (extensive text only) & Dark colors (low level of radiation)
-       for the background, and pale light (high level of radiation) for the characters
-       are reccomended for people who work with the computer/monitor for long periods.
-       Pictures of this user guide ire like this \\
       \hline
     \end{tabularx}
   \end{footnotesize}
@@ -74,8 +78,27 @@ Figure \ref{fig:app_main_options} and
 Table \ref{tab:app_main}
 show the options related to this topic.
 
-Since the options are self-explanatory, Table \ref{tab:app_main} only gives some
-details about the most difficult options to understand.
+\subsubsection{Appearance:}\\
+
+Table \ref{tab:app_main_appearance} give some information for who work with the computer/monitor for long periods.
+
+\index{application options!appearance}
+\begin{table}
+  \begin{footnotesize}
+    \begin{tabularx}{\headwidth}{>{\hsize=0.35\hsize}X>{\hsize=0.65\hsize}X}\\
+      \hline
+      \textbf{Option} & \textbf{Description} \\
+      \hline
+      Application colors (extensive text only) & Dark colors (low level of radiation)
+       for the background, and pale light (high level of radiation) for the characters
+       are reccomended for people who work with the computer/monitor for long periods.
+       Pictures of this user guide like this \\
+      \hline
+    \end{tabularx}
+  \end{footnotesize}
+  \caption{Appearance options}
+  \label{tab:app_main_appearance}
+\end{table}
 
 
 \hypertarget{working_editor}{}
@@ -91,8 +114,8 @@ standard options. The set of options available complement the
 
 
 \hypertarget{working_editor_display}{}
-\subsubsection{Display:}
-\index{application options!!editor display}
+\subsubsection{Display:}\\
+\index{application options!editor display}
 
 \begin{figure}[H]
   \includegraphics[scale=0.50]{./res/app_editor_display.png}~~
@@ -132,7 +155,7 @@ Table \ref{tab:editor_display}
 show the main resources.
 
 \hypertarget{working_editor_advanced}{}
-\subsubsection{Advanced:}
+\subsubsection{Advanced:}\\
 \index{application options!editor advanced}
 
 \begin{figure}[H]
@@ -188,7 +211,7 @@ show the main resources.
 
 
 \hypertarget{working_editor_encoding_eol}{}
-\subsubsection{Encoding/EOL:}
+\subsubsection{Encoding/EOL:}\\
 \index{application options!editor encoding}
 \index{application options!editor EOL}
 
@@ -213,33 +236,34 @@ also the user option related to UTF-8 files.
   \includegraphics[scale=0.35]{./res/app_r_pathandoptions.png}\\
   \includegraphics[scale=0.35]{./res/app_r_basic.png}~~
   \includegraphics[scale=0.35]{./res/app_r_resources.png}\\
-  \caption{R (Options/Application).}
+  \caption{R (Options/Application): Installed, Path and options, Basic and Resources.}
   \label{fig:app_r_a}
 \end{figure}
 
 \begin{figure}[h!]
+  \includegraphics[scale=0.35]{./res/app_r_rterm_options.png}~~
+  \includegraphics[scale=0.35]{./res/app_r_rterm_error.png}\\
+  \includegraphics[scale=0.35]{./res/app_r_rgui_options.png}~~
+  \includegraphics[scale=0.35]{./res/app_r_rgui_recognition.png}\\
+  \caption{R (Options/Application): Rterm.exe and Rgui.exe.}
+  \label{fig:app_r_d}
+\end{figure}
+
+\begin{figure}[h!]
   \includegraphics[scale=0.33]{./res/app_r_packages_library.png}~~
-  \includegraphics[scale=0.33]{./res/app_r_packages_tinnrcom.png}\\
+  \includegraphics[scale=0.33]{./res/app_r_packages_tinnrcom.png}~~
   \includegraphics[scale=0.33]{./res/app_r_packages_svsocket.png}\\
-  \caption{R (Options/Application).}
+  \caption{R (Options/Application/Packages): Library, TinnRcom and svSocket.}
   \label{fig:app_r_b}
 \end{figure}
 
 \begin{figure}[h!]
   \includegraphics[scale=0.33]{./res/app_r_packages_formatr.png}~~
   \includegraphics[scale=0.33]{./res/app_r_packages_knitr.png}\\
-  \caption{R (Options/Application).}
+  \caption{R (Options/Application/Packages): formatR and knitr.}
   \label{fig:app_r_c}
 \end{figure}
 
-\begin{figure}[h!]
-  \includegraphics[scale=0.35]{./res/app_r_rgui_options.png}~~
-  \includegraphics[scale=0.35]{./res/app_r_rgui_recognition.png}\\
-  \includegraphics[scale=0.35]{./res/app_r_rterm_options.png}~~
-  \includegraphics[scale=0.35]{./res/app_r_rterm_error.png}\\
-  \caption{R (Options/Application).}
-  \label{fig:app_r_d}
-\end{figure}
 
 Figures \ref{fig:app_r_a},
         \ref{fig:app_r_b},
@@ -258,7 +282,7 @@ of customization with the \RR{} environment.
   \includegraphics[scale=0.35]{./res/app_processing_conversion_pandoc.png}\\
   \includegraphics[scale=0.35]{./res/app_processing_conversion_txt2tags.png}~~
   \includegraphics[scale=0.35]{./res/app_processing_conversion_more.png}\\
-  \caption{Conversion (Options/Application/Processing).}
+  \caption{Conversion (Options/Application/Processing): Pandoc, Txt2tags, Deplate and More.}
   \label{fig:app_processing_conversion_options}
 \end{figure}
 
@@ -269,7 +293,7 @@ related to conversion (Deplate, Pandoc and Txt2tags) and compilation (Miktex).
 
 
 \hypertarget{working_app_processing_conversion}{}
-\subsubsection{Conversion:}
+\subsubsection{Conversion:}\\
 \index{application options!processing conversion}
 
 Tinn-R project makes it easy to work with these nice conversion tools: Deplate, Pandoc and Txt2tags.
@@ -278,14 +302,14 @@ Tinn-R project makes it easy to work with these nice conversion tools: Deplate, 
 
 %\newpage
 \hypertarget{working_app_processing_latex}{}
-\subsubsection{\LaTeX:}
+\subsubsection{\LaTeX:}\\
 \index{application options!processing LaTeX}
 
 \begin{figure}[h!]
+  \includegraphics[scale=0.33]{./res/app_processing_latex_pdf.png}~~
   \includegraphics[scale=0.33]{./res/app_processing_latex_dvi.png}~~
-  \includegraphics[scale=0.33]{./res/app_processing_latex_pdf.png}\\
   \includegraphics[scale=0.33]{./res/app_processing_latex_more.png}\\
-  \caption{\Latex ~(Options/Application/Processing).}
+  \caption{Latex (Options/Application/Processing): \LaTeX~PDF, DVI and More.}
   \label{fig:app_processing_latex_options}
 \end{figure}
 

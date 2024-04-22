@@ -51,33 +51,33 @@ if they are already in use by the Windows operating system, they won't work.
 The use of shortcuts can improve the efficiency of your work. You can also have more than one shortcut table.
 
 \includegraphics[scale=0.50]{./res/tools_database_shortcuts.png}~~
-\includegraphics[scale=0.50]{./res/tools_database_completion.png}~~
+\includegraphics[scale=0.50]{./res/tools_database_snippets.png}~~
 \includegraphics[scale=0.50]{./res/tools_database_comments.png} \\
 
-\paragraph{}\textbf{Completion}\\
-\index{secrets!database!completion}
+\paragraph{}\textbf{Snippets}\\
+\index{secrets!database!snippets}
 
-Completion will help you speed up the process of writing \textbf{anything from any language}.
+Snippets will help you speed up the process of writing \textbf{anything from any language}.
 It allows you to personalize its database so that every function, script or text that you
 frequently use can be automatically inserted in your script through the click of a button or trigger.
 
-%\includegraphics[scale=0.50]{./res/tools_database_completion.png}
+%\includegraphics[scale=0.50]{./res/tools_database_snippets.png}
 
-Let us start by using completion with the functions which are already in the default database.
-First, click on \texttt{Tools/Database/Completion}. A window will open showing all the functions saved in the
-database at the bottom of the window. Now click on the fourth icon \texttt{Completion: edit}.
+Let us start by using snippets with the functions which are already in the default database.
+First, click on \texttt{Tools/Database/Snippets}. A window will open showing all the functions saved in the
+database at the bottom of the window. Now click on the fourth icon \texttt{Snippets: edit}.
 Another window will open, the group to which the function belongs being marked under \texttt{Group},
 the function being marked under \texttt{Function} and the trigger under \texttt{Trigger}.
 
 Now open a new file (\texttt{CTRL + N}) and write \texttt{rn} which is the \texttt{trigger for the function rnorm}
-and then press \texttt{CTRL + J} or click on \texttt{Insert/Completion} at the main menu.
+and then press \texttt{CTRL + J} or click on \texttt{Insert/Snippets} at the main menu.
 
 Now, suppose that you have a section of a script which you use very often when writing scripts.
 For example, imagine the following script: x $<$- rnorm(50); y $<$- rnorm(50) which generates
 two pseudo-random normal vectors for x- and y-coordinates.
 
 You then select and copy it to the clipboard, click again on the main menu at
-\texttt{Tools/Database/Completion} and at the bottom of window click \texttt{New}.
+\texttt{Tools/Database/Snippets} and at the bottom of window click \texttt{New}.
 Now, at the top in \texttt{Group} type the name of the group, in this case let the name be \texttt{Examples},
 it means that every other example could be saved under this group. In \texttt{Function} type the name of this
 specific function, for example, \texttt{norm}, and then type the trigger of this function you are just creating,
@@ -161,7 +161,7 @@ Consider that this is the central mirror of CRAN.
 The reasons for the Tinn-R always set a repository (assets) are two:
 \begin{itemize}
    \item To prevent \RR{} keeps asking which repository you want to use in each session;
-   \item Workaround of intermittency (only related to \texttt{Rterm}) not always showing the dialog for selecting the repository.
+   \item Workaround of intermittency (only related to \texttt{Rterm.exe}) not always showing the dialog for selecting the repository.
     That is, sometimes the dialog is displayed and not others. The cause of this intermittency is still unknown.
 \end{itemize}
 

@@ -36,7 +36,7 @@ instance: metacharacter \texttt{\^{}} match beginning of string, but
 \texttt{$\backslash$$\backslash$} match \texttt{$\backslash$} and so on.
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -81,7 +81,7 @@ Hex digit letters may be in upper or lower case.
 \end{footnotesize}
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -105,7 +105,7 @@ first character after the \texttt{[} is \texttt{\^{}}, the class matches
 any character not in the list.
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -129,7 +129,7 @@ start or end of the list, or escape it with a backslash. If you want
 backslash.
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -156,7 +156,7 @@ Metacharacters are special characters which are the essence of regular
 expressions. There are different types of metacharacters, described below.
 
 
-\subsubsection{Metacharacters - Line Separators:}
+\subsubsection{Metacharacters - Line Separators:}\\
 \index{metacharacters!line separators}
 
 \begin{footnotesize}
@@ -175,7 +175,7 @@ expressions. There are different types of metacharacters, described below.
 \end{footnotesize}
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -205,7 +205,7 @@ times when the modifier \texttt{/m} is used, while \texttt{\^{}} and
 \texttt{\$} will match at every internal line separator.
 
 
-\subsubsection{Metacharacters - Predefined Classes:}
+\subsubsection{Metacharacters - Predefined Classes:}\\
 \index{metacharacters!predefined classes}
 
 \begin{footnotesize}
@@ -230,7 +230,7 @@ custom character classes.
 
 
 %\newpage
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.2\hsize}X>{\hsize=0.9\hsize}X}\\
@@ -250,7 +250,7 @@ classes \texttt{$\backslash$w}, \texttt{$\backslash$W},
 redefine it.
 
 
-\subsubsection{Metacharacters - Word Boundaries:}
+\subsubsection{Metacharacters - Word Boundaries:}\\
 \index{metacharacters!word boundaries}
 
 \begin{footnotesize}
@@ -271,7 +271,7 @@ on the other side of it (in either order), counting the imaginary characters
 of the beginning and end of the string as matching a \texttt{$\backslash$W}.
 
 
-\subsubsection{Metacharacters - Iterators:}
+\subsubsection{Metacharacters - Iterators:}\\
 \index{metacharacters!iterators}
 
 Any item of a regular expression may be followed by another type of
@@ -311,7 +311,7 @@ If a curly bracket occurs in any other context, it is treated as a
 regular character.
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -337,7 +337,7 @@ returns empty string, \texttt{b\{2,3\}?} returns \texttt{bb},
 \texttt{b\{2,3\}} returns \texttt{bbb}.
 
 
-\subsubsection{Metacharacters - Alternatives:}
+\subsubsection{Metacharacters - Alternatives:}\\
 \index{metacharacters!alternatives}
 
 You can specify a series of alternatives for a pattern using \texttt{$|$}
@@ -363,7 +363,7 @@ brackets, so if you write \texttt{[fee$|$fie$|$foe]}. You're really only
 matching \texttt{[feio$|$]}.
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -377,7 +377,7 @@ matching \texttt{[feio$|$]}.
 \end{footnotesize}
 
 
-\subsubsection{Metacharacters - Subexpressions:}
+\subsubsection{Metacharacters - Subexpressions:}\\
 \index{metacharacters!subexpressions}
 
 The bracketing construct ( ... ) may also be used to define r.e.
@@ -391,7 +391,7 @@ r.e. match has number \texttt{0} - you can substitute it in TRegExpr.
 Substitute as \texttt{\$0} or \texttt{\$\&}).
 
 
-\subsubsection{Examples:}
+\subsubsection{Examples:}\\
 
 \begin{footnotesize}
   \begin{tabularx}{\textwidth}{>{\hsize=0.3\hsize}X>{\hsize=0.7\hsize}X}\\
@@ -407,7 +407,7 @@ Substitute as \texttt{\$0} or \texttt{\$\&}).
 \end{footnotesize}
 
 
-\subsubsection{Then backreferences:}
+\subsubsection{Then backreferences:}\\
 \index{metacharacters!backreferences}
 
 \begin{footnotesize}
@@ -430,7 +430,7 @@ also match: \texttt{123fdd@\#\$4444xyz}, \texttt{bbbeeeabc1234567xyz},
 \texttt{ddddddaaaxyz}.
 
 
-\subsubsection{Metacharacters - Backreferences:}
+\subsubsection{Metacharacters - Backreferences:}\\
 \index{metacharacters!backreferences}
 
 Metacharacters \texttt{$\backslash$1} through \texttt{$\backslash$9}
@@ -443,7 +443,7 @@ interpreted as backreferences to the last find.
 \texttt{\#$<$n$>$}.
 
 
-\subsubsection{Find Examples:}
+\subsubsection{Find Examples:}\\
 \index{metacharacters!find examples}
 
 \begin{footnotesize}

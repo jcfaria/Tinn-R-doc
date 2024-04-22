@@ -29,27 +29,26 @@ applications.
 \subsection{Install and configure Tinn-R and R}
 
 
-\subsubsection{R basic configuration:}
+\subsubsection{R basic configuration:}\\
 
 \begin{itemize}
   \item Starting from version 1.18.X.X, \texttt{Tinn-R requires
-      \RR{} to run in SDI mode}. So, Tinn-R is not compatible neither
-    with Rgui in MDI mode (only SDI) nor with S-PLUS. The
+      Rgui.exe to run in SDI mode}. So, Tinn-R is not compatible neither
+    with Rgui.exe in MDI mode (only SDI) nor with S-PLUS. The
     latest compatible version was the historic 1.17.2.4.
   \item Starting from version 2.0.0.0, \texttt{Tinn-R requires
-      \RR{} to run either Rterm or Rgui in SDI mode}. There are four
-    alternatives you can choose from: Rterm, Rgui in SDI mode or JGR.
-  \item Starting from version 8.02.01.01, Rgui must be launched from within Tinn-R so that it is properly
+      \RR{} to run either Rterm.exe or Rgui.exe (in SDI mode)}.
+  \item Starting from version 8.02.01.01, Rgui.exe must be launched from within Tinn-R so that it is properly
           identified at startup.
-  \item You have three basic options in order to switch Rgui from
+  \item You have three basic options in order to switch Rgui.exe from
     MDI to SDI:
     \begin{enumerate}
-      \item In Rgui, select \texttt{Edit/GUI preferences...},
+      \item In Rgui.exe, select \texttt{Edit/GUI preferences...},
         set SDI and click on \texttt{Save}, then \texttt{OK}
         without changing the name of the proposed file. Then,
         click \texttt{OK} or \texttt{Cancel} in the
-        \texttt{Rgui Configuration Editor} (ignore any eventual
-        messages), and restart Rgui (changes will not be taken
+        \texttt{Rgui.exe Configuration Editor} (ignore any eventual
+        messages), and restart Rgui.exe (changes will not be taken
         into account in the current session).
       \item Manually edit the file \texttt{Rconsole}:
         \begin{Scode}
@@ -65,7 +64,7 @@ applications.
 \end{itemize}
 
 
-\subsubsection{If you have any version of Tinn-R ($>$= 3.0.1.0) installed:}
+\subsubsection{If you have any version of Tinn-R ($>$= 3.0.1.0) installed:}\\
 
 If your version is the same or above 3.0.1.0, Tinn-R does not require any special configuration.
 That is, the program is ready to be used. One important thing to be done before using it:
@@ -76,7 +75,7 @@ The chosen repository will be the new default for all actions dependent reposito
 (install packages, upgrade packages, etc).
 
 
-\subsubsection{If you have any version of Tinn-R ($<$= 2.2.0.2) installed:}
+\subsubsection{If you have any version of Tinn-R ($<$= 2.2.0.2) installed:}\\
 
 \begin{enumerate}
   \item Uninstall previous versions of Tinn-R
@@ -153,11 +152,11 @@ The chosen repository will be the new default for all actions dependent reposito
         \end{verbatim}
       } % color
     } % footnotesize
-  \item Start Rgui or Rterm from within Tinn-R
+  \item Start Rgui.exe or Rterm.exe from within Tinn-R
   \item Read the content from the links below:
     \begin{itemize}
       \item \textit{\href{\#basic\_card}{Card}}: to know
-        the shortcuts related with Rterm and all others
+        the shortcuts related with \RR{} and all others
       \item \textit{\href{\#whatisnew}{What is new}}:
         to know the news.
     \end{itemize}
@@ -169,7 +168,7 @@ Information about how to customize the \texttt{Rprofile.site} file can be obtain
 and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?source=navbar}{SourceForge}.
 
 
-\subsubsection{If you have any version of Tinn-R ($>$= 2.2.0.2) installed and configured:}
+\subsubsection{If you have any version of Tinn-R ($>$= 2.2.0.2) installed and configured:}\\
 
 \begin{enumerate}
   \item Uninstall the prior version of Tinn-R 2.X.X.X
@@ -178,7 +177,7 @@ and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?sou
 \end{enumerate}
 
 
-\subsubsection{If you want to install any old version of Tinn-R ($<$= 2.0.0.0"):}
+\subsubsection{If you want to install any old version of Tinn-R ($<$= 2.0.0.0"):}\\
 
 \begin{itemize}
   \item \textbf{Downgrading}: \texttt{rename (or delete) the folder
@@ -238,7 +237,7 @@ and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?sou
 \end{itemize}
 
 
-\subsection{Rgui}
+\subsection{Rgui.exe}
 \index{Rgui}
 
 \includegraphics[scale=0.50]{./res/focus.png}
@@ -246,27 +245,27 @@ and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?sou
 \begin{itemize}
   \item Tinn-R has an icon within the \textit{Options toolbar}
     containing the hint \texttt{Options: return focus to editor
-      after send/control Rgui} which enables the user to configure
+      after send/control Rgui.exe} which enables the user to configure
     the focus control. When \texttt{checked}:
     \begin{itemize}
       \item If the editor has the focus: it will \texttt{go back}
         to the editor after any \textit{send to} or \textit{R control}
         action;
-      \item Otherwise, the focus will be set to the Rgui interface.
+      \item Otherwise, the focus will be set to the Rgui.exe interface.
     \end{itemize}
 \end{itemize}
 
 
-\subsection{Rterm}
+\subsection{Rterm.exe}
 \index{Rterm}
 
 \begin{itemize}
-  \item The above-mentioned icon will be disabled with Rterm interface.
+  \item The above-mentioned icon will be disabled with Term interface.
     The following will then happen:
     \begin{itemize}
       \item If the focus is placed on the editor it will \texttt{go back}
         to the editor after any \textit{send to} or \textit{R control} action;
-      \item If the focus is placed on the Rterm (\textit{IO} or \textit{LOG}),
+      \item If the focus is placed on the Term (\textit{IO} or \textit{LOG}),
         it will be \texttt{maintened} in this interface (\textit{IO});
       \item Situations above are also the case when working with two monitors.
     \end{itemize}
@@ -274,13 +273,13 @@ and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?sou
 
 
 \newpage
-\subsection{Rterm interface and debug package}
+\subsection{Term interface and debug package}
 \index{debugging}
 
 \begin{itemize}
   \item Several changes were made to the debug package (1.0.2) regarding
     the messaging system (\textit{stdout} and \textit{stderr}). The
-    default option is no longer compatible with Rterm interface
+    default option is no longer compatible with Term interface
     implementation.
   \item The best way to make it compatible again is to add the option
     below to the Rprofile.site file:
@@ -345,7 +344,7 @@ and an example of this file from \href{http://sourceforge.net/p/tinn-r/news/?sou
         parameters \%f(related to file) and \%l(related to line);\\\\
         \includegraphics[scale=0.50]{./res/yap_01.png}~~
         \includegraphics[scale=0.50]{./res/yap_02.png}\\
-      \item It is necessary to add the parameter for Miktex compilation
+      \item It is necessary to add the parameter for \TeX~Live or Mik\TeX~compilation
         within Tinn-R (\textit{Options/Application/Processing/Latex/DVI}):
         latex -c-style-errors \texttt{--src-specials};
 

@@ -11,18 +11,27 @@
     \textbf{Option} & \textbf{Description} \\
     \hline
     Application & Opens the \href{\#working\_app\_main}{Application options} dialog \\
-    Shortcuts/keystrokes/hotkeys & Opens the \href{\#working\_shortcuts}{Shortcuts customization} dialog \\
+    Shortcuts/keystrokes/hotkeys (SKH map)& Opens the \href{\#working\_shortcuts}{Shortcuts customization} dialog \\
     Highlighters (settings) & Opens the \href{\#working\_highlighters}{Highlighters (settings)} dialog \\
     Syntax (highlighters) & \textit{\href{\#menu\_options\_syntax}{See options ...}} \\
-    File (open maximized) & When this option is set all files will be opened maximized \\
+    \hdashline[1pt/1pt]
     R echo (on/off) & Toggles R echo option (file, selection, clipboard, block, contiguous and lines to end page) \\
-    Rgui focus (return to editor) & When this option is set the focus will go back to the active editor after any Send or Control action \\
+    Rgui focus (return to editor) & When this option is set the focus will go back to the active
+     editor after any Send or Control action \\
+    \hdashline[1pt/1pt]
+    File (open maximized) & When this option is set all files will be opened maximized \\
     On top & Toggles Tinn-R's ability to be the topmost window on the desktop \\
-    Read only & Toggles file read-only status. When set as read-only the file name on the file tab is among \texttt{$<$}...\texttt{$>$} \\
+    Read only & Toggles file read-only status. When set as read-only the file name on the file
+     tab is among \texttt{$<$}...\texttt{$>$} \\
   		Auto completion & Toggles auto completion resource \\
-  		Enable notification & Toggles file notification resource \\
-  		Update silenty & Toggles update silenty resource \\
     Selection mode & \textit{\href{\#menu\_options\_selectionmode}{See options ...}} \\
+    \hdashline[1pt/1pt]
+    Enable notification & Toggles file notification resource \\
+  		Update silenty & Toggles update silenty resource \\
+    \hdashline[1pt/1pt]
+    Insert code snippet (after trigger search or insertion from DB) & If this option is not checked, after a search
+     via Search trigger or insertion via tools/database/snippets, only the trigger is inserted. Otherwise the trigger
+     is inserted and immediately replaced with the corresponding block of text \\
     \hline
   \end{tabularx}
 \end{scriptsize}
@@ -40,6 +49,7 @@
     \textbf{Option} & \textbf{Description} \\
     \hline
     Set & \textit{\href{\#menu\_options\_syntax\_set}{See options ...}} \\
+    \hdashline[1pt/1pt]
     Default (to new files) & \textit{\href{\#menu\_options\_syntax\_default}{See options ...}} \\
     \hline
   \end{tabularx}
@@ -48,7 +58,7 @@
 
 \newpage
 \hypertarget{menu_options_syntax_set}{}
-\subsubsection{Set}\\
+\subsubsection{Set:}\\
 \index{options menu!syntax set}
 
 \includegraphics[scale=0.30]{./res/menu_options_syntax_set.png}\\
@@ -101,7 +111,7 @@ automatically the syntax based on the file extensions.
 
 
 \hypertarget{menu_options_syntax_default}{}
-\subsubsection{Default (to new files)}\\
+\subsubsection{Default (to new files):}\\
 \index{options menu!default}
 
 \includegraphics[scale=0.50]{./res/menu_options_syntax_default.png}\\

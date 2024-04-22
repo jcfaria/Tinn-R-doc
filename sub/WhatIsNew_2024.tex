@@ -1,0 +1,121 @@
+
+\hypertarget{2024}{}
+\section{Versions released in 2024 (01)}
+\index{What is New?!2024}
+
+\subsection*{9.0.1.1 (Mar/31/2024)}
+\textbf{Bug(s) fixed}
+\begin{itemize}
+   \item Possible failures in sending lines, when many lines - one by one - are sent to the \texttt{Term} interface
+   (with the "|+" option checked) has been fixed. In other words, sending contiguous lines sequentially to the
+   \texttt{Term} interface has been improved and is now more consistent. But you shouldn't abuse this feature either.
+   Do not continually rest your finger on the shortcut key or hotkey defined for this action to send large quantities
+   of lines, as there are better options for this purpose, with lower computational cost.
+   \item A bug associated with the \texttt{Tools/R/Mirrors/Mirrors(R) update} button has been fixed.
+    The issues that emerged with the new version of R (4.2.0 - UTF-8).
+   \item Bug in changing the position of \texttt{tabs} of the \texttt{Main Interface}, \texttt{Options},
+    \texttt{Tools} and \texttt{Term} has been fixed. From now on, all of them must only be in the \texttt{top}
+    position.
+   \item Fixed some \texttt{Term} interface bugs with the \texttt{knitr} package. The bugs arose due to
+    changes in the sending patterns of R messages under the package, mainly if the progress bar option is
+    checked (quiet=FALSE, which is the default). I hope the authors don't make drastic changes to the
+    parsing progress messages to invalidate the regular expressions made to match the \texttt{Term}
+    interface to the messages in the Knitr package.
+   \item Bug associated to code completion has been fixed.
+   \item Format XML, recognizes: .xml and .xsd.
+   \item Bug in filtering in the \texttt{Tools/Database/Hotkeys} interface has been fixed.
+\end{itemize}
+   
+\textbf{News}
+\begin{itemize}
+  \item Development was quite intense and uninterrupted throughout 2023.
+   Only beta (or test) versions were released for a limited user base.
+   The changes to the beta versions that occurred throughout the year were
+   documented - collectively - only in this version.
+  \item The user guide has been updated and improved.
+  \item This is the latest compiled version of the project developed and compiled in the Delphi 2007 IDE.
+   The project is in an advanced stage of migration to Embarcadero's new Delphi 11.3 (Alexandria) Community platform.
+\end{itemize}
+
+\textbf{Interface}
+\begin{itemize}
+  \item A new tab was created in \texttt{Tools/R} called \texttt{Working dir}.
+   The objective is to allow a graphical visualization of the active R folder.
+   It also allows storing favorites and indicating the work folder to R with several interesting options.
+  \item \texttt{OpenURL} is a new option (in the \texttt{File} menu and taskbar) allows opening
+   remote files in the editor.
+  \item New options in the \texttt{Options/Application} interface make it possible to discover the program's
+   reserved shortcuts. They cannot be changed by the user. There are few, but very important to know.
+  \item Some buttons (somewhat redundant) were removed from the \texttt{Term} interface.
+   It has become visually simpler.
+  \item The \texttt{Tools} interface has been substantially improved.
+  \item A new interface button \texttt{Tools/Windows expl.} and \texttt{Tools/Work expl.} allow physical
+   deletion of displayed files.
+  \item A small window was added in the \texttt{Tools/R explorer} interface that informs the
+   description (.Rd) of each selected object.
+  \item New (and useful) functions in the button (and corresponding menu) \texttt{R control: packages}.
+  \item The indentation of the \texttt{Term/IO} interface has been improved. It was easier to read the
+   submitted code due to the preservation of the script's original indentation.
+  \item The \texttt{R Explorer} interface was improved.
+  \item The \texttt{S/K/Hmanager} interface received updates and improvements.
+  \item Change (hopefully for the better) in the alignment of texts in the Tools interface.
+  \item \texttt{Tools/Completion} has been replaced by \texttt{Tools/Snippets}. The \texttt{Completion.xml}
+   table is now named \texttt{Snippets.xml}. Users who have made (and saved) an extensive dataset of completion
+   (before) (snippets from now on) will be able to notice a new button [\texttt{Merge (file .xml)}] that has been added
+   in the new \texttt{Snippets} dialog window. When a new dataset (or any update to the source) is made,
+   the user's dataset (\texttt{Completion.xml} or \texttt{Snippet.xml}, respectively) is saved in the \textbf{bkp} folder which is located
+   in the Tinn-R startup folders (\texttt{Help/Ini files (path information)}). The new button allows the user's old base
+   (completion or snippets) to be merged with the current one distributed with the new versions and eventually
+   modified at the source. Thanks to Ivan B. Allaman for the helpful suggestion.
+  \item Replacement and addition of many icons has been made.
+  \item Filters can be applied to virtually all database-related features in the Tools interface:
+  \begin{itemize}
+    \item Database: \texttt{Shortcuts (app)}, \texttt{Keystrokes (editor)}, \texttt{Hotkeys (R)},
+     \texttt{Snippets}, \texttt{Comments}, \texttt{Card} and \texttt{Mirrors}.
+  \end{itemize}
+  \item Possibility of controlling the transparency of main and secondary windows independently.
+  \item The \texttt{Options} interface has been improved.
+  \item New resizing options in the \texttt{Term/LOG} interface.
+  \item The \texttt{Web} menu item received updates and improvements.
+  \item New options in the popup menu associated with projects allow sending files \texttt{Rnoweb}
+   (\texttt{Rnw}, \texttt{Rmd} and \texttt{RHtml}) (via \texttt{Sweave} and \texttt{knit})
+   directly to be interpreted, without being open.
+\end{itemize}
+   
+\textbf{Code}
+\begin{itemize}
+  \item Many efforts have been made in improving, standardizing and optimizing the source code.
+  \item \texttt{Tip} and \texttt{Snippets} received updates and improvements.
+  \item Dynamic updating of \texttt{R mirrors} has been improved.
+\end{itemize}
+       
+\textbf{Packages}
+\begin{itemize}
+  \item The \texttt{TinnRcom} package has been improved and has new functions. These functions are
+   associated with searching for information in the documentation (.Rd) of objects.
+  \item Updated dependencies of package \texttt{TinnRcom}.
+\end{itemize}
+   
+\textbf{New features}
+\begin{itemize}
+  \item Built a (new) search interface for \texttt{Snippets} triggers: thanks to \texttt{Ivan B. Allaman}
+   for the suggestion.
+  \item A (new) search interface was built with information linked to the documentation (.Rd) of the objects.
+  \item Implemented search and replace in the \texttt{Term/IO} and \texttt{Term/LOG} interface.
+  \item The \texttt{Snippets} (and respective search interface) are also functional in the \texttt{Term} interface.
+\end{itemize}
+   
+\textbf{Database}
+\begin{itemize}
+  \item Practically all database tables were updated.
+\end{itemize}
+   
+\textbf{Changes to shortcuts}
+\begin{itemize}
+  \item Shortcuts (app)
+  \begin{itemize}
+    \item \texttt{Ctrl + L}: In the \texttt{Term} interface clears the \texttt{IO} and \texttt{LOG} windows
+    \item \texttt{Alt + Space}: Find again
+  \end{itemize}
+  \item The default hotkeys for R have been changed.
+\end{itemize}
